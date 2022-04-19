@@ -4,8 +4,7 @@ permalink: /admissions-and-admin/Administration/jae
 description: ""
 third_nav_title: Admissions
 ---
-
-**For Singapore GCE 'O' Level ** Students
+**For Singapore GCE 'O' Level** Students
 
 Applicants trying to enter NYJC must meet the entry criteria based on the L1R5 aggregate. For JAE, this aggregate is calculated from results obtained in the previous year's Singapore-Cambridge GCE 'O' Level Examinations.
 
