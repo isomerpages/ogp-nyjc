@@ -2,6 +2,7 @@ collections:
   admissions-and-admin:
     output: true
     order:
+      - Administration/Direct School Admission (DSA).md
       - Administration/Joint Admissions Exercise (JAE).md
       - Administration/.keep
       - Admissions/.keep
