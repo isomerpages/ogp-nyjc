@@ -2,4 +2,5 @@ collections:
   about-nyjc:
     output: true
     order:
+      - Our School Management Committee.md
       - page.md
