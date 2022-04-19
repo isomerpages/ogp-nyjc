@@ -2,9 +2,9 @@ collections:
   admissions-and-admin:
     output: true
     order:
-      - Administration/International Students.md
-      - Administration/Returning Singaporeans.md
-      - Administration/Direct School Admission (DSA).md
-      - Administration/Joint Admissions Exercise (JAE).md
-      - Administration/.keep
+      - Admissionss/International Students.md
+      - Admissionss/Returning Singaporeans.md
+      - Admissionss/Direct School Admission (DSA).md
+      - Admissionss/Joint Admissions Exercise (JAE).md
+      - Admissionss/.keep
       - Admissions/.keep
