@@ -227,6 +227,36 @@ description: ""
 </table>
     </div>
 	</li>  
-	
+	  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">PE & CCA</label>
+    <div>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD</span></th>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs Koh Siew Leng</span></th>
+    <th class="tg-z2r0"><a href="mailto:woo_siew_leng@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">woo_siew_leng@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit">63805157</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH Aesthetics</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss Lee Jia Ling</span></td>
+    <td class="tg-z2r0"><a href="mailto:lee_jia_ling@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit">lee_jia_ling@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805142</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH Sports</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Joel Loo</span></td>
+    <td class="tg-z2r0"><a href="mailto:loo_boon_soon@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">loo_boon_soon@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit">63805157</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LT PE</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Cheang Poh Geok Audrey</span></td>
+    <td class="tg-z2r0"><a href="mailto:audrey_cheang_poh_geok@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">audrey_cheang_poh_geok@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805157</span></td>
+  </tr>
+</tbody>
+</table>
+    </div>
+	</li>  
 </ul>
-
