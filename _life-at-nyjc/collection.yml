@@ -2,5 +2,6 @@ collections:
   life-at-nyjc:
     output: true
     order:
+      - Leadership Programmes/.keep
       - Talent Development/.keep
       - Academic Programmes/.keep
