@@ -2,6 +2,7 @@ collections:
   life-at-nyjc:
     output: true
     order:
+      - ECG Programmes.md
       - Character Development/.keep
       - Student Interest Groups/.keep
       - Co Curricular Activities/.keep
