@@ -2,4 +2,5 @@ collections:
   admissions-and-admin:
     output: true
     order:
+      - Administration/.keep
       - Admissions/.keep
