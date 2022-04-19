@@ -2,10 +2,10 @@ collections:
   about-nyjc:
     output: true
     order:
-      - Our Achievements.md
       - Our Strategy.md
-      - Financial Information.md
-      - Our Heritage.md
-      - Our Campus.md
-      - Our Key Personnel.md
+      - Our Achievements.md
       - Our School Management Committee.md
+      - Our Key Personnel.md
+      - Our Campus.md
+      - Our Heritage.md
+      - Financial Information.md
