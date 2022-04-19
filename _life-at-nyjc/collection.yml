@@ -2,6 +2,7 @@ collections:
   life-at-nyjc:
     output: true
     order:
+      - Student Interest Groups/.keep
       - Co Curricular Activities/.keep
       - Leadership Programmes/.keep
       - Talent Development/.keep
