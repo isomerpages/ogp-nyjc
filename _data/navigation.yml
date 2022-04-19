@@ -1,8 +1,6 @@
 logo: /images/nyjc-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Nyjc
     collection: about-nyjc
+  - title: Admissions & Admin
+    collection: admissions-and-admin
