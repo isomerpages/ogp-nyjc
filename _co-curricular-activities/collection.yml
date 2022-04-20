@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Outdoor Activities Club.md
       - Clubs & Societies/Nanyang Debaters and Orators (NYDO).md
       - Clubs & Societies/Malay Cultural Society.md
       - Clubs & Societies/Chinese Literary Club.md
