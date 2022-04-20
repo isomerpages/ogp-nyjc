@@ -1,4 +1,5 @@
 collections:
   life-beyond-nyjc:
     output: true
-    order: []
+    order:
+      - Life Beyond NYJC.md
