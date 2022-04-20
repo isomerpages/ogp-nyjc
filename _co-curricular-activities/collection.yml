@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Aesthetics Groups /.keep
       - Sport CCAs/Volleyball.md
       - Sport CCAs/Touch Rugby.md
       - Sport CCAs/Tennis.md
