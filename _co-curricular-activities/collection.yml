@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Aesthetics Groups/Choir.md
       - Aesthetics Groups/Chinese Orchestra.md
       - Aesthetics Groups/Chinese Cultural Society.md
       - Aesthetics Groups/Symphonic Band.md
