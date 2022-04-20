@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sport CCAs/Touch Rugby.md
       - Sport CCAs/Tennis.md
       - Sport CCAs/Tchoukball.md
       - Sport CCAs/Table Tennis.md
