@@ -2,7 +2,7 @@
 title: Symphonic Band
 permalink: /co-curricular-activities/Aesthetics-Groups/Symphonic-Band
 description: ""
-third_nav_title: "Aesthetics Groups "
+third_nav_title: "Aesthetics Groups"
 ---
 The Nanyang Junior College Symphonic Band (NYJCSB) has grown in strength to become the strong ensemble it is today. Since 2013, NYJCSB has been awarded the Certificate of Distinction in the biennale SYF Arts Presentations.
 
