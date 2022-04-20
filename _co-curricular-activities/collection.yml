@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sport CCAs/Basketball.md
       - Sport CCAs/Badminton.md
       - Sport CCAs/.keep
