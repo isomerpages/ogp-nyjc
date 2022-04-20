@@ -2,8 +2,8 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Aesthetics Groups /Symphonic Band.md
-      - Aesthetics Groups /.keep
+      - Aesthetics Groups/Symphonic Band.md
+      - Aesthetics Groups/.keep
       - Sport CCAs/Volleyball.md
       - Sport CCAs/Touch Rugby.md
       - Sport CCAs/Tennis.md
