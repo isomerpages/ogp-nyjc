@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ECG Programmes.md
+      - Character Development/Code of Conduct.md
       - Character Development/MSLO CHARACTER plus.md
       - Character Development/.keep
       - Student Interest Groups/Nanyang Astronomer's Club (NYAstro).md
