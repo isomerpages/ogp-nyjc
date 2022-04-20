@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ECG Programmes.md
+      - Character Development/MSLO CHARACTER plus.md
       - Character Development/.keep
       - Student Interest Groups/Nanyang Astronomer's Club (NYAstro).md
       - Student Interest Groups/Ministry of Recreational Games.md
