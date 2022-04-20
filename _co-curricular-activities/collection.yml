@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Malay Cultural Society.md
       - Clubs & Societies/Chinese Literary Club.md
       - Clubs & Societies/Channel News Nanyang.md
       - Clubs & Societies/Biz Club.md
