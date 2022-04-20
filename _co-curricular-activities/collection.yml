@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Aesthetics Groups/Photographic Society.md
       - Aesthetics Groups/Guzheng Ensemble.md
       - Aesthetics Groups/English Drama Club.md
