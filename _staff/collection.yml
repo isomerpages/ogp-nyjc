@@ -1,5 +1,4 @@
 collections:
   staff:
     output: true
-    order:
-      - Chinese Department.md
+    order: []
