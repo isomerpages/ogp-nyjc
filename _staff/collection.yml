@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Academic Departments/Economics Department.md
       - Academic Departments/Chinese Department.md
       - Academic Departments/.keep
