@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Non Academic departments/Executive & Administrative Staff.md
       - Non Academic departments/Corporate Communications Department.md
       - Non Academic departments/Character and Leadership Department.md
       - Non Academic departments/.keep
