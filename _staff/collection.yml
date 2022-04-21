@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Non Academic departments/.keep
       - Academic Departments/Science & Research Department.md
       - Academic Departments/Project Work Department.md
       - Academic Departments/Mathematics Department.md
