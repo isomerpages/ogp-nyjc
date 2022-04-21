@@ -2,5 +2,4 @@ collections:
   staff:
     output: true
     order:
-      - Economics Department.md
       - Chinese Department.md
