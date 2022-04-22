@@ -2,4 +2,5 @@ collections:
   ny-parents:
     output: true
     order:
+      - Partner with us/Annoucements.md
       - Partner with us/.keep
