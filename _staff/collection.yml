@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Non Academic departments/Student Affairs and Management Department.md
       - Non Academic departments/Physical Education & CCA Department.md
       - Non Academic departments/Information Technology Department.md
       - Non Academic departments/Executive & Administrative Staff.md
