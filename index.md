@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nyjc hero 2.png
+      background: /images/hero2.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A
