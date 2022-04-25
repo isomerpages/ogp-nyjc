@@ -11,12 +11,12 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Headlines
-          description: ""
-          url: https://google.com
+          description: Check out our headlines
+          url: /headlines/2022/02/16/4972/
         - title: STORIES
-          description: ""
-          url: ""
+          description: Hear our stories
+          url: /stories/2022-wild-run-photo-gallery/
         - title: Media
           description: Media videos
-          url: ""
+          url: /media
 ---
