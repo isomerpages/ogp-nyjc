@@ -1,4 +1,5 @@
 collections:
   stories:
     output: true
-    order: []
+    order:
+      - 2022 Chinese Orchestra & Guzheng Ensemble Concert (Photo Gallery).md
