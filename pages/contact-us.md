@@ -8,28 +8,23 @@ locations:
       - 128 Serangoon Avenue 3
       - Singapore 556111
       - ""
-    operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6284 2281
+      - email: nyjc@moe.edu.sg
+      - other: "Fax: 6285 5147"
     title: General Enquiries & Feedback
   - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6380 5199
+      - email: ""
       - other: ""
-    title: Careers
+    title: Security Guard Post
+  - content:
+      - phone: +65 6380 5145
+      - email: ""
+      - other: ""
+    title: Library
 ---
