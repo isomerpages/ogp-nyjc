@@ -17,6 +17,6 @@ sections:
           description: Hear our stories
           url: /stories/2022-wild-run-photo-gallery/
         - title: Media
-          description: Media videos
+          description: Facebook, Media videos
           url: /media
 ---
