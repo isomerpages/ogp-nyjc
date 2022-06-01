@@ -27,4 +27,14 @@ contacts:
       - email: ""
       - other: ""
     title: Library
+  - content:
+      - phone: +65 6380 5118
+      - email: ""
+      - other: ""
+    title: Computer Lab
+  - content:
+      - phone: +65 6380 5157
+      - email: ""
+      - other: ""
+    title: PE Department
 ---
