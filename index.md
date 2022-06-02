@@ -22,14 +22,14 @@ sections:
       button: Click here
       url: /admissions-and-admin/administration/dsa
       alt: Image alt text
+      image: /images/DSAJC-banner-for-college-website-1.png
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="bp-youtube" ><iframe
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-        height="500" style="border:none;overflow:hidden"
-        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-        clipboard-write; encrypted-media; picture-in-picture;
-        web-share"></iframe>
+        height="500" style="border:none;overflow:hidden" scrolling="no"
+        frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
+        encrypted-media; picture-in-picture; web-share"></iframe>
   - infobar:
       description: <div class="bp-youtube" ><iframe
         src="https://www.youtube.com/embed/-f-Djr3PMbY" title="YouTube video
