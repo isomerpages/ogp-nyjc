@@ -31,4 +31,10 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
       title: "Watch our latest video:"
+  - infopic:
+      title: Direct School Admission (DSA)
+      description: Applications are now open!
+      button: Click here
+      url: /admissions-and-admin/administration/dsa
+      alt: Image alt text
 ---
