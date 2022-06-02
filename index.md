@@ -21,4 +21,5 @@ sections:
           url: /media
   - infobar:
       title: Visit Our Facebook Page!
+      description: test test
 ---
