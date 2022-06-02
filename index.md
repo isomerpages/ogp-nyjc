@@ -16,6 +16,12 @@ sections:
         - title: STORIES
           description: Hear our stories
           url: /stories/2022-wild-run-photo-gallery/
+  - infopic:
+      title: Direct School Admission (DSA)
+      description: Applications are now open!
+      button: Click here
+      url: /admissions-and-admin/administration/dsa
+      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="bp-youtube" ><iframe
@@ -31,10 +37,4 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
       title: "Watch our latest video:"
-  - infopic:
-      title: Direct School Admission (DSA)
-      description: Applications are now open!
-      button: Click here
-      url: /admissions-and-admin/administration/dsa
-      alt: Image alt text
 ---
