@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nyjc hero 2 r2.png
+      background: /images/Screenshot 2022-06-02.png
       url: /contact-us/
       key_highlights:
         - title: Headlines
