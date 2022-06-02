@@ -16,6 +16,13 @@ sections:
         - title: STORIES
           description: Hear our stories
           url: /stories/2022-wild-run-photo-gallery/
+  - infobar:
+      description: <div class="bp-youtube" ><iframe
+        src="https://www.youtube.com/embed/-f-Djr3PMbY" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+      title: "Watch our latest video:"
   - infopic:
       title: Direct School Admission (DSA)
       description: Applications are now open!
@@ -30,11 +37,4 @@ sections:
         height="500" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe>
-  - infobar:
-      description: <div class="bp-youtube" ><iframe
-        src="https://www.youtube.com/embed/-f-Djr3PMbY" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      title: "Watch our latest video:"
 ---
