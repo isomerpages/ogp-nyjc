@@ -22,7 +22,7 @@ sections:
       button: Click here
       url: /admissions-and-admin/administration/dsa
       alt: Image alt text
-      image: /images/DSAJC-banner-for-college-website-1.png
+      image: /images/DSAJC-banner-resized.png
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="bp-youtube" ><iframe
