@@ -19,4 +19,6 @@ sections:
         - title: Media
           description: Facebook, Media videos
           url: /media
+  - infobar:
+      title: Visit Our Facebook Page!
 ---
