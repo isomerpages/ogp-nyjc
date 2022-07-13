@@ -2,6 +2,7 @@ collections:
   ny-parents:
     output: true
     order:
+      - Calendar of Events.md
       - JC1 Information.md
       - Annoucements.md
       - Partner with us/Information on Sexuality Education Programme.md
