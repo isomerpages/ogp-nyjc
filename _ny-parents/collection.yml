@@ -2,9 +2,9 @@ collections:
   ny-parents:
     output: true
     order:
-      - Calendar of Events.md
       - JC1 Information.md
       - Annoucements.md
+      - Partner with us/.keep
       - Partner with us/Information on Sexuality Education Programme.md
       - Partner with us/Role of Parents in ECG.md
-      - Partner with us/.keep
+      - Calendar of Events.md
