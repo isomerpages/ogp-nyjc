@@ -37,4 +37,6 @@ sections:
         height="500" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe>
+  - infobar:
+      title: test
 ---
