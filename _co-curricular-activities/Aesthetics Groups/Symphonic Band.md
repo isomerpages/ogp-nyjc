@@ -2,7 +2,7 @@
 title: Symphonic Band
 permalink: /co-curricular-activities/Aesthetics-Groups/Symphonic-Band
 description: ""
-third_nav_title: "Aesthetics Groups"
+third_nav_title: Aesthetics Groups
 ---
 The Nanyang Junior College Symphonic Band (NYJCSB) has grown in strength to become the strong ensemble it is today. Since 2013, NYJCSB has been awarded the Certificate of Distinction in the biennale SYF Arts Presentations.
 
@@ -13,3 +13,5 @@ The band holds a biennial concert, Aureus Experentia, with the aim of allowing t
 The band organizes various overseas music exchange trips to places such as Taiwan and Thailand. During the trips, the band members received first-hand experiences of different cultures and gained a better insight of music styles from around the world.
 
 Together with our Band Director, Mr Gavilan Neo and teachers-in-charge, the Nanyang Junior College Symphonic Band will continue striving for excellence in music.
+
+SYF takes place in 2021 too!
