@@ -10,4 +10,3 @@ NYJC CO clinched the Gold with Honours Award in the Singapore Youth Festival (SY
 
 NYJC CO provides numerous opportunities for young men and women to showcase their talent. Other than performing in the biennale concert with Guzheng Ensemble at the Singapore Conference Hall, the orchestra is often invited to perform for various grassroots functions. There are also opportunities for the members to interact with their counterparts from overseas through the Music and Cultural Exchange trips to Hong Kong and Taiwan.
 
-There was SYF in 2021 too!
