@@ -2,7 +2,6 @@ collections:
   admissions-and-admin:
     output: true
     order:
-      - Admissions/Calendar of Events.md
       - Admissions/.keep
       - Admissions/Joint Admissions Exercise (JAE).md
       - Admissions/Direct School Admission (DSA).md
