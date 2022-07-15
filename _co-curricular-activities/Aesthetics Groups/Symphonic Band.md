@@ -14,3 +14,4 @@ The band organizes various overseas music exchange trips to places such as Taiwa
 
 Together with our Band Director, Mr Gavilan Neo and teachers-in-charge, the Nanyang Junior College Symphonic Band will continue striving for excellence in music.
 
+SYF took place in 2021 too!
