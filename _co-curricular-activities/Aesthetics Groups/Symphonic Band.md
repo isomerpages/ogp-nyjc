@@ -13,3 +13,5 @@ The band holds a biennial concert, Aureus Experentia, with the aim of allowing t
 The band organizes various overseas music exchange trips to places such as Taiwan and Thailand. During the trips, the band members received first-hand experiences of different cultures and gained a better insight of music styles from around the world.
 
 Together with our Band Director, Mr Gavilan Neo and teachers-in-charge, the Nanyang Junior College Symphonic Band will continue striving for excellence in music.
+
+SYF took place in 2021 too!
