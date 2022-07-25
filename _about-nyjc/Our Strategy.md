@@ -43,4 +43,4 @@ A leading college serving the nation with:
 * **Responsibility** - Taking ownership for the betterment of self, College and community
 * **Integrity** - Being honest, upright and courageous in doing what is right
 * **Inventiveness** - Being innovative and resourceful in making positive changes
-* **Empathy** - Being compassionate and sensitive to others, and helping others to the best of one’s.
+* **Empathy** - Being compassionate and sensitive to others, and helping others to the best of one’s ability.
