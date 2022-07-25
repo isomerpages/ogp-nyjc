@@ -3,7 +3,6 @@ title: Our Strategy
 permalink: /about-nyjc/our-strategy
 description: ""
 ---
-
 **Let's call a Spade a Spade**
 
 We at NYJC believe that students come to us because they want to get to a university of their choice. We take our core business of Teaching and Learning (T & L) very seriously. We commit to being a learning community where engaged practitioners inspire passionate inquirers through effective, relevant and value-centric teaching and learning.
@@ -44,4 +43,4 @@ A leading college serving the nation with:
 * **Responsibility** - Taking ownership for the betterment of self, College and community
 * **Integrity** - Being honest, upright and courageous in doing what is right
 * **Inventiveness** - Being innovative and resourceful in making positive changes
-* **Empathy** - Being compassionate and sensitive to others, and helping others to the best of one’s ability.
+* **Empathy** - Being compassionate and sensitive to others, and helping others to the best of one’s.
