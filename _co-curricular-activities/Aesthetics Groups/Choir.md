@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /co-curricular-activities/Aesthetics-Groups/Choir
+permalink: /co-curricular-activities/Aesthetics-Groups/Choir/
 description: ""
 third_nav_title: Aesthetics Groups
 ---
@@ -9,3 +9,5 @@ The Nanyang Junior College (NYJC) Choir is a mixed youth choir under the directi
 The NYJC choir strives to continue making greater breakthroughs in our pursuit for choral excellence.
 
 Our practices are held on Mondays, 5:30pm – 7:30pm and Wednesdays, 3:30pm – 7:30pm.
+
+SYF took place in 2021 too!!
