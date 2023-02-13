@@ -73,7 +73,5 @@ third_nav_title: Partner with us
 <div><b><p>Decision-making and Action-planning</p></b>
 <div><p>Ask your child what he/she wants to achieve and set some goals. Help your child come up with a plan on how he/she intends to attain these goals. Review these goals periodically to keep your child motivated and on-track. Make adjustments along the way, with a flexible mindset for Plan B.</p></div>
 
-<h2>Useful links and resources</h2><div><p>Additional information on ECG can be found on MOE&rsquo;s website at:<br /><a href="http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/">http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/</a>
-	
-You can also find out more about the various educational pathways for your child at: <a href="http://www.moe.gov.sg/education/">http://www.moe.gov.sg/education/</a></p></div>
+<h2>Useful links and resources</h2><div><p>Additional information on ECG can be found on MOE&rsquo;s website at:<br /><a href="http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/">http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/</a><br>You can also find out more about the various educational pathways for your child at: <a href="http://www.moe.gov.sg/education/">http://www.moe.gov.sg/education/</a></p></div>
 </div>
