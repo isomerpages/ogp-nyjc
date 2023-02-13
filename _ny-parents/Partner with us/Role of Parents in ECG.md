@@ -38,7 +38,7 @@ third_nav_title: Partner with us
 </div>
 <div>
 <h2>What can parents do?</h2>
-Parents can help their children realise their dreams by:
+Parents can help their children realise their dreams by:</br>
 
 <b>Showing concern and support</b>
 <div>It is important for your children to know how much you care about their future and your willingness to support them. It is necessary not to dictate or direct his/her education plan and tentative career preferences.</div>
