@@ -38,7 +38,7 @@ third_nav_title: Partner with us
 </div>
 <div>
 <h2>What can parents do?</h2>
-Parents can help their children realise their dreams by:<br>
+<p>Parents can help their children realise their dreams by:<br>
 
 <b>Showing concern and support</b>
 <div>It is important for your children to know how much you care about their future and your willingness to support them. It is necessary not to dictate or direct his/her education plan and tentative career preferences.</div>
@@ -77,6 +77,7 @@ Parents can help their children realise their dreams by:<br>
 </div>
 </div>
 </div>
+</p>
 <h2>Useful links and resources</h2>
 <div>Additional information on ECG can be found on MOE&rsquo;s website at:<br /><a href="http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/">http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/</a>
 	
