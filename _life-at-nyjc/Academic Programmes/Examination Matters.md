@@ -6,9 +6,9 @@ third_nav_title: Academic Programmes
 ---
 Information
 
-[2019_GCE_A_Level_Examinations_Registration_Info_for_Sch_Cddt_20190307102024.pdf](/files/2019_GCE_A_Level_Examinations_Registration_Info_for_Sch_Cddt_20190307102024.pdf)
+[2019_GCE_A_Level_Examinations_Registration_Info](/files/2019_GCE_A_Level_Examinations_Registration_Info_for_Sch_Cddt_20190307102024.pdf)
 
-[2019_GCE_A_Level_Subject_Fees_20190313103231.pdf](/files/2019_GCE_A_Level_Subject_Fees_20190313103231.pdf)
+[2019_GCE_A_Level_Subject_Fees](/files/2019_GCE_A_Level_Subject_Fees_20190313103231.pdf)
 
 
 JC1 Exam Timetable
