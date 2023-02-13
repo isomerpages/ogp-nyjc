@@ -1,6 +1,6 @@
 ---
 title: Our Key Personnel
-permalink: /about-nyjc/our-key-personnel
+permalink: /about-nyjc/our-key-personnel/
 description: ""
 ---
 <table class="tg">
@@ -52,11 +52,6 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST Chinese</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Goh Mui Lien </span></td>
-    <td class="tg-z2r0"><a href="mailto:goh_mui_lien@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">goh_mui_lien@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805139 </span></td>
-  </tr>
-  <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
@@ -94,7 +89,7 @@ description: ""
     <td class="tg-z2r0"><a href="mailto:haniss_b_ali@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">haniss_b_ali@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805137</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST</span><br><span style="font-weight:inherit;font-style:inherit">Economics (Acting)</span><br></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST</span><br><span style="font-weight:inherit;font-style:inherit">Economics</span><br></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Nurain Binte Mohd Saad</span></td>
     <td class="tg-z2r0"><a href="mailto:nurain_mohd_saad@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">nurain_mohd_saad@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805128</span></td>
   </tr>
