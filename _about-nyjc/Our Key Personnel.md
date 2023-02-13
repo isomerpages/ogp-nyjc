@@ -204,7 +204,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH Mathematics (Acting)</span><br></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH Mathematics</span><br></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Siow Yun Jie</span></td>
     <td class="tg-z2r0"><a href="mailto:siow_yun_jie@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">siow_yun_jie@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805121</span></td>
   </tr>
@@ -380,7 +380,7 @@ description: ""
     <input type="checkbox" id="accordion11">
     <label for="accordion11">Student Affairs & Management</label>
     <div>
-<table><tbody><tr><td>HOD</td><td>Ms Tan Meng Lee<br></td><td><a href="mailto:tan_meng_lee@schools.gov.sg">tan_meng_lee@schools.gov.sg</a><br><br>63805178</td></tr><tr><td>SH Education and Career Guidance</td><td>Ms Celine Leow</td><td><a href="mailto:leow_kiat_peng_celine@schools.gov.sg">leow_kiat_peng_celine@schools.gov.sg </a><br>63805141</td></tr><tr><td>SH Life-skills</td><td> Mr Tonny Lim</td><td><a href="mailto:lim_wee_shing_tonny@schools.gov.sg">lim_wee_shing_tonny@schools.gov.sg </a><br>63805157 </td></tr><tr><td>SH Student Management</td><td>Mr Sim Yong Meng</td><td><a href="mailto:sim_yong_meng@schools.gov.sg">sim_yong_meng@schools.gov.sg</a><br>63805140</td></tr></tbody></table>
+<table><tbody><tr><td>HOD</td><td>Ms Tan Meng Lee<br></td><td><a href="mailto:tan_meng_lee@schools.gov.sg">tan_meng_lee@schools.gov.sg</a><br><br>63805178</td></tr><tr><td>Education and Career Guidance Counsellor</td><td>Mr Shaun Han</td><td><a href="mailto:han_swee_kwang_shaun@schools.gov.sg">han_swee_kwang_shaun@schools.gov.sg </a><br>63805141</td></tr><tr><td>SH Life-skills</td><td> Mr Tonny Lim</td><td><a href="mailto:lim_wee_shing_tonny@schools.gov.sg">lim_wee_shing_tonny@schools.gov.sg </a><br>63805157 </td></tr><tr><td>SH Student Management</td><td>Mr Sim Yong Meng</td><td><a href="mailto:sim_yong_meng@schools.gov.sg">sim_yong_meng@schools.gov.sg</a><br>63805140</td></tr></tbody></table>
     </div>
 	</li>  	
 	
@@ -388,7 +388,7 @@ description: ""
     <input type="checkbox" id="accordion12">
     <label for="accordion12">Corporate Communications & Partnership</label>
     <div>
-<table><tbody><tr><td>HOD</td><td>Mrs Cynthia Tan</td><td><a href="mailto:tan_hui_hung_cynthia@schools.gov.sg">tan_hui_hung_cynthia@schools.gov.sg </a><br>63805175</td></tr><tr><td>SH Partnerships (Acting)<br></td><td>Ms Tang Ching Yun</td><td><a href="mailto:tang_ching_yun@schools.gov.sg">tang_ching_yun@schools.gov.sg</a><br>63805144</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><tbody><tr><td>HOD</td><td>Mrs Cynthia Tan</td><td><a href="mailto:tan_hui_hung_cynthia@schools.gov.sg">tan_hui_hung_cynthia@schools.gov.sg </a><br>63805175</td></tr><tr><td>SH Partnerships<br></td><td>Ms Tang Ching Yun</td><td><a href="mailto:tang_ching_yun@schools.gov.sg">tang_ching_yun@schools.gov.sg</a><br>63805144</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
     </div>
 	</li>  		
 	  <li>
