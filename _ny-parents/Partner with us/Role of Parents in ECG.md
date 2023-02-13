@@ -41,20 +41,20 @@ third_nav_title: Partner with us
 <p>Parents can help their children realise their dreams by:<br><br>
 
 <b>Showing concern and support</b>
-<div>It is important for your children to know how much you care about their future and your willingness to support them. It is necessary not to dictate or direct his/her education plan and tentative career preferences.</div>
+<div><p>It is important for your children to know how much you care about their future and your willingness to support them. It is necessary not to dictate or direct his/her education plan and tentative career preferences.</p></div>
 <div></div>
 &nbsp;
 <div>
 
-<b>Exploring</b>
-<div>Introduce a variety of occupations to your children and help them discover more about the different occupations. A valuable resource is the MOE ECG portal, 'www.ecareers.sg' - Your child has a personal account. Encourage your child to complete the self-assessment tools (Personal Globe Inventory, PGI, and Work Skills Inventory, WSI) in the portal so as to gain a better understanding of his/her interests, abilities and future aspirations. A cautionary note is not to rely on your own past experience or knowledge as education policies may have changed and new pathways are created. It is important to stay updated.</div>
+<b><p>Exploring</p></b>
+<div><p>Introduce a variety of occupations to your children and help them discover more about the different occupations. A valuable resource is the MOE ECG portal, 'www.ecareers.sg' - Your child has a personal account. Encourage your child to complete the self-assessment tools (Personal Globe Inventory, PGI, and Work Skills Inventory, WSI) in the portal so as to gain a better understanding of his/her interests, abilities and future aspirations. A cautionary note is not to rely on your own past experience or knowledge as education policies may have changed and new pathways are created. It is important to stay updated.</p></div>
 </div>
 <div></div>
 &nbsp;
 <div>
-
+<p>
 <b>Engaging in Discussions</b>
-<div>Have casual conversations with your children about their aspirations. Keep an open mind and allow them the freedom to dream. You could use your child's results from the PGI and WSI self-assessments and discuss further education plans. At the tertiary level, there are a myriad of educational opportunities present. You can access our Higher Education webpage as a starting point of discussion.</div>
+<div>Have casual conversations with your children about their aspirations. Keep an open mind and allow them the freedom to dream. You could use your child's results from the PGI and WSI self-assessments and discuss further education plans. At the tertiary level, there are a myriad of educational opportunities present. You can access our Higher Education webpage as a starting point of discussion.</div><p>
 </div>
 <div></div>
 &nbsp;
