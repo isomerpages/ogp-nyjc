@@ -21,7 +21,7 @@ JC2 Exam Timetable
 
 JC1 Promotional Criteria
 
-Please refer to[ /ny-parents/jc1-information/.](https://nanyangjc.moe.edu.sg/ny-parents/jc1-information/)
+Please refer [here.](https://ogp-nyjc-staging.netlify.app/ny-parents/jc1-information/)
 
 
 Grades/mark ranges for H1, H2 and H3 Subjects
