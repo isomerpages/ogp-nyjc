@@ -2,11 +2,21 @@ collections:
   life-at-nyjc:
     output: true
     order:
+      - Academic Programmes/.keep
+      - Academic Programmes/Subjects Offered in NYJC.md
+      - Academic Programmes/Art Elective Programme (AEP).md
+      - Academic Programmes/Chinese Language Elective Programme (CLEP).md
+      - Academic Programmes/Examination Matters.md
       - ECG Programmes.md
-      - Character Development/Information on Sexuality Education Programme.md
-      - Character Development/Code of Conduct.md
-      - Character Development/MSLO CHARACTER plus.md
-      - Character Development/.keep
+      - Talent Development/.keep
+      - Talent Development/Talent Development (Galileo).md
+      - Talent Development/Science Research Programme.md
+      - Talent Development/Nanyang Junior College Zhong Zheng Ren Scholarship.md
+      - Leadership Programmes/.keep
+      - Leadership Programmes/CLExco.md
+      - Leadership Programmes/Leadership Programme.md
+      - Leadership Programmes/Student Council.md
+      - Student Interest Groups/.keep
       - Student Interest Groups/Nanyang Astronomer's Club (NYAstro).md
       - Student Interest Groups/Ministry of Recreational Games.md
       - Student Interest Groups/Mathematics Club.md
@@ -19,17 +29,7 @@ collections:
       - Student Interest Groups/Diabolo.md
       - Student Interest Groups/Chinese Debate.md
       - Student Interest Groups/Acoustic Movement.md
-      - Student Interest Groups/.keep
-      - Leadership Programmes/CLExco.md
-      - Leadership Programmes/.keep
-      - Leadership Programmes/Leadership Programme.md
-      - Leadership Programmes/Student Council.md
-      - Talent Development/Talent Development (Galileo).md
-      - Talent Development/Science Research Programme.md
-      - Talent Development/Nanyang Junior College Zhong Zheng Ren Scholarship.md
-      - Talent Development/.keep
-      - Academic Programmes/.keep
-      - Academic Programmes/Subjects Offered in NYJC.md
-      - Academic Programmes/Art Elective Programme (AEP).md
-      - Academic Programmes/Chinese Language Elective Programme (CLEP).md
-      - Academic Programmes/Examination Matters.md
+      - Character Development/.keep
+      - Character Development/Information on Sexuality Education Programme.md
+      - Character Development/Code of Conduct.md
+      - Character Development/MSLO CHARACTER plus.md
