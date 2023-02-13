@@ -18,7 +18,7 @@ Please note that the entry criteria may change from year to year and the followi
     <th class="tg-c1uv"><span style="font-weight:700;font-style:inherit">FACULTY</span></th>
     <th class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SCIENCE</span></th>
     <th class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">ARTS</span></th>
-  </tr>
+	</tr></thead>
 
 
 
