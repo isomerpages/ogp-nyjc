@@ -11,27 +11,41 @@ third_nav_title: Partner with us
 <div>
 <div>
 <h2>MOE Sexuality Education in Schools</h2>
-1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+<span lang="EN-GB">1.         </span><span lang="EN-GB">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</span>
 
-2.         The goals of Sexuality Education are to:
+<span lang="EN-GB">2.         The goals of Sexuality Education are to:</span>
 
-(i)            To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+<span lang="EN-GB">(i)            </span><span lang="EN-GB">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;</span>
 
-(ii)          To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+<span lang="EN-GB">(ii)          </span><span lang="EN-GB">To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</span>
 
-(iii)         To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
+<span lang="EN-GB">(iii)         </span><span lang="EN-GB">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</span><span lang="EN-GB"> </span>
 
-3.         The **Key Messages** of Sexuality Education are:
+<span lang="EN-GB">3.         The <strong>Key Messages</strong> of Sexuality Education are:</span>
 
-(i)            Love and respect yourself as you love and respect others;
+<span lang="EN-GB">(i)            </span><span lang="EN-GB">Love and respect yourself as you love and respect others;</span>
 
-(ii)          Build positive relationships based on love and respect (which are the foundation for strong families);
+<span lang="EN-GB">(ii)          </span><span lang="EN-GB">Build positive relationships based on love and respect (which are the foundation for strong families);</span>
 
-(iii)         Make responsible decisions for yourself, your family and society; and
+<span lang="EN-GB">(iii)         </span>Make responsible decisions for yourself, your family and society; and
 
-(iv)         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<span lang="EN-US">(iv)         </span>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.
+
+</div>
+</div>
+<div id="_ptoo_44744" class="pageblock_box ">
+<h2 id="_ptoh_44744" class="ive_editable ive_ptoh">Overview of Nanyang Junior College Sexuality Education Programme for 2023</h2>
+<div id="_ptod_44744" class="ive_editable ive_ptod ive_content">
+
+<span lang="EN-GB">4.         Sexuality Education is delivered in a holistic manner through the school curriculum. </span><span lang="EN-GB">The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.
+</span>
+
+<span style="color: #000000;"><span lang="EN-GB">5.      </span></span>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
+
+<strong>At Nanyang Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</strong>
+
 <h2>Overview of Nanyang Junior College Sexuality Education Programme for 2023</h2>
 
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.  
