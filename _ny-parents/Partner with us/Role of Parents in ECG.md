@@ -45,7 +45,7 @@ third_nav_title: Partner with us
 &nbsp;
 <div>
 
-<b><p>Exploring</p></b>
+<p><b>Exploring</b></p>
 <div><p>Introduce a variety of occupations to your children and help them discover more about the different occupations. A valuable resource is the MOE ECG portal, 'www.ecareers.sg' - Your child has a personal account. Encourage your child to complete the self-assessment tools (Personal Globe Inventory, PGI, and Work Skills Inventory, WSI) in the portal so as to gain a better understanding of his/her interests, abilities and future aspirations. A cautionary note is not to rely on your own past experience or knowledge as education policies may have changed and new pathways are created. It is important to stay updated.</p></div>
 </div>
 <div></div>
