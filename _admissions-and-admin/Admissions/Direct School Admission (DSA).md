@@ -1,38 +1,22 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /admissions-and-admin/Administration/dsa
+permalink: /admissions-and-admin/Administration/dsa/
 description: ""
 third_nav_title: Admissions
 ---
+Nanyang Junior College invites students with the following outstanding talents/skills to apply for Direct School Admission (DSA). Successful DSA-JC candidates will gain admission to NYJC in 2024 for their JC education, if they meet the eligibility criteria set by MOE for the two-year Junior College Course (based on their GCE ‘O’ Level examination results).
 
-Nanyang Junior College invites students with outstanding talent in the following areas to apply for Direct School Admission.
+The DSA-JC 2023 Exercise starts from May 2023. All interested students are strongly encouraged to submit your application early. Shortlisted applicants will be contacted for a trial/audition and/or interview that will take place between end May and early August 2023.
+
+For more information about DSA at NYJC, please click [here](https://dsainfo.nyjc.edu.sg).
+
+**Areas of Talent/Skill Considered for NYJC DSA-JC 2023**
 
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Art Elective Programme</span><br><span style="font-weight:inherit;font-style:inherit">Debate – English</span><br><span style="font-weight:inherit;font-style:inherit">Leadership</span><br><span style="font-weight:inherit;font-style:inherit">Chinese Orchestra</span><br><span style="font-weight:inherit;font-style:inherit">Choir</span><br><span style="font-weight:inherit;font-style:inherit">Contemporary Dance</span><br></th>
-    <th class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Guzheng Ensemble</span><br><span style="font-weight:inherit;font-style:inherit">Symphonic Band</span><br><span style="font-weight:inherit;font-style:inherit">Science Research</span><br><span style="font-weight:inherit;font-style:inherit">Badminton</span><br><span style="font-weight:inherit;font-style:inherit">Basketball</span><br><span style="font-weight:inherit;font-style:inherit">Floorball</span></th>
-    <th class="tg-d8zo"><br><span style="font-weight:inherit;font-style:inherit">Football (Boys)</span><br><span style="font-weight:inherit;font-style:inherit">Netball (Girls)</span><br><span style="font-weight:inherit;font-style:inherit">Table Tennis</span><br><span style="font-weight:inherit;font-style:inherit">Tennis</span><br><span style="font-weight:inherit;font-style:inherit">Volleyball</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
 
-The application for DSA-JC is now closed.
+<table width="596"><tbody><tr><td width="264"><strong>Category</strong></td><td width="194"><strong>Area of Talent/Skill</strong></td><td colspan="2" width="138"><strong>Gender</strong></td></tr><tr><td width="264">Language and Humanities</td><td width="194">English Debating</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Leadership and Uniformed Groups</td><td width="194">Leadership</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Performing Arts</td><td width="194">Chinese Orchestra</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Performing Arts</td><td width="194">Choir</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Performing Arts</td><td width="194">Concert Band</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Performing Arts</td><td width="194">Contemporary Dance</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Performing Arts</td><td width="194">Guzheng Ensemble</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Science, Technology, Engineering and Mathematics</td><td width="194">Science Research</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Badminton</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Basketball</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Floorball</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Football</td><td width="72">-</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Netball</td><td width="72">Girls</td><td width="66">-</td></tr><tr><td width="264">Sports and Games</td><td width="194">Table Tennis</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Tennis</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Sports and Games</td><td width="194">Volleyball</td><td width="72">Girls</td><td width="66">Boys</td></tr><tr><td width="264">Visual Arts, Design and Media</td><td width="194">Art Elective Programme (AEP)</td><td width="72">Girls</td><td width="66">Boys</td></tr></tbody></table>
 
-For more information about DSA, please click [here](https://www.moe.gov.sg/post-secondary/admissions/dsa).
+Please note that successful DSA-JC candidates will NOT be allowed to participate in the Joint Admissions Exercise. They will also NOT be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour the commitment to their DSA-JC school.
 
 ![](/images/pic1.jpeg)
 ![](/images/oic2.jpeg)
