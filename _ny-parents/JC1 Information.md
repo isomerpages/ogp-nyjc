@@ -7,7 +7,7 @@ description: ""
 <h2>JC1 Promotional Criteria</h2>
 <div>
 <p>Academic performance of JC 1 students is regularly assessed.</p>
-<p>Students must obtain: at least two&nbsp;<strong>H2 passes and one H1 pass</strong>&nbsp;in the content-based subjects (This excludes H1 Mother-tongue language) and a pass in&nbsp;<strong>H1 GP</strong>.</p>
+	<p>Students must obtain: at least <strong>30 rank points</strong> (This excludes H1 Mother-tongue language), including a pass in <strong>H1 General Paper</strong>.</p>
 <p>The End-of-Year Examination in October accounts for 65% of the final grade.</p>
 <p>The remaining 35% comprises:</p>
 <p>15% from JC1 Common test<br />20% from continual assessments</p>
