@@ -1,6 +1,6 @@
 ---
 title: Examination Matters
-permalink: /life-at-nyjc/Academic-Programmes/examination-matters
+permalink: /life-at-nyjc/Academic-Programmes/examination-matters/
 description: ""
 third_nav_title: Academic Programmes
 ---
@@ -17,7 +17,7 @@ Nil
 
 JC2 Exam Timetable
 
-[2021 J2 Prelim Time Table	 2022 J2 Common Test 1](/files/2022-J2-CT1-TT_FINAL_Stud_no-venues.pdf)
+[2023 J2 Common Test 1](/files/2023-J2-CT1-TT_Final_Student_6-Jan-1.pdf)
 
 JC1 Promotional Criteria
 
