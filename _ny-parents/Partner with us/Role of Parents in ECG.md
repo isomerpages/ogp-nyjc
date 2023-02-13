@@ -53,27 +53,27 @@ third_nav_title: Partner with us
 &nbsp;
 <div>
 <p>
-<b>Engaging in Discussions</b>
-<div>Have casual conversations with your children about their aspirations. Keep an open mind and allow them the freedom to dream. You could use your child's results from the PGI and WSI self-assessments and discuss further education plans. At the tertiary level, there are a myriad of educational opportunities present. You can access our Higher Education webpage as a starting point of discussion.</div></p>
+<b>Engaging in Discussions</b></p>
+<div><p>Have casual conversations with your children about their aspirations. Keep an open mind and allow them the freedom to dream. You could use your child's results from the PGI and WSI self-assessments and discuss further education plans. At the tertiary level, there are a myriad of educational opportunities present. You can access our Higher Education webpage as a starting point of discussion.</p></div>
 </div>
 <div></div>
 &nbsp;
 <div>
 
-<b>Providing Opportunities</b>
-<div>Providde opportunities (like workplace visits and volunteer work) and resources (such as books and enrichment programmes) that can support your children's aspirations and broaden their horizons.</div>
+<b><p>Providing Opportunities</p></b>
+<div><p>Providde opportunities (like workplace visits and volunteer work) and resources (such as books and enrichment programmes) that can support your children's aspirations and broaden their horizons.</p></div>
 </div>
 <div></div>
 &nbsp;
 <div>
 
-<b>Working with Schools</b>
-<div>Discuss your children's education and career prospects with their teachers. They would be in a good position to offer education and career guidance as well.</div>
+<b><p>Working with Schools</p></b>
+<div><p>Discuss your children's education and career prospects with their teachers. They would be in a good position to offer education and career guidance as well.</p></div>
 </div>
 <div></div>
 &nbsp;
-<div><b>Decision-making and Action-planning</b>
-<div>Ask your child what he/she wants to achieve and set some goals. Help your child come up with a plan on how he/she intends to attain these goals. Review these goals periodically to keep your child motivated and on-track. Make adjustments along the way, with a flexible mindset for Plan B.</div>
+<div><b><p>Decision-making and Action-planning</p></b>
+<div><p>Ask your child what he/she wants to achieve and set some goals. Help your child come up with a plan on how he/she intends to attain these goals. Review these goals periodically to keep your child motivated and on-track. Make adjustments along the way, with a flexible mindset for Plan B.</p></div>
 </div>
 </div>
 </div>
