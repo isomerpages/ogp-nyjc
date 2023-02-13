@@ -1,6 +1,6 @@
 ---
 title: Subjects Offered in NYJC
-permalink: /life-at-nyjc/Academic-Programmes/subjects-offered-in-nyjc
+permalink: /life-at-nyjc/Academic-Programmes/subjects-offered-in-nyjc/
 description: ""
 third_nav_title: Academic Programmes
 ---
@@ -79,7 +79,7 @@ Applicants must have good results in the GCE ‘O’ Level Examination, obtainin
 * OR A2 in Chinese,
 * OR The equivalent of the above based on IP school internal assessment.
 
-2. Art Elective Programme (AEP)
+2. **Art Elective Programme (AEP)**
 
 Students can expect to offer H2 and H3 Art at GCE A-Level. The H3 Art syllabus complements the H2 Art Syllabus, providing students who have exceptional interest and ability with opportunities to be engaged in the Theory of Art.
 
@@ -128,4 +128,4 @@ The assessment of students’ learning could be based on a written examination a
 H3 subjects offered by the universities may change from year to year.  Students will be informed of the H3 modules offered once the universities release the list to the school in October every year.
 
 
-**Our college will advise students accordingly on the appropriate subjects and modules. **
+**Our college will advise students accordingly on the appropriate subjects and modules.** 
