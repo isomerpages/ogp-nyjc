@@ -50,3 +50,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 6.            _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education,  to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
 
 7.            Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+	
+**At Nanyang Junior College, the _eTeens_ programme will be implemented as follows in 2023:**
+![](/images/eteens.png)
+
+Information for Parents
+-----------------------
+
+8.        Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.        Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
+
+10.      Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B_eTeens-Parent-Opt-Out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
+
+11\.      Parents can contact the school at [nyjc@moe.edu.sg](mailto:nyjc@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
