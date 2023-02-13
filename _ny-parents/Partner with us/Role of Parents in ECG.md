@@ -54,7 +54,7 @@ third_nav_title: Partner with us
 <div>
 <p>
 <b>Engaging in Discussions</b>
-<div>Have casual conversations with your children about their aspirations. Keep an open mind and allow them the freedom to dream. You could use your child's results from the PGI and WSI self-assessments and discuss further education plans. At the tertiary level, there are a myriad of educational opportunities present. You can access our Higher Education webpage as a starting point of discussion.</div><p>
+<div>Have casual conversations with your children about their aspirations. Keep an open mind and allow them the freedom to dream. You could use your child's results from the PGI and WSI self-assessments and discuss further education plans. At the tertiary level, there are a myriad of educational opportunities present. You can access our Higher Education webpage as a starting point of discussion.</div></p>
 </div>
 <div></div>
 &nbsp;
