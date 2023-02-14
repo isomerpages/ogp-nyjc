@@ -63,9 +63,7 @@ third_nav_title: Character Development
 <div>
 <p>8. Parents may opt their children out of Growing Years and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf).
-
-The completed form is to be submitted by 20/03/2023.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
 	
 	
 <p>10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/02/Annex-B_eTeens-Parents-Opt-out-Form_NYJC-2022.pdf">here</a>. The completed form is to be submitted by 04/03/2022.</p>
