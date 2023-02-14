@@ -1,6 +1,6 @@
 ---
 title: Information on Sexuality Education Programme
-permalink: /life-at-nyjc/Character-Development/information-on-sexuality-education-programme
+permalink: /life-at-nyjc/Character-Development/information-on-sexuality-education-programme/
 description: ""
 third_nav_title: Character Development
 ---
@@ -13,12 +13,12 @@ third_nav_title: Character Development
 <p><span lang="EN-GB">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;</span></p>
 <p><span lang="EN-GB">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</span></p>
 <p><span lang="EN-GB">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.</span><span lang="EN-GB">&nbsp;</span></p>
-<p><span lang="EN-GB">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key messages of Sexuality Education are:</span></p>
+<p><span lang="EN-GB">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Key Messages</strong> of Sexuality Education are:</span></p>
 <p><span lang="EN-GB">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB">Love and respect yourself as you love and respect others;</span></p>
 <p><span lang="EN-GB">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB">Build positive relationships based on love and respect (which are the foundation for strong families);</span></p>
 <p><span lang="EN-GB">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Make responsible decisions for yourself, your family and society; and</p>
 <p><span lang="EN-US">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 </div>
 </div>
 <div id="_ptoo_44744" class="pageblock_box ">
