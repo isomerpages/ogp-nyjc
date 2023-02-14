@@ -1,11 +1,11 @@
 ---
 title: Malay Cultural Society
-permalink: /co-curricular-activities/Clubs-and-Societies/Malay-Cultural-Society
+permalink: /co-curricular-activities/Clubs-and-Societies/Malay-Cultural-Society/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-The Malay Cultural Society (MCS) provides a platform for its members to showcase and develop their talents and skills in the performing arts and language arts. Members also develop their leadership and organisation skills through organisation of various student-initiated projects.
+Keen and passionate about Malay language and culture, as well as organising new projects?
 
-In addition, MCS members also participate in cultural camps, inter-college competitions, language & cultural workshops to better appreciate the Malay language and culture.
+Take advantage of our ample opportunities to develop leadership and organisational skills while leaving an impact when initiating and executing meaningful projects. We constantly build connections with students of other institutions or professionals from other organisations as we are eager and open to collaborations. So, seize the chance to sharpen your Malay literacy via public speaking and writing as well as explore the Malay culture with student-initiated learning journeys. You need not stress over conflicting commitments as our flexible arrangement can accommodate your schedule.
 
-Weekly meetings are conducted on Wednesdays, 3pm to 6pm.
+What are you waiting for? Join MCS now!
