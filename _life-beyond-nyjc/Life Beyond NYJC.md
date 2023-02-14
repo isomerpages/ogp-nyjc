@@ -19,7 +19,7 @@ description: ""
 </div>
 </div>
 <div data-node="5ff581d527713">
-<div>
+<div><br>
 <h2>Higher Education and Career Guidance</h2>
 </div>
 </div>
@@ -27,7 +27,7 @@ description: ""
 <div>
 <div>
 <p>The NYJC one-stop ECG portal (<a href="https://www.nyjcecg.com/" target="_blank" rel="noopener">https://www.nyjcecg.com/</a>) is designed for NYJC students exclusively. In this portal, students, both current and those who have graduated, can further explore their career options, local and overseas higher education options, find work attachment opportunities and even link up with alumni who have done well.</p>
-<p>Please email Ms Celine Leow (<a href="mailto:leow_kiat_peng_celine@schools.gov.sg">leow_kiat_peng_celine@schools.gov.sg</a>) to gain access to this portal.</p>
+<p>Please email Ms Celine Leow (<a href="mailto:chin_de_shun@schools.gov.sg">chin_de_shun@schools.gov.sg</a>) to gain access to this portal.</p>
 </div>
 </div>
 </div>
