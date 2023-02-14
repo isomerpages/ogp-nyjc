@@ -1,4 +1,5 @@
 collections:
   srp:
     output: true
-    order: []
+    order:
+      - NUS Science Research Programme (SRP).md
