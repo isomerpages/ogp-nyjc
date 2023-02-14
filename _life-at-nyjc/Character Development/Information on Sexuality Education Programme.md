@@ -62,7 +62,7 @@ third_nav_title: Character Development
 9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.</p>
 	
 	
-<p>10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/02/Annex-B_eTeens-Parents-Opt-out-Form_NYJC-2022.pdf">here</a>. The completed form is to be submitted by 04/03/2022.</p>
+<p>10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/02/Annex-B_eTeens-Parents-Opt-out-Form_NYJC-2022.pdf">here</a>[here](/files/Annex-B_eTeens-Parent-Opt-Out-Form_NYJC-2023.pdf). The completed form is to be submitted by 04/03/2022.</p>
 <p>11. Parents can contact the school at 6284 2281 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>12. Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 </div>
