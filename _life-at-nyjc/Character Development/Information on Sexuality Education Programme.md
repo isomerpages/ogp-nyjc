@@ -68,3 +68,6 @@ third_nav_title: Character Development
 </div>
 </div>
 </div>
+9.        Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
+
+10.      Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B\_eTeens-Parent-Opt-Out-Form\_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
