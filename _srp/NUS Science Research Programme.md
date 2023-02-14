@@ -3,7 +3,6 @@ title: NUS Science Research Programme
 permalink: /srp/permalink/
 description: ""
 ---
-
 The NUS Science Research Programme (SRP) can be offered as an enrichment or H3 module.
 
 NUS SRP offers opportunities to selected JC1 students who demonstrate strong interest and have an aptitude for scientific research to participate in research projects under the guidance of professors from NUS and research centres.
