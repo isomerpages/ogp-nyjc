@@ -39,14 +39,14 @@ third_nav_title: Character Development
 
 <p><a href="https://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/files/eteens-2012.pdf" target=""><em>eTeens&nbsp;</em>Programme&nbsp;</a></p>
 <p>6. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
-<p>7. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STI/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p>7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 </div>
 </div>
 </div>
 <div data-node="600a2aa94ea63">
 <div>
 <div>
-<p><strong>At Nanyang Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2022:</strong></p>
+<p><strong>At Nanyang Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong></p>
 </div>
 </div>
 </div>
@@ -54,7 +54,7 @@ third_nav_title: Character Development
 </div>
 </div>
 
-<table><thead><tr><th>Topics/Lessons</th><th>Programme Learning Objectives</th><th>Time Period</th></tr></thead><tbody><tr><td>Mass Talk by HPB appointed vendor</td><td>·       Awareness of the different STI and HIV<br><br>·       Modes of transmission for STI and HIV<br>·       Modes of protection against infection, specifically abstinence and the correct use of condom<br>·       Consequences and impact of STI/HIV<br>·       State the ways of managing the challenges of the impact</td><td>Term 2</td></tr></tbody></table>
+![eteens](/images/eteens.png)
 
 
 <div data-node="5f4bfd6861dcf">
@@ -62,7 +62,12 @@ third_nav_title: Character Development
 <h2>Information for Parents</h2>
 <div>
 <p>8. Parents may opt their children out of Growing Years and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9. Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/02/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2022.pdf" target="_blank" rel="noopener">here</a>. The completed form is to be submitted by 04/03/2022.</p>
+
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf).
+
+The completed form is to be submitted by 20/03/2023.
+	
+	
 <p>10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/02/Annex-B_eTeens-Parents-Opt-out-Form_NYJC-2022.pdf">here</a>. The completed form is to be submitted by 04/03/2022.</p>
 <p>11. Parents can contact the school at 6284 2281 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>12. Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
