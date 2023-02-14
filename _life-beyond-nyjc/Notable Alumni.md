@@ -10,7 +10,7 @@ description: ""
 <tr>
 <td height="20">Chua Song Khim</td>
 <td>Class of 80</td>
-<td>Group Chief Executive Officer of NTUC Health Co-operative; Deputy Chief Executive, National University Health System</td>
+<td>Group Chief Executive Officer of NTUC Health Co-operative; <br>Deputy Chief Executive, National University Health System</td>
 </tr>
 <tr>
 <td height="20">Dr Ng Choon Hee</td>
@@ -106,7 +106,7 @@ description: ""
 <td>Dr Lim Wie Ming</td>
 <td>Class of 81</td>
 <td>Founder and CEO, SmartMediaSoft
-<p>Executive Director (OE Group)</p>
+<br/>Executive Director (OE Group)
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ description: ""
 <td width="144">Daryl Lim</td>
 <td width="95">Class of 97</td>
 <td width="365">A/Professor and Director of the Centre for Intellectual Property (IP), Information &amp; Privacy Law.
-<p>Microsoft Professional Fellow, Fordham University School of Law</p>
+<br/>Microsoft Professional Fellow, Fordham University School of Law
 </td>
 </tr>
 </tbody>
@@ -270,7 +270,7 @@ description: ""
 <td>&nbsp;A/Prof Randolph Tan</td>
 <td>Class of 81</td>
 <td>Former&nbsp;Nominated Member of Parliament
-<p>Associate Professor and Director, Centre for Applied Research,&nbsp;Singapore University of Social Sciences</p>
+<br/>Associate Professor and Director, Centre for Applied Research, Singapore University of Social Sciences
 </td>
 </tr>
 <tr>
@@ -367,8 +367,8 @@ description: ""
 <td width="141">Lim Kim Chuah</td>
 <td width="94">Class of 82</td>
 <td width="371">Chairman, Nature Society (Singapore) Bird Group
-<p>Co-Author of &ldquo;The Avifauna of Singapore (2009)&rdquo;, and &ldquo;A Field Guide to the Birds of Singapore (2010)&rdquo;</p>
-<p>Author of &ldquo;A Naturalist's Guide to the Birds of Singapore"</p>
+<br/>Co-Author of &ldquo;The Avifauna of Singapore (2009)&rdquo;, and &ldquo;A Field Guide to the Birds of Singapore (2010)&rdquo;
+<br/>Author of &ldquo;A Naturalist's Guide to the Birds of Singapore"
 </td>
 </tr>
 <tr>
@@ -380,7 +380,7 @@ description: ""
 <td width="141">James Gomez</td>
 <td width="94">Class of 85</td>
 <td width="371">Professor of Communications and Associate Dean (International Affairs), School of communication Arts, Bangkok University, Thailand.
-<p>Founder &amp; Regional Director, Asia Centre, Bangkok, Thailand.</p>
+<br/>Founder &amp; Regional Director, Asia Centre, Bangkok, Thailand.
 </td>
 </tr>
 <tr>
@@ -397,7 +397,7 @@ description: ""
 <td width="141">Shng Yunn Chinn</td>
 <td width="94">Class of 91</td>
 <td width="371">Director, Community Partnership Department
-<p>Deputy Assistant Commissioner of Police</p>
+<br/>Deputy Assistant Commissioner of Police
 </td>
 </tr>
 <tr>
@@ -419,16 +419,16 @@ description: ""
 <td width="141">Tan Kong Soon</td>
 <td width="94">Class of 95</td>
 <td width="371">Head, Alumni Engagement
-<p>SIM Global Education</p>
+<br/>SIM Global Education
 </td>
 </tr>
 <tr>
 <td width="141">Eileen Chai</td>
 <td width="94">Class of 97</td>
 <td width="371">Violin Performer &amp; Teacher
-<p>Author of &ldquo;Teach a Life, for Life&rdquo;</p>
-<p>Founder, 3am Music Collective</p>
-<p>Former National Athlete</p>
+<br/>Author of &ldquo;Teach a Life, for Life&rdquo;
+<br/>Founder, 3am Music Collective
+<br/>Former National Athlete
 </td>
 </tr>
 <tr>
@@ -455,8 +455,8 @@ description: ""
 <td>Leon Lim Jiu He</td>
 <td>Class of 2006</td>
 <td>CEO and Founder of <a href="http://mrcventures.com" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://mrcventures.com&amp;source=gmail&amp;ust=1628927707170000&amp;usg=AFQjCNG7DWRQG9LKmHvcGmS5SgG72bYH0g">mrcventures.com</a>
-<p>CEO and Founder of Groundup.ai</p>
-<p>CEO and Founder of Musette.live</p>
+<br/>CEO and Founder of Groundup.ai
+<br/>CEO and Founder of Musette.live
 </td>
 </tr>
 <tr>
