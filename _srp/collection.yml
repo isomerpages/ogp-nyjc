@@ -2,4 +2,4 @@ collections:
   srp:
     output: true
     order:
-      - NUS Science Research Programme.md
+      - NUS Science Research Programme (SRP).md
