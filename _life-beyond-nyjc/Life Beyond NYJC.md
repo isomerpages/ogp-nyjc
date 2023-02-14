@@ -31,38 +31,19 @@ description: ""
 </div>
 </div>
 </div>
-<div data-node="5ff581bbec503">
-<div>
+
 <h2>University Admission</h2>
-</div>
-</div>
-<div data-node="5f4d530dd42ad">
-<div>
-<div>
-<ul>
-<li><a href="http://www.nus.edu.sg/admissions" target="_blank" rel="noopener">National University of Singapore</a>
-<ul>
-<li><a href="http://www.nus.edu.sg/oam/gradeprofile/sprogramme-igp.html" target="_blank" rel="noopener">Indicative Grade Profile for 2019/2020</a></li>
-</ul>
-</li>
-<li><a href="http://admissions.ntu.edu.sg/UndergraduateAdmissions/Pages/default.aspx" target="_blank" rel="noopener">Nanyang Technological University</a>
-<ul>
-<li><a href="http://www3.ntu.edu.sg/oad2/website_files/IGP/NTU_IGP.pdf" target="_blank" rel="noopener">Indicative Grade Profile for 2019/2020</a></li>
-</ul>
-</li>
-<li><a href="http://admissions.smu.edu.sg/how-to-apply/singapore-cambridge-gce-a-levels" target="_blank" rel="noopener">Singapore Management University</a>
-<ul>
-<li><a href="http://admissions.smu.edu.sg/admissions/indicative-grade-profiles-igp" target="_blank" rel="noopener">Indicative Grade Profile for 2019/2020</a></li>
-</ul>
-</li>
-<li><a href="https://www.singaporetech.edu.sg/a-levels" target="_blank" rel="noopener">Singapore Institute of Technology (SIT)</a></li>
-<li><a href="http://uc.suss.edu.sg/admission.html" target="_blank" rel="noopener">Singapore University of Social Sciences (SUSS)</a></li>
-<li><a href="http://sutd.edu.sg/apply" target="_blank" rel="noopener">Singapore University of Technology and Design<br /></a></li>
-<li><a href="https://admissions.yale-nus.edu.sg/admissions/" target="_blank" rel="noopener">Yale-NUS</a></li>
-</ul>
-<div><a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/09/University-FAS.pdf" target="_blank" rel="noopener">Financial Assistance</a></div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+
+*   [National University of Singapore](https://www.nus.edu.sg/admissions)
+    *   [Indicative Grade Profile](https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp))
+*   [Nanyang Technological University](https://www.ntu.edu.sg/admissions)
+    *   [Indicative Grade Profile](http://www3.ntu.edu.sg/oad2/website_files/IGP/NTU_IGP.pdf)
+*   [Singapore Management University](https://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-levels)
+    *   [Indicative Grade Profile](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
+*   [Singapore University of Technology and Design](https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Application-Timeline)
+*   [Singapore Institute of Technology (SIT)](https://www.singaporetech.edu.sg/admissions/undergraduate)
+*   [Singapore University of Social Sciences (SUSS)](https://www.suss.edu.sg/apply-for-admission)[  
+    ](https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Application-Timeline)
+
+[Financial Assistance](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/09/University-FAS.pdf)
