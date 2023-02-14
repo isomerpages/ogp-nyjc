@@ -1,6 +1,6 @@
 ---
 title: ECG Programmes
-permalink: /life-at-nyjc/ecg-programmes
+permalink: /life-at-nyjc/ecg-programmes/
 description: ""
 ---
 In line with the MOE ECG framework, ECG programmes in NYJC are designed based on the themes of career identity, career exploration and career planning. Our guiding principles when designing ECG programmes are:
@@ -39,7 +39,7 @@ EDventure is an experiential learning platform for students. Through EDventure, 
 
 **ECG Portal**
 
-This one-stop portal (https://www.nyjcecg.com/) is designed for NYJC students exclusively. In this portal, students can further explore their career options, local and overseas higher education options, find work attachment opportunities and link up with alumni who have done well.
+This one-stop portal ([https://www.nyjcecg.com/](https://www.nyjcecg.com/)) is designed for NYJC students exclusively. In this portal, students can further explore their career options, local and overseas higher education options, find work attachment opportunities and link up with alumni who have done well.
 
 <h1>Other initiatives</h1>
 	
