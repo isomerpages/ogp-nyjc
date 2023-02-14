@@ -16,15 +16,11 @@ description: ""
 
 <p>The NYJC one-stop ECG portal (<a href="https://www.nyjcecg.com/" target="_blank" rel="noopener">https://www.nyjcecg.com/</a>) is designed for NYJC students exclusively. In this portal, students, both current and those who have graduated, can further explore their career options, local and overseas higher education options, find work attachment opportunities and even link up with alumni who have done well.</p>
 <p>Please email Ms Celine Leow (<a href="mailto:chin_de_shun@schools.gov.sg">chin_de_shun@schools.gov.sg</a>) to gain access to this portal.</p>
-</div>
-</div>
-</div>
 
 <h2>University Admission</h2>
-* <a href="https://www.nus.edu.sg/admissions">National University of Singapore</a>
-	    *  <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)">Indicative Grade Profile</a>
-
-	*   <a href="https://www.ntu.edu.sg/admissions">Nanyang Technological University</a>
+*   [National University of Singapore](https://www.nus.edu.sg/admissions)
+    *   [Indicative Grade Profile](https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp))
+*   [Nanyang Technological University](https://www.ntu.edu.sg/admissions)
     *   [Indicative Grade Profile](http://www3.ntu.edu.sg/oad2/website_files/IGP/NTU_IGP.pdf)
 *   [Singapore Management University](https://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-levels)
     *   [Indicative Grade Profile](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
