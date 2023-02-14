@@ -22,10 +22,9 @@ third_nav_title: Character Development
 </div>
 </div>
 <div id="_ptoo_44744" class="pageblock_box ">
-<h2 id="_ptoh_44744" class="ive_editable ive_ptoh">Overview of Nanyang Junior College Sexuality Education Programme for 2022</h2>
+<h2 id="_ptoh_44744" class="ive_editable ive_ptoh">Overview of Nanyang Junior College Sexuality Education Programme for 2023</h2>
 <div id="_ptod_44744" class="ive_editable ive_ptod ive_content">
-<p><span lang="EN-GB">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;</span><span lang="EN-GB">The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
-<p><strong><u><span lang="EN-GB">Growing Years (GY) Programme</span></u></strong><span lang="EN-GB">: &ldquo;Love Matters (2<sup>nd</sup>&nbsp;Edition)&rdquo; Teaching &amp; Learning resource package</span></p>
+<p><span lang="EN-GB">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;</span><span lang="EN-GB">The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
 <p><span lang="EN-GB">5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span><span lang="EN-US">The focus for &ldquo;Love Matters&rdquo; is on issues in relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</span></p>
 <p><strong><span lang="EN-GB">At Nanyang Junior College, the&nbsp;&nbsp;following lessons from the Growing Years Programme will be taught in&nbsp;2022:</span></strong><span lang="EN-GB">&nbsp;</span></p>
 </div>
