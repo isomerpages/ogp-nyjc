@@ -20,7 +20,7 @@ third_nav_title: Character Development
 <p><span lang="EN-US">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 </div>
-</div>
+</div><br>	
 <div id="_ptoo_44744" class="pageblock_box ">
 <h2 id="_ptoh_44744" class="ive_editable ive_ptoh">Overview of Nanyang Junior College Sexuality Education Programme for 2023</h2>
 <div id="_ptod_44744" class="ive_editable ive_ptod ive_content">
@@ -48,9 +48,7 @@ third_nav_title: Character Development
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
+
 
 ![eteens](/images/eteens.png)
 
