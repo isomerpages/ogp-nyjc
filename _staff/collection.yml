@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Academic Departments/.keep
-      - Academic Departments/Science & Research Department.md
-      - Academic Departments/Project Work Department.md
-      - Academic Departments/Mathematics Department.md
-      - Academic Departments/Humanities Department.md
-      - Academic Departments/English Department.md
-      - Academic Departments/Economics Department.md
       - Academic Departments/Chinese Department.md
+      - Academic Departments/Economics Department.md
+      - Academic Departments/English Department.md
+      - Academic Departments/Humanities Department.md
+      - Academic Departments/Mathematics Department.md
+      - Academic Departments/Project Work Department.md
+      - Academic Departments/Science & Research Department.md
       - Non Academic departments/.keep
       - Non Academic departments/Systems and Information Management Department.md
       - Non Academic departments/Student Affairs and Management Department.md
