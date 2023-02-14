@@ -25,8 +25,8 @@ third_nav_title: Character Development
 <h2 id="_ptoh_44744" class="ive_editable ive_ptoh">Overview of Nanyang Junior College Sexuality Education Programme for 2023</h2>
 <div id="_ptod_44744" class="ive_editable ive_ptod ive_content">
 <p><span lang="EN-GB">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;</span><span lang="EN-GB">The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
-<p><span lang="EN-GB">5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span><span lang="EN-US">The focus for &ldquo;Love Matters&rdquo; is on issues in relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</span></p>
-<p><strong><span lang="EN-GB">At Nanyang Junior College, the&nbsp;&nbsp;following lessons from the Growing Years Programme will be taught in&nbsp;2022:</span></strong><span lang="EN-GB">&nbsp;</span></p>
+<p><span lang="EN-GB">5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span><span lang="EN-US">The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</span></p>
+<p><strong><span lang="EN-GB">At Nanyang Junior College, the following Sexuality Education lessons will be taught in 2023:</span></strong><span lang="EN-GB">&nbsp;</span></p>
 </div>
 </div>
 </div>
