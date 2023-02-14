@@ -473,7 +473,7 @@ description: ""
 <td width="141">Lim Qixuan</td>
 <td width="94">Class of 2009</td>
 <td width="371">Experience Designer, Foolproof
-<p>Qimmyshimmy</p>
+<br/>Qimmyshimmy
 </td>
 </tr>
 <tr>
