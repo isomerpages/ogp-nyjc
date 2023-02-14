@@ -1,10 +1,10 @@
 ---
 title: Outdoor Activities Club
-permalink: /co-curricular-activities/Clubs-and-Societies/Outdoor-Activities-Club
+permalink: /co-curricular-activities/Clubs-and-Societies/Outdoor-Activities-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-The motto of ODAC is “Challenge the limits”. This motto, in essence, is the indomitable spirit of the NYJC Outdoor Activities Club.
+The motto of ODAC is “**Challenge the limits**”. This motto, in essence, is the indomitable spirit of the NYJC Outdoor Activities Club.
 
 The NYJC ODAC, like its name suggests, had done a wide array of outdoor activities, such as camping, outdoor cooking, tent pitching, waterfall abseiling, white water rafting, night cycling and hiking.  ODAC provides its members the chance to be intrepid adventurers, preparing them to tackle the next feat.
 
