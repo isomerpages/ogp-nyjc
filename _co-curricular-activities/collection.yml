@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - Sport CCAs/.keep
-      - Sport CCAs/Volleyball.md
-      - Sport CCAs/Touch Rugby.md
-      - Sport CCAs/Tennis.md
-      - Sport CCAs/Tchoukball.md
-      - Sport CCAs/Table Tennis.md
-      - Sport CCAs/Squash.md
-      - Sport CCAs/Soccer.md
-      - Sport CCAs/Netball.md
-      - Sport CCAs/Floorball.md
-      - Sport CCAs/Dragonboat Team.md
-      - Sport CCAs/Basketball.md
       - Sport CCAs/Badminton.md
+      - Sport CCAs/Basketball.md
+      - Sport CCAs/Dragonboat Team.md
+      - Sport CCAs/Floorball.md
+      - Sport CCAs/Netball.md
+      - Sport CCAs/Soccer.md
+      - Sport CCAs/Squash.md
+      - Sport CCAs/Table Tennis.md
+      - Sport CCAs/Tchoukball.md
+      - Sport CCAs/Tennis.md
+      - Sport CCAs/Touch Rugby.md
+      - Sport CCAs/Volleyball.md
       - Aesthetics Groups/.keep
       - Aesthetics Groups/Photographic Society.md
       - Aesthetics Groups/Guzheng Ensemble.md
