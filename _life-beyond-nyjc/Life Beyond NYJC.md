@@ -33,10 +33,10 @@ description: ""
 </div>
 
 <h2>University Admission</h2>
-
 * <a href="https://www.nus.edu.sg/admissions">National University of Singapore</a>
-    *  <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)">Indicative Grade Profile</a>
-*   [Nanyang Technological University](https://www.ntu.edu.sg/admissions)
+	    *  <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)">Indicative Grade Profile</a>
+
+	*   <a href="https://www.ntu.edu.sg/admissions">Nanyang Technological University</a>
     *   [Indicative Grade Profile](http://www3.ntu.edu.sg/oad2/website_files/IGP/NTU_IGP.pdf)
 *   [Singapore Management University](https://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-levels)
     *   [Indicative Grade Profile](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
