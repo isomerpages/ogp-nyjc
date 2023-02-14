@@ -31,25 +31,12 @@ third_nav_title: Character Development
 </div>
 </div>
 
-**Junior College / Centralised Institute 1**
-Theme 3B from Module: Developing Healthy Relationships
+![JC1](/images/SE-JC1-pg-1-1536x832.png)
+![JC1 2](/images/SE-JC1-pg-2-1536x803.jpg)
 
-<table><thead><tr><th>LESSONS </th><th>DURATION</th><th>Lesson Objectives<br>At the end of the lesson, students will be able to:</th><th>TIME PERIOD</th></tr></thead><tbody><tr><td> 1</td><td> <br><br>(60 mins)</td><td>·        navigate challenges in a dating relationship<br><br>·        identify early indications of a breakdown in a relationship<br>·        know when to seek help and who to turn to for support<br>·        appreciate that one can emerge stronger and be better prepared for future relationships<br>·        develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</td><td>Term 2</td></tr><tr><td>2</td><td>(60 mins)</td><td>·        examine issues related to abstinence<br><br>·        explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br>·        understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>·        understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</td><td>Term 2</td></tr><tr><td>3</td><td> <br><br>(60  mins)</td><td>·        examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br><br>·        understand that one has to make responsible decisions for both self and others<br>·        understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>·        know how to support friends or others who may be pregnant or have STIs</td><td>Term 2</td></tr></tbody></table>
+![JC2](/images/SE-JC2-pg-1-1-1536x91.jpg)
+![JC2 2](/images/SE-JC2-pg-2-1536x971.jpg)
 
-
-**Junior College / Centralised Institute 2**
-
-“Love Matters (2nd Edition)” Teaching & Learning resource package 
-
-<table><thead><tr><th>UNIT</th><th>LESSONS / DURATION</th><th>Lesson Objectives<br>At the end of the lesson, students will be able to:</th><th>TIME PERIOD</th></tr></thead><tbody><tr><td rowspan="2">Lessons about Love (Part 7)</td><td>4<br><br>(60 mins)</td><td>·        identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship<br><br>·        appreciate that one can emerge stronger despite having gone through a breakup<br>·        explore beliefs about marriage<br>·        know the possible psychological impact on children experiencing parental separation or divorce<br>·        recognise the importance of having family support for a relationship<br>·        aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>·        appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</td><td>Term 2</td></tr><tr><td>5<br><br>(60 mins)</td><td>·        recognise that personal decisions on how one displays own affections in public can affect others<br><br>·        discern the impact of new media on relationship building</td><td>Term 2</td></tr><tr><td>NA</td><td>6<br><br>(60 mins)</td><td>This will be a culminating formative assessment task for students toconsolidate what they have learnt from the previous lessons.</td><td>Term 2</td></tr></tbody></table>
-
-
-<div data-node="5f4bfd6861dcf">
-<div>
-<div>
-<div data-node="5f4bfe33d0af6">
-<div>
-<div>
 <p><a href="https://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/files/eteens-2012.pdf" target=""><em>eTeens&nbsp;</em>Programme&nbsp;</a></p>
 <p>6. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</p>
 <p>7. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STI/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
