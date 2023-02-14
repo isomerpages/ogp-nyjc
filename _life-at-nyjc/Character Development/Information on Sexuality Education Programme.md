@@ -58,16 +58,12 @@ third_nav_title: Character Development
 <h2>Information for Parents</h2>
 <div>
 <p>8. Parents may opt their children out of Growing Years and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.</p>
-	
-	
-<p>10. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/02/Annex-B_eTeens-Parents-Opt-out-Form_NYJC-2022.pdf">here</a>[here](/files/Annex-B_eTeens-Parent-Opt-Out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.</p>
-<p>11. Parents can contact the school at [nyjc@moe.edu.sg](mailto:nyjc@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+
 
 </div>
 </div>
 </div>
 9.        Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
 
-10.      Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B\_eTeens-Parent-Opt-Out-Form\_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.
+10.      Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B\_eTeens-Parent-Opt-Out-Form\_NYJC-2023.pdf). The completed form is to be submitted by 20/03/2023.<br><br>
+11.      Parents can contact the school at [nyjc@moe.edu.sg](mailto:nyjc@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
