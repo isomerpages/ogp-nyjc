@@ -4,16 +4,15 @@ permalink: /srp/Others/Testimonials/
 description: ""
 third_nav_title: Others
 ---
-
 **Hear From Your Seniors…**
 
 ![Gabrielle](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/Gabrielle.jpg "Gabrielle")
 
 **Gabrielle Marcya Joan**
 
-_A\*STAR Science Award  
-__NUS Science Research Programme  
-__NYJC Zhong Zheng Ren Scholarship_
+*A\*STAR Science Award  
+NUS Science Research Programme  
+NYJC Zhong Zheng Ren Scholarship*
 
 Subject Combination:
 
