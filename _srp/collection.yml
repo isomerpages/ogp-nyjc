@@ -2,5 +2,6 @@ collections:
   srp:
     output: true
     order:
+      - A STAR Science Award (JC).md
       - NTU Nanyang Research Programme (NRP).md
       - NUS Science Research Programme (SRP).md
