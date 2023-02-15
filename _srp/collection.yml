@@ -2,6 +2,7 @@ collections:
   srp:
     output: true
     order:
+      - DSTA Junior College Scholarship.md
       - A STAR Science Award (JC).md
       - NTU Nanyang Research Programme (NRP).md
       - NUS Science Research Programme (SRP).md
