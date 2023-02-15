@@ -2,6 +2,7 @@ collections:
   srp:
     output: true
     order:
+      - MOE Overseas Student Attachment Programme (OSAP).md
       - DSTA Junior College Scholarship.md
       - A STAR Science Award (JC).md
       - NTU Nanyang Research Programme (NRP).md
