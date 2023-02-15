@@ -20,7 +20,7 @@ Eligibility:
 
 Application:
 
-*   Applicants must submit certified true copies of their Secondary School testimonial, Secondary School CCA record and GCE ‘O’ level examination results, with the completed application forms (the application form can be downloaded [here](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/OSAP-Annex-C_2023.pdf). The completed forms, video files, supporting documents and endorsements of individual applicants should be collated and submitted to MOE through the Science HOD.
+*   Applicants must submit certified true copies of their Secondary School testimonial, Secondary School CCA record and GCE ‘O’ level examination results, with the completed application forms (the application form can be downloaded [here](/files/OSAP-Annex-C_2023.pdf). The completed forms, video files, supporting documents and endorsements of individual applicants should be collated and submitted to MOE through the Science HOD.
 *   Applicants must submit completed hardcopy application form to school coordinator (Mr Goh Kien Soon) pigeonhole number 13A, by 7 **Feb 2023 (12 pm)**. Students nominated by the school should receive the link to the online application from the HOD Science and Research before **7 Feb 2023 (12 pm)**.
 *   Students who are interested to participate in this programme are to indicate your interest through this [**form**](https://form.gov.sg/63d1e8328de09700128fb5cf)**.**
 
