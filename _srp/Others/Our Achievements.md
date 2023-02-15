@@ -31,11 +31,11 @@ NYJCians have been awarded research scholarships and participated in various res
 1.  Gabrielle Marcya Joan (CT 2210)
 2.  Hannah Hoo Si En (CT 2225)
 
- **2022 DSTA Junior College Scholarship**  
+**2022 DSTA Junior College Scholarship**  
 
 1.  Goh Kai Jun Kavan (CT 2221)
 
- **2022 NUS Science Research Programme** 
+**2022 NUS Science Research Programme** 
 
 1.  Soo Jin Yee (CT 2203)
 2.  Zhu Sizhe (CT 2208)
@@ -56,7 +56,7 @@ NYJCians have been awarded research scholarships and participated in various res
 8.  Edwin Ong Yi Fan (CT 2227)
 9.  Niu Te (CT 2228)
 
- **2022 SUTD Research Mentorship Programme** 
+**2022 SUTD Research Mentorship Programme** 
 
 1.  Ong Yik How Howard (CT 2128)
 2.  Viviana Angesti Wijaya (CT 2221)
@@ -77,7 +77,7 @@ NYJCians have been awarded research scholarships and participated in various res
 10.  Thanakorn Sripratak (CT 2030)
 11.  Xin Wenkang (CT 2030)
 
- **2021 A\*STAR Science Award (Junior College)** 
+**2021 A\*STAR Science Award (Junior College)** 
 
 1.  Muhammad Nur Adzfar Bin Mohammad Zulkiffli (CT 2117)
 2.  Nicolas Chan Pak-Leung (CT 2124)
