@@ -2,10 +2,10 @@ collections:
   srp:
     output: true
     order:
-      - Engineering & Tech Programme (ETPS) Scholarship.md
-      - Scientist in School Programme.md
-      - MOE Overseas Student Attachment Programme (OSAP).md
-      - DSTA Junior College Scholarship.md
-      - A STAR Science Award (JC).md
-      - NTU Nanyang Research Programme (NRP).md
       - NUS Science Research Programme (SRP).md
+      - NTU Nanyang Research Programme (NRP).md
+      - A STAR Science Award (JC).md
+      - DSTA Junior College Scholarship.md
+      - MOE Overseas Student Attachment Programme (OSAP).md
+      - Scientist in School Programme.md
+      - Engineering & Tech Programme (ETPS) Scholarship.md
