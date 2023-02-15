@@ -3,27 +3,327 @@ title: Important Dates
 permalink: /ny-parents/permalink/
 description: ""
 ---
-<h3> January 2023</h3>
-<table style="width: 92.3099%; height: 120px;"><tbody><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>9</strong></td><td style="height: 20px;" width="516">First day of school for JC2s</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>13</strong></td><td style="height: 20px;" width="516">Open House</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>16 – 19<br></strong></td><td style="height: 20px;" width="516">JC2 Common Test</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>30 -31<br></strong></td><td style="height: 20px;" width="516">DSA</td></tr></tbody></table>
-<h3> February 2023</h3>
-<table><tbody><tr><td><strong>7<br></strong></td><td>First Day of School for JC1s</td></tr><tr><td width="85"><strong>3 - 8<br></strong></td><td width="516">JC1 Orientation</td></tr><tr><td width="85"><strong>9 - 10<br></strong></td><td width="516">CT Orientation</td></tr><tr><td width="85"><strong>13 - 17<br></strong></td><td width="516">JC Academic Timetable</td></tr><tr><td width="85"><strong>15</strong></td><td width="516">JC1 Total Defence<p></p><p>CCA Bazaar</p></td></tr><tr><td width="85"><strong>16</strong></td><td width="516">Start of full timetable for JC1</td></tr><tr><td><strong>22<br></strong></td><td>JC1 Sports &amp; Aesthetics Enrichment Day<p></p><p>JC2 EDspiration Day</p></td></tr><tr><td><strong>24<br></strong></td><td><span class="JtukPc"><span id="rAECCd" role="heading" aria-level="1">Dialogue with the Admissions Directors of the Autonomous Universities</span></span></td></tr></tbody></table>
-<h3> March 2023</h3>
-<table style="width: 480px;"><tbody><tr><td><strong>1<br></strong></td><td>SIG Bazaar</td></tr><tr><td width="85"><strong>7</strong></td><td width="516">JC1 Sports Carnival &amp; <span class="JtukPc"><span id="rAECCd" role="heading" aria-level="1">IllumiNYte</span></span></td></tr><tr><td><strong>8<br></strong></td><td>JC2 Sports Carnival &amp; <span class="JtukPc"><span id="rAECCd" role="heading" aria-level="1">IllumiNYte</span></span></td></tr><tr><td width="85"><strong>29</strong></td><td width="516">JC1 CCE Seminar</td></tr><tr><td width="85"><strong>11 - 19<br></strong></td><td width="516">Term Break</td></tr></tbody></table>
-<h3> April 2023</h3>
-<table style="width: 87.3897%; height: 40px;"><tbody><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>7</strong></td><td style="height: 20px;" width="516">Good Friday</td></tr><tr style="height: 20px;"><td style="height: 20px;"><strong>24<br></strong></td><td style="height: 20px;">School Holiday for Hari Raya Puasa</td></tr></tbody></table>
-<h3> May 2023</h3>
-<table style="width: 480px;"><tbody><tr><td width="85"><strong>1</strong></td><td width="516">Labour Day Public Holiday</td></tr><tr><td><strong>19 - 20<br></strong></td><td>Class Leaders Training</td></tr><tr><td width="85"><strong>24</strong></td><td width="516">CCA Award Ceremony</td></tr><tr><td width="85"><strong>25</strong></td><td width="516">JC1 &amp; JC2 Common Test (General Paper)</td></tr><tr><td width="85"><strong>27</strong></td><td width="516">First Day of June Vacation</td></tr><tr><td><strong>27<br></strong></td><td>45th Anniversary RemiNYscence</td></tr><tr><td><strong>29<br></strong></td><td>A Level H1 MTL Written Examination</td></tr></tbody></table>
-<h3> June 2023</h3>
-<table style="width: 480px;"><tbody><tr><td width="85"><strong>26 Jun – 30 Jun</strong></td><td width="516">JC1 Common Test</td></tr><tr><td width="85"><strong>26 Jun – 6 Jul</strong></td><td width="516">JC2 Common Test</td></tr><tr><td><strong>29<br></strong></td><td>Hari Raya Haji</td></tr></tbody></table>
-<h3> July 2023</h3>
-<table style="width: 89.648%; height: 204px;"><tbody><tr style="height: 20px;"><td style="width: 69px; height: 20px;" width="85"><strong>3</strong></td><td style="width: 404px; height: 20px;" width="516">Youth Day School Holiday</td></tr><tr style="height: 41px;"><td style="width: 69px; height: 41px;" width="85"><strong>4</strong></td><td style="width: 404px; height: 41px;" width="516">A-Level: H1 MTL cum MTL B (Mid-Year) Listening Comprehension</td></tr><tr style="height: 20px;"><td style="width: 69px; height: 20px;" width="85"><strong>7</strong></td><td style="width: 404px; height: 20px;" width="516">JC2 Photo Taking &amp; CCA Records Checking</td></tr><tr style="height: 20px;"><td style="width: 69px; height: 20px;" width="85"><strong>14 - 16<br></strong></td><td style="width: 404px; height: 20px;" width="516">Leadership Training Camp</td></tr><tr style="height: 20px;"><td style="width: 69px; height: 20px;" width="85"><strong>21</strong></td><td style="width: 404px; height: 20px;" width="516">CCA Award Ceremony</td></tr></tbody></table>
-<h3> August 2023</h3>
-<table style="width: 480px;"><tbody><tr><td width="85"><strong>2</strong></td><td width="516">JC1 &amp; JC2 Meet-the-Parents</td></tr><tr><td width="85"><strong>8</strong></td><td width="516">National Day Celebration</td></tr><tr><td width="85"><strong>9</strong></td><td width="516">National Day</td></tr><tr><td width="85"><strong>10</strong></td><td width="516">National Day School Holiday</td></tr><tr><td width="85"><strong>14</strong></td><td width="516">Prelim: Science Practical Examination</td></tr><tr><td width="85"><strong>16</strong></td><td width="516">Prelim: Science Practical Examination</td></tr><tr><td width="85"><strong>23</strong></td><td width="516">Prelim: Science Practical Examination</td></tr><tr><td width="85"><strong>28 - 22 Sep<br></strong></td><td width="516">Prelim Examination</td></tr><tr><td><strong>30<br></strong></td><td>JC1 Science Practical</td></tr><tr><td><strong>31<br></strong></td><td>Teachers' Day Celebration</td></tr></tbody></table>
-<h3> September 2023</h3>
-<table style="width: 92.3099%; height: 120px;"><tbody><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>13</strong></td><td style="height: 20px;" width="516">EOY: JC1 Science Practical Examination</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>1 - 22</strong></td><td style="height: 20px;" width="516">Prelim Examination</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>2 - 10</strong></td><td style="height: 20px;" width="516">September Vacation</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>14</strong></td><td style="height: 20px;" width="516">EOY: JC1 Science Practical Examination</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>21</strong></td><td style="height: 20px;" width="516">JC1 Study Leave</td></tr><tr style="height: 20px;"><td style="height: 20px;" width="85"><strong>22 - 5 Oct<br></strong></td><td style="height: 20px;" width="516">EOY: JC1 Written Examination</td></tr></tbody></table>
-<h3> October 2023</h3>
-<table style="width: 92.3099%;"><tbody><tr><td style="width: 14.3154%;" width="85"><strong>1 – 5</strong></td><td style="width: 84.0249%;" width="516">EOY: JC1 Written Examination</td></tr><tr><td style="width: 14.3154%;" width="85"><strong>4</strong></td><td style="width: 84.0249%;" width="516">A level: H2 Computing Practical Examination</td></tr><tr><td style="width: 14.3154%;" width="85"><strong>11</strong></td><td style="width: 84.0249%;" width="516">JC2 Graduation Ceremony</td></tr><tr><td style="width: 14.3154%;"><strong>16<br></strong></td><td style="width: 84.0249%;">JC1 Written Report Submission (College)</td></tr><tr><td style="width: 14.3154%;" width="85"><strong>19 &amp; 21<br></strong></td><td style="width: 84.0249%;" width="516">A level: H1 CL/ML/TL Listening Comprehension Examination</td></tr><tr><td style="width: 14.3154%;"><strong>27<br></strong></td><td style="width: 84.0249%;">Halloween</td></tr></tbody></table>
-<h3> November 2023</h3>
-<table style="width: 480px;"><tbody><tr><td width="85"><strong>1</strong></td><td width="516">A level: H1 MTL Written Examination (Year-end)</td></tr><tr><td width="85"><strong>1 – 8</strong></td><td width="516">A level: PW Oral Presentations</td></tr><tr><td width="85"><strong>6 – 1 Dec</strong></td><td width="516">A level: Written Examination</td></tr><tr><td><strong>13<br></strong></td><td>School Holiday for Deepavali</td></tr><tr><td width="85"><strong>24</strong></td><td width="516">Last Day for JC1</td></tr><tr><td width="85"><strong>25 – 31 Dec</strong></td><td width="516">Year End Vacation</td></tr></tbody></table>
-<h3> December 2023</h3>
-<table style="width: 480px;"><tbody><tr><td width="85"><strong>1<br></strong></td><td width="516">Dinner &amp; Dance (GBTB)</td></tr><tr><td width="85"><strong>25</strong></td><td width="516">Christmas Day</td></tr><tr><td width="85"><strong>31</strong></td><td width="516">New Year’s Eve</td></tr></tbody></table>
+<h3>January 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>9</strong></td>
+<td width="516">First day of school for JC2s</td>
+</tr>
+<tr>
+<td width="85"><strong>13</strong></td>
+<td width="516">Open House</td>
+</tr>
+<tr>
+<td width="85"><strong>16 &ndash; 19<br /></strong></td>
+<td width="516">JC2 Common Test</td>
+</tr>
+<tr>
+<td width="85"><strong>30 -31<br /></strong></td>
+<td width="516">DSA</td>
+</tr>
+</tbody>
+</table>
+<h3>February 2023</h3>
+<table>
+<tbody>
+<tr>
+<td><strong>7<br /></strong></td>
+<td>First Day of School for JC1s</td>
+</tr>
+<tr>
+<td width="85"><strong>3 - 8<br /></strong></td>
+<td width="516">JC1 Orientation</td>
+</tr>
+<tr>
+<td width="85"><strong>9 - 10<br /></strong></td>
+<td width="516">CT Orientation</td>
+</tr>
+<tr>
+<td width="85"><strong>13 - 17<br /></strong></td>
+<td width="516">JC Academic Timetable</td>
+</tr>
+<tr>
+<td width="85"><strong>15</strong></td>
+<td width="516">JC1 Total Defence
+<p>CCA Bazaar</p>
+</td>
+</tr>
+<tr>
+<td width="85"><strong>16</strong></td>
+<td width="516">Start of full timetable for JC1</td>
+</tr>
+<tr>
+<td><strong>22<br /></strong></td>
+<td>JC1 Sports &amp; Aesthetics Enrichment Day
+<p>JC2 EDspiration Day</p>
+</td>
+</tr>
+<tr>
+<td><strong>24<br /></strong></td>
+<td>Dialogue with the Admissions Directors of the Autonomous Universities</td>
+</tr>
+</tbody>
+</table>
+<h3>March 2023</h3>
+<table>
+<tbody>
+<tr>
+<td><strong>1<br /></strong></td>
+<td>SIG Bazaar</td>
+</tr>
+<tr>
+<td width="85"><strong>7</strong></td>
+<td width="516">JC1 Sports Carnival &amp; IllumiNYte</td>
+</tr>
+<tr>
+<td><strong>8<br /></strong></td>
+<td>JC2 Sports Carnival &amp; IllumiNYte</td>
+</tr>
+<tr>
+<td width="85"><strong>29</strong></td>
+<td width="516">JC1 CCE Seminar</td>
+</tr>
+<tr>
+<td width="85"><strong>11 - 19<br /></strong></td>
+<td width="516">Term Break</td>
+</tr>
+</tbody>
+</table>
+<h3>April 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>7</strong></td>
+<td width="516">Good Friday</td>
+</tr>
+<tr>
+<td><strong>24<br /></strong></td>
+<td>School Holiday for Hari Raya Puasa</td>
+</tr>
+</tbody>
+</table>
+<h3>May 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>1</strong></td>
+<td width="516">Labour Day Public Holiday</td>
+</tr>
+<tr>
+<td><strong>19 - 20<br /></strong></td>
+<td>Class Leaders Training</td>
+</tr>
+<tr>
+<td width="85"><strong>24</strong></td>
+<td width="516">CCA Award Ceremony</td>
+</tr>
+<tr>
+<td width="85"><strong>25</strong></td>
+<td width="516">JC1 &amp; JC2 Common Test (General Paper)</td>
+</tr>
+<tr>
+<td width="85"><strong>27</strong></td>
+<td width="516">First Day of June Vacation</td>
+</tr>
+<tr>
+<td><strong>27<br /></strong></td>
+<td>45th Anniversary RemiNYscence</td>
+</tr>
+<tr>
+<td><strong>29<br /></strong></td>
+<td>A Level H1 MTL Written Examination</td>
+</tr>
+</tbody>
+</table>
+<h3>June 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>26 Jun &ndash; 30 Jun</strong></td>
+<td width="516">JC1 Common Test</td>
+</tr>
+<tr>
+<td width="85"><strong>26 Jun &ndash; 6 Jul</strong></td>
+<td width="516">JC2 Common Test</td>
+</tr>
+<tr>
+<td><strong>29<br /></strong></td>
+<td>Hari Raya Haji</td>
+</tr>
+</tbody>
+</table>
+<h3>July 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>3</strong></td>
+<td width="516">Youth Day School Holiday</td>
+</tr>
+<tr>
+<td width="85"><strong>4</strong></td>
+<td width="516">A-Level: H1 MTL cum MTL B (Mid-Year) Listening Comprehension</td>
+</tr>
+<tr>
+<td width="85"><strong>7</strong></td>
+<td width="516">JC2 Photo Taking &amp; CCA Records Checking</td>
+</tr>
+<tr>
+<td width="85"><strong>14 - 16<br /></strong></td>
+<td width="516">Leadership Training Camp</td>
+</tr>
+<tr>
+<td width="85"><strong>21</strong></td>
+<td width="516">CCA Award Ceremony</td>
+</tr>
+</tbody>
+</table>
+<h3>August 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>2</strong></td>
+<td width="516">JC1 &amp; JC2 Meet-the-Parents</td>
+</tr>
+<tr>
+<td width="85"><strong>8</strong></td>
+<td width="516">National Day Celebration</td>
+</tr>
+<tr>
+<td width="85"><strong>9</strong></td>
+<td width="516">National Day</td>
+</tr>
+<tr>
+<td width="85"><strong>10</strong></td>
+<td width="516">National Day School Holiday</td>
+</tr>
+<tr>
+<td width="85"><strong>14</strong></td>
+<td width="516">Prelim: Science Practical Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>16</strong></td>
+<td width="516">Prelim: Science Practical Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>23</strong></td>
+<td width="516">Prelim: Science Practical Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>28 - 22 Sep<br /></strong></td>
+<td width="516">Prelim Examination</td>
+</tr>
+<tr>
+<td><strong>30<br /></strong></td>
+<td>JC1 Science Practical</td>
+</tr>
+<tr>
+<td><strong>31<br /></strong></td>
+<td>Teachers' Day Celebration</td>
+</tr>
+</tbody>
+</table>
+<h3>September 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>13</strong></td>
+<td width="516">EOY: JC1 Science Practical Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>1 - 22</strong></td>
+<td width="516">Prelim Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>2 - 10</strong></td>
+<td width="516">September Vacation</td>
+</tr>
+<tr>
+<td width="85"><strong>14</strong></td>
+<td width="516">EOY: JC1 Science Practical Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>21</strong></td>
+<td width="516">JC1 Study Leave</td>
+</tr>
+<tr>
+<td width="85"><strong>22 - 5 Oct<br /></strong></td>
+<td width="516">EOY: JC1 Written Examination</td>
+</tr>
+</tbody>
+</table>
+<h3>October 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>1 &ndash; 5</strong></td>
+<td width="516">EOY: JC1 Written Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>4</strong></td>
+<td width="516">A level: H2 Computing Practical Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>11</strong></td>
+<td width="516">JC2 Graduation Ceremony</td>
+</tr>
+<tr>
+<td><strong>16<br /></strong></td>
+<td>JC1 Written Report Submission (College)</td>
+</tr>
+<tr>
+<td width="85"><strong>19 &amp; 21<br /></strong></td>
+<td width="516">A level: H1 CL/ML/TL Listening Comprehension Examination</td>
+</tr>
+<tr>
+<td><strong>27<br /></strong></td>
+<td>Halloween</td>
+</tr>
+</tbody>
+</table>
+<h3>November 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>1</strong></td>
+<td width="516">A level: H1 MTL Written Examination (Year-end)</td>
+</tr>
+<tr>
+<td width="85"><strong>1 &ndash; 8</strong></td>
+<td width="516">A level: PW Oral Presentations</td>
+</tr>
+<tr>
+<td width="85"><strong>6 &ndash; 1 Dec</strong></td>
+<td width="516">A level: Written Examination</td>
+</tr>
+<tr>
+<td><strong>13<br /></strong></td>
+<td>School Holiday for Deepavali</td>
+</tr>
+<tr>
+<td width="85"><strong>24</strong></td>
+<td width="516">Last Day for JC1</td>
+</tr>
+<tr>
+<td width="85"><strong>25 &ndash; 31 Dec</strong></td>
+<td width="516">Year End Vacation</td>
+</tr>
+</tbody>
+</table>
+<h3>December 2023</h3>
+<table>
+<tbody>
+<tr>
+<td width="85"><strong>1<br /></strong></td>
+<td width="516">Dinner &amp; Dance (GBTB)</td>
+</tr>
+<tr>
+<td width="85"><strong>25</strong></td>
+<td width="516">Christmas Day</td>
+</tr>
+<tr>
+<td width="85"><strong>31</strong></td>
+<td width="516">New Year&rsquo;s Eve</td>
+</tr>
+</tbody>
+</table>
