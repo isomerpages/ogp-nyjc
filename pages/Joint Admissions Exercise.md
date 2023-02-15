@@ -112,6 +112,7 @@ Art Elective Programme: [sim\_kim\_hong@schools.gov.sg](mailto:sim_kim_hong@sch
 Please remember to include your name, school and an email address so that we can reply to your query.
 
 <h2>FAQ</h2>
+
 **1 How will I be posted?**
 
 Applicants are posted to courses based first on the applicant’s merit, and second in the order of applicants’ choice of courses. All applicants are first ranked in the order of their net L1R5 aggregates, taking into account the various bonus points for which the applicants are eligible.
