@@ -49,7 +49,7 @@ Our Lifeskills Framework adopts a holistic and comprehensive approach, which ser
 
 **Student Affairs and Management Committee**
 
-![](/images/samd.png)
+![Student Affairs and Management Department](/images/Student%20Affairs.jpg)
 
 **Counselling Services**
 
@@ -70,4 +70,3 @@ There are times when you might need to seek help from a 24-hour hotline. These a
 
 
 <table><thead><tr><th>Services Agencies</th><th>Contact Info / Time</th><th>Who Is It For</th></tr></thead><tbody><tr><td>Child Guidance Clinic</td><td>6389 2000 / 6389 2222 (24 hrs)</td><td>For any child or youth with serious emotional and behavioural problems, e.g suicidal or psychotic problems</td></tr><tr><td>Ministry of Community Development &amp; Sports, Family<br>Support Division</td><td> 1800 258 5463</td><td>For families seeking help with resolving difficult family issues</td></tr><tr><td>Family Services Centres Hotline</td><td>1800 838 0100</td><td>For families seeking counselling</td></tr></tbody></table>
-
