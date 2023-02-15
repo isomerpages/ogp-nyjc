@@ -46,4 +46,5 @@ To qualify for the programme, students must obtain at the GCE 'O' Level examinat
 in the GCE O level examination.
 
 **Chinese Department Members**
+
 ![Chinese Department Staff](/images/Chinese%20Department.jpg)
