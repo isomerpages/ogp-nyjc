@@ -2,4 +2,5 @@ collections:
   srp:
     output: true
     order:
+      - NTU Nanyang Research Programme (NRP).md
       - NUS Science Research Programme (SRP).md
