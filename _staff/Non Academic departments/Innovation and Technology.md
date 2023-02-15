@@ -27,4 +27,4 @@ It commits to develop staff competency in the use of IT by conducting relevant w
 	
 **Innovation and Technology Members**
 	
-![Innovation and Technology Department](/images/IT.jpg)
+![Innovation and Technology Department](/images/EAS%204a.jpg)
