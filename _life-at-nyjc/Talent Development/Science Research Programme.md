@@ -12,7 +12,7 @@ Selected students will be given opportunities to develop their interest and deep
 
 
 
-<p>CIick&nbsp;<a href="https://nanyangjc.moe.edu.sg/2021/01/11/our-achievements/?fl_builder" target="_blank" rel="noopener">here</a>&nbsp;to see our students&rsquo; achievements.</p>
+<p>CIick&nbsp;<a href="https://ogp-nyjc-staging.netlify.app/srp/Others/Achievements/" target="_blank" rel="noopener">here</a>&nbsp;to see our students&rsquo; achievements.</p>
 <p>Click&nbsp;<a href="https://ogp-nyjc-staging.netlify.app/srp/Others/Testimonials/" target="_blank" rel="noopener">here</a>&nbsp;to read what our current and graduated students have to say about their experiences.</p>
 <p>Click&nbsp;<a href="https://ogp-nyjc-staging.netlify.app/srp/Others/FAQ/" target="_blank" rel="noopener">here</a>&nbsp;for frequently asked questions.</p>
 <p>For any research programme enquires, please email to</p>
