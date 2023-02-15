@@ -1,6 +1,6 @@
 ---
 title: Chinese Department
-permalink: /staff/Academic-Departments/Chinese-Department
+permalink: /staff/Academic-Departments/Chinese-Department/
 description: ""
 third_nav_title: Academic Departments
 ---
@@ -46,5 +46,4 @@ To qualify for the programme, students must obtain at the GCE 'O' Level examinat
 in the GCE O level examination.
 
 **Chinese Department Members**
-
-![](/images/chinese_department_members.png)
+![Chinese Department Staff](/images/Chinese%20Department.jpg)
