@@ -2,6 +2,7 @@ collections:
   srp:
     output: true
     order:
+      - Others/SRP FAQ.md
       - Others/Testimonials.md
       - Others/.keep
       - NUS Science Research Programme (SRP).md
