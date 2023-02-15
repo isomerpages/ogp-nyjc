@@ -2,9 +2,9 @@ collections:
   srp:
     output: true
     order:
-      - Others/SRP FAQ.md
-      - Others/Testimonials.md
       - Others/.keep
+      - Others/Testimonials.md
+      - Others/SRP FAQ.md
       - NUS Science Research Programme (SRP).md
       - NTU Nanyang Research Programme (NRP).md
       - A STAR Science Award (JC).md
