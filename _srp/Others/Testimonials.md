@@ -6,7 +6,7 @@ third_nav_title: Others
 ---
 **Hear From Your Seniors…**
 
-![Gabrielle](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/Gabrielle.jpg "Gabrielle")
+![Gabrielle](/images/Gabrielle.jpg "Gabrielle")
 
 **Gabrielle Marcya Joan**
 
@@ -36,7 +36,7 @@ Although I am not entirely sure of the specific aspect of research I wish to emb
 
 Overall, the programme has made my JC 1 year an enriching and rewarding one.
 
-![Kavan Goh](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/Kavan-Goh.jpg "Kavan Goh")
+![Kavan Goh](/images/Kavan-Goh.jpg "Kavan Goh")
 
 **Goh Kai Jun Kavan**
 
@@ -59,7 +59,7 @@ Overall, I would say my internship at DSO was a fruitful experience which equipp
 
 With the advent of the AI revolution, I am thankful that this internship has equipped me with relevant and useful skills to meet the demands of the future.
 
-![Michelle](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/Michelle.jpg "Michelle")
+![Michelle](/images/Michelle.jpg "Michelle")
 
 **Michelle Louisa Tanuwijaya**
 
@@ -87,7 +87,7 @@ It was challenging to juggle between schoolwork, CCA and other commitments. Howe
 
 Overall, this invaluable opportunity has allowed me to learn so many new things and has helped me gain essential skills that would be beneficial for me in the future!
 
-![Wenyang](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/Wenyang.jpg "Wenyang")
+![Wenyang](/images/Wenyang.jpg "Wenyang")
 
 **Goh Wen Yang**
 
@@ -113,7 +113,7 @@ Although balancing research, academics and CCA was initially a concern, my mento
 
 From this program, my main takeaway was that I do enjoy material science and engineering but beyond that, it gave me a clearer idea of what I may not enjoy which can help shape my other choices. For example, I was involved in significant amounts of data processing in this program which was honestly quite mundane to me and hence I may not choose courses that are more analytical in nature for university. Overall, participating in this research has helped to shape my perspective on labwork and I strongly encourage research for students who are unsure of what they wish to pursue as research will help open their perspectives (provided that one is not struggling with academics).
 
-![Lihan](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/A7_08458.jpg "Lihan")
+![Lihan](/images/A7_08458.jpg "Lihan")
 
 **Yang Lihan**
 
@@ -148,7 +148,7 @@ The Scientist-in-School programme taught me many things I could not have learned
 
 So, if you have a research programme in mind, go for it. Find out about a new field, take up new skills, build up friendships and most importantly. Have fun!
 
-![Adzfar](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/A7_08456.jpg "Adzfar")
+![Adzfar](/images/A7_08456.jpg "Adzfar")
 
 **Muhammad Nur Adzfar Bin Mohammad Zulkiffli**
 
@@ -174,7 +174,7 @@ I must admit that juggling my academic preparations for the JC2 Common Test, my 
 
 Overall, the programme has proven to be a fun and challenging experience for me and I am sure anyone with the drive to stretch themselves in the field of scientific research would enjoy it as much as I did.
 
-![Rui Xuan](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/A7_08449.jpg "Rui Xuan")
+![Rui Xuan](/images/A7_08449.jpg "Rui Xuan")
 
 **Lee Rui Xuan**
 
@@ -198,7 +198,7 @@ l was initially concerned about the workload and the impact on my school work, h
 
 I am extremely thankful for this learning experience. The programme allows me to apply what I have learnt in school, as well as to give me an introduction to Science research at the tertiary level.
 
-![Popova Mariia](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/A7_08450.jpg "Popova Mariia")
+![Popova Mariia](/images/A7_08450.jpg "Popova Mariia")
 
 **Popova Mariia**
 
@@ -223,7 +223,7 @@ Probably the most rewarding part of my research was getting to understand new co
 
 Looking back, the NRP was one of my most significant experiences in JC1. Even though pharmaceuticals may not necessarily be my first career choice in future, I now know for sure that I want to dedicate my life to scientific research.
 
-![Roger](https://nanyangjc.moe.edu.sg/wp-content/uploads/2022/01/A7_08454.jpg "Roger")
+![Roger](/images/A7_08454.jpg "Roger")
 
 **Zhang MingZhen Roger**
 
@@ -246,7 +246,7 @@ One memorable aspect of this attachment is working with my mentor. He patiently 
 
 Overall, this attachment was very interesting and insightful, especially for people who are keen to learn and are open to trying out new things. I have learnt important soft skills such as critical thinking, application of my knowledge in the real world and have good time management. I believe that one can benefit and learn from this programme, regardless of whether one aims to pursue material science as a career in the future. Therefore, I would recommend this attachment programme to my juniors in order to enrich their learning and occupy their time more meaningfully during the holidays.
 
-![Basil Kuok](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Basil-Kuok.jpg "Basil Kuok")
+![Basil Kuok](/images/Basil-Kuok.jpg "Basil Kuok")
 
 **Basil Kuok Zi Xi**
 
@@ -272,7 +272,7 @@ The research attachment gave me the invaluable opportunity of experiencing how m
 
 The initial excitement of entering the lab may quickly die off, and will be replaced with the extended hours of repetitive experimental procedures, waiting for results, reading up articles and writing reports which can be mundane and daunting if one does not have the passion and interest. So far, my research experience has affirmed my belief that biomedical research is the right career choice for me and I hope to become a clinical researcher conducting clinical trials of novel therapies that can potentially save lives.
 
-![Karel Lee](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Karel-Lee.jpg "Karel Lee")
+![Karel Lee](/images/Karel-Lee.jpg "Karel Lee")
 
 **Lee Wen Xuan, Karel**
 
@@ -302,7 +302,7 @@ I was anxious about juggling my commitments while working throughout the Decembe
 
 There was no doubt that the attachment has made my December holidays one of the most meaningful yet. The values, connections and knowledge I acquired would truly be beneficial to me in the years ahead.
 
-![Vaikesh](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Vaikesh.jpg "Vaikesh")
+![Vaikesh](/images/Vaikesh.jpg "Vaikesh")
 
 **Vaikesh S/O Manimaran**
 
@@ -326,7 +326,7 @@ The most memorable part of NRP was going to Nanyang Technological University’s
 
 “Discovery is seeing what everybody else has seen and thinking what nobody else has thought.” - Albert Szent-Györgyi.
 
-![Thanakorn Sripratak](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Thanakorn-Sripratak.jpg "Thanakorn Sripratak")
+![Thanakorn Sripratak](/images/Thanakorn-Sripratak.jpg "Thanakorn Sripratak")
 
 **Thanakorn Sripratak**
 
@@ -357,7 +357,7 @@ The programme took up a significant amount time and was taxing but what I learnt
 
 This programme has been a wonderful experience and has allowed me to learn so much!
 
-![Wenkang](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Wenkang.jpg "Wenkang")
+![Wenkang](/images/Wenkang.jpg "Wenkang")
 
 **Xin Wenkang**
 
@@ -385,7 +385,7 @@ The team participated in an international competition (ST Yau High School Scienc
 
 In short, I would recommend anyone who can manage JC schoolwork to try out a research project. It gives you a taste of working in the scientific community and allows you to pick up many important skills for your future academics and career.
 
-![Chin Siang](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Chin-Siang.jpg "Chin Siang")
+![Chin Siang](/images/Chin-Siang.jpg "Chin Siang")
 
 **Yew Chin Siang**
 
@@ -412,7 +412,7 @@ This attachment helped solidify my decision that research is the right path for 
 
 Although the attachment was very rewarding, it was still challenging as I had to juggle academics and other commitments at the same time. Thus, I had to have good time management and consistency in my work - not just during the holidays, but across the whole year to cope with all these activities.
 
-![Bernice Photo-large](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Bernice-Photo-large.jpg "Bernice Photo-large")
+![Bernice Photo-large](/images/Bernice-Photo-large.jpg "Bernice Photo-large")
 
 **Bernice Teo Wei Shan**
 
@@ -436,7 +436,7 @@ As a proud Science Research Programme (SRP) participant, I am always eager to sh
 
 The writing of the actual research paper is, I believe, a part of research that is often overlooked. To produce a thorough research paper, I had to learn how to present my findings in the most comprehensible way, amongst the plethora of diagrams and infographics which I can use. I had to be concise in documenting my whole research as well, so that the readers can, more easily, sieve out and highlight valuable information for themselves. My mentor also imparted a lot of knowledge and tips which were instrumental in my successful completion of the research paper by the stipulated deadline. The end results were indisputably gratifying as I see all my hard work being translated into words and diagrams. Fortunately for me, my mentor has also published an edited version of my research online, and I could share with my close friends and family, a titbit of my understanding gained during the programme.
 
-![Tracey Photo](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/01/Tracey-Photo.jpg "Tracey Photo")
+![Tracey Photo](/images/Tracey-Photo.jpg "Tracey Photo")
 
 **Tracey Tay Yee Hsin**
 
