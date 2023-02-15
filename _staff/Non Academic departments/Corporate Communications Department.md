@@ -12,3 +12,4 @@ The college’s partnership efforts are also coordinated by the department. We w
 
 **Corporate Communications and Partnership Department Members**
 
+![Corporate Communications Department](/images/Corp%20Comms.jpg)
