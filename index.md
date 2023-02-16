@@ -15,7 +15,7 @@ sections:
           url: /headlines/2022/02/16/4972/
         - title: STORIES
           description: Hear our stories
-          url: /stories/2022-wild-run-photo-gallery/
+          url: https://nanyangjc.smugmug.com
   - infobar:
       description: <div class="bp-youtube" ><iframe
         src="https://www.youtube.com/embed/duXd9jF_-Vo " title="YouTube video
