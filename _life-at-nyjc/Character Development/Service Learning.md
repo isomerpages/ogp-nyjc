@@ -51,6 +51,7 @@ For Students**
 [Environment](/service-learning/Environment)
 
 ![Animal Welfare](/images/Animal-Welfare.jpg "Animal Welfare")
+
 [Animal Welfare](/service-learning/Animals)
 
 ![Heritage and the Arts](/images/Heritage-and-the-Arts.jpg "Heritage and the Arts")
