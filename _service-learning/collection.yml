@@ -2,6 +2,7 @@ collections:
   service-learning:
     output: true
     order:
+      - Working with Individuals with Special Needs.md
       - Working with the Elderly.md
       - Working with the Community.md
       - Working with Children and Youth.md
