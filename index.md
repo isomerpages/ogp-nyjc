@@ -45,7 +45,7 @@ sections:
       subtitle: Our Stories
       button: More
       url: https://nanyangjc.smugmug.com/2023-Total-Defence-Day
-      description: <div class="home-video"><iframe
+      description: <iframe
         src="https://nanyangjc.smugmug.com/frame/slideshow?key=vm5Vds&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2"
         width="800" height="600" frameborder="no" scrolling="no"></iframe>
 ---
