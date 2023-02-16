@@ -4,6 +4,7 @@ permalink: /life-at-nyjc/Character-Development/SL/
 description: ""
 third_nav_title: Character Development
 ---
+# Service-Learning @ Nanyang Junior College: Student-initiated CCE Projects
 
 
 At Nanyang Junior College, our students are strongly encouraged to initiate class-based and CCA-based CCE projects with an emphasis on Service-Learning (S-L) which will benefit the wider community. Students who are interested to initiate and lead a CCE project can volunteer to be an S-L Advocate, which is an official appointment under the college’s leadership portfolio for the Class Executive Committee. Appointed S-L Advocates will undergo a training programme where they will be trained in S-L methodology, project management and facilitation skills.
