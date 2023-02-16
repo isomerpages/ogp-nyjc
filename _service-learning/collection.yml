@@ -2,12 +2,12 @@ collections:
   service-learning:
     output: true
     order:
+      - Working with Children and Youth.md
+      - Working with the Community.md
+      - Working with the Elderly.md
+      - Working with Individuals with Special Needs.md
+      - Working for the Environment.md
+      - Working for the Welfare of the Animals.md
+      - Working on the Heritage and the Arts.md
       - "Going Overseas:  Befriending our Global Partners and Regional
         Neighbours.md"
-      - Working on the Heritage and the Arts.md
-      - Working for the Welfare of the Animals.md
-      - Working for the Environment.md
-      - Working with Individuals with Special Needs.md
-      - Working with the Elderly.md
-      - Working with the Community.md
-      - Working with Children and Youth.md
