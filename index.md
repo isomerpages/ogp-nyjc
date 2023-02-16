@@ -17,11 +17,11 @@ sections:
           description: Hear our stories
           url: https://nanyangjc.smugmug.com
   - infobar:
-      description: <div class="bp-youtube" ><iframe
-        src="https://www.youtube.com/embed/duXd9jF_-Vo " title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+      description: <div class="bp-youtube" ><iframe width="560"
+        height="315"  src="https://www.youtube.com/embed/duXd9jF_-Vo "
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
   - infopic:
       title: Direct School Admission (DSA)
