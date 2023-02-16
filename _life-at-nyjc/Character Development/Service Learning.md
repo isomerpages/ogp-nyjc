@@ -35,28 +35,28 @@ For Students**
 
 ![Community](/images/Community.jpg)
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-the-community/">Community</a></td></tr></tbody></table>
+[Community](/service-learning/Community)
+
 
 ![Elderly](/images/Elderly.jpg "Elderly")
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-the-elderly/">Elderly</a></td></tr></tbody></table>
+[Elderly](/service-learning/Elderly)
 
 ![Individuals of Special Needs](/images/Individuals-of-Special-Needs.jpg "Individuals of Special Needs")
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-individuals-with-special-needs/">Individual with Special Needs</a></td></tr></tbody></table>
+[Individuals of Special Needs](/service-learning/Needs)
 
 ![Environment](/images/Environment.jpg "Environment")
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-for-the-environment/">Environment</a></td></tr></tbody></table>
+[Environment](/service-learning/Environment)
 
 ![Animal Welfare](/images/Animal-Welfare.jpg "Animal Welfare")
-
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-for-the-welfare-of-the-animals/">Animal Welfare</a></td></tr></tbody></table>
+[Animal Welfare](/service-learning/Animals)
 
 ![Heritage and the Arts](/images/Heritage-and-the-Arts.jpg "Heritage and the Arts")
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-on-the-heritage-and-the-arts/">Heritage and the Arts</a></td></tr></tbody></table>
+[Heritage and the Arts](/service-learning/Arts)
 
 ![Overseas](/images/Overseas.jpg "Overseas")
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/going-overseas-befriending-our-global-partners-and-regional-neighbours/">Overseas</a></td></tr></tbody></table>
+[Overseas](/service-learning/Overseas)
