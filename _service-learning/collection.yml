@@ -1,4 +1,5 @@
 collections:
   service-learning:
     output: true
-    order: []
+    order:
+      - Working with Children and Youth.md
