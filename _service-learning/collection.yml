@@ -2,6 +2,8 @@ collections:
   service-learning:
     output: true
     order:
+      - "Going Overseas:  Befriending our Global Partners and Regional
+        Neighbours.md"
       - Working on the Heritage and the Arts.md
       - Working for the Welfare of the Animals.md
       - Working for the Environment.md
