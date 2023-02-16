@@ -31,7 +31,7 @@ For Students**
 
 ![Children and Youth](/images/Children-and-Youth.jpg "Children and Youth")
 
-<table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-children-and-youth/">Children and Youth</a></td></tr></tbody></table>
+[Children and Youth](/service-learning/children/)
 
 ![Community](/images/Community.jpg)
 
