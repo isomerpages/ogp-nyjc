@@ -43,7 +43,7 @@ sections:
   - infobar:
       title: Photo Gallery
       subtitle: Our Stories
-      button: Button Text
+      button: More
       url: nanyangjc.smugmug.com
       description: <iframe
         src="https://nanyangjc.smugmug.com/frame/slideshow?key=vm5Vds&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2"
