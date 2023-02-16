@@ -23,38 +23,37 @@ To cultivate our five college values: Drive, Responsibility Integrity, Inventive
 **NYJC CCE Project Standard Operating Procedure 2021 - 2022  
 For Students**
 
-![NYJC CCE Project Student SOP 2023 - 2024](https://nanyangjc.moe.edu.sg/wp-content/uploads/2023/02/NYJC-CCE-Project-Student-SOP-2023-2024.jpg "NYJC CCE Project Student SOP 2023 - 2024")
-
+![CCE Project](/images/NYJC-CCE-Project-Student-SOP-2023-2024.jpg)
 **Project Beneficiaries**
 
-![Children and Youth](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Children-and-Youth.jpg "Children and Youth")
+![Children and Youth](/images/Children-and-Youth.jpg "Children and Youth")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-children-and-youth/">Children and Youth</a></td></tr></tbody></table>
 
-![Community](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Community.jpg)
+![Community](/images/Community.jpg)
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-the-community/">Community</a></td></tr></tbody></table>
 
-![Elderly](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Elderly.jpg "Elderly")
+![Elderly](/images/Elderly.jpg "Elderly")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-the-elderly/">Elderly</a></td></tr></tbody></table>
 
-![Individuals of Special Needs](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Individuals-of-Special-Needs.jpg "Individuals of Special Needs")
+![Individuals of Special Needs](/images/Individuals-of-Special-Needs.jpg "Individuals of Special Needs")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td><a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-with-individuals-with-special-needs/">Individual with Special Needs</a></td></tr></tbody></table>
 
-![Environment](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Environment.jpg "Environment")
+![Environment](/images/Environment.jpg "Environment")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-for-the-environment/">Environment</a></td></tr></tbody></table>
 
-![Animal Welfare](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Animal-Welfare.jpg "Animal Welfare")
+![Animal Welfare](/images/Animal-Welfare.jpg "Animal Welfare")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-for-the-welfare-of-the-animals/">Animal Welfare</a></td></tr></tbody></table>
 
-![Heritage and the Arts](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Heritage-and-the-Arts.jpg "Heritage and the Arts")
+![Heritage and the Arts](/images/Heritage-and-the-Arts.jpg "Heritage and the Arts")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/working-on-the-heritage-and-the-arts/">Heritage and the Arts</a></td></tr></tbody></table>
 
-![Overseas](https://nanyangjc.moe.edu.sg/wp-content/uploads/2020/08/Overseas.jpg "Overseas")
+![Overseas](/images/Overseas.jpg "Overseas")
 
 <table class="ive_eobj_center ives_tab_kosong"><tbody><tr><td>&nbsp;<a href="https://nanyangjc.moe.edu.sg/current-nyjcians/character-development/service-learning-nanyang-junior-college-student-initiated-cce-projects/going-overseas-befriending-our-global-partners-and-regional-neighbours/">Overseas</a></td></tr></tbody></table>
