@@ -2,6 +2,7 @@ collections:
   service-learning:
     output: true
     order:
+      - Working on the Heritage and the Arts.md
       - Working for the Welfare of the Animals.md
       - Working for the Environment.md
       - Working with Individuals with Special Needs.md
