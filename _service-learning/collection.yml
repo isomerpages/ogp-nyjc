@@ -1,0 +1,4 @@
+collections:
+  service-learning:
+    output: true
+    order: []
