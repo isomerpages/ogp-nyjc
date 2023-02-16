@@ -14,7 +14,7 @@ sections:
           description: Check out our headlines
           url: /headlines/2022/02/16/4972/
         - title: STORIES
-          description: Hear our stories
+          description: View our stories
           url: https://nanyangjc.smugmug.com
   - infobar:
       description: <div class="bp-youtube" ><iframe width="560"
