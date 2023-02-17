@@ -3,7 +3,8 @@ title: 2021 A Level Results Release
 permalink: /headlines/2022/02/16/4972/
 description: ""
 ---
+![](/images/release.jpg)
 
-[2021 A Level Results Release Letter](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/02/2021-A-Level-Results-Release-Letter.pdf)
+[2022 A Level Results Release Letter](/files/Letter-on-2022-A-Level-Results-Release.pdf)
 
-[Letter of Authorisation for Collection of A Level Results](https://nanyangjc.moe.edu.sg/wp-content/uploads/2021/02/Letter-of-Authorisation-for-Collection-of-A-Level-Results.pdf)
+[Letter of Authorisation for Collection of A Level Results](/files/Letter-of-Authorisation-for-Collection-of-A-Level-Results.pdf)
