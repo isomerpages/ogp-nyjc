@@ -24,12 +24,11 @@ sections:
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
   - infopic:
-      title: Direct School Admission (DSA)
-      description: Applications are now open!
+      title: 2022 A-Level Results Release
       button: Click here
-      url: /admissions-and-admin/administration/dsa
+      url: https://ogp-nyjc-staging.netlify.app/headlines/2022/02/16/4972/
       alt: Image alt text
-      image: /images/DSAJC-banner-resized.png
+      image: /images/release.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
