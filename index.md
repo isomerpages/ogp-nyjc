@@ -16,13 +16,6 @@ sections:
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
-  - infobar:
-      description: <div class="bp-youtube" ><iframe width="560"
-        height="315"  src="https://www.youtube.com/embed/duXd9jF_-Vo "
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture" allowfullscreen></iframe>
-      title: "Watch our latest video:"
   - infopic:
       title: 2022 A-Level Results Release
       button: Click here
@@ -44,4 +37,11 @@ sections:
         height="500" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe>
+  - infobar:
+      description: <div class="bp-youtube" ><iframe width="560"
+        height="315"  src="https://www.youtube.com/embed/duXd9jF_-Vo "
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture" allowfullscreen></iframe>
+      title: "Watch our latest video:"
 ---
