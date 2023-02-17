@@ -26,7 +26,7 @@ sections:
       title: 2023 CCA Bazaar (Photo Gallery)
       subtitle: Infopic Subtitle
       description: Infopic description
-      button: Button Text
+      button: Click here
       url: https://nanyangjc.smugmug.com/2023-CCA-Bazaar
       image: /images/CCA-Bazaar-26.jpg
       alt: Image alt text
