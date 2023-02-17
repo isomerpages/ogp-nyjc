@@ -36,14 +36,6 @@ sections:
         height="500" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe>
-  - infobar:
-      title: Photo Gallery
-      subtitle: Our Stories
-      button: More
-      url: https://nanyangjc.smugmug.com/2023-Total-Defence-Day
-      description: <iframe
-        src="https://nanyangjc.smugmug.com/frame/slideshow?key=vm5Vds&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2"
-        width="800" height="600" frameborder="no" scrolling="no"></iframe>
   - infopic:
       title: 2023 CCA Bazaar (Photo Gallery)
       subtitle: Infopic Subtitle
