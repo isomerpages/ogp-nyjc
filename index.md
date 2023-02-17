@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Screenshot 2022-06-02.png
+      background: /images/Admissions-Admin.jpg
       url: /contact-us/
       key_highlights:
         - title: Headlines
