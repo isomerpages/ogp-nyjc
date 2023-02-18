@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Admissions-Admin.jpg
+      background: /images/nyjc banner.gif
       url: /contact-us/
       key_highlights:
         - title: Headlines
