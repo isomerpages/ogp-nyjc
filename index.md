@@ -16,6 +16,12 @@ sections:
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
+        - title: NYJC Integrated Portal
+          description: Key Highlight description
+          url: https://portal.nyjc.edu.sg/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: 2022 A-Level Results Release
       button: Click here
