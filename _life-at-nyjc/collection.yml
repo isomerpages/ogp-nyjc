@@ -2,6 +2,7 @@ collections:
   life-at-nyjc:
     output: true
     order:
+      - Calendar of Events.md
       - Academic Programmes/.keep
       - Academic Programmes/Subjects Offered in NYJC.md
       - Academic Programmes/Art Elective Programme (AEP).md
