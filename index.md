@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nyjc banner.gif
+      background: /images/banner 3.gif
       url: /contact-us/
       key_highlights:
         - title: Headlines
