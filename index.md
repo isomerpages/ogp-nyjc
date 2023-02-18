@@ -33,7 +33,7 @@ sections:
       subtitle: Infopic Subtitle
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-CCA-Bazaar
-      image: /images/063.jpg
+      image: /images/068a.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
