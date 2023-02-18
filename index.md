@@ -19,6 +19,9 @@ sections:
         - title: NYJC Integrated Portal
           description: Student Learning Resources
           url: https://portal.nyjc.edu.sg/
+        - title: Time Table
+          description: Student & Staff
+          url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
       title: 2022 A-Level Results Release
       button: Click here
