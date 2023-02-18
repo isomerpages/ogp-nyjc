@@ -2,7 +2,6 @@ collections:
   life-at-nyjc:
     output: true
     order:
-      - Calendar of Events.md
       - Academic Programmes/.keep
       - Academic Programmes/Subjects Offered in NYJC.md
       - Academic Programmes/Art Elective Programme (AEP).md
@@ -54,3 +53,4 @@ collections:
       - Character Development/Code of Conduct.md
       - Character Development/Information on Sexuality Education Programme.md
       - Character Development/Service Learning.md
+      - Calendar of Events.md
