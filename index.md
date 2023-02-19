@@ -23,17 +23,19 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2022 A-Level Results Release
-      button: Click here
-      url: https://ogp-nyjc-staging.netlify.app/headlines/2022/02/16/4972/
-      alt: Image alt text
-      image: /images/release.jpg
-  - infopic:
       title: 2023 Release of 2022 A Level Results (Photo Gallery)
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-CCA-Bazaar
       image: /images/068a.jpg
       alt: Image alt text
+      subtitle: Stories
+  - infopic:
+      title: 2022 A-Level Results Release
+      button: Click here
+      url: https://ogp-nyjc-staging.netlify.app/headlines/2022/02/16/4972/
+      alt: Image alt text
+      image: /images/release.jpg
+      subtitle: Headlines
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
