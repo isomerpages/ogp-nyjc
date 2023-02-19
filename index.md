@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Nanyang Junior College
+description: An Isomer site of the Singapore Government
+image: /images/nyjc-logo.png
 permalink: /
 notification: ""
 sections:
@@ -51,3 +51,4 @@ sections:
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
 ---
+
