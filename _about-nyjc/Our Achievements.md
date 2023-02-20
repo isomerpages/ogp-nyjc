@@ -1,6 +1,6 @@
 ---
 title: Our Achievements
-permalink: /about-nyjc/our-achievements
+permalink: /about-nyjc/our-achievements/
 description: ""
 ---
 

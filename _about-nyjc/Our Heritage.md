@@ -1,6 +1,6 @@
 ---
 title: Our Heritage
-permalink: /about-nyjc/our-heritage
+permalink: /about-nyjc/our-heritage/
 description: ""
 ---
 **A Strong Foundation for Greater Success**

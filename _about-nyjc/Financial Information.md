@@ -1,6 +1,6 @@
 ---
 title: Financial Information
-permalink: /about-nyjc/financial-information
+permalink: /about-nyjc/financial-information/
 description: ""
 ---
 **Charity Status**: Exempt
