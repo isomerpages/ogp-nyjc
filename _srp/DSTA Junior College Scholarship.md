@@ -21,4 +21,4 @@ Value of scholarship:
 
 **Online Registration Deadline**
 
-20 Feb 2023
+28 Feb 2023
