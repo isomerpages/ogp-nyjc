@@ -1,6 +1,6 @@
 ---
 title: International Students
-permalink: /admissions-and-admin/Administration/international-students
+permalink: /admissions-and-admin/Administration/international-students/
 description: ""
 third_nav_title: Admissions
 ---
