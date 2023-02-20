@@ -1,6 +1,6 @@
 ---
 title: Alumni Association
-permalink: /life-beyond-nyjc/Alumni-Association
+permalink: /life-beyond-nyjc/Alumni-Association/
 description: ""
 ---
 <div data-node="5f4bfd6861dcf">

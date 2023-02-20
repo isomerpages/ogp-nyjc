@@ -1,6 +1,6 @@
 ---
 title: Returning Singaporeans
-permalink: /admissions-and-admin/Administration/returning-singaporeans
+permalink: /admissions-and-admin/Administration/returning-singaporeans/
 description: ""
 third_nav_title: Admissions
 ---

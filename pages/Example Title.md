@@ -1,5 +1,5 @@
 ---
 title: Example Title
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---

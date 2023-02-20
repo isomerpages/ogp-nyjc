@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme
-permalink: /admissions-and-admin/Administrations/fas
+permalink: /admissions-and-admin/Administrations/fas/
 description: ""
 third_nav_title: Administrations
 ---

@@ -1,6 +1,6 @@
 ---
 title: Our Campus
-permalink: /about-nyjc/our-campus
+permalink: /about-nyjc/our-campus/
 description: ""
 ---
 NYJC promises an environment conducive to both work and play. Besides an award-winning school building that allows natural light and good breeze, the college management spares no effort at upgrading and enhancing its current campus.

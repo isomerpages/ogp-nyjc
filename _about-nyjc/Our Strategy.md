@@ -1,6 +1,6 @@
 ---
 title: Our Strategy
-permalink: /about-nyjc/our-strategy
+permalink: /about-nyjc/our-strategy/
 description: ""
 ---
 **Let's call a Spade a Spade**
