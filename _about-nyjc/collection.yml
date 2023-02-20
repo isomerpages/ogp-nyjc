@@ -1,0 +1,12 @@
+collections:
+  about-nyjc:
+    output: true
+    order:
+      - Our Strategy.md
+      - Our Achievements.md
+      - Our School Management Committee.md
+      - Our Key Personnel.md
+      - Finding The Right People.md
+      - Our Campus.md
+      - Our Heritage.md
+      - Financial Information.md

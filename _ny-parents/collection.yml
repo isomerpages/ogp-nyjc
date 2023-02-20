@@ -1,0 +1,10 @@
+collections:
+  ny-parents:
+    output: true
+    order:
+      - Partner with us/.keep
+      - Partner with us/Role of Parents in ECG.md
+      - Partner with us/Information on Sexuality Education Programme.md
+      - Annoucements.md
+      - JC1 Information.md
+      - Important Dates.md

@@ -1,0 +1,22 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Academic Departments/.keep
+      - Academic Departments/Chinese Department.md
+      - Academic Departments/Economics Department.md
+      - Academic Departments/English Department.md
+      - Academic Departments/Humanities Department.md
+      - Academic Departments/Mathematics Department.md
+      - Academic Departments/Project Work Department.md
+      - Academic Departments/Science & Research Department.md
+      - Non Academic departments/.keep
+      - Non Academic departments/Character and Leadership Department.md
+      - Non Academic departments/Corporate Communications Department.md
+      - Non Academic departments/Executive & Administrative Staff.md
+      - Non Academic departments/Innovation and Technology.md
+      - Non Academic departments/Physical Education & CCA Department.md
+      - Non Academic departments/Student Affairs and Management Department.md
+      - Non Academic departments/Systems and Information Management Department.md
+      - Training and Development.md
+      - Useful Links.md

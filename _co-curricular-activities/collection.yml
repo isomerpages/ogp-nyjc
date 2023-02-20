@@ -1,0 +1,40 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Sport CCAs/.keep
+      - Sport CCAs/Badminton.md
+      - Sport CCAs/Basketball.md
+      - Sport CCAs/Dragonboat Team.md
+      - Sport CCAs/Floorball.md
+      - Sport CCAs/Netball.md
+      - Sport CCAs/Soccer.md
+      - Sport CCAs/Squash.md
+      - Sport CCAs/Table Tennis.md
+      - Sport CCAs/Tchoukball.md
+      - Sport CCAs/Tennis.md
+      - Sport CCAs/Touch Rugby.md
+      - Sport CCAs/Volleyball.md
+      - Aesthetics Groups/.keep
+      - Aesthetics Groups/Chinese Cultural Society.md
+      - Aesthetics Groups/Chinese Orchestra.md
+      - Aesthetics Groups/Choir.md
+      - Aesthetics Groups/Dance Society.md
+      - Aesthetics Groups/English Drama Club.md
+      - Aesthetics Groups/Guzheng Ensemble.md
+      - Aesthetics Groups/Photographic Society.md
+      - Aesthetics Groups/Symphonic Band.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/AEP Club.md
+      - Clubs & Societies/AVA Club.md
+      - Clubs & Societies/Biz Club.md
+      - Clubs & Societies/Channel News Nanyang.md
+      - Clubs & Societies/Chinese Literary Club.md
+      - Clubs & Societies/Red Cross Youth (Nanyang Junior College Chapter).md
+      - Clubs & Societies/Interact Club.md
+      - Clubs & Societies/Gym Club.md
+      - Clubs & Societies/Malay Cultural Society.md
+      - Clubs & Societies/Nanyang Debaters and Orators (NYDO).md
+      - Clubs & Societies/Outdoor Activities Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Clubs & Societies/The Drum (Media Resource Library).md

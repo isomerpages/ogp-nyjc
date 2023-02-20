@@ -1,0 +1,7 @@
+collections:
+  life-beyond-nyjc:
+    output: true
+    order:
+      - Life Beyond NYJC.md
+      - Notable Alumni.md
+      - Alumni Association.md

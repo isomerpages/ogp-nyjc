@@ -1,0 +1,7 @@
+collections:
+  headlines:
+    output: true
+    order:
+      - 2022 A Level Results Release (Feb 14, 2023).md
+      - University and Scholarship Application Resources (Feb 13, 2023).md
+      - EDspiration (Feb 12, 2023).md
