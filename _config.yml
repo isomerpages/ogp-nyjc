@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://ogp-nyjc-staging.netlify.app
-prod: https://ogp-nyjc-prod.netlify.app
+staging: https://staging.d2866iv6ezx5cg.amplifyapp.com/
+prod: https://master.d2866iv6ezx5cg.amplifyapp.com/
 shareicon: /images/nyjc-logo.png
 is_government: false
 facebook-pixel: ""
