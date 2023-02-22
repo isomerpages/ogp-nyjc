@@ -2,8 +2,9 @@
 title: Innovation and Technology
 permalink: /staff/Non-Academic-departments/innovation-and-technology/
 description: ""
-third_nav_title: Non Academic departments
+third_nav_title: Non Academic Departments
 ---
+
 The department promotes and support the innovative and effective use of Information and Technology to develop independent and engaged learning amongst students and to facilitate admin processes efficiently for our staff.
 
 It commits to develop staff competency in the use of IT by conducting relevant workshops for professional and personal development.  The department also works towards conducting relevant enrichment workshops and secure partnership with industry partners to broaden the students’ knowledge and skills in IT.

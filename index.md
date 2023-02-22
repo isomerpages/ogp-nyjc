@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: 2023 Release of 2022 A Level Results (Photo Gallery)
       button: Click here
-      url: https://nanyangjc.smugmug.com/2023-CCA-Bazaar
+      url: https://nanyangjc.smugmug.com/2023-A-Level-Results-2022-Release/
       image: /images/068a.jpg
       alt: Image alt text
       subtitle: Stories
@@ -51,4 +51,3 @@ sections:
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
 ---
-

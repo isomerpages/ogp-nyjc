@@ -2,8 +2,9 @@
 title: Student Affairs and Management Department
 permalink: /staff/Non-Academic-departments/student-affairs-and-management-department/
 description: ""
-third_nav_title: Non Academic departments
+third_nav_title: Non Academic Departments
 ---
+
 The Student Affairs and Management Department handles everything that concerns students so that students can be well-balanced individuals in a changing world.
 
 Its programmes include:

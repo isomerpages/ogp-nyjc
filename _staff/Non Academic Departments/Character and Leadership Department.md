@@ -2,8 +2,9 @@
 title: Character and Leadership Department
 permalink: /staff/Non-Academic-departments/character-and-leadership-department/
 description: ""
-third_nav_title: Non Academic departments
+third_nav_title: Non Academic Departments
 ---
+
 The programmes that the department has put in place are in line with the college’s vision of nurturing the leadership potential in every NYJCian. We also strongly believe in service leadership, encouraging NYJCians to serve the wider community beyond the college.
 
 Leadership training takes place at 3 levels : the general student population, the class committee, the CCA leaders and student councillors.
