@@ -23,6 +23,13 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Sports & Aesthetics Enrichment Day
+      subtitle: Stories
+      button: CLICK HERE
+      url: https://nanyangjc.smugmug.com/Sports-and-Aesthetics-Enrichment-Day
+      image: /images/010.jpg
+      alt: Hip Hop
+  - infopic:
       title: 2023 Release of 2022 A Level Results (Photo Gallery)
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-A-Level-Results-2022-Release/
