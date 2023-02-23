@@ -50,4 +50,11 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
+  - infopic:
+      title: 2023 Sports & Aesthetics Enrichment Day
+      subtitle: Stories
+      button: Button Text
+      url: https://nanyangjc.smugmug.com/Sports-and-Aesthetics-Enrichment-Day
+      image: /images/010.jpg
+      alt: Image alt text
 ---
