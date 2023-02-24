@@ -1,8 +1,9 @@
 ---
-title: Annoucements
+title: Announcements
 permalink: /ny-parents/Partner-with-us/announcements/
 description: ""
 ---
+
 <h2>13 February 2023</h2>
 
 **Principal's Sharing with Parents of JC1s**
