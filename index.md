@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Student Council Election
+      subtitle: Headlines
+      description: Infopic description
+      button: Vote here
+      url: "https://nanyangjc.org/nyxapps/election/ "
+      image: /images/SC election banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2023 EDspiration
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-EDspiration/
