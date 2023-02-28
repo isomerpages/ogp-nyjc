@@ -30,7 +30,7 @@ sections:
       image: /images/010.jpg
       alt: Hip Hop
   - infopic:
-      title: 2023 Release of 2022 A Level Results (Photo Gallery)
+      title: 2023 Release of 2022 A Level Results
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-A-Level-Results-2022-Release/
       image: /images/068a.jpg
@@ -57,4 +57,10 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
+  - infopic:
+      title: 2023 EDspiration
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-EDspiration/
+      image: /images/Session 2_Room 4.jpg
+      alt: 2023 EDspiration
 ---
