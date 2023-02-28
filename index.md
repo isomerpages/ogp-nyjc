@@ -44,6 +44,7 @@ sections:
       url: https://nanyangjc.smugmug.com/Sports-and-Aesthetics-Enrichment-Day
       image: /images/010.jpg
       alt: Hip Hop
+      description: 22 Feb
   - infopic:
       title: 2023 Release of 2022 A Level Results
       button: Click here
