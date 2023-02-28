@@ -28,6 +28,7 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-EDspiration/
       image: /images/Session 2_Room 4.jpg
       alt: 2023 EDspiration
+      subtitle: STORIES
   - infopic:
       title: 2023 Sports & Aesthetics Enrichment Day
       subtitle: Stories
