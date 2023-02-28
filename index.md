@@ -23,6 +23,12 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 EDspiration
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-EDspiration/
+      image: /images/Session 2_Room 4.jpg
+      alt: 2023 EDspiration
+  - infopic:
       title: 2023 Sports & Aesthetics Enrichment Day
       subtitle: Stories
       button: CLICK HERE
@@ -46,7 +52,7 @@ sections:
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
         height="500" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe>
@@ -57,10 +63,4 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
-  - infopic:
-      title: 2023 EDspiration
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-EDspiration/
-      image: /images/Session 2_Room 4.jpg
-      alt: 2023 EDspiration
 ---
