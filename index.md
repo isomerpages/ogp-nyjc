@@ -42,13 +42,6 @@ sections:
       image: /images/068a.jpg
       alt: Image alt text
       subtitle: Stories
-  - infopic:
-      title: 2022 A-Level Results Release
-      button: Click here
-      url: https://ogp-nyjc-staging.netlify.app/headlines/2022/02/16/4972/
-      alt: Image alt text
-      image: /images/release.jpg
-      subtitle: Headlines
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
