@@ -1,9 +1,10 @@
 ---
 title: NY Writer's Circle
-permalink: /life-at-nyjc/Student-Interest-Groups/permalink/
+permalink: /life-at-nyjc/Student-Interest-Groups/NY-Writers-Circle/
 description: ""
 third_nav_title: Student Interest Groups
 ---
+
 _**“Words creates worlds.”**_   
 
 The Writer’s Circle is a SIG set up in 2017 with one overarching goal: to write. They support and promote literary expression in the many different forms – novels, plays, poetry, and even lyrics.

@@ -1,9 +1,10 @@
 ---
 title: NY Financial Literacy
-permalink: /life-at-nyjc/Student-Interest-Groups/permalink/
+permalink: /life-at-nyjc/Student-Interest-Groups/NY-Financial-Literacy/
 description: ""
 third_nav_title: Student Interest Groups
 ---
+
 Have you ever struggled to satisfy your insatiable cravings for bubble tea or online shopping? Or perhaps are you worried about how you can finance your university education?
 
 Fret not!

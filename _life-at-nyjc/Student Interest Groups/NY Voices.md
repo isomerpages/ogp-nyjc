@@ -1,9 +1,10 @@
 ---
 title: NY Voices
-permalink: /life-at-nyjc/Student-Interest-Groups/permalink/
+permalink: /life-at-nyjc/Student-Interest-Groups/NY-Voices/
 description: ""
 third_nav_title: Student Interest Groups
 ---
+
 _**"A feeling to express, a song to sing."**_
 
 Nanyang Voices is a Student Interest Group which involves students who have a passion for Chinese songs. In Nanyang Voices, everyone is given the opportunity to sing at the fortnightly sessions. They want to create a platform for fans of Chinese songs to showcase their talent.

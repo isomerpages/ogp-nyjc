@@ -1,9 +1,10 @@
 ---
 title: NYMP
-permalink: /life-at-nyjc/Student-Interest-Groups/permalink/
+permalink: /life-at-nyjc/Student-Interest-Groups/NYMP/
 description: ""
 third_nav_title: Student Interest Groups
 ---
+
 “Music was a vector we wanted to build a universe around” (Thomas Bangalter, Daft Punk)
 
 Have you ever wondered what goes behind the scenes in making the songs we listen to every day?

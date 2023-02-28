@@ -1,9 +1,10 @@
 ---
 title: NY BioNat
-permalink: /life-at-nyjc/Student-Interest-Groups/permalink/
+permalink: /life-at-nyjc/Student-Interest-Groups/NY-BioNat/
 description: ""
 third_nav_title: Student Interest Groups
 ---
+
 Heard of chromatography? What is a superbug? Why are some cancers harder to treat than others?
 
 Here at NYBioNat, we delve deeper into the biological concepts that you might already be familiar with, as well as explain the “why” and the “how” behind them.
