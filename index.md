@@ -51,6 +51,7 @@ sections:
       image: /images/068a.jpg
       alt: Image alt text
       subtitle: Stories
+      description: 17 Feb
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
