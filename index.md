@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Student Council Election
       subtitle: Headlines
-      description: 1st March
+      description: 1 Mar
       button: Vote here
       url: "https://nanyangjc.org/nyxapps/election/ "
       image: /images/SC election banner.jpg
