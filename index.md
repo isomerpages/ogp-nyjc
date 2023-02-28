@@ -37,6 +37,7 @@ sections:
       image: /images/Session 2_Room 4.jpg
       alt: 2023 EDspiration
       subtitle: STORIES
+      description: 22 Feb
   - infopic:
       title: 2023 Sports & Aesthetics Enrichment Day
       subtitle: Stories
