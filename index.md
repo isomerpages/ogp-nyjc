@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/2022/02/16/4972/
+          url: /headlines/sc/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -23,12 +23,21 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Student Council Election
+      subtitle: Headlines
+      description: 1 Mar
+      button: Vote here
+      url: "https://nanyangjc.org/nyxapps/election/ "
+      image: /images/SC election banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2023 EDspiration
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-EDspiration/
       image: /images/Session 2_Room 4.jpg
       alt: 2023 EDspiration
       subtitle: STORIES
+      description: 22 Feb
   - infopic:
       title: 2023 Sports & Aesthetics Enrichment Day
       subtitle: Stories
@@ -36,6 +45,7 @@ sections:
       url: https://nanyangjc.smugmug.com/Sports-and-Aesthetics-Enrichment-Day
       image: /images/010.jpg
       alt: Hip Hop
+      description: 22 Feb
   - infopic:
       title: 2023 Release of 2022 A Level Results
       button: Click here
@@ -43,6 +53,7 @@ sections:
       image: /images/068a.jpg
       alt: Image alt text
       subtitle: Stories
+      description: 17 Feb
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
