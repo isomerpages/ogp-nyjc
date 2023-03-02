@@ -31,6 +31,14 @@ sections:
       image: /images/SC election banner.jpg
       alt: Image alt text
   - infopic:
+      title: 2023 SIG Bazaar & Concert
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-SIG-Bazaar-Concert/
+      image: /images/A7_08096.jpg
+      alt: Image alt text
+      subtitle: Stories
+      description: 1 Mar
+  - infopic:
       title: 2023 EDspiration
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-EDspiration/
@@ -46,14 +54,6 @@ sections:
       image: /images/010.jpg
       alt: Hip Hop
       description: 22 Feb
-  - infopic:
-      title: 2023 Release of 2022 A Level Results
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-A-Level-Results-2022-Release/
-      image: /images/068a.jpg
-      alt: Image alt text
-      subtitle: Stories
-      description: 17 Feb
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
