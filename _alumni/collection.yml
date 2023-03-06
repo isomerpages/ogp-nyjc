@@ -2,4 +2,5 @@ collections:
   alumni:
     output: true
     order:
+      - Alumni Association.md
       - Notable Alumni.md
