@@ -3,14 +3,6 @@ title: Life Beyond NYJC
 permalink: /life-beyond-nyjc/life-after-nyjc/
 description: ""
 ---
-<p>Many NYJCians have fond memories of the times they had spent in NYJC, which is why they have chosen to continue their connection with the college, whether by becoming a part of our teaching staff or working in partnership with the college to provide mentorship and opportunities to the students.</p>
-<p>In addition, NYJCians who have graduated can definitely contribute to the growth of the college in other ways as well.&nbsp;</p>
-<p>1. Walk the talk. Remember to keep the D.R.I.V.E that would serve you well in life. Do well in your respective fields/areas of work, continue to learn and be a positive influence. The institute is as strong as its people.&nbsp;</p>
-<p>2. Word-of-Mouth is one of the most trusted form of marketing. People want to know what the NYJC experience is like, what kind of education NYJCians get, what kind of graduates NYJCians become &ndash; and there&rsquo;s no better way than to hear NYJCians talk about their experience.</p>
-<p>3. Connections are important. Connections lead to new opportunities. Connections introduce new dynamics. Connections build relationships which are important to our well-being. Link up with classmates, CCA mates, ex-teachers and NYJCians from other batches. Check out NYJC on LinkedIn to see if you can &ldquo;meet&rdquo; other NYJCians.</p>
-<p>4. 飲水思源&nbsp;(a Chinese proverb on remembering the source of the water that one drinks). NYJCians have always been reminded to be grateful and to show appreciation for the people and the things around them. Give back to your college. Broaden the perspective and enrich the learning experience of your juniors through the sharing of your expertise and experiences. Provide mentoring, internships and even career opportunities to them.</p>
-<p>Once an NYJCian, always an NYJCian. </p>
-<br>
 <h2>Higher Education and Career Guidance</h2>
 
 
