@@ -3,6 +3,7 @@ title: Notable Alumni
 permalink: /life-beyond-nyjc/notable-alumni/
 description: ""
 ---
+
 <p>Here are some alumni who have attained notable achievements in their chosen profession (updated as at 18 Dec 2020)</p>
 <h3>Medicine</h3>
 <table>

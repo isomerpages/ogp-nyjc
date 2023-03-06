@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/sc/
+          url: headlines/connect/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -23,12 +23,12 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: Student Council Election
+      title: Stay Connected with NYJC
       subtitle: Headlines
-      description: 1 Mar
-      button: Vote here
-      url: "https://nanyangjc.org/nyxapps/election/ "
-      image: /images/SC election banner.jpg
+      description: 6 Mar
+      button: Connect here
+      url: /headlines/connect/
+      image: /images/stay connected.jpg
       alt: Image alt text
   - infopic:
       title: 2023 SIG Bazaar & Concert

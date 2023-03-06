@@ -1,0 +1,7 @@
+collections:
+  alumni:
+    output: true
+    order:
+      - Stay Connected with NYJC.md
+      - Notable Alumni.md
+      - The Nanyang Junior College Alumni Association.md

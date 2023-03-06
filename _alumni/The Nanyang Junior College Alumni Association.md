@@ -1,8 +1,10 @@
 ---
-title: Alumni Association
+title: The Nanyang Junior College Alumni Association
 permalink: /life-beyond-nyjc/Alumni-Association/
 description: ""
 ---
+
+
 <div data-node="5f4bfd6861dcf">
 <div data-node="5f4bfe33d0af6">
 <div data-node="5f449d4b2d879">
