@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/sc/
+          url: headlines/connect/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
