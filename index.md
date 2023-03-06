@@ -28,7 +28,7 @@ sections:
       description: 6 Mar
       button: Connect here
       url: /headlines/connect/
-      image: /images/stay connected.jpg
+      image: /images/stay connected1.jpg
       alt: Image alt text
   - infopic:
       title: 2023 SIG Bazaar & Concert
