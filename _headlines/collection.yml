@@ -2,7 +2,7 @@ collections:
   headlines:
     output: true
     order:
-      - Stay Connected with NYJC.md
+      - Stay Connected with NYJC (Mar 6, 2023).md
       - 2023 Student Council Election (Mar 1, 2023).md
       - 2022 A Level Results Release (Feb 14, 2023).md
       - University and Scholarship Application Resources (Feb 13, 2023).md
