@@ -27,7 +27,7 @@ sections:
       subtitle: Headlines
       description: 6 Mar
       button: Connect here
-      url: "https://nanyangjc.org/nyxapps/election/ "
+      url: /headlines/connect/
       image: /images/stay connected.jpg
       alt: Image alt text
   - infopic:
