@@ -39,13 +39,13 @@ sections:
       subtitle: Stories
       description: 1 Mar
   - infopic:
-      title: 2023 EDspiration
+      title: 2023 JC2 illumiNYte
       button: Click here
-      url: https://nanyangjc.smugmug.com/2023-EDspiration/
-      image: /images/Session 2_Room 4.jpg
-      alt: 2023 EDspiration
+      url: https://nanyangjc.smugmug.com/2023-JC2-illumiNYte
+      image: /images/048.jpg
+      alt: 2023 JC2 illumiNYte
       subtitle: STORIES
-      description: 22 Feb
+      description: 7 Mar
   - infopic:
       title: 2023 Sports & Aesthetics Enrichment Day
       subtitle: Stories
