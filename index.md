@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC2 illumiNYte
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-JC2-illumiNYte
+      image: /images/048.jpg
+      alt: 2023 JC2 illumiNYte
+      subtitle: STORIES
+      description: 7 Mar
+  - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
       description: 6 Mar
@@ -38,14 +46,6 @@ sections:
       alt: Image alt text
       subtitle: Stories
       description: 1 Mar
-  - infopic:
-      title: 2023 EDspiration
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-EDspiration/
-      image: /images/Session 2_Room 4.jpg
-      alt: 2023 EDspiration
-      subtitle: STORIES
-      description: 22 Feb
   - infopic:
       title: 2023 Sports & Aesthetics Enrichment Day
       subtitle: Stories
