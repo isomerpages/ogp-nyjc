@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: 2023 JC1 illumiNYte
       button: Click here
-      url: https://nanyangjc.smugmug.com/2023-SIG-Bazaar-Concert/
+      url: https://nanyangjc.smugmug.com/2023-JC1-illumiNYte
       image: /images/051.jpg
       alt: 2023 JC1 illumiNYte
       subtitle: Stories
