@@ -47,13 +47,13 @@ sections:
       subtitle: Stories
       description: 1 Mar
   - infopic:
-      title: 2023 Sports & Aesthetics Enrichment Day
+      title: 2023 Sports Carnival
       subtitle: Stories
       button: CLICK HERE
-      url: https://nanyangjc.smugmug.com/Sports-and-Aesthetics-Enrichment-Day
-      image: /images/010.jpg
-      alt: Hip Hop
-      description: 22 Feb
+      url: https://nanyangjc.smugmug.com/2023-Sports-Carnival/
+      image: /images/031.jpg
+      alt: Sports Carnival
+      description: 8 Mar
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
