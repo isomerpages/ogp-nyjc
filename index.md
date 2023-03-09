@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC1 illumiNYte
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-SIG-Bazaar-Concert/
+      image: /images/051.jpg
+      alt: 2023 JC1 illumiNYte
+      subtitle: Stories
+      description: 8 Mar
+  - infopic:
       title: 2023 Sports Carnival
       subtitle: Stories
       button: CLICK HERE
@@ -46,14 +54,6 @@ sections:
       url: /headlines/connect/
       image: /images/stay connected1.jpg
       alt: Image alt text
-  - infopic:
-      title: 2023 SIG Bazaar & Concert
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-SIG-Bazaar-Concert/
-      image: /images/A7_08096.jpg
-      alt: Image alt text
-      subtitle: Stories
-      description: 1 Mar
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
