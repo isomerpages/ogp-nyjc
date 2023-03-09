@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Sports Carnival
+      subtitle: Stories
+      button: CLICK HERE
+      url: https://nanyangjc.smugmug.com/2023-Sports-Carnival/
+      image: /images/031.jpg
+      alt: Sports Carnival
+      description: 8 Mar
+  - infopic:
       title: 2023 JC2 illumiNYte
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-JC2-illumiNYte
@@ -46,14 +54,6 @@ sections:
       alt: Image alt text
       subtitle: Stories
       description: 1 Mar
-  - infopic:
-      title: 2023 Sports Carnival
-      subtitle: Stories
-      button: CLICK HERE
-      url: https://nanyangjc.smugmug.com/2023-Sports-Carnival/
-      image: /images/031.jpg
-      alt: Sports Carnival
-      description: 8 Mar
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
