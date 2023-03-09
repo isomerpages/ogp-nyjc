@@ -300,7 +300,7 @@ description: ""
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST Biology</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs Tan-Choo Hwee Min</span></td>
-    <td class="tg-z2r0"><a href="mailto:hoo_hwee_min@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">hoo_hwee_min@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit;color:#333">63805144</span></td>
+    <td class="tg-z2r0"><a href="mailto:choo_hwee_min@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">choo_hwee_min@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit;color:#333">63805144</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH Chemistry</span></td>
