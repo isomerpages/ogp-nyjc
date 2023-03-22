@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 SYF Showcase
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-SYF-Showcase/
+      image: /images/037.jpg
+      alt: 2023 SYF Showcase
+      subtitle: STORIES
+      description: 21 Mar
+  - infopic:
       title: 2023 JC1 illumiNYte
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-JC1-illumiNYte
@@ -38,14 +46,6 @@ sections:
       image: /images/031.jpg
       alt: Sports Carnival
       description: 8 Mar
-  - infopic:
-      title: 2023 JC2 illumiNYte
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-JC2-illumiNYte
-      image: /images/048.jpg
-      alt: 2023 JC2 illumiNYte
-      subtitle: STORIES
-      description: 7 Mar
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
@@ -63,7 +63,7 @@ sections:
         encrypted-media; picture-in-picture; web-share"></iframe>
   - infobar:
       description: <div class="bp-youtube" ><iframe width="560"
-        height="315"  src="https://www.youtube.com/embed/e9LEqGvoGBk"
+        height="315"  src="https://www.youtube.com/embed/3vuRYXcn5KQ"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
