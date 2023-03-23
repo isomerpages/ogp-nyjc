@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - terms-of-use.md
       - Academic Departments/.keep
       - Academic Departments/Chinese Department.md
       - Academic Departments/Economics Department.md
