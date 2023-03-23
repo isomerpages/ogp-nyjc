@@ -31,13 +31,13 @@ sections:
       subtitle: STORIES
       description: 21 Mar
   - infopic:
-      title: 2023 JC1 illumiNYte
+      title: 2023 National School Games Opening Ceremony
       button: Click here
-      url: https://nanyangjc.smugmug.com/2023-JC1-illumiNYte
-      image: /images/051.jpg
+      url: https://nanyangjc.smugmug.com/2023-National-School-Games-Opening-Ceremony/
+      image: /images/01.jpg
       alt: 2023 JC1 illumiNYte
       subtitle: Stories
-      description: 8 Mar
+      description: 22 Mar
   - infopic:
       title: 2023 Sports Carnival
       subtitle: Stories
