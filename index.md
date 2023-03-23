@@ -23,13 +23,13 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 SYF Showcase
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-SYF-Showcase/
-      image: /images/037.jpg
-      alt: 2023 SYF Showcase
-      subtitle: STORIES
-      description: 21 Mar
+      title: 2203 Community-in-Translation (CiT) Workshop
+      subtitle: Stories
+      button: CLICK HERE
+      url: https://nanyangjc.smugmug.com/2203-CIT-Translation-Workshop/
+      image: /images/022.jpg
+      alt: Sports Carnival
+      description: 22 Mar
   - infopic:
       title: 2023 National School Games Opening Ceremony
       button: Click here
@@ -39,13 +39,13 @@ sections:
       subtitle: Stories
       description: 22 Mar
   - infopic:
-      title: 2023 Sports Carnival
-      subtitle: Stories
-      button: CLICK HERE
-      url: https://nanyangjc.smugmug.com/2023-Sports-Carnival/
-      image: /images/031.jpg
-      alt: Sports Carnival
-      description: 8 Mar
+      title: 2023 SYF Showcase
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-SYF-Showcase/
+      image: /images/037.jpg
+      alt: 2023 SYF Showcase
+      subtitle: STORIES
+      description: 21 Mar
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
