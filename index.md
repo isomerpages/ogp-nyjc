@@ -34,7 +34,6 @@ sections:
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-National-School-Games-Opening-Ceremony/
       image: /images/01.jpg
-      alt: 2023 JC1 illumiNYte
       subtitle: Stories
       description: 22 Mar
   - infopic:
