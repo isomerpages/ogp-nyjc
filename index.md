@@ -37,6 +37,7 @@ sections:
       image: /images/01.jpg
       subtitle: Stories
       description: 22 Mar
+      alt: NSG games
   - infopic:
       title: 2023 SYF Showcase
       button: Click here
