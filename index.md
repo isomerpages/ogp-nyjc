@@ -53,6 +53,7 @@ sections:
       button: Connect here
       url: /headlines/connect/
       image: /images/stay connected1.jpg
+      alt: Stay Connected
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
