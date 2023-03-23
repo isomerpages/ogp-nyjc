@@ -23,12 +23,11 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2203 Community-in-Translation (CiT) Workshop
+      title: 2023 Community-in-Translation (CiT) Workshop
       subtitle: Stories
       button: CLICK HERE
       url: https://nanyangjc.smugmug.com/2203-CIT-Translation-Workshop/
       image: /images/022.jpg
-      alt: Sports Carnival
       description: 22 Mar
   - infopic:
       title: 2023 National School Games Opening Ceremony
