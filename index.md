@@ -29,6 +29,7 @@ sections:
       url: https://nanyangjc.smugmug.com/2203-CIT-Translation-Workshop/
       image: /images/022.jpg
       description: 22 Mar
+      alt: CiT Workshop
   - infopic:
       title: 2023 National School Games Opening Ceremony
       button: Click here
