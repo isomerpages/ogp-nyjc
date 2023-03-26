@@ -64,5 +64,3 @@ Nanyang Junior College reserves the right to disable any unauthorised links or f
 18\. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
 
 * * *
-
- [\[THHC1\]](#_msoanchor_1)Bernard, remember to link this to the Privacy Policy
