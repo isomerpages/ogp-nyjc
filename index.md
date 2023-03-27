@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Infernus Cup Preliminaries
+      button: Click here
+      url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Preliminaries/
+      image: /images/Infernus Cup Preliminaries 054.jpg
+      alt: 2023 Infernus Cup
+      subtitle: STORIES
+      description: 25 Mar
+  - infopic:
       title: 2023 Community-in-Translation (CiT) Workshop
       subtitle: Stories
       button: CLICK HERE
@@ -38,14 +46,6 @@ sections:
       subtitle: Stories
       description: 22 Mar
       alt: NSG games
-  - infopic:
-      title: 2023 Infernus Cup Preliminaries
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Preliminaries/
-      image: /images/037.jpg
-      alt: 2023 Infernus Cup
-      subtitle: STORIES
-      description: 25 Mar
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
