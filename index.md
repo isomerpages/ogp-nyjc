@@ -39,13 +39,13 @@ sections:
       description: 22 Mar
       alt: NSG games
   - infopic:
-      title: 2023 SYF Showcase
+      title: 2023 Infernus Cup Preliminaries
       button: Click here
-      url: https://nanyangjc.smugmug.com/2023-SYF-Showcase/
+      url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Preliminaries/
       image: /images/037.jpg
-      alt: 2023 SYF Showcase
+      alt: 2023 Infernus Cup
       subtitle: STORIES
-      description: 21 Mar
+      description: 25 Mar
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
