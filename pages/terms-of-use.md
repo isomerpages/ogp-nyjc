@@ -61,6 +61,6 @@ Nanyang Junior College reserves the right to disable any unauthorised links or f
 
 **Governing Law**
 
-18\. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
 
 * * *
