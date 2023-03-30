@@ -23,13 +23,21 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 JC1 CCE Seminars
+      title: 2023 JC2 Life-skills and Leadership Seminar
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
+      image: /images/JC2 Lifeskills 063.jpg
+      subtitle: Stories
+      description: 29 Mar
+      alt: JC2 Life-skills
+  - infopic:
+      title: 2023 JC1 CCE Seminar
       subtitle: Stories
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2023-CCE-Seminars
       image: /images/JC1 CCE Seminars 026.jpg
       description: 29 Mar
-      alt: JC1 CCE Seminars
+      alt: JC1 CCE Seminar
   - infopic:
       title: 2023 Infernus Cup Preliminaries
       button: Click here
@@ -38,14 +46,6 @@ sections:
       alt: 2023 Infernus Cup
       subtitle: STORIES
       description: 25 Mar
-  - infopic:
-      title: 2023 JC2 Life-skills and Leadership Seminar
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
-      image: /images/JC2 Lifeskills 063.jpg
-      subtitle: Stories
-      description: 29 Mar
-      alt: JC2 Life-skills
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
