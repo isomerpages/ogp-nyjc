@@ -40,7 +40,7 @@ sections:
       alt: JC1 CCE Seminar
   - infopic:
       title: 2023 Infernus Cup Preliminaries
-      button: Click here
+      button: View here
       url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Preliminaries/
       image: /images/Infernus Cup Preliminaries 054.jpg
       alt: 2023 Infernus Cup
