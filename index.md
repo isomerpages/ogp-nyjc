@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC1 CCE Seminars
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-CCE-Seminars
+      image: /images/JC1 CCE Seminars 026.jpg
+      description: 29 Mar
+      alt: JC1 CCE Seminars
+  - infopic:
       title: 2023 Infernus Cup Preliminaries
       button: Click here
       url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Preliminaries/
@@ -30,14 +38,6 @@ sections:
       alt: 2023 Infernus Cup
       subtitle: STORIES
       description: 25 Mar
-  - infopic:
-      title: 2023 Community-in-Translation (CiT) Workshop
-      subtitle: Stories
-      button: CLICK HERE
-      url: https://nanyangjc.smugmug.com/2203-CIT-Translation-Workshop/
-      image: /images/022.jpg
-      description: 22 Mar
-      alt: CiT Workshop
   - infopic:
       title: 2023 National School Games Opening Ceremony
       button: Click here
