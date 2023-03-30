@@ -39,13 +39,13 @@ sections:
       subtitle: STORIES
       description: 25 Mar
   - infopic:
-      title: 2023 National School Games Opening Ceremony
-      button: Click here
-      url: https://nanyangjc.smugmug.com/2023-National-School-Games-Opening-Ceremony/
-      image: /images/01.jpg
+      title: 2023 JC2 Life-skills and Leadership Seminar
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
+      image: /images/JC2 Lifeskills 063.jpg
       subtitle: Stories
-      description: 22 Mar
-      alt: NSG games
+      description: 29 Mar
+      alt: JC2 Life-skills
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
