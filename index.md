@@ -23,14 +23,6 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 JC2 Life-skills and Leadership Seminar
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
-      image: /images/JC2 Lifeskills 063.jpg
-      subtitle: Stories
-      description: 29 Mar
-      alt: JC2 Life-skills
-  - infopic:
       title: 2023 National Sec Sch Translation Competition
       subtitle: Stories
       button: VIEW HERE
@@ -39,13 +31,21 @@ sections:
       description: 1 Apr
       alt: 2023 Translation Competition
   - infopic:
-      title: 2023 Infernus Cup Preliminaries
+      title: 2023 Infernus Cup Day 2
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Preliminaries/
-      image: /images/Infernus Cup Preliminaries 054.jpg
+      url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Day-2/
+      image: /images/230401 infernus cup day 2 029.jpg
       alt: 2023 Infernus Cup
       subtitle: STORIES
-      description: 25 Mar
+      description: 1 Apr
+  - infopic:
+      title: 2023 JC2 Life-skills and Leadership Seminar
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
+      image: /images/JC2 Lifeskills 063.jpg
+      subtitle: Stories
+      description: 29 Mar
+      alt: JC2 Life-skills
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
