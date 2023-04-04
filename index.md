@@ -68,4 +68,12 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
+  - infopic:
+      title: Council Election for President
+      subtitle: Headlines
+      description: 4 Apr
+      button: click here
+      url: https://nanyangjc.org/nyxapps/election2/
+      image: /images/SC election banner.jpg
+      alt: Council Election for President
 ---
