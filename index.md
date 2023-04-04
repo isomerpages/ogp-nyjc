@@ -39,13 +39,13 @@ sections:
       subtitle: STORIES
       description: 1 Apr
   - infopic:
-      title: 2023 JC2 Life-skills and Leadership Seminar
+      title: 2023 JC2 Principal's Dialogue Session
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
-      image: /images/JC2 Lifeskills 063.jpg
+      url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
+      image: /images/025 dialogue.jpg
       subtitle: Stories
-      description: 29 Mar
-      alt: JC2 Life-skills
+      description: 4 Apr
+      alt: JC2 Dialogue
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
