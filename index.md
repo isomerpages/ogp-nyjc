@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC2 Principal's Dialogue Session
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
+      image: /images/025 dialogue.jpg
+      subtitle: Stories
+      description: 4 Apr
+      alt: JC2 Dialogue
+  - infopic:
       title: 2023 National Sec Sch Translation Competition
       subtitle: Stories
       button: VIEW HERE
@@ -38,14 +46,6 @@ sections:
       alt: 2023 Infernus Cup
       subtitle: STORIES
       description: 1 Apr
-  - infopic:
-      title: 2023 JC2 Principal's Dialogue Session
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
-      image: /images/025 dialogue.jpg
-      subtitle: Stories
-      description: 4 Apr
-      alt: JC2 Dialogue
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
