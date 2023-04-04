@@ -23,6 +23,22 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Council Election for President
+      subtitle: Headlines
+      description: 4 Apr
+      button: click here
+      url: https://nanyangjc.org/nyxapps/election2/
+      image: /images/SC election banner.jpg
+      alt: Council Election for President
+  - infopic:
+      title: 2023 JC2 Principal's Dialogue Session
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
+      image: /images/025 dialogue.jpg
+      subtitle: Stories
+      description: 4 Apr
+      alt: JC2 Dialogue
+  - infopic:
       title: 2023 National Sec Sch Translation Competition
       subtitle: Stories
       button: VIEW HERE
@@ -38,14 +54,6 @@ sections:
       alt: 2023 Infernus Cup
       subtitle: STORIES
       description: 1 Apr
-  - infopic:
-      title: 2023 JC2 Life-skills and Leadership Seminar
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Life-skills-and-Leadership-Seminar/
-      image: /images/JC2 Lifeskills 063.jpg
-      subtitle: Stories
-      description: 29 Mar
-      alt: JC2 Life-skills
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
