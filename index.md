@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Council Election for President
+      subtitle: Headlines
+      description: 4 Apr
+      button: click here
+      url: https://nanyangjc.org/nyxapps/election2/
+      image: /images/SC election banner.jpg
+      alt: Council Election for President
+  - infopic:
       title: 2023 JC2 Principal's Dialogue Session
       button: View here
       url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
@@ -68,12 +76,4 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
-  - infopic:
-      title: Council Election for President
-      subtitle: Headlines
-      description: 4 Apr
-      button: click here
-      url: https://nanyangjc.org/nyxapps/election2/
-      image: /images/SC election banner.jpg
-      alt: Council Election for President
 ---
