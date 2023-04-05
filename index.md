@@ -23,10 +23,18 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: "NYJC 44th College Day "
+      subtitle: headlines
+      description: 5 Apr
+      button: rsvp here
+      url: https://go.gov.sg/nycollegeday23
+      image: /images/my project-1(1).jpg
+      alt: RSVP
+  - infopic:
       title: Council Election for President
       subtitle: Headlines
       description: 4 Apr
-      button: click here
+      button: vote here
       url: https://nanyangjc.org/nyxapps/election2/
       image: /images/SC election banner.jpg
       alt: Council Election for President
@@ -76,12 +84,4 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
-  - infopic:
-      title: "NYJC 44th College Day "
-      subtitle: headlines
-      description: 5 Apr
-      button: rsvp here
-      url: https://go.gov.sg/nycollegeday23
-      image: /images/my project-1(1).jpg
-      alt: RSVP
 ---
