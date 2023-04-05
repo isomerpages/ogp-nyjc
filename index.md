@@ -76,4 +76,12 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
+  - infopic:
+      title: "NYJC 44th College Day "
+      subtitle: headlines
+      description: 5 Apr
+      button: rsvp here
+      url: https://go.gov.sg/nycollegeday23
+      image: /images/my project-1(1).jpg
+      alt: RSVP
 ---
