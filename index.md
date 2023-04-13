@@ -61,7 +61,7 @@ sections:
       image: /images/230412 wildrun 001.jpg
       alt: 2023 Wildrun
       subtitle: STORIES
-      description: 1 Apr
+      description: 12 Apr
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
