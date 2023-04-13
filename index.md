@@ -55,11 +55,11 @@ sections:
       description: 1 Apr
       alt: 2023 Translation Competition
   - infopic:
-      title: 2023 Infernus Cup Day 2
+      title: 2023 Wildrun 9.0
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-Infernus-Cup-Day-2/
-      image: /images/230401 infernus cup day 2 029.jpg
-      alt: 2023 Infernus Cup
+      url: https://nanyangjc.smugmug.com/2023-Wildrun/
+      image: /images/230412 wildrun 001.jpg
+      alt: 2023 Wildrun
       subtitle: STORIES
       description: 1 Apr
   - infopic:
