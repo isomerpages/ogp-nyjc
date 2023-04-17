@@ -55,14 +55,6 @@ sections:
       description: 1 Apr
       alt: 2023 Translation Competition
   - infopic:
-      title: Council Election for President
-      subtitle: Headlines
-      description: 4 Apr
-      button: vote here
-      url: https://nanyangjc.org/nyxapps/election2/
-      image: /images/SC election banner.jpg
-      alt: Council Election for President
-  - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
       description: 6 Mar
