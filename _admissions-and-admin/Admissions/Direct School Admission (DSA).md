@@ -8,7 +8,7 @@ Nanyang Junior College invites students with the following outstanding talents/s
 
 The DSA-JC 2023 Exercise starts from 4 May 2023. All interested students are strongly encouraged to submit your application [here](https://form.gov.sg/6436129691f2a60011b3207a). Shortlisted applicants will be contacted for a trial/audition and/or interview that will take place between 11 May to 25 August 2023.
 
-For more information about DSA at NYJC, please click [here](https://www.moe.gov.sg/post-secondary/admissions/dsa).
+For more information about DSA at NYJC, please click [here](https://www.dsaatnyjc.net/).
 
 **Areas of Talent/Skill Considered for NYJC DSA-JC 2023**
 
