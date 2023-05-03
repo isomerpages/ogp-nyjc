@@ -76,4 +76,12 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
+  - infopic:
+      title: 2023 DSA-JC
+      subtitle: Headlines
+      description: 4 May
+      button: Click here
+      url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
+      image: /images/dsa 2023.jpeg
+      alt: DSA 2023
 ---
