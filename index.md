@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 DSA-JC
+      subtitle: Headlines
+      description: 4 May
+      button: Click here
+      url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
+      image: /images/dsa 2023.jpeg
+      alt: DSA 2023
+  - infopic:
       title: 2023 Wildrun 9.0
       button: View here
       url: https://nanyangjc.smugmug.com/2023-Wildrun/
@@ -76,12 +84,4 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture" allowfullscreen></iframe>
       title: "Watch our latest video:"
-  - infopic:
-      title: 2023 DSA-JC
-      subtitle: Headlines
-      description: 4 May
-      button: Click here
-      url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
-      image: /images/dsa 2023.jpeg
-      alt: DSA 2023
 ---
