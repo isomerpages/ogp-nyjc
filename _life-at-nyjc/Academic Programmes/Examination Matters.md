@@ -13,11 +13,11 @@ Information
 
 JC1 Exam Timetable
 
-Nil
+[2023 J1 Common Test 1](/files/2023%20j1%20ct%20tt_final_stud%202may.pdf)
 
 JC2 Exam Timetable
 
-[2023 J2 Common Test 1](/files/2023-J2-CT1-TT_Final_Student_6-Jan-1.pdf)
+[2023 J2 Common Test 2](/files/2023%20j2%20ct2%20tt_finalised_student.pdf)
 
 JC1 Promotional Criteria
 
