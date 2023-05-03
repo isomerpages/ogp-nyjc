@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: DSA-JC  2023
       subtitle: Headlines
-      description: Infopic description
-      button: 3 May
+      description: 3 May
+      button: Click here
       url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
       image: /images/dsa 2023.jpeg
       alt: Image alt text
