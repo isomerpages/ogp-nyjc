@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: DSA Open Housee
+      title: DSA Open House
       subtitle: " headlines"
       description: 5 May
       button: "  Register here"
