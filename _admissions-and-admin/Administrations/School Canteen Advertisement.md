@@ -31,7 +31,7 @@ Nearest MRT: Lorong Chuan MRT (CC14 Circle Line) - 5 min walk
 
 Bus numbers: 58, 105
 
-##### Interest applicants must meet the following criteria:
+##### Interested applicants must meet the following criteria:
 
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
@@ -45,7 +45,7 @@ Bus numbers: 58, 105
 
 ##### Applicants should preferably fulfill the following criteria:
 
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certi  cate.
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
