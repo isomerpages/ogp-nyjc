@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: DSA Open House
+      subtitle: " headlines"
+      description: 5 May
+      button: "  Register here"
+      url: https://go.gov.sg/dsaopenhouse2023
+      image: /images/yellow and white memphis dsa open house invitation 2023.png
+      alt: DSA OH
+  - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
       description: 4 May
