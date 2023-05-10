@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Interact Club Installation
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-Interact-Club-Installation/
+      image: /images/230509 interact club installation 028.jpg
+      description: 9 May
+      alt: 2023 Interact
+  - infopic:
       title: DSA Open House
       subtitle: " headlines"
       description: 5 May
@@ -62,14 +70,6 @@ sections:
       subtitle: Stories
       description: 4 Apr
       alt: JC2 Dialogue
-  - infopic:
-      title: 2023 National Sec Sch Translation Competition
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-National-Secondary-Schools-Translation-Competition/
-      image: /images/230401 chinese translation national competition 014.jpg
-      description: 1 Apr
-      alt: 2023 Translation Competition
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
