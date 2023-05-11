@@ -63,13 +63,13 @@ sections:
       image: /images/my project-1(1).jpg
       alt: RSVP
   - infopic:
-      title: 2023 JC2 Principal's Dialogue Session
+      title: 2023 Drama Night Rehearsal
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
+      url: https://nanyangjc.smugmug.com/2023-Drama-Night-Rehearsal/
       image: /images/025 dialogue.jpg
       subtitle: Stories
-      description: 4 Apr
-      alt: JC2 Dialogue
+      description: 9 May
+      alt: Drama Night
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
