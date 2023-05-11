@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Drama Night Rehearsal
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-Drama-Night-Rehearsal/
+      image: /images/230509 drama night rehearsal 023.jpg
+      subtitle: Stories
+      description: 9 May
+      alt: Drama Night
+  - infopic:
       title: 2023 Interact Club Installation
       subtitle: Stories
       button: VIEW HERE
@@ -54,22 +62,6 @@ sections:
       alt: 2023 Wildrun
       subtitle: STORIES
       description: 12 Apr
-  - infopic:
-      title: "NYJC 44th College Day "
-      subtitle: headlines
-      description: 5 Apr
-      button: rsvp here
-      url: https://go.gov.sg/nycollegeday23
-      image: /images/my project-1(1).jpg
-      alt: RSVP
-  - infopic:
-      title: 2023 JC2 Principal's Dialogue Session
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Principals-Dialogue-Session/
-      image: /images/025 dialogue.jpg
-      subtitle: Stories
-      description: 4 Apr
-      alt: JC2 Dialogue
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
