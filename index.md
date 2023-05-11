@@ -63,14 +63,6 @@ sections:
       subtitle: STORIES
       description: 12 Apr
   - infopic:
-      title: "NYJC 44th College Day "
-      subtitle: headlines
-      description: 5 Apr
-      button: rsvp here
-      url: https://go.gov.sg/nycollegeday23
-      image: /images/my project-1(1).jpg
-      alt: RSVP
-  - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
       description: 6 Mar
