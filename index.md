@@ -39,14 +39,6 @@ sections:
       description: 9 May
       alt: 2023 Interact
   - infopic:
-      title: DSA Open House
-      subtitle: " headlines"
-      description: 5 May
-      button: "  Register here"
-      url: https://go.gov.sg/dsaopenhouse2023
-      image: /images/yellow and white memphis dsa open house invitation 2023.png
-      alt: DSA OH
-  - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
       description: 4 May
