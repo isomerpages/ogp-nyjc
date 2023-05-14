@@ -47,13 +47,13 @@ sections:
       image: /images/dsa 2023.jpeg
       alt: DSA 2023
   - infopic:
-      title: 2023 Wildrun 9.0
+      title: 2023 DSA Open House
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-Wildrun/
-      image: /images/230412 wildrun 001.jpg
-      alt: 2023 Wildrun
+      url: https://nanyangjc.smugmug.com/2023-DSA-Open-House
+      image: /images/230513 dsa oh 035.jpg
+      alt: 2023 DSA OH
       subtitle: STORIES
-      description: 12 Apr
+      description: 13 May
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
