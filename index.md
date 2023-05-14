@@ -23,6 +23,22 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 CLP Pitching Day
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-CLP-Pitching-Day/
+      image: /images/230513 clp pitching 003.jpg
+      description: 13 May
+      alt: 2023 CLP Pitching Day
+  - infopic:
+      title: 2023 DSA Open House
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-DSA-Open-House
+      image: /images/230513 dsa oh 035.jpg
+      alt: 2023 DSA OH
+      subtitle: STORIES
+      description: 13 May
+  - infopic:
       title: 2023 Drama Night Rehearsal
       button: View here
       url: https://nanyangjc.smugmug.com/2023-Drama-Night-Rehearsal/
@@ -31,14 +47,6 @@ sections:
       description: 9 May
       alt: Drama Night
   - infopic:
-      title: 2023 Interact Club Installation
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-Interact-Club-Installation/
-      image: /images/230509 interact club installation 028.jpg
-      description: 9 May
-      alt: 2023 Interact
-  - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
       description: 4 May
@@ -46,14 +54,6 @@ sections:
       url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
       image: /images/dsa 2023.jpeg
       alt: DSA 2023
-  - infopic:
-      title: 2023 Wildrun 9.0
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-Wildrun/
-      image: /images/230412 wildrun 001.jpg
-      alt: 2023 Wildrun
-      subtitle: STORIES
-      description: 12 Apr
   - infopic:
       title: Stay Connected with NYJC
       subtitle: Headlines
