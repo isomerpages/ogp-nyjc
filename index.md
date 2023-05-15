@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Nanyang Junior College
-description: An Isomer site of the Singapore Government
+description: Official website of Nanyang Junior College.
 image: /images/nyjc-logo.png
 permalink: /
 notification: ""
@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 NYJC 44th College Day
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-College-Day
+      image: /images/20230513 college day 309.jpg
+      subtitle: Stories
+      description: 13 May
+      alt: College Day
+  - infopic:
       title: 2023 CLP Pitching Day
       subtitle: Stories
       button: VIEW HERE
@@ -38,14 +46,6 @@ sections:
       alt: 2023 DSA OH
       subtitle: STORIES
       description: 13 May
-  - infopic:
-      title: 2023 Drama Night Rehearsal
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-Drama-Night-Rehearsal/
-      image: /images/230509 drama night rehearsal 023.jpg
-      subtitle: Stories
-      description: 9 May
-      alt: Drama Night
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
@@ -68,12 +68,12 @@ sections:
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
         height="500" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
-        encrypted-media; picture-in-picture; web-share"></iframe>
+        encrypted-media; picture-in-picture; web-share"></iframe></div>
   - infobar:
-      description: <div class="bp-youtube" ><iframe width="560"
-        height="315"  src="https://www.youtube.com/embed/3vuRYXcn5KQ"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture" allowfullscreen></iframe>
+      description: <div class="bp-youtube"><iframe width="560" height="315"
+        src="https://www.youtube.com/embed/3vuRYXcn5KQ" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe></div>
       title: "Watch our latest video:"
 ---
