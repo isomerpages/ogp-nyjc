@@ -39,13 +39,13 @@ sections:
       subtitle: STORIES
       description: 13 May
   - infopic:
-      title: 2023 Drama Night Rehearsal
+      title: 2023 College Day
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-Drama-Night-Rehearsal/
-      image: /images/230509 drama night rehearsal 023.jpg
+      url: https://nanyangjc.smugmug.com/2023-College-Day
+      image: /images/20230513 college day 309.jpg
       subtitle: Stories
-      description: 9 May
-      alt: Drama Night
+      description: 13 May
+      alt: College Day
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
