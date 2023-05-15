@@ -76,4 +76,12 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe></div>
       title: "Watch our latest video:"
+  - infopic:
+      title: 2023 Tchoukball A Div
+      subtitle: Stories
+      description: 15 May
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-Tchoukball-A-Division-/
+      image: /images/2023 tchoukball 034.jpg
+      alt: Tchoukball
 ---
