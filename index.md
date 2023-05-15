@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 NYJC College Day
+      title: 2023 NYJC 44th College Day
       button: View here
       url: https://nanyangjc.smugmug.com/2023-College-Day
       image: /images/20230513 college day 309.jpg
