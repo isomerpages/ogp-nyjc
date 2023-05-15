@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 College Day
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-College-Day
+      image: /images/20230513 college day 309.jpg
+      subtitle: Stories
+      description: 13 May
+      alt: College Day
+  - infopic:
       title: 2023 CLP Pitching Day
       subtitle: Stories
       button: VIEW HERE
@@ -38,14 +46,6 @@ sections:
       alt: 2023 DSA OH
       subtitle: STORIES
       description: 13 May
-  - infopic:
-      title: 2023 College Day
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-College-Day
-      image: /images/20230513 college day 309.jpg
-      subtitle: Stories
-      description: 13 May
-      alt: College Day
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
