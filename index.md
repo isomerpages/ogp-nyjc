@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Volleyball Girls A Division
+      subtitle: Stories
+      description: 16 May
+      button: View Here
+      url: https://www.smugmug.com/app/organize/2023-Volleyball-Girls-A-Division
+      image: /images/230516 girls volleyball 021.jpg
+      alt: 2023 Girls Volleyball
+  - infopic:
       title: 2023 Tchoukball A Div
       subtitle: Stories
       description: 15 May
