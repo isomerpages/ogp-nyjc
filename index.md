@@ -27,7 +27,7 @@ sections:
       subtitle: Stories
       description: 16 May
       button: View Here
-      url: https://www.smugmug.com/app/organize/2023-Volleyball-Girls-A-Division
+      url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
       image: /images/230516 girls volleyball 021.jpg
       alt: 2023 Girls Volleyball
   - infopic:
