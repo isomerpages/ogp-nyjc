@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Volleyball Boys A Div
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-Volleyball-Boys-A-Division
+      image: /images/230516 volleyball boys 071.jpg
+      alt: Volleyball boys
+      subtitle: STORIES
+      description: 16 May
+  - infopic:
       title: 2023 Volleyball Girls A Division
       subtitle: Stories
       description: 16 May
@@ -54,14 +62,6 @@ sections:
       image: /images/230513 clp pitching 003.jpg
       description: 13 May
       alt: 2023 CLP Pitching Day
-  - infopic:
-      title: 2023 DSA Open House
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-DSA-Open-House
-      image: /images/230513 dsa oh 035.jpg
-      alt: 2023 DSA OH
-      subtitle: STORIES
-      description: 13 May
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
