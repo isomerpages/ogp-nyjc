@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Badminton Boys A Division Finals
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-Badminton-Boys-A-Division-Finals/
+      image: /images/230517 badminton finals 024.jpg
+      description: 17 May
+      alt: 2023 BM
+  - infopic:
       title: 2023 Basketball Girls A Division Semi-Finals
       subtitle: Stories
       description: 17 May
@@ -62,14 +70,6 @@ sections:
       subtitle: Stories
       description: 13 May
       alt: College Day
-  - infopic:
-      title: 2023 CLP Pitching Day
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-CLP-Pitching-Day/
-      image: /images/230513 clp pitching 003.jpg
-      description: 13 May
-      alt: 2023 CLP Pitching Day
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
