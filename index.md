@@ -23,7 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 Volleyball Boys A Div
+      title: 2023 Basketball Girls A Division Semi-Finals
+      subtitle: Stories
+      description: 17 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Semi-Finals/
+      image: /images/230517 basketball girls semi-finals 022.jpg
+      alt: Basketball Semi
+  - infopic:
+      title: 2023 Volleyball Boys A Division
       button: View here
       url: https://nanyangjc.smugmug.com/2023-Volleyball-Boys-A-Division
       image: /images/230516 volleyball boys 071.jpg
