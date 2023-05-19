@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Class Leaders Camp Day 1
+      subtitle: Stories
+      description: 19 May
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-Class-Leaders-Camp-Day-1
+      image: /images/230519 clc 014.jpg
+      alt: CLC Day 1
+  - infopic:
       title: 2023 The 46th Student Council Investiture
       button: View here
       url: https://nanyangjc.smugmug.com/2023-Student-Council-Investiture
@@ -62,14 +70,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
       image: /images/230516 girls volleyball 021.jpg
       alt: 2023 Girls Volleyball
-  - infopic:
-      title: 2023 Tchoukball A Div
-      subtitle: Stories
-      description: 15 May
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-Tchoukball-A-Division-/
-      image: /images/2023 tchoukball 034.jpg
-      alt: Tchoukball
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
