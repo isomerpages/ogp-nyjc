@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 The 46th Student Council Investiture
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-Student-Council-Investiture
+      image: /images/230518 sc investiture 088.jpg
+      subtitle: Stories
+      description: 19 May
+      alt: SC
+  - infopic:
       title: 2023 Badminton Boys A Division Finals
       subtitle: Stories
       button: VIEW HERE
@@ -62,14 +70,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Tchoukball-A-Division-/
       image: /images/2023 tchoukball 034.jpg
       alt: Tchoukball
-  - infopic:
-      title: 2023 NYJC 44th College Day
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-College-Day
-      image: /images/20230513 college day 309.jpg
-      subtitle: Stories
-      description: 13 May
-      alt: College Day
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
