@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: headlines/connect/
+          url: headlines/reminyscence/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,14 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
+  - infopic:
+      title: RemiNYscence
+      subtitle: Headlines
+      description: 20 May
+      button: Click here
+      url: /headlines/reminyscence/
+      image: /images/reminence.jpg
+      alt: RemiNYscence
   - infopic:
       title: 2023 Class Leaders Camp Day 1
       subtitle: Stories
@@ -78,14 +86,6 @@ sections:
       url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
       image: /images/dsa 2023.jpeg
       alt: DSA 2023
-  - infopic:
-      title: Stay Connected with NYJC
-      subtitle: Headlines
-      description: 6 Mar
-      button: Connect here
-      url: /headlines/connect/
-      image: /images/stay connected1.jpg
-      alt: Stay Connected
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
