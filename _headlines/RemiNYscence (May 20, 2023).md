@@ -4,4 +4,14 @@ permalink: /headlines/reminyscence/
 description: ""
 image: /images/reminence.jpg
 ---
-Download program [here](/files/programme%20for%20reminyscence_20%20may.pdf).
+![](/images/slide1.JPG)
+![](/images/slide2.JPG)
+![](/images/slide3.JPG)
+![](/images/slide4.JPG)
+![](/images/slide5.JPG)
+![](/images/slide6.JPG)
+![](/images/slide7.JPG)
+![](/images/slide8.JPG)
+
+
+
