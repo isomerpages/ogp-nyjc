@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: RemiNYscence
+      subtitle: Headlines
+      description: 20 May
+      button: Click here
+      url: /headlines/reminyscence/
+      image: /images/reminence.jpg
+      alt: RemiNYscence
+  - infopic:
       title: 2023 Class Leaders Camp Day 1
       subtitle: Stories
       description: 19 May
@@ -78,14 +86,6 @@ sections:
       url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
       image: /images/dsa 2023.jpeg
       alt: DSA 2023
-  - infopic:
-      title: RemiNYscence
-      subtitle: Headlines
-      description: 20 May
-      button: Connect here
-      url: /headlines/reminyscence/
-      image: /images/reminence.jpg
-      alt: RemiNYscence
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
