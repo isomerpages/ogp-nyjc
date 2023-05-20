@@ -79,13 +79,13 @@ sections:
       image: /images/dsa 2023.jpeg
       alt: DSA 2023
   - infopic:
-      title: Stay Connected with NYJC
+      title: RemiNYscence
       subtitle: Headlines
-      description: 6 Mar
+      description: 20 May
       button: Connect here
-      url: /headlines/connect/
-      image: /images/stay connected1.jpg
-      alt: Stay Connected
+      url: /headlines/reminyscence/
+      image: /images/reminence.jpg
+      alt: RemiNYscence
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
