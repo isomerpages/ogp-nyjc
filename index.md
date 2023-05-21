@@ -31,6 +31,14 @@ sections:
       image: /images/reminence.jpg
       alt: RemiNYscence
   - infopic:
+      title: 2023 Class Leaders Camp Day 2
+      subtitle: Stories
+      description: 20 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
+      image: /images/230520 clc day 2 060.jpg
+      alt: 2023 CLC Day 2
+  - infopic:
       title: 2023 Class Leaders Camp Day 1
       subtitle: Stories
       description: 19 May
@@ -70,14 +78,6 @@ sections:
       alt: Volleyball boys
       subtitle: STORIES
       description: 16 May
-  - infopic:
-      title: 2023 Volleyball Girls A Division
-      subtitle: Stories
-      description: 16 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
-      image: /images/230516 girls volleyball 021.jpg
-      alt: 2023 Girls Volleyball
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
