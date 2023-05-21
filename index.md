@@ -43,7 +43,7 @@ sections:
       subtitle: Stories
       description: 20 May
       button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
+      url: https://nanyangjc.smugmug.com/2023-Class-Leaders-Camp-Day-2
       image: /images/230520 clc day 2 060.jpg
       alt: 2023 CLC Day 2
   - infopic:
