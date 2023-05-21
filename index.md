@@ -31,6 +31,22 @@ sections:
       image: /images/reminence.jpg
       alt: RemiNYscence
   - infopic:
+      title: 2023 我们的白云岗
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-byg
+      image: /images/230520 byg 001.jpg
+      alt: BYG 2023
+      subtitle: STORIES
+      description: 20 May
+  - infopic:
+      title: 2023 Class Leaders Camp Day 2
+      subtitle: Stories
+      description: 20 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
+      image: /images/230520 clc day 2 060.jpg
+      alt: 2023 CLC Day 2
+  - infopic:
       title: 2023 Class Leaders Camp Day 1
       subtitle: Stories
       description: 19 May
@@ -62,22 +78,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Semi-Finals/
       image: /images/230517 basketball girls semi-finals 022.jpg
       alt: Basketball Semi
-  - infopic:
-      title: 2023 Volleyball Boys A Division
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-Volleyball-Boys-A-Division
-      image: /images/230516 volleyball boys 071.jpg
-      alt: Volleyball boys
-      subtitle: STORIES
-      description: 16 May
-  - infopic:
-      title: 2023 Volleyball Girls A Division
-      subtitle: Stories
-      description: 16 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Volleyball-Girls-A-Division/
-      image: /images/230516 girls volleyball 021.jpg
-      alt: 2023 Girls Volleyball
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
