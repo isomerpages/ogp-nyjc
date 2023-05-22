@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Basketball Girls A Division Finals
+      subtitle: Stories
+      description: 22 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Finals/
+      image: /images/230522 basketball girls 013.jpg
+      alt: Basketball Finals
+  - infopic:
       title: RemiNYscence
       subtitle: Headlines
       description: 20 May
@@ -70,14 +78,6 @@ sections:
       image: /images/230517 badminton finals 024.jpg
       description: 17 May
       alt: 2023 BM
-  - infopic:
-      title: 2023 Basketball Girls A Division Semi-Finals
-      subtitle: Stories
-      description: 17 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Semi-Finals/
-      image: /images/230517 basketball girls semi-finals 022.jpg
-      alt: Basketball Semi
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
