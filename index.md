@@ -71,13 +71,13 @@ sections:
       description: 17 May
       alt: 2023 BM
   - infopic:
-      title: 2023 Basketball Girls A Division Semi-Finals
+      title: 2023 Basketball Girls A Division Finals
       subtitle: Stories
-      description: 17 May
+      description: 22 May
       button: view here
-      url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Semi-Finals/
+      url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Finals/
       image: /images/230517 basketball girls semi-finals 022.jpg
-      alt: Basketball Semi
+      alt: Basketball Finals
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
