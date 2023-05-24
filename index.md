@@ -71,13 +71,13 @@ sections:
       description: 19 May
       alt: SC
   - infopic:
-      title: 2023 Badminton Boys A Division Finals
+      title: 2023 Table Tennis Girls A Division 3rd/4th
       subtitle: Stories
       button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-Badminton-Boys-A-Division-Finals/
-      image: /images/230517 badminton finals 024.jpg
-      description: 17 May
-      alt: 2023 BM
+      url: https://nanyangjc.smugmug.com/2023-Table-Tennis-Girls-A-Division-3rd4th/
+      image: /images/230524 table tennis girls 022.jpg
+      description: 24 May
+      alt: 2023 Table Tennis
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
