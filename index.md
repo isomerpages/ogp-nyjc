@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 The NYght
+      subtitle: Stories
+      description: 27 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-The-NYght
+      image: /images/230520 clc day 2 060.jpg
+      alt: 2023 The NYght
+  - infopic:
       title: 2023 Table Tennis Girls A Division 3rd/4th
       subtitle: Stories
       button: VIEW HERE
@@ -46,14 +54,6 @@ sections:
       alt: BYG 2023
       subtitle: STORIES
       description: 20 May
-  - infopic:
-      title: 2023 The NYght
-      subtitle: Stories
-      description: 27 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-The-NYght
-      image: /images/230520 clc day 2 060.jpg
-      alt: 2023 The NYght
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
