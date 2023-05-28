@@ -28,7 +28,7 @@ sections:
       description: 27 May
       button: View Here
       url: https://nanyangjc.smugmug.com/2023-The-NYght
-      image: /images/230520 clc day 2 060.jpg
+      image: /images/230527 the nyght 193.jpg
       alt: 2023 The NYght
   - infopic:
       title: 2023 Table Tennis Girls A Division 3rd/4th
