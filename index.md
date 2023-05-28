@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 The NYght
+      subtitle: Stories
+      description: 27 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-The-NYght
+      image: /images/230527 the nyght 193.jpg
+      alt: 2023 The NYght
+  - infopic:
       title: 2023 Table Tennis Girls A Division 3rd/4th
       subtitle: Stories
       button: VIEW HERE
@@ -39,14 +47,6 @@ sections:
       image: /images/230522 basketball girls 013.jpg
       alt: Basketball Finals
   - infopic:
-      title: RemiNYscence
-      subtitle: Headlines
-      description: 20 May
-      button: Click here
-      url: /headlines/reminyscence/
-      image: /images/reminence.jpg
-      alt: RemiNYscence
-  - infopic:
       title: 2023 我们的白云岗
       button: View here
       url: https://nanyangjc.smugmug.com/2023-byg
@@ -54,30 +54,6 @@ sections:
       alt: BYG 2023
       subtitle: STORIES
       description: 20 May
-  - infopic:
-      title: 2023 Class Leaders Camp Day 2
-      subtitle: Stories
-      description: 20 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Class-Leaders-Camp-Day-2
-      image: /images/230520 clc day 2 060.jpg
-      alt: 2023 CLC Day 2
-  - infopic:
-      title: 2023 Class Leaders Camp Day 1
-      subtitle: Stories
-      description: 19 May
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-Class-Leaders-Camp-Day-1
-      image: /images/230519 clc 014.jpg
-      alt: CLC Day 1
-  - infopic:
-      title: 2023 The 46th Student Council Investiture
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-Student-Council-Investiture
-      image: /images/230518 sc investiture 088.jpg
-      subtitle: Stories
-      description: 19 May
-      alt: SC
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
