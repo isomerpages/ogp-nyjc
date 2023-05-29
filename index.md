@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 RemiNYscence
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-RemiNYscence
+      image: /images/230527 reminyscene 129.jpg
+      alt: ReminNYscence
+      subtitle: STORIES
+      description: 27 May
+  - infopic:
       title: 2023 The NYght
       subtitle: Stories
       description: 27 May
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Basketball-Girls-A-Division-Finals/
       image: /images/230522 basketball girls 013.jpg
       alt: Basketball Finals
-  - infopic:
-      title: 2023 我们的白云岗
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-byg
-      image: /images/230520 byg 001.jpg
-      alt: BYG 2023
-      subtitle: STORIES
-      description: 20 May
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
