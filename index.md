@@ -26,7 +26,7 @@ sections:
       title: 2023 RemiNYscence
       button: View here
       url: https://nanyangjc.smugmug.com/2023-RemiNYscence
-      image: /images/230520 byg 001.jpg
+      image: /images/230527 reminyscene 129.jpg
       alt: ReminNYscence
       subtitle: STORIES
       description: 27 May
