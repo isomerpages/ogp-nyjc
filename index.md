@@ -47,13 +47,13 @@ sections:
       image: /images/230522 basketball girls 013.jpg
       alt: Basketball Finals
   - infopic:
-      title: 2023 我们的白云岗
+      title: 2023 RemiNYscence
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-byg
+      url: https://nanyangjc.smugmug.com/2023-RemiNYscence
       image: /images/230520 byg 001.jpg
-      alt: BYG 2023
+      alt: ReminNYscence
       subtitle: STORIES
-      description: 20 May
+      description: 27 May
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
