@@ -28,7 +28,7 @@ sections:
       description: 27 May
       button: view here
       url: https://nanyangjc.smugmug.com/2023-NYRave
-      image: /images/230522 basketball girls 013.jpg
+      image: /images/230527 nyrave 079.jpg
       alt: NYRave
   - infopic:
       title: 2023 RemiNYscence
