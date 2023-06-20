@@ -4,7 +4,7 @@ permalink: /admissions-and-admin/administrations/canteen/
 description: ""
 third_nav_title: Administrations
 ---
-No Vacancies Currently.
+There are no available stalls currently.
 <!--**Type of Stall:** Vegetarian Food
 **Closing Date:** 19th May 2023
 
