@@ -198,24 +198,24 @@ description: ""
 <td width="516">National Day School Holiday</td>
 </tr>
 <tr>
-<td width="85"><strong>14</strong></td>
+<td width="85"><strong>13</strong></td>
 <td width="516">Prelim: Science Practical Examination</td>
 </tr>
 <tr>
-<td width="85"><strong>16</strong></td>
+<td width="85"><strong>21</strong></td>
 <td width="516">Prelim: Science Practical Examination</td>
 </tr>
 <tr>
-<td width="85"><strong>23</strong></td>
+<td width="85"><strong>24</strong></td>
 <td width="516">Prelim: Science Practical Examination</td>
 </tr>
 <tr>
-<td width="85"><strong>28 - 22 Sep<br></strong></td>
+<td width="85"><strong>28 - 21 Sep<br></strong></td>
 <td width="516">Prelim Examination</td>
 </tr>
 <tr>
 <td><strong>30<br></strong></td>
-<td>JC1 Science Practical</td>
+<td>EOY: JC1 Science Practical Examination</td>
 </tr>
 <tr>
 <td><strong>31<br></strong></td>
@@ -239,15 +239,12 @@ description: ""
 <td width="516">September Vacation</td>
 </tr>
 <tr>
-<td width="85"><strong>14</strong></td>
-<td width="516">EOY: JC1 Science Practical Examination</td>
-</tr>
-<tr>
 <td width="85"><strong>21</strong></td>
 <td width="516">JC1 Study Leave</td>
 </tr>
+
 <tr>
-<td width="85"><strong>22 - 5 Oct<br></strong></td>
+<td width="85"><strong>22 - 3 Oct<br></strong></td>
 <td width="516">EOY: JC1 Written Examination</td>
 </tr>
 </tbody>
@@ -256,7 +253,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td width="85"><strong>1 – 5</strong></td>
+<td width="85"><strong>1 – 3</strong></td>
 <td width="516">EOY: JC1 Written Examination</td>
 </tr>
 <tr>
@@ -268,7 +265,7 @@ description: ""
 <td width="516">JC2 Graduation Ceremony</td>
 </tr>
 <tr>
-<td><strong>16<br></strong></td>
+<td><strong>13<br></strong></td>
 <td>JC1 Written Report Submission (College)</td>
 </tr>
 <tr>
