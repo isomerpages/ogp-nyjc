@@ -756,7 +756,6 @@ description: ""
 <td width="94">Class of 85</td>
 
 <td width="371">Professor of Communications and Associate Dean (International Affairs), School of communication Arts, Bangkok University, Thailand.
-
 <br>Founder &amp; Regional Director, Asia Centre, Bangkok, Thailand.
 
 </td>
@@ -790,7 +789,6 @@ description: ""
 <td width="94">Class of 91</td>
 
 <td width="371">Director, Community Partnership Department
-
 <br>Deputy Assistant Commissioner of Police
 
 </td>
@@ -834,7 +832,6 @@ description: ""
 <td width="94">Class of 95</td>
 
 <td width="371">Head, Alumni Engagement
-
 <br>SIM Global Education
 
 </td>
@@ -848,11 +845,8 @@ description: ""
 <td width="94">Class of 97</td>
 
 <td width="371">Violin Performer &amp; Teacher
-
 <br>Author of “Teach a Life, for Life”
-
 <br>Founder, 3am Music Collective
-
 <br>Former National Athlete
 
 </td>
