@@ -906,9 +906,7 @@ description: ""
 <td>Class of 2006</td>
 
 <td>CEO and Founder of <a href="http://mrcventures.com" target="\_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://mrcventures.com&amp;source=gmail&amp;ust=1628927707170000&amp;usg=AFQjCNG7DWRQG9LKmHvcGmS5SgG72bYH0g">mrcventures.com</a>
-
 <br>CEO and Founder of Groundup.ai
-
 <br>CEO and Founder of Musette.live
 
 </td>
