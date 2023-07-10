@@ -87,7 +87,7 @@ description: ""
 
 <td>Class of 84</td>
 
-<td>Senior Research Scientist (adjunct), National Neuroscience Institute<br />A/Professor, Dept of Physiology, National University of Singapore<br />A/Professor, Duke-NUS Graduate Medical School</td>
+<td>Senior Research Scientist (adjunct), National Neuroscience Institute<br>A/Professor, Dept of Physiology, National University of Singapore<br>A/Professor, Duke-NUS Graduate Medical School</td>
 
 </tr>
 
@@ -177,7 +177,7 @@ description: ""
 
 <td width="93">Class of 79</td>
 
-<td width="359">Vice President (Planning),<br />Singapore Institute of Technology</td>
+<td width="359">Vice President (Planning),<br>Singapore Institute of Technology</td>
 
 </tr>
 
@@ -197,7 +197,7 @@ description: ""
 
 <td width="93">Class of 80</td>
 
-<td width="359">Senior Vice President and General Manager,<br />ST Electronics (e-Services) Pte Ltd<br />Retired from SAF as the 1st female Colonel</td>
+<td width="359">Senior Vice President and General Manager,<br>ST Electronics (e-Services) Pte Ltd<br>Retired from SAF as the 1st female Colonel</td>
 
 </tr>
 
@@ -209,7 +209,7 @@ description: ""
 
 <td>Founder and CEO, SmartMediaSoft
 
-<br/>Executive Director (OE Group)
+<br>Executive Director (OE Group)
 
 </td>
 
@@ -271,7 +271,7 @@ description: ""
 
 <td width="93">Class of 89</td>
 
-<td width="359">Corporate Director Managing Director/Founder<br />AYP Asia Group</td>
+<td width="359">Corporate Director Managing Director/Founder<br>AYP Asia Group</td>
 
 </tr>
 
@@ -291,7 +291,7 @@ description: ""
 
 <td width="93">Class of 92</td>
 
-<td width="359">Director, GardenAsia Pte Ltd<br />Director, Nyee Phoe Group</td>
+<td width="359">Director, GardenAsia Pte Ltd<br>Director, Nyee Phoe Group</td>
 
 </tr>
 
@@ -301,7 +301,7 @@ description: ""
 
 <td width="93">Class of 93</td>
 
-<td width="359">Co-founder, The Thought Collective<br />Executive Director, Common Ground</td>
+<td width="359">Co-founder, The Thought Collective<br>Executive Director, Common Ground</td>
 
 </tr>
 
@@ -351,7 +351,7 @@ description: ""
 
 <td width="93">Class of 96</td>
 
-<td width="359">Biodiversity Informatics Manager,<br />National Parks Board<br />Treasurer, Friendship Force of Nanyang</td>
+<td width="359">Biodiversity Informatics Manager,<br>National Parks Board<br>Treasurer, Friendship Force of Nanyang</td>
 
 </tr>
 
@@ -421,7 +421,7 @@ description: ""
 
 <td>Class of 82</td>
 
-<td>HOD Science, at Paya Lebar Methodist&nbsp;Girls&rsquo;&nbsp;School</td>
+<td>HOD Science, at Paya Lebar Methodist&nbsp;Girls’&nbsp;School</td>
 
 </tr>
 
@@ -441,7 +441,7 @@ description: ""
 
 <td>Class of 85</td>
 
-<td width="365">Professor, Australian National University<br />Australian Laureate Fellowship</td>
+<td width="365">Professor, Australian National University<br>Australian Laureate Fellowship</td>
 
 </tr>
 
@@ -501,7 +501,7 @@ description: ""
 
 <td width="95">Class of 93</td>
 
-<td width="365">Vice-Principal, St. Hilda&rsquo;s Primary School</td>
+<td width="365">Vice-Principal, St. Hilda’s Primary School</td>
 
 </tr>
 
@@ -513,7 +513,7 @@ description: ""
 
 <td width="365">A/Professor and Director of the Centre for Intellectual Property (IP), Information &amp; Privacy Law.
 
-<br/>Microsoft Professional Fellow, Fordham University School of Law
+<br>Microsoft Professional Fellow, Fordham University School of Law
 
 </td>
 
@@ -535,7 +535,7 @@ description: ""
 
 <td>Class of 79</td>
 
-<td>Former Member of Parliament, Ang Mo Kio<br />Assistant Director-General, National Trade Union Congress (NTUC)Chairman, Migrant Workers&rsquo; Centre; Head of Centre for the Domestic Employees and the director for Workplace Safety and HealthBoard member, Agri-Food and Veterinary Authority of Singapore</td>
+<td>Former Member of Parliament, Ang Mo Kio<br>Assistant Director-General, National Trade Union Congress (NTUC)Chairman, Migrant Workers’ Centre; Head of Centre for the Domestic Employees and the director for Workplace Safety and HealthBoard member, Agri-Food and Veterinary Authority of Singapore</td>
 
 </tr>
 
@@ -547,7 +547,7 @@ description: ""
 
 <td>Former&nbsp;Nominated Member of Parliament
 
-<br/>Associate Professor and Director, Centre for Applied Research, Singapore University of Social Sciences
+<br>Associate Professor and Director, Centre for Applied Research, Singapore University of Social Sciences
 
 </td>
 
@@ -559,7 +559,7 @@ description: ""
 
 <td>Class of 82</td>
 
-<td>Former Member of Parliament, Tampines GRC<br />Writer-in-Residence, Institute of Southeast Asian Studies (ISEAS)</td>
+<td>Former Member of Parliament, Tampines GRC<br>Writer-in-Residence, Institute of Southeast Asian Studies (ISEAS)</td>
 
 </tr>
 
@@ -579,7 +579,7 @@ description: ""
 
 <td>Class of 86</td>
 
-<td>Former Minister of State, Ministry of&nbsp;Manpower &amp; Ministry of Trade and Industry<br />Former Mayor, North East District<br />Entrepreneur</td>
+<td>Former Minister of State, Ministry of&nbsp;Manpower &amp; Ministry of Trade and Industry<br>Former Mayor, North East District<br>Entrepreneur</td>
 
 </tr>
 
@@ -599,7 +599,7 @@ description: ""
 
 <td>Class of 80</td>
 
-<td>In-house Counsel<br />Alexander Mann Solutions, New York</td>
+<td>In-house Counsel<br>Alexander Mann Solutions, New York</td>
 
 </tr>
 
@@ -609,7 +609,7 @@ description: ""
 
 <td>Class of 81</td>
 
-<td>Director, LLM (International Business Law) - Shanghai<br />Tax Director, EW Barker Centre for Law and BusinessFaculty of Law, National University of Singapore</td>
+<td>Director, LLM (International Business Law) - Shanghai<br>Tax Director, EW Barker Centre for Law and BusinessFaculty of Law, National University of Singapore</td>
 
 </tr>
 
@@ -649,7 +649,7 @@ description: ""
 
 <td>Class of 87</td>
 
-<td>Chief Prosecutor, Attorney-General&rsquo;s Chambers Crime Division</td>
+<td>Chief Prosecutor, Attorney-General’s Chambers Crime Division</td>
 
 </tr>
 
@@ -669,7 +669,7 @@ description: ""
 
 <td width="94">Class of 97</td>
 
-<td width="369">Deputy Senior State Counsel, Attorney-General&rsquo;s Chambers</td>
+<td width="369">Deputy Senior State Counsel, Attorney-General’s Chambers</td>
 
 </tr>
 
@@ -719,7 +719,7 @@ description: ""
 
 <td>Class of 81</td>
 
-<td>Elderly Services Consultant,<br />Care Corner Family Service Centre (Toa Payoh)&nbsp;&amp;<br />Counsellor of Friends-In-Deed&nbsp;Counselling Society</td>
+<td>Elderly Services Consultant,<br>Care Corner Family Service Centre (Toa Payoh)&nbsp;&amp;<br>Counsellor of Friends-In-Deed&nbsp;Counselling Society</td>
 
 </tr>
 
@@ -731,9 +731,9 @@ description: ""
 
 <td width="371">Chairman, Nature Society (Singapore) Bird Group
 
-<br/>Co-Author of &ldquo;The Avifauna of Singapore (2009)&rdquo;, and &ldquo;A Field Guide to the Birds of Singapore (2010)&rdquo;
+<br>Co-Author of “The Avifauna of Singapore (2009)”, and “A Field Guide to the Birds of Singapore (2010)”
 
-<br/>Author of &ldquo;A Naturalist's Guide to the Birds of Singapore"
+<br>Author of “A Naturalist's Guide to the Birds of Singapore"
 
 </td>
 
@@ -757,7 +757,7 @@ description: ""
 
 <td width="371">Professor of Communications and Associate Dean (International Affairs), School of communication Arts, Bangkok University, Thailand.
 
-<br/>Founder &amp; Regional Director, Asia Centre, Bangkok, Thailand.
+<br>Founder &amp; Regional Director, Asia Centre, Bangkok, Thailand.
 
 </td>
 
@@ -779,7 +779,7 @@ description: ""
 
 <td>Class of 90</td>
 
-<td>CEO<br />Catch Them Young<br /><a href="http://www.cty.sg" target="\_blank" rel="noopener">www.cty.sg</a></td>
+<td>CEO<br>Catch Them Young<br><a href="http://www.cty.sg" target="\_blank" rel="noopener">www.cty.sg</a></td>
 
 </tr>
 
@@ -791,7 +791,7 @@ description: ""
 
 <td width="371">Director, Community Partnership Department
 
-<br/>Deputy Assistant Commissioner of Police
+<br>Deputy Assistant Commissioner of Police
 
 </td>
 
@@ -835,7 +835,7 @@ description: ""
 
 <td width="371">Head, Alumni Engagement
 
-<br/>SIM Global Education
+<br>SIM Global Education
 
 </td>
 
@@ -849,11 +849,11 @@ description: ""
 
 <td width="371">Violin Performer &amp; Teacher
 
-<br/>Author of &ldquo;Teach a Life, for Life&rdquo;
+<br>Author of “Teach a Life, for Life”
 
-<br/>Founder, 3am Music Collective
+<br>Founder, 3am Music Collective
 
-<br/>Former National Athlete
+<br>Former National Athlete
 
 </td>
 
@@ -875,7 +875,7 @@ description: ""
 
 <td>Class of 2000</td>
 
-<td>Fellow &amp; Coordinator, Regional Social and Cultural Studies Program (RSCS)</td>
+<td>Senior Fellow, ISEAS-Yusof Ishak Institute</td>
 
 </tr>
 
@@ -907,9 +907,9 @@ description: ""
 
 <td>CEO and Founder of <a href="http://mrcventures.com" target="\_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://mrcventures.com&amp;source=gmail&amp;ust=1628927707170000&amp;usg=AFQjCNG7DWRQG9LKmHvcGmS5SgG72bYH0g">mrcventures.com</a>
 
-<br/>CEO and Founder of Groundup.ai
+<br>CEO and Founder of Groundup.ai
 
-<br/>CEO and Founder of Musette.live
+<br>CEO and Founder of Musette.live
 
 </td>
 
@@ -943,7 +943,7 @@ description: ""
 
 <td width="371">Experience Designer, Foolproof
 
-<br/>Qimmyshimmy
+<br>Qimmyshimmy
 
 </td>
 
