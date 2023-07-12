@@ -51,7 +51,7 @@ sections:
       subtitle: Stories
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2023-SG-Perspectives/
-      image: /images/230524 table tennis girls 022.jpg
+      image: /images/230711 sg perspectives 33.jpg
       description: 11 July
       alt: 2023 SG Perspectives
   - infopic:
