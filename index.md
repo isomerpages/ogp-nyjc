@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 SG Perspectives
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-SG-Perspectives/
+      image: /images/230711 sg perspectives 33.jpg
+      description: 11 July
+      alt: 2023 SG Perspectives
+  - infopic:
       title: 2023 NYRave
       subtitle: Stories
       description: 27 May
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-The-NYght
       image: /images/230527 the nyght 193.jpg
       alt: 2023 The NYght
-  - infopic:
-      title: 2023 Table Tennis Girls A Division 3rd/4th
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-Table-Tennis-Girls-A-Division-3rd4th/
-      image: /images/230524 table tennis girls 022.jpg
-      description: 24 May
-      alt: 2023 Table Tennis
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines

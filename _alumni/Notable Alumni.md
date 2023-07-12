@@ -512,10 +512,18 @@ description: ""
 <td width="95">Class of 97</td>
 
 <td width="365">A/Professor and Director of the Centre for Intellectual Property (IP), Information &amp; Privacy Law.
-
 <br>Microsoft Professional Fellow, Fordham University School of Law
 
 </td>
+
+</tr>
+	<tr>
+
+<td>Norshahril Saat</td>
+
+<td>Class of 2000</td>
+
+<td>Senior Fellow, ISEAS-Yusof Ishak Institute</td>
 
 </tr>
 
@@ -863,15 +871,6 @@ description: ""
 
 </tr>
 
-<tr>
-
-<td>Norshahril Saat</td>
-
-<td>Class of 2000</td>
-
-<td>Senior Fellow, ISEAS-Yusof Ishak Institute</td>
-
-</tr>
 
 <tr>
 
