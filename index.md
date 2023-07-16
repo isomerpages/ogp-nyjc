@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Leadership Training Camp
+      subtitle: Stories
+      description: 14 Jul
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-The-NYght
+      image: /images/230527 the nyght 193.jpg
+      alt: 2023 LTC Day 1
+  - infopic:
       title: 2023 SG Perspectives
       subtitle: Stories
       button: VIEW HERE
@@ -46,14 +54,6 @@ sections:
       alt: 2023 RemiNYscence
       subtitle: STORIES
       description: 27 May
-  - infopic:
-      title: 2023 The NYght
-      subtitle: Stories
-      description: 27 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-The-NYght
-      image: /images/230527 the nyght 193.jpg
-      alt: 2023 The NYght
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
