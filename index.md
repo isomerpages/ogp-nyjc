@@ -39,13 +39,13 @@ sections:
       image: /images/230527 nyrave 079.jpg
       alt: NYRave
   - infopic:
-      title: 2023 Leadership Training Camp Day 1
+      title: 2023 RemiNYscence
       button: View here
       url: https://nanyangjc.smugmug.com/2023-RemiNYscence
       image: /images/230527 reminyscene 129.jpg
-      alt: 2023 LTC Day 1
+      alt: 2023 RemiNYscence
       subtitle: STORIES
-      description: 14 Jul
+      description: 27 May
   - infopic:
       title: 2023 The NYght
       subtitle: Stories
