@@ -23,12 +23,12 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 Leadership Training Camp
+      title: 2023 Leadership Training Camp Day 1
       subtitle: Stories
       description: 14 Jul
       button: View Here
-      url: https://nanyangjc.smugmug.com/2023-The-NYght
-      image: /images/230527 the nyght 193.jpg
+      url: https://nanyangjc.smugmug.com/2023-LTC-Camp-Day-1
+      image: /images/2023 ltc day 1 041.jpg
       alt: 2023 LTC Day 1
   - infopic:
       title: 2023 SG Perspectives
