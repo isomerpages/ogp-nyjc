@@ -184,6 +184,10 @@ description: ""
 <td width="85"><strong>21</strong></td>
 <td width="516">CCA Award Ceremony</td>
 </tr>
+	<tr>
+<td width="85"><strong>24 Jul - 22 Aug</strong></td>
+<td width="516">Night Study Programme for JC2</td>
+</tr>
 </tbody>
 </table>
 <h3>August 2023</h3>
@@ -328,7 +332,7 @@ description: ""
 <td width="516">A level: PW Oral Presentations</td>
 </tr>
 <tr>
-<td width="85"><strong>6 – 1 Dec</strong></td>
+<td width="85"><strong>6 Nov – 1 Dec</strong></td>
 <td width="516">A level: Written Examination</td>
 </tr>
 <tr>
@@ -348,7 +352,7 @@ description: ""
 <td width="516">Last Day for JC1</td>
 </tr>
 <tr>
-<td width="85"><strong>25 – 31 Dec</strong></td>
+<td width="85"><strong>25 Nov – 31 Dec</strong></td>
 <td width="516">Year End Vacation</td>
 </tr>
 </tbody>
