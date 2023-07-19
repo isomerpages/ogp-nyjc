@@ -165,7 +165,7 @@ description: ""
 <td width="516">A-Level: H1 MTL cum MTL B (Mid-Year) Listening Comprehension</td>
 </tr>
 <tr>
-<td width="85"><strong>6 to 19</strong></td>
+<td width="85"><strong>6 - 19</strong></td>
 <td width="516">A-Level: H1 MTL Oral Exam</td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ description: ""
 <td width="516">JC2 Prelim: Physics Practical</td>
 </tr>
 <tr>
-<td width="85"><strong>23 Aug to 20 Sep</strong></td>
+<td width="85"><strong>23 Aug - 20 Sep</strong></td>
 <td width="516">Night Study Programme for JC1</td>
 </tr>
 <tr>
