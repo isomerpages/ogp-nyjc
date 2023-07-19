@@ -165,8 +165,16 @@ description: ""
 <td width="516">A-Level: H1 MTL cum MTL B (Mid-Year) Listening Comprehension</td>
 </tr>
 <tr>
+<td width="85"><strong>6 - 19</strong></td>
+<td width="516">A-Level: H1 MTL Oral Exam</td>
+</tr>
+<tr>
 <td width="85"><strong>7</strong></td>
-<td width="516">JC2 Photo Taking &amp; CCA Records Checking</td>
+<td width="516">JC1 QSE &amp; Photo-taking Day</td>
+</tr>
+<tr>
+<td width="85"><strong>10</strong></td>
+<td width="516">JC2 Photo-taking &amp; Record Checking.<br>Fun Day</td>
 </tr>
 <tr>
 <td width="85"><strong>14 - 16<br></strong></td>
@@ -175,6 +183,10 @@ description: ""
 <tr>
 <td width="85"><strong>21</strong></td>
 <td width="516">CCA Award Ceremony</td>
+</tr>
+	<tr>
+<td width="85"><strong>24 Jul - 22 Aug</strong></td>
+<td width="516">Night Study Programme for JC2</td>
 </tr>
 </tbody>
 </table>
@@ -198,16 +210,28 @@ description: ""
 <td width="516">National Day School Holiday</td>
 </tr>
 <tr>
-<td width="85"><strong>13</strong></td>
-<td width="516">Prelim: Science Practical Examination</td>
+<td width="85"><strong>14</strong></td>
+<td width="516">JC2 Prelim: Computing Practical</td>
+</tr>
+<tr>
+<td width="85"><strong>16</strong></td>
+<td width="516">JC2 Prelim: Chemistry Practical</td>
 </tr>
 <tr>
 <td width="85"><strong>21</strong></td>
-<td width="516">Prelim: Science Practical Examination</td>
+<td width="516">JC2 Prelim: Physics Practical</td>
+</tr>
+<tr>
+<td width="85"><strong>23 Aug - 20 Sep</strong></td>
+<td width="516">Night Study Programme for JC1</td>
 </tr>
 <tr>
 <td width="85"><strong>24</strong></td>
-<td width="516">Prelim: Science Practical Examination</td>
+<td width="516">JC2 Prelim: Biology Practical</td>
+</tr>
+<tr>
+<td width="85"><strong>26</strong></td>
+<td width="516">SMU Learning Journey for Parents</td>
 </tr>
 <tr>
 <td width="85"><strong>28 - 21 Sep<br></strong></td>
@@ -215,7 +239,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>30<br></strong></td>
-<td>EOY: JC1 Science Practical Examination</td>
+<td>JC1 EOY: Chemistry Practical</td>
 </tr>
 <tr>
 <td><strong>31<br></strong></td>
@@ -228,7 +252,7 @@ description: ""
 <tbody>
 <tr>
 <td width="85"><strong>13</strong></td>
-<td width="516">EOY: JC1 Science Practical Examination</td>
+<td width="516">JC1 EOY: Biology/Physicss Practical</td>
 </tr>
 <tr>
 <td width="85"><strong>1 - 22</strong></td>
@@ -257,11 +281,19 @@ description: ""
 <td width="516">EOY: JC1 Written Examination</td>
 </tr>
 <tr>
+<td width="85"><strong>4 - 29</strong></td>
+<td width="516">Preparation for H1 MTL Written Exam</td>
+</tr>
+<tr>
+<td width="85"><strong>4 - 31</strong></td>
+<td width="516">Special Timeetable for Project Work</td>
+</tr>
+<tr>
 <td width="85"><strong>4</strong></td>
 <td width="516">A level: H2 Computing Practical Examination</td>
 </tr>
 <tr>
-<td width="85"><strong>11</strong></td>
+<td width="85"><strong>13</strong></td>
 <td width="516">JC2 Graduation Ceremony</td>
 </tr>
 <tr>
@@ -271,10 +303,6 @@ description: ""
 <tr>
 <td width="85"><strong>18<br></strong></td>
 <td width="516">	A level: H2 Chemistry Practical</td>
-</tr>
-<tr>
-<td width="85"><strong>19 &amp; 21<br></strong></td>
-<td width="516">A level: H1 CL/ML/TL Listening Comprehension Examination</td>
 </tr>
 <tr>
 <td width="85"><strong>23<br></strong></td>
@@ -288,22 +316,32 @@ description: ""
 <td><strong>27<br></strong></td>
 <td>Halloween</td>
 </tr>
+<tr>
+<td width="85"><strong>30</strong></td>
+<td width="516">A level: H1 MTL Written Exam</td>
+</tr>
 </tbody>
 </table>
+
 <h3>November 2023</h3>
 <table>
 <tbody>
+
 <tr>
-<td width="85"><strong>1</strong></td>
-<td width="516">A level: H1 MTL Written Examination (Year-end)</td>
-</tr>
-<tr>
-<td width="85"><strong>1 – 8</strong></td>
+<td width="85"><strong>3 – 8</strong></td>
 <td width="516">A level: PW Oral Presentations</td>
 </tr>
 <tr>
-<td width="85"><strong>6 – 1 Dec</strong></td>
+<td width="85"><strong>6 Nov – 1 Dec</strong></td>
 <td width="516">A level: Written Examination</td>
+</tr>
+<tr>
+<td width="85"><strong>9</strong></td>
+<td width="516">Submission of I&amp;R</td>
+</tr>
+<tr>
+<td width="85"><strong>10 - 24</strong></td>
+<td width="516">Timetabled Lessons and Activities for JC1</td>
 </tr>
 <tr>
 <td><strong>13<br></strong></td>
@@ -314,7 +352,7 @@ description: ""
 <td width="516">Last Day for JC1</td>
 </tr>
 <tr>
-<td width="85"><strong>25 – 31 Dec</strong></td>
+<td width="85"><strong>25 Nov – 31 Dec</strong></td>
 <td width="516">Year End Vacation</td>
 </tr>
 </tbody>
@@ -324,7 +362,7 @@ description: ""
 <tbody>
 <tr>
 <td width="85"><strong>1<br></strong></td>
-<td width="516">Dinner &amp; Dance (GBTB)</td>
+<td width="516">JC2 Dinner &amp; Dance</td>
 </tr>
 <tr>
 <td width="85"><strong>25</strong></td>
