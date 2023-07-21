@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC1 Principal's Dialogue
+      subtitle: Stories
+      description: 20 Jul
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-JC1-Principals-Dialogue-Session/
+      image: /images/230720 jc1 principal dialogue 13.jpg
+      alt: 2023 LTC Day 1
+  - infopic:
       title: 2023 Leadership Training Camp Day 3
       subtitle: Stories
       button: VIEW HERE
@@ -46,14 +54,6 @@ sections:
       alt: 2023 LTC Day 2
       subtitle: STORIES
       description: 15 Jul
-  - infopic:
-      title: 2023 JC1 Principal's Dialogue
-      subtitle: Stories
-      description: 20 Jul
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-JC1-Principals-Dialogue-Session/
-      image: /images/230720 jc1 principal dialogue 13.jpg
-      alt: 2023 LTC Day 1
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
