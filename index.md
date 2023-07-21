@@ -47,12 +47,12 @@ sections:
       subtitle: STORIES
       description: 15 Jul
   - infopic:
-      title: 2023 Leadership Training Camp Day 1
+      title: 2023 JC1 Principal's Dialogue
       subtitle: Stories
-      description: 14 Jul
+      description: 20 Jul
       button: View Here
-      url: https://nanyangjc.smugmug.com/2023-LTC-Camp-Day-1
-      image: /images/2023 ltc day 1 041.jpg
+      url: https://nanyangjc.smugmug.com/2023-JC1-Principals-Dialogue-Session/
+      image: /images/230720 jc1 principal dialogue 13.jpg
       alt: 2023 LTC Day 1
   - infopic:
       title: 2023 DSA-JC
