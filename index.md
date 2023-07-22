@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2023 CLP Final Presentation
+      title: 2023 CCA Award Ceremony
       button: View here
       url: https://nanyangjc.smugmug.com/2023-CCA-Awards-Ceremony/
       image: /images/230721 cca awards web.jpg
