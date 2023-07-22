@@ -47,13 +47,13 @@ sections:
       image: /images/2023 ltc day 2 057.jpg
       alt: 2023 LTC Day 2
   - infopic:
-      title: 2023 Leadership Training Camp Day 2 (Part 1)
+      title: 2023 CLP Final Presentation
       button: View here
-      url: https://nanyangjc.smugmug.com/2023-Leadership-Training-Camp-Day-2-Part-1/
-      image: /images/dsc08124.jpg
+      url: https://nanyangjc.smugmug.com/2023-CCA-Awards-Ceremony/
+      image: /images/230721 cca awards web.jpg
       alt: 2023 LTC Day 2
       subtitle: STORIES
-      description: 15 Jul
+      description: 22 Jul
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
