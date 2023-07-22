@@ -29,7 +29,7 @@ sections:
       image: /images/230721 cca awards 266-31.jpg
       alt: 2023 LTC Day 2
       subtitle: STORIES
-      description: 22 Jul
+      description: 21 Jul
   - infopic:
       title: 2023 JC1 Principal's Dialogue
       subtitle: Stories
