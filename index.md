@@ -26,7 +26,7 @@ sections:
       title: 2023 CCA Award Ceremony
       button: View here
       url: https://nanyangjc.smugmug.com/2023-CCA-Awards-Ceremony/
-      image: /images/230721 cca awards web.jpg
+      image: /images/230721 cca awards 266-31.jpg
       alt: 2023 LTC Day 2
       subtitle: STORIES
       description: 22 Jul
