@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 CLP Final Presentation
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-CCA-Awards-Ceremony/
+      image: /images/230721 cca awards web.jpg
+      alt: 2023 LTC Day 2
+      subtitle: STORIES
+      description: 22 Jul
+  - infopic:
       title: 2023 JC1 Principal's Dialogue
       subtitle: Stories
       description: 20 Jul
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Leadership-Training-Camp-Day-2-Part-2
       image: /images/2023 ltc day 2 057.jpg
       alt: 2023 LTC Day 2
-  - infopic:
-      title: 2023 CLP Final Presentation
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-CCA-Awards-Ceremony/
-      image: /images/230721 cca awards web.jpg
-      alt: 2023 LTC Day 2
-      subtitle: STORIES
-      description: 22 Jul
   - infopic:
       title: 2023 DSA-JC
       subtitle: Headlines
