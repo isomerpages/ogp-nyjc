@@ -27,7 +27,7 @@ sections:
       subtitle: Stories
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2023-JC1-SG-Perspectives/
-      image: /images/ltc day 3 022.jpg
+      image: /images/230727 jc1 sg perspectives 035.jpg
       description: 27 Jul
       alt: 2023 SG Perspectives
   - infopic:
