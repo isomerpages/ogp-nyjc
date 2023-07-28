@@ -29,7 +29,7 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-JC1-SG-Perspectives/
       image: /images/ltc day 3 022.jpg
       description: 27 Jul
-      alt: 2023 LTC Day 3
+      alt: 2023 SG Perspectives
   - infopic:
       title: 2023 CLP Final Presentation
       subtitle: Stories
