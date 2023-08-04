@@ -6,7 +6,7 @@ third_nav_title: Admissions
 ---
 Nanyang Junior College invites students with the following outstanding talents/skills to apply for Direct School Admission (DSA). Successful DSA-JC candidates will gain admission to NYJC in 2024 for their JC education, if they meet the eligibility criteria set by MOE for the two-year Junior College Course (based on their GCE ‘O’ Level examination results).
 
-The DSA-JC 2023 Exercise starts from 4 May 2023. All interested students are strongly encouraged to submit your application [here](https://form.gov.sg/6451f51129d5530011e852c1). Shortlisted applicants will be contacted for a trial/audition and/or interview that will take place between 11 May to 25 August 2023.
+The DSA-JC 2023 Exercise starts from 4 May 2023. Shortlisted applicants will be contacted for a trial/audition and/or interview that will take place between 11 May to 25 August 2023.
 
 For more information about DSA at NYJC, please click [here](https://www.dsaatnyjc.net/).
 

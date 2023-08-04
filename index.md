@@ -54,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-JC1-Principals-Dialogue-Session/
       image: /images/230720 jc1 principal dialogue 13.jpg
       alt: 2023 LTC Day 1
-  - infopic:
-      title: 2023 DSA-JC
-      subtitle: Headlines
-      description: 4 May
-      button: Click here
-      url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
-      image: /images/dsa 2023.jpeg
-      alt: DSA 2023
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
