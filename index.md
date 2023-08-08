@@ -52,7 +52,7 @@ sections:
       description: 8 Aug
       button: View Here
       url: https://nanyangjc.smugmug.com/2023-National-Day-Celebration/
-      image: /images/230720 jc1 principal dialogue 13.jpg
+      image: /images/230808 national day celebration 029.jpg
       alt: 2023 ND
   - infobar:
       title: Visit Our Facebook Page!
