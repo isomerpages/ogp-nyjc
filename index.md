@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 National Day Celebration
+      subtitle: Stories
+      description: 8 Aug
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-National-Day-Celebration/
+      image: /images/230808 national day celebration 029.jpg
+      alt: 2023 ND
+  - infopic:
       title: 2023 JC1 SG Perspectives
       subtitle: Stories
       button: VIEW HERE
@@ -46,14 +54,6 @@ sections:
       alt: 2023 LTC Day 2
       subtitle: STORIES
       description: 21 Jul
-  - infopic:
-      title: 2023 JC1 Principal's Dialogue
-      subtitle: Stories
-      description: 20 Jul
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-JC1-Principals-Dialogue-Session/
-      image: /images/230720 jc1 principal dialogue 13.jpg
-      alt: 2023 LTC Day 1
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
