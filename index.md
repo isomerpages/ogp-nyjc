@@ -47,13 +47,13 @@ sections:
       subtitle: STORIES
       description: 21 Jul
   - infopic:
-      title: 2023 JC1 Principal's Dialogue
+      title: 2023 National Day Celebration
       subtitle: Stories
-      description: 20 Jul
+      description: 8 Aug
       button: View Here
-      url: https://nanyangjc.smugmug.com/2023-JC1-Principals-Dialogue-Session/
+      url: https://nanyangjc.smugmug.com/2023-National-Day-Celebration/
       image: /images/230720 jc1 principal dialogue 13.jpg
-      alt: 2023 LTC Day 1
+      alt: 2023 ND
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
