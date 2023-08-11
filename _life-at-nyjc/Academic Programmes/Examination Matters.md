@@ -13,7 +13,8 @@ Information
 
 JC1 Exam Timetable
 
-[2023 J1 Common Test 1](/files/2023%20j1%20ct%20tt_final_stud%202may.pdf)
+[2023 J1 EOY](/files/2023%20j1%20eoy%20tt_final_website.pdf)
+
 
 JC2 Exam Timetable
 
