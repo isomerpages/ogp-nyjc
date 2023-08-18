@@ -18,7 +18,7 @@ JC1 Exam Timetable
 
 JC2 Exam Timetable
 
-[2023 J2 Prelim](/files/2023%20j2%20prelim%20tt_finalised_students_3aug.pdf)
+[2023 J2 Prelim (Updated)](/files/2023%20j2%20prelim%20tt_finalised_students_11aug.pdf)
 
 JC1 Promotional Criteria
 
