@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 CCA and Class Leaders Investiture
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-CCA-and-Class-Leaders-Investiture/
+      image: /images/20230817 cca and cl investituree 124-1024x1024.jpg
+      alt: 2023 CCA and CL
+      subtitle: STORIES
+      description: 17 Aug
+  - infopic:
       title: 2023 National Day Celebration
       subtitle: Stories
       description: 8 Aug
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-CLP-Final-Presentation/
       image: /images/2023 clp final 075.jpg
       alt: 2023 LTC Day 2
-  - infopic:
-      title: 2023 CCA Award Ceremony
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-CCA-Awards-Ceremony/
-      image: /images/230721 cca awards 266-31.jpg
-      alt: 2023 LTC Day 2
-      subtitle: STORIES
-      description: 21 Jul
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
