@@ -27,7 +27,7 @@ sections:
       subtitle: Headlines
       description: 28 Aug
       button: click here
-      url: https://www.nanyangjc.moe.edu.sg/echa/
+      url: /echa/
       image: /images/echa award.jpg
       alt: echa
   - infopic:
