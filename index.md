@@ -27,7 +27,7 @@ sections:
       subtitle: Headlines
       description: 28 Aug
       button: click here
-      url: /echa/
+      url: /headlines/echa/
       image: /images/echa award.jpg
       alt: echa
   - infopic:
