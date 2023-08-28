@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 MOE Edusave Character Award  (ECHA)
+      subtitle: Headlines
+      description: 28 Aug
+      button: click here
+      url: https://www.nanyangjc.moe.edu.sg/echa/
+      image: /images/2023 clp final 075.jpg
+      alt: echa
+  - infopic:
       title: 2023 CCA and Class Leaders Investiture
       button: View here
       url: https://nanyangjc.smugmug.com/2023-CCA-and-Class-Leaders-Investiture/
@@ -46,14 +54,6 @@ sections:
       image: /images/230727 jc1 sg perspectives 035.jpg
       description: 27 Jul
       alt: 2023 SG Perspectives
-  - infopic:
-      title: 2023 CLP Final Presentation
-      subtitle: Stories
-      description: 22 Jul
-      button: view here
-      url: https://nanyangjc.smugmug.com/2023-CLP-Final-Presentation/
-      image: /images/2023 clp final 075.jpg
-      alt: 2023 LTC Day 2
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
