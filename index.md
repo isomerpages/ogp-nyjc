@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: headlines/reminyscence/
+          url: headlines/echa/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
