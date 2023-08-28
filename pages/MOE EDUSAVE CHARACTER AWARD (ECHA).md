@@ -38,7 +38,7 @@ and/or<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp; **Resilience** - have persevered despite facing difficult circumstances (e.g. financial problems, family issues and health issues) and managed to overcome the odds and still do commendably well in various domains<br>
 
-&nbsp;**Nomination Period**<br>
+**Nomination Period**<br>
 
 a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nomination is open to students, staff and parents from **28 August 2023 to 11 September 2023.**<br>
 
@@ -49,4 +49,4 @@ c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may nominate by using this [link](https
 **Nomination Workflow**<br>
 ![](/images/echa%20workflow.png)
 
-**_Please direct any queries to Ms Tan Meng Lee (tan\_meng\_lee@schools.gov.sg)._**
+***Please direct any queries to Ms Tan Meng Lee (tanmenglee@schools.gov.sg).***
