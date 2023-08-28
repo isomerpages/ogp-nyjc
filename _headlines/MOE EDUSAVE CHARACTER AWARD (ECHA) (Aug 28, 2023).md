@@ -49,4 +49,4 @@ c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may nominate by using this [link](https
 **Nomination Workflow**<br>
 ![](/images/echa%20workflow.png)
 
-***Please direct any queries to Ms Tan Meng Lee (tanmenglee@schools.gov.sg).***
+***Please direct any queries to Ms Tan Meng Lee [tan_meng_lee@schools.gov.sg](tan_meng_lee@schools.gov.sg).***
