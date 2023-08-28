@@ -28,7 +28,7 @@ sections:
       description: 28 Aug
       button: click here
       url: https://www.nanyangjc.moe.edu.sg/echa/
-      image: /images/2023 clp final 075.jpg
+      image: /images/echa award.jpg
       alt: echa
   - infopic:
       title: 2023 CCA and Class Leaders Investiture
