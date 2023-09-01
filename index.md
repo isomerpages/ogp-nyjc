@@ -23,6 +23,22 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Teachers Day Celebration
+      subtitle: Stories
+      description: 31 Aug
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Celebration
+      image: /images/2023 teachers day celebration 039.jpg
+      alt: 2023 TDC
+  - infopic:
+      title: 2023 Teachers Day Dinner
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Dinner/
+      image: /images/2023 teachers day dinner 33.jpg
+      description: 30 Aug
+      alt: 2023 TTD
+  - infopic:
       title: 2023 MOE Edusave Character Award  (ECHA)
       subtitle: Headlines
       description: 28 Aug
@@ -38,22 +54,6 @@ sections:
       alt: 2023 CCA and CL
       subtitle: STORIES
       description: 17 Aug
-  - infopic:
-      title: 2023 National Day Celebration
-      subtitle: Stories
-      description: 8 Aug
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-National-Day-Celebration/
-      image: /images/230808 national day celebration 029.jpg
-      alt: 2023 ND
-  - infopic:
-      title: 2023 JC1 SG Perspectives
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-JC1-SG-Perspectives/
-      image: /images/230727 jc1 sg perspectives 035.jpg
-      description: 27 Jul
-      alt: 2023 SG Perspectives
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
