@@ -13,7 +13,7 @@ Information
 
 JC1 Exam Timetable
 
-[2023 J1 EOY](/files/2023%20j1%20eoy%20tt_final_website.pdf)
+[2023 J1 EOY (Updated 18 Sep Computing)](/files/2023%20j1%20eoy%20tt_final_stud_18%20sep_updated%20comp.pdf)
 
 
 JC2 Exam Timetable
