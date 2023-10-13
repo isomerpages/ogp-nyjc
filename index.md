@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: 2023 JC2 Graduation Day
       subtitle: stories
-      description: 28 Aug
+      description: 13 Oct
       button: view here
       url: https://nanyangjc.smugmug.com/231013-JC2-Graduation-Day/
       image: /images/231013 graduation day 155.jpg
