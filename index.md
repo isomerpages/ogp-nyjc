@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC2 Graduation Day
+      subtitle: stories
+      description: 28 Aug
+      button: view here
+      url: https://nanyangjc.smugmug.com/231013-JC2-Graduation-Day/
+      image: /images/231013 graduation day 155.jpg
+      alt: Graduation
+  - infopic:
       title: 2023 Teachers Day Celebration
       subtitle: Stories
       description: 31 Aug
@@ -38,14 +46,6 @@ sections:
       image: /images/2023 teachers day dinner 33.jpg
       description: 30 Aug
       alt: 2023 TTD
-  - infopic:
-      title: 2023 MOE Edusave Character Award  (ECHA)
-      subtitle: Headlines
-      description: 28 Aug
-      button: click here
-      url: /headlines/echa/
-      image: /images/echa award.jpg
-      alt: echa
   - infopic:
       title: 2023 CCA and Class Leaders Investiture
       button: View here
