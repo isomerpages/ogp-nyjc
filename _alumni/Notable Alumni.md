@@ -870,7 +870,16 @@ description: ""
 <td width="371">Senior Prisons Officer, Singapore Prisons Service</td>
 
 </tr>
+<tr>
 
+<td width="141">Koh Ying Zhao Ryan</td>
+
+<td width="94">Class of 2001</td>
+
+<td width="371">Superintendent<br>
+Singapore Police Force<br>Commanding Officer, Woodlands East Neighbourhood Police Centre</td>
+
+</tr>
 
 <tr>
 
