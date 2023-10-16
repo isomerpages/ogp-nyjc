@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Geography Students Changi Intertidal Walk
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-NYJC-Geography-Students-Changi-Intertidal-Walk/
+      image: /images/231016 changi walk 21.jpg
+      alt: 2023 Changi
+      subtitle: STORIES
+      description: 16 Oct
+  - infopic:
       title: 2023 JC2 Graduation Day
       subtitle: stories
       description: 13 Oct
@@ -46,14 +54,6 @@ sections:
       image: /images/2023 teachers day dinner 33.jpg
       description: 30 Aug
       alt: 2023 TTD
-  - infopic:
-      title: 2023 Geography Students Changi Intertidal Walk
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-NYJC-Geography-Students-Changi-Intertidal-Walk/
-      image: /images/20230817 cca and cl investituree 124-1024x1024.jpg
-      alt: 2023 Changi
-      subtitle: STORIES
-      description: 16 Oct
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
