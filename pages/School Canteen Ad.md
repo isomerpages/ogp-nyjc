@@ -3,8 +3,8 @@ title: School Canteen Ad
 permalink: /permalink/
 description: ""
 ---
-Type of Stall:** Vegetarian Food
-**Closing Date:** 19th May 2023
+**Type of Stall:** Japanese Food<br>
+**Closing Date:** 13th Oct 2023
 
 
 ##### Application Procedure
@@ -34,13 +34,13 @@ Bus numbers: 58, 105
 
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
-* Able to provide good service and quality food with prices determined in consultation  with the school.
+* Able to provide good service and quality food with prices determined in consultation &nbsp;with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion  Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see  [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion &nbsp;Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see &nbsp;[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
 * Able to maintain high standard of food safety and personal hygiene.
 
-* Healthy and  fit to operate the stall.
+* Healthy and &nbsp;fit to operate the stall.
 
 ##### Applicants should preferably fulfill the following criteria:
 
