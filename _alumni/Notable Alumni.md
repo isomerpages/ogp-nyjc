@@ -914,6 +914,15 @@ Singapore Police Force<br>Commanding Officer, Woodlands East Neighbourhood Polic
 </td>
 
 </tr>
+<tr>
+
+<td width="141">Juliet Tanuwira</td>
+
+<td width="94">Class of 2007</td>
+
+<td width="371">Lead for Inclusion Strategy, AWWA<br> Singapore Country Lead, YSEALI Women Leadership Academy</td>
+
+</tr>
 
 <tr>
 
