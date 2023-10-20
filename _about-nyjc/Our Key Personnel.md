@@ -18,10 +18,6 @@ description: ""
     <td class="tg-y8lk"><a href="mailto:low_chun_meng@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">low_chun_meng@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">62842281</span></td>
   </tr>
   <tr>
-
-    <td class="tg-y8lk"><a href="mailto:koh_chee_hui@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">koh_chee_hui@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">62842281</span></td>
-  </tr>
-  <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Vice-Principal</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Jasmine Ong Peishan</span></td>
     <td class="tg-y8lk"><a href="mailto:jasmine_ong_peishan@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">jasmine_ong_peishan@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">62842281</span></td>
