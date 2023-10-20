@@ -18,8 +18,7 @@ description: ""
     <td class="tg-y8lk"><a href="mailto:low_chun_meng@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">low_chun_meng@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">62842281</span></td>
   </tr>
   <tr>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Vice-Principal</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Koh Chee Hui</span></td>
+
     <td class="tg-y8lk"><a href="mailto:koh_chee_hui@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">koh_chee_hui@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">62842281</span></td>
   </tr>
   <tr>
@@ -224,7 +223,7 @@ description: ""
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">PE & CCA</label>
+    <label for="accordion7">PE &amp; CCA</label>
     <div>
 <table class="tg">
 <thead>
@@ -283,7 +282,7 @@ description: ""
 	</li>  	
 	  <li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">Science & Research</label>
+    <label for="accordion9">Science &amp; Research</label>
     <div>
 <table class="tg">
 <tbody>
@@ -343,7 +342,7 @@ description: ""
 	</li> 
   <li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Character & Leadership Development</label>
+    <label for="accordion10">Character &amp; Leadership Development</label>
     <div>
 <table>
 <tbody>
@@ -378,7 +377,7 @@ description: ""
 	</li>  	
   <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Student Affairs & Management</label>
+    <label for="accordion11">Student Affairs &amp; Management</label>
     <div>
 <table><tbody><tr><td>HOD</td><td>Ms Tan Meng Lee<br></td><td><a href="mailto:tan_meng_lee@schools.gov.sg">tan_meng_lee@schools.gov.sg</a><br><br>63805178</td></tr><tr><td>Education and Career Guidance Counsellor</td><td>Mr Shaun Han</td><td><a href="mailto:han_swee_kwang_shaun@schools.gov.sg">han_swee_kwang_shaun@schools.gov.sg </a><br>63805141</td></tr><tr><td>SH Life-skills</td><td> Mr Tonny Lim</td><td><a href="mailto:lim_wee_shing_tonny@schools.gov.sg">lim_wee_shing_tonny@schools.gov.sg </a><br>63805157 </td></tr><tr><td>SH Student Management</td><td>Mr Sim Yong Meng</td><td><a href="mailto:sim_yong_meng@schools.gov.sg">sim_yong_meng@schools.gov.sg</a><br>63805140</td></tr></tbody></table>
     </div>
@@ -386,14 +385,14 @@ description: ""
 	
   <li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12">Corporate Communications & Partnership</label>
+    <label for="accordion12">Corporate Communications &amp; Partnership</label>
     <div>
 <table><tbody><tr><td>HOD</td><td>Mrs Cynthia Tan</td><td><a href="mailto:tan_hui_hung_cynthia@schools.gov.sg">tan_hui_hung_cynthia@schools.gov.sg </a><br>63805175</td></tr><tr><td>SH Partnerships<br></td><td>Ms Tang Ching Yun</td><td><a href="mailto:tang_ching_yun@schools.gov.sg">tang_ching_yun@schools.gov.sg</a><br>63805144</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
     </div>
 	</li>  		
 	  <li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13">System & Info Management</label>
+    <label for="accordion13">System &amp; Info Management</label>
     <div>
 <table><tbody><tr><td>HOD</td><td>Mr Adrian Tan</td><td><a href="mailto:tan_jin_wui@schools.gov.sg">tan_jin_wui@schools.gov.sg </a><br>63805107</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
     </div>
