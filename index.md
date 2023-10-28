@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Halloween
+      subtitle: Stories
+      description: 27 Oct
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Celebration
+      image: /images/231027 halloween 003.jpg
+      alt: 2023 TDC
+  - infopic:
       title: 2023 3R Staff Retreat
       subtitle: Stories
       button: VIEW HERE
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/231013-JC2-Graduation-Day/
       image: /images/231013 graduation day 155.jpg
       alt: Graduation
-  - infopic:
-      title: 2023 Teachers Day Celebration
-      subtitle: Stories
-      description: 31 Aug
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Celebration
-      image: /images/2023 teachers day celebration 039.jpg
-      alt: 2023 TDC
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
