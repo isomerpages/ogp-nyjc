@@ -27,7 +27,7 @@ sections:
       subtitle: Stories
       description: 27 Oct
       button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Celebration
+      url: https://nanyangjc.smugmug.com/2023-Halloween
       image: /images/231027 halloween 003.jpg
       alt: 2023 TDC
   - infopic:
