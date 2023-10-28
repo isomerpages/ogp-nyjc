@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 3R Staff Retreat
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-3R-Staff-Retreat/
+      image: /images/231027 3r 053.jpg
+      description: 27 Oct
+      alt: 2023 TTD
+  - infopic:
       title: 2023 Geography Students Changi Intertidal Walk
       button: View here
       url: https://nanyangjc.smugmug.com/2023-NYJC-Geography-Students-Changi-Intertidal-Walk/
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Celebration
       image: /images/2023 teachers day celebration 039.jpg
       alt: 2023 TDC
-  - infopic:
-      title: 2023 Teachers Day Dinner
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-Teachers-Day-Dinner/
-      image: /images/2023 teachers day dinner 33.jpg
-      description: 30 Aug
-      alt: 2023 TTD
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
