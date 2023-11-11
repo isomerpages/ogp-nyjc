@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 Walk For Rice
+      subtitle: stories
+      description: 10 Nov
+      button: view here
+      url: https://nanyangjc.smugmug.com/2023-Walk-for-Rice/
+      image: /images/231110_Walk_for_Rice_031.jpg
+      alt: Graduation
+  - infopic:
       title: 2023 Halloween
       subtitle: Stories
       description: 27 Oct
@@ -46,14 +54,6 @@ sections:
       alt: 2023 Changi
       subtitle: STORIES
       description: 16 Oct
-  - infopic:
-      title: 2023 JC2 Graduation Day
-      subtitle: stories
-      description: 13 Oct
-      button: view here
-      url: https://nanyangjc.smugmug.com/231013-JC2-Graduation-Day/
-      image: /images/231013 graduation day 155.jpg
-      alt: Graduation
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
