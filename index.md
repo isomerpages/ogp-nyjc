@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 SIG Arts Day
+      button: View here
+      url: https://nanyangjc.smugmug.com/2023-SIG-Arts-Day/
+      image: /images/231117_SIG_Arts_Day_036.jpg
+      alt: 2023 Changi
+      subtitle: STORIES
+      description: 17 Nov
+  - infopic:
       title: 2023 Walk For Rice
       subtitle: stories
       description: 10 Nov
@@ -46,14 +54,6 @@ sections:
       image: /images/231027 3r 053.jpg
       description: 27 Oct
       alt: 2023 TTD
-  - infopic:
-      title: 2023 Geography Students Changi Intertidal Walk
-      button: View here
-      url: https://nanyangjc.smugmug.com/2023-NYJC-Geography-Students-Changi-Intertidal-Walk/
-      image: /images/231016 changi walk 21.jpg
-      alt: 2023 Changi
-      subtitle: STORIES
-      description: 16 Oct
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
