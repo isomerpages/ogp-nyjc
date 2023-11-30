@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 ISLE Batam Trip (Jus Jeruk Team)
+      subtitle: Stories
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2023-ISLE-Batam-Trip-Jus-Jeruk-Team/
+      image: /images/231127_ISLE_Jus_Jerak_056.jpg
+      description: 27 - 29 Nov
+      alt: 2023 ISLE
+  - infopic:
       title: 2023 SIG Arts Day
       button: View here
       url: https://nanyangjc.smugmug.com/2023-SIG-Arts-Day/
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Halloween
       image: /images/231027 halloween 003.jpg
       alt: 2023 TDC
-  - infopic:
-      title: 2023 3R Staff Retreat
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-3R-Staff-Retreat/
-      image: /images/231027 3r 053.jpg
-      description: 27 Oct
-      alt: 2023 TTD
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
