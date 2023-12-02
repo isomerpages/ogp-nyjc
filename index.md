@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2023 JC2 Dinner and Dance
+      subtitle: Stories
+      description: 1 Dec
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2023-JC2-Dinner-and-Dance/
+      image: /images/231201_JC2_Dinner_and_Dance_002.jpg
+      alt: 2023 TDC
+  - infopic:
       title: 2023 ISLE Batam Trip (Jus Jeruk Team)
       subtitle: Stories
       button: VIEW HERE
@@ -46,14 +54,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-Walk-for-Rice/
       image: /images/231110_Walk_for_Rice_031.jpg
       alt: Graduation
-  - infopic:
-      title: 2023 Halloween
-      subtitle: Stories
-      description: 27 Oct
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-Halloween
-      image: /images/231027 halloween 003.jpg
-      alt: 2023 TDC
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
