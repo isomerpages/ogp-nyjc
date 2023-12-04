@@ -2,6 +2,7 @@
 title: Our Key Personnel
 permalink: /about-nyjc/our-key-personnel/
 description: ""
+variant: markdown
 ---
 <table class="tg">
 <thead>
@@ -14,13 +15,18 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Principal</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Low Chun Meng</span></td>
-    <td class="tg-y8lk"><a href="mailto:low_chun_meng@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">low_chun_meng@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">62842281</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Pang Choon How</span></td>
+    <td class="tg-y8lk"><a href="mailto:pang_choon_how@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">pang_choon_how@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">62842281</span></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Vice-Principal</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Jasmine Ong Peishan</span></td>
     <td class="tg-y8lk"><a href="mailto:jasmine_ong_peishan@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">jasmine_ong_peishan@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">62842281</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Vice-Principal</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mrs Ken Oh Sihua</span></td>
+    <td class="tg-y8lk"><a href="mailto:yow_sihua_ken@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">yow_sihua_ken@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">62842281</span></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Vice-Principal (Admin)</span></td>
