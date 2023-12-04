@@ -322,19 +322,14 @@ variant: markdown
     <td class="tg-z2r0"><a href="mailto:bernard_lee_yit_hoe@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">bernard_lee_yit_hoe@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805141</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH Physics</span><br></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Sharon Tey Li Wei</span></td>
-    <td class="tg-z2r0"><a href="mailto:tey_li_wei_sharon@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">tey_li_wei_sharon@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805124</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH Physics (Acting)</span><br></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Dr Lena Lui Wai Yi</span></td>
+    <td class="tg-z2r0"><a href="mailto:lui_wai_yi@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">lui_wai_yi@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805124</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH Physics</span><br></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Zavior Chua Siow Wee</span></td>
     <td class="tg-z2r0"><a href="mailto:chua_siow_wee@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">chua_siow_wee@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805140</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST Physics</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Lim Chee Kang Mark</span></td>
-    <td class="tg-z2r0"><a href="mailto:mark_lim_chee_kang@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">mark_lim_chee_kang@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805144</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> SH Research</span></td>
@@ -384,7 +379,7 @@ variant: markdown
     <input type="checkbox" id="accordion11">
     <label for="accordion11">Student Affairs &amp; Management</label>
     <div>
-<table><tbody><tr><td>HOD</td><td>Ms Tan Meng Lee<br></td><td><a href="mailto:tan_meng_lee@schools.gov.sg">tan_meng_lee@schools.gov.sg</a><br><br>63805178</td></tr><tr><td>Education and Career Guidance Counsellor</td><td>Mr Shaun Han</td><td><a href="mailto:han_swee_kwang_shaun@schools.gov.sg">han_swee_kwang_shaun@schools.gov.sg </a><br>63805141</td></tr><tr><td>SH Life-skills</td><td> Mr Tonny Lim</td><td><a href="mailto:lim_wee_shing_tonny@schools.gov.sg">lim_wee_shing_tonny@schools.gov.sg </a><br>63805157 </td></tr><tr><td>SH Student Management</td><td>Mr Sim Yong Meng</td><td><a href="mailto:sim_yong_meng@schools.gov.sg">sim_yong_meng@schools.gov.sg</a><br>63805140</td></tr></tbody></table>
+<table><tbody><tr><td>HOD</td><td>Ms Tan Meng Lee<br></td><td><a href="mailto:tan_meng_lee@schools.gov.sg">tan_meng_lee@schools.gov.sg</a><br><br>63805178</td></tr><tr><td>SH Education and Career Guidance </td><td>Mr Chin De Shun</td><td><a href="mailto:chin_de_shun@schools.gov.sg">chin_de_shun@schools.gov.sg </a><br>63805141</td></tr><tr><td>SH Life-skills</td><td> Mr Tonny Lim</td><td><a href="mailto:lim_wee_shing_tonny@schools.gov.sg">lim_wee_shing_tonny@schools.gov.sg </a><br>63805157 </td></tr><tr><td>SH Student Management</td><td>Mr Sim Yong Meng</td><td><a href="mailto:sim_yong_meng@schools.gov.sg">sim_yong_meng@schools.gov.sg</a><br>63805140</td></tr></tbody></table>
     </div>
 	</li>  	
 	
