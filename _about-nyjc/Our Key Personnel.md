@@ -51,8 +51,15 @@ variant: markdown
     <th class="tg-z2r0"><a href="mailto:tan_choon_yan@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">tan_choon_yan@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit">63805112</span></th>
   </tr>
 </thead>
-<tbody>
+	<tbody>
   <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH Mother Tongue Languages</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Zhou Yefeng</span></td>
+    <td class="tg-z2r0"><a href="mailto:zhou_yefeng@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">zhou_yefeng@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit">63805</span></td>
+  </tr>
+	
+</tbody><tbody>
+	  <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
@@ -113,11 +120,6 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH General Paper</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss Belinda Loh</span></td>
-    <td class="tg-z2r0"><a href="mailto:belinda_loh_mei_lin@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">belinda_loh_mei_lin@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805130</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">LH General Paper</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss Elizabeth Sum</span></td>
     <td class="tg-z2r0"><a href="mailto:sum_lai_sa_elizabeth@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">sum_lai_sa_elizabeth@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805133</span></td>
   </tr>
@@ -143,12 +145,7 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH Art Elective Programme (Acting)</span><br></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Sim Kim Hong</span></td>
-    <td class="tg-z2r0"><a href="mailto:sim_kim_hong@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">sim_kim_hong@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805172</span></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">SH English Literature</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Lee Liang Lin</span></td>
     <td class="tg-z2r0"><a href="mailto:lee_liang_lin@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">lee_liang_lin@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit">63805131</span></td>
@@ -158,6 +155,12 @@ variant: markdown
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Dr Saradetch Melissa-Mae</span></td>
     <td class="tg-z2r0"><a href="mailto:saradetch_melissa_mae@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">saradetch_melissa_mae@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805134</span></td>
   </tr>
+	 <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ST Art Elective Programme</span><br></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Sim Kim Hong</span></td>
+    <td class="tg-z2r0"><a href="mailto:sim_kim_hong@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">sim_kim_hong@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805172</span></td>
+  </tr>
+
 </tbody>
 </table>
     </div>
@@ -171,8 +174,8 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> HOD (Acting)</span></th>
-    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Chew Chee Wei</span></th>
-    <th class="tg-z2r0"><a href="mailto:chew_chee_wei@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">chew_chee_wei@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805140</span></th>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Mark Lim Chee Kang</span></th>
+    <th class="tg-z2r0"><a href="mailto:mark_lim_chee_kang@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">mark_lim_chee_kang@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">63805140</span></th>
   </tr>
 </thead>
 <tbody>
