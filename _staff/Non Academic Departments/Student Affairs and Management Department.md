@@ -3,8 +3,8 @@ title: Student Affairs and Management Department
 permalink: /staff/Non-Academic-departments/student-affairs-and-management-department/
 description: ""
 third_nav_title: Non Academic Departments
+variant: markdown
 ---
-
 The Student Affairs and Management Department handles everything that concerns students so that students can be well-balanced individuals in a changing world.
 
 Its programmes include:
@@ -49,8 +49,7 @@ Lifeskills One: Self-Awareness
 Our Lifeskills Framework adopts a holistic and comprehensive approach, which served as the guiding principle to help students develop the fundamental skills for life effectiveness. In NYJC, students will learn to effectively manage themselves, their relationships with others and varied life situations. Students are encouraged to do self-reflection and discuss areas for improvements during conferences with their tutors using the Managing Self Development Tool.
 
 **Student Affairs and Management Committee**
-
-![Student Affairs and Management Department](/images/Student%20Affairs.jpg)
+![](/images/Student_Affairs_Dept.jpg)
 
 **Counselling Services**
 
