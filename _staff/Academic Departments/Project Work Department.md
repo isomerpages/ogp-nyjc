@@ -3,6 +3,7 @@ title: Project Work Department
 permalink: /staff/Academic-Departments/project-work-department/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 Project Work (PW) is a compulsory examinable H1 subject read by all JC 1 students.
 
@@ -13,5 +14,4 @@ The PW cycle begins with the release of project tasks in March and ends with the
 For more details about **Project Work 8808**, you may refer to [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8808_y21_sy.pdf).
 
 **Project Work Department Members**
-
-![Project Work Department](/images/PW.jpg)
+![Project Work Department](/images/PW_Dept.jpg)
