@@ -3,8 +3,8 @@ title: Physical Education & CCA Department
 permalink: /staff/Non-Academic-departments/physical-education-cca-department/
 description: ""
 third_nav_title: Non Academic Departments
+variant: markdown
 ---
-
 The college provides students with a balance of work and play (through exercise) while preparing them for the GCE ‘A’ Level Examination.
 
 **Physical Education (PE) Programme**  
@@ -22,5 +22,4 @@ The college offers the following categories of CCA:
 3.       Clubs and Societies.
 
 **Physical Education & CCA Department Members**
-
-![Physical Education & CCA Department](/images/PE.jpg)
+![](/images/PE_Dept.jpg)
