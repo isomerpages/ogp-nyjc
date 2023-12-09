@@ -3,6 +3,7 @@ title: Mathematics Department
 permalink: /staff/Academic-Departments/Mathematics-Department/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 The Mathematics Department is in charge of the following subjects:
 
@@ -27,6 +28,5 @@ This subject must be taken together with H2 Mathematics and is only offered in t
 It is strongly recommended that this subject be taken with H2 Mathematics.
 
 **Mathematics Department Members**
-
-![Mathematics Department Staff](/images/Math%201.jpg)
-![Mathematics Department Staff](/images/Math%202.jpg)
+![Mathematics Department Staff](/images/Maths_Dept_1.jpg)
+![Mathematics Department Staff](/images/Maths_Dept_2.jpg)
