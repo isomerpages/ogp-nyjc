@@ -3,6 +3,7 @@ title: English Department
 permalink: /staff/Academic-Departments/English-Department/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 General Paper
 
@@ -15,6 +16,5 @@ For more detailed information about General Paper 8807 (last year of examination
 For detailed information about General Paper 8881 (first year of examination in 2024), please visit [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy.pdf).
 
 **English Department Members**
-
-![English Department Staff](/images/Eng%201.jpg)
-![English Department Staff](/images/Eng%202.jpg)
+![English Department Staff](/images/English_Dept_1.jpg)
+![English Department Staff](/images/English_Dept_2.jpg)

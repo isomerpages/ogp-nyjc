@@ -3,6 +3,7 @@ title: Economics Department
 permalink: /staff/Academic-Departments/Economics-Department/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 Economics is divided into two main branches:
 
@@ -17,6 +18,4 @@ Students with Economics background stand themselves in good stead as possible ca
 * [H3 Economics 9809](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9809_y21_sy.pdf)
 
 **Economics Department Members**
-
-![Econs Department Staff](/images/Econs%20Department%201.jpg)
-![Econs Department Staff](/images/Econs%20Department%202.jpg)
+![Econs Department Staff](/images/Econs_Dept.jpg)
