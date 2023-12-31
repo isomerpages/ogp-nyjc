@@ -3,6 +3,7 @@ title: Joint Admissions Exercise (JAE)
 permalink: /admissions-and-admin/Administration/jae/
 description: ""
 third_nav_title: Admissions
+variant: markdown
 ---
 **For Singapore GCE 'O' Level** Students
 
@@ -36,4 +37,4 @@ Please note that the entry criteria may change from year to year and the followi
 
 <!--Go [here](https://nanyangjc.moe.edu.sg/2022/02/04/online-jae-appeal/) for information on appealing to NYJC.-->
 
-<!--Click <a href="/joint-admission-exercise-2023/" target="_blank" rel="noopener">here</a> for JAE 2023 information.-->
+<!--Click <a href="/joint-admission-exercise-2024/" target="_blank" rel="noopener">here</a> for JAE 2024 information.-->
