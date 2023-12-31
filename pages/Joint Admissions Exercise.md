@@ -2,18 +2,19 @@
 title: Joint Admissions Exercise
 permalink: /jae/
 description: ""
+variant: markdown
 ---
-The 2023 JAE registration will be held over 6 calendar days starting from the release of O-level results.
+The 2024 JAE registration will be held over 6 calendar days starting from the release of O-level results.
 
 More information can be found on MOE's website [here](http://www.moe.gov.sg/jae).
 
-The JAE posting results will be released on **Thursday, 2 February 2023** through:
+The JAE posting results will be released on **Thursday, 1 February 2024** through:
 
 1 JAE-IS, accessible through the JAE website.
 
 2 Short Messaging System (SMS) via applicant’s mobile number (if provided by applicants during the JAE).
 
-<H2>Cut Off & Bonus Points</h2>
+<h2>Cut Off &amp; Bonus Points</h2>
 
 Applicants applying to enter NYJC must meet the entry criteria based on the L1R5 aggregate.
 
@@ -21,7 +22,7 @@ For JAE, this aggregate is calculated from results obtained in the previous year
 
 Please note that the entry criteria changes from year to year and the following table should only be used as a guide.
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3"><tbody><tr><td colspan="3" width="245"><b>MINIMUM L1R5 AGGREGATE<br>[after bonus points deduction]</b></td></tr><tr><td width="85"><b>FACULTY</b></td><td width="66"><b>ARTS</b></td><td width="95"><b>SCIENCE</b></td></tr><tr><td width="85">JAE 2022</td><td width="66">6</td><td width="95">5</td></tr></tbody></table>
+<table class="ive_eobj_center iveo_table ives_tab_simple3"><tbody><tr><td colspan="3" width="245"><b>MINIMUM L1R5 AGGREGATE<br>[after bonus points deduction]</b></td></tr><tr><td width="85"><b>FACULTY</b></td><td width="66"><b>ARTS</b></td><td width="95"><b>SCIENCE</b></td></tr><tr><td width="85">JAE 2023</td><td width="66">6</td><td width="95">5</td></tr></tbody></table>
 
 Applicants are posted to courses based first on the applicants' merit and second, in the order of the applicants' choice of courses. Applicants with better aggregates will be considered for admission first. Each applicant is then considered for his/her choice of courses in the order of preference indicated, subject to available vacancies in the course.**Am I eligible for bonus point deductions?**
 
@@ -34,9 +35,9 @@ Bonus points are limited to a maximum of 4 points without CLEP. With CLEP, the m
 <h2>Subject Combination Information</h2>
 'A' level subjects can now be taken at 3 levels: H1, H2 and H3.
 
-*   H1 level (1 academic unit per H1 subject)o   Half of H2 in terms of curriculum time
-*   H2 level (2 academic unit per H2 subject)o   Equivalent to what was previously termed A-Level subjects
-*   H3 level (1 academic unit per H3 subject)o   Subjects with diverse learning opportunities for in-depth study (e.g. advanced content, research paper, university  module).  Students must read the corresponding subject at H2 level.
+*   H1 level (1 academic unit per H1 subject) - Half of H2 in terms of curriculum time
+*   H2 level (2 academic unit per H2 subject) - Equivalent to what was previously termed A-Level subjects
+*   H3 level (1 academic unit per H3 subject) - Subjects with diverse learning opportunities for in-depth study (e.g. advanced content, research paper, university&nbsp; module).&nbsp; Students must read the corresponding subject at H2 level.
 
 **Compulsory subjects**
 
@@ -44,9 +45,9 @@ The following subjects are compulsory and will be taken at H1 level:
 
 1\. **Mother Tongue Language(MTL)**, which is examined at the end of JC 1. It cannot be replaced by another subject. (A student who achieves grade D7 or better in Higher MTL at O-level is exempted from H1 MTL)
 
-2. **Project Work(PW)**, is examined in JC 1.
+2\. **Project Work(PW)**, is examined in JC 1.
 
-3. **General Paper**, is examined at the end of JC 2.
+3\. **General Paper**, is examined at the end of JC 2.
 
 **Content-based subjects**
 
@@ -80,11 +81,11 @@ The H3 subject is an extension of the H2 subject that is read in JC2 and it enta
 <table class="iveo_table ives_tab_1" width="588"><tbody class=""><tr class=""><td class="" width="134"><p class=""><b class=""><span class="">Subject</span></b></p></td><td class="" width="454"><p class=""><b class=""><span class="">You need to meet the following requirements in order to offer the subject:</span></b></p></td></tr><tr class="" align="left"><td class="" colspan="2" width="588"><p class=""><b class=""><span class="">H2 Subjects</span></b></p></td></tr><tr class=""><td class="" width="134"><p class=""><span class="">Computing</span></p></td><td class="" width="454"><p class=""><span class="">Interested students are required to sit for a diagnostic test to assess their suitability to take the subject.</span></p><p class=""><i class=""><span class="">Strongly recommended to be taken with H2 Mathematics and Physics.</span></i><i class=""></i></p></td></tr><tr class=""><td class="" width="134"><p class=""><span class="">Further Mathematics</span></p></td><td class="" width="454"><p class=""><span class="">Must be taken with H2 Mathematics</span></p><p class=""><span class="">Interested students are required to sit for a diagnostic test to assess their suitability to take the subject.</span></p></td></tr><tr class=""><td class="" width="134"><p class=""><span class="">Translation (Chinese)</span></p></td><td class="" width="454"><p class=""><span class="">At least A2 in O-Level English Language and O-Level Chinese Language</span></p><p class=""><b class=""><span class="">OR</span></b></p><p class=""><span class="">At least A2 in O-Level English Language and B3 in O-Level Higher Chinese Language</span></p><p class=""><span class="">Interested students are required to sit for a diagnostic test to assess their suitability to take the subject.</span></p></td></tr></tbody></table>
 
 <h2>Chinese Language Elective Programme and Art Elective Programme</h2>
-In addition to the above, NYJC also offers both the Chinese Language Elective Programme (**CLEP**) and the Art Elective Programme (**AEP**). 
+In addition to the above, NYJC also offers both the Chinese Language Elective Programme (**CLEP**) and the Art Elective Programme (**AEP**).&nbsp;
 
 **The Programme Requirements**
 
-**1**           **Chinese Language Elective Programme (CLEP)**
+**1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Chinese Language Elective Programme (CLEP)**
 
 Applicants must have good results in the GCE ‘O’ Level Examination, obtaining at least:
 
@@ -92,22 +93,22 @@ Applicants must have good results in the GCE ‘O’ Level Examination, obtainin
 · **OR** A2 in Chinese,  
 · **OR** The equivalent of the above based on IP school internal assessment.
 
-**2**          **Art Elective Programme (AEP)**
+**2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Art Elective Programme (AEP)**
 
 Students can expect to offer H2 and H3 Art at GCE A-Level. The H3 Art syllabus complements the H2 Art Syllabus, providing students who have exceptional interest and ability with opportunities to be engaged in the Theory of Art.
 
 **Entry Requirements for AEP**
 
-Students who wish to do Art at the H2 & H3 levels are required to sit for a Drawing & Painting Test and a Written Test administered by NYJC AEP Unit to assess their aptitude for the course. Students are also required to attend an interview and present their portfolio.
+Students who wish to do Art at the H2 &amp; H3 levels are required to sit for a Drawing &amp; Painting Test and a Written Test administered by NYJC AEP Unit to assess their aptitude for the course. Students are also required to attend an interview and present their portfolio.
 
 Students can find out more about the elective programmes at **[http://www.moe.gov.sg/programmes  
 ](https://www.moe.gov.sg/programmes/)**
 
 **The persons-in-charge of the programmes in NYJC**
 
-Language Elective Programme (Chinese): [tan\_choon\_yan@schools.gov.sg](mailto:tan_choon_yan@schools.gov.sg) 
+Language Elective Programme (Chinese):&nbsp;[tan\_choon\_yan@schools.gov.sg](mailto:tan_choon_yan@schools.gov.sg)&nbsp;
 
-Art Elective Programme: [sim\_kim\_hong@schools.gov.sg](mailto:sim_kim_hong@schools.gov.sg%C2%A0) 
+Art Elective Programme:&nbsp;[sim\_kim\_hong@schools.gov.sg](mailto:sim_kim_hong@schools.gov.sg%C2%A0)&nbsp;
 
 Please remember to include your name, school and an email address so that we can reply to your query.
 
@@ -129,9 +130,9 @@ The cut-off point is the net aggregate (L1R5) of the last student posted to the 
 
 The college does not set the cut-off point. It is based on the choices of that particular year's cohort and is based on demand and supply.
 
-**4 NYJC's cut-off point was 5 points in 2022. Do I stand a chance if my net L1R5 is 6?**
+**4 NYJC's cut-off point was 5 points in 2023. Do I stand a chance if my net L1R5 is 6?**
 
-The cut-off point may differ from year to year. The cut-off point for 2022 merely serves as a reference when students consider their choices.
+The cut-off point may differ from year to year. The cut-off point for 2023 merely serves as a reference when students consider their choices.
 
 **5 Can I have a list of subject combinations offered by NYJC?**
 
@@ -161,11 +162,11 @@ Students will submit their portfolio for assessment the day after the selection 
 
 Selection test consists of 3 components:
 
-DAY 1 of reporting: Written Test (30 min), Drawing & Painting Test (1 hr);  
+DAY 1 of reporting: Written Test (30 min), Drawing &amp; Painting Test (1 hr);  
 DAY 2 of reporting: Portfolio Interview (15 min)
 
 **8 How do I apply to the CLEP in NYJC?**
 
-You would need to indicate your choice when submitting your online application for JAE. Students who are eligible for the CLEP will be offered the option to enrol through the online application. You must select NYJC as your first choice if you are interested to join the CLEP in NYJC, otherwise you might be posted to other CLEP centres.
+You would need to indicate your choice when submitting your online application for JAE. Students who are eligible for the CLEP will be offered the option to enrol through the online application. You&nbsp;must&nbsp;select NYJC as your first choice if you are interested to join the CLEP in NYJC, otherwise you might be posted to other CLEP centres.
 
 If you did not apply for the CLEP at NYJC during JAE, you can still appeal to join the programme after you have been posted to NYJC. MOE will make the final decision on the approval of this application.
