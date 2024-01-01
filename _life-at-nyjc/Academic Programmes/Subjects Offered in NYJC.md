@@ -3,14 +3,15 @@ title: Subjects Offered in NYJC
 permalink: /life-at-nyjc/Academic-Programmes/subjects-offered-in-nyjc/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 The JC curriculum is a 2-year course leading to GCE'A' level examination, designed for students who wish to pursue a university degree thereafter.
 
 <h1>Course Information</h1>
 
-**The revised 'A' level curriculum**
+**The revised A-level curriculum**
 
-In 2006, a new 'A' level curriculum was introduced in order to encourage breadth of learning and flexibility. 'A' level subjects can now be taken at 3 levels: H1, H2 and H3.
+In 2006, a new A-level curriculum was introduced in order to encourage breadth of learning and flexibility. A-level subjects can now be taken at 3 levels: H1, H2 and H3.
 
 H1 level (1 academic unit per H1 subject)
 * Half of H2 in terms of curriculum time
@@ -85,7 +86,7 @@ Students can expect to offer H2 and H3 Art at GCE A-Level. The H3 Art syllabus c
 
 * Entry Requirements for AEP
 
-Students who wish to do Art at the H2 & H3 levels are required to sit for a Drawing & Painting Test and a Written Test administered by NYJC AEP Unit to assess their aptitude for the course. Students are also required to attend an interview and present their portfolio.
+Students who wish to do Art at the H2 &amp; H3 levels are required to sit for a Drawing &amp; Painting Test and a Written Test administered by NYJC AEP Unit to assess their aptitude for the course. Students are also required to attend an interview and present their portfolio.
 
 Students can find out more about the elective programmes at https://www.moe.gov.sg/programmes/
 
@@ -107,7 +108,7 @@ There are 3 modes in which the H3 subject can be taken:
 
 **b)      An extended research project**
 
-Students offering the research mode should work under the supervision of a qualified mentor.  Besides school teachers, students could also carry out their research under the mentorship of experts from agencies/institutions, e.g. Agency For Science, Technology & Research (A*STAR), Institute of Southeast Asian Studies (ISEAS) or Singapore Institutes of Higher Learning.
+Students offering the research mode should work under the supervision of a qualified mentor.  Besides school teachers, students could also carry out their research under the mentorship of experts from agencies/institutions, e.g. Agency For Science, Technology &amp; Research (A*STAR), Institute of Southeast Asian Studies (ISEAS) or Singapore Institutes of Higher Learning.
 
 The curriculum could involve consultation with mentors, attachment to the MOE agency, independent work and preparation for the report/essay.
 
@@ -128,4 +129,4 @@ The assessment of students’ learning could be based on a written examination a
 H3 subjects offered by the universities may change from year to year.  Students will be informed of the H3 modules offered once the universities release the list to the school in October every year.
 
 
-**Our college will advise students accordingly on the appropriate subjects and modules.** 
+**Our college will advise students accordingly on the appropriate subjects and modules.**
