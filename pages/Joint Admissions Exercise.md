@@ -35,7 +35,7 @@ The table below shows the number of bonus points awarded if you:
 Bonus points are limited to a maximum of 4 points without CLEP. With CLEP, the maximum bonus points is 6 points. Applicants should note that if admitted to CLEP, MOE requires students to remain in the programme regardless of whether they had utilised the 2 bonus points. Students who fail to do so may be asked to leave the JC.
 
 <h2>Subject Combination Information</h2>
-'A' level subjects can now be taken at 3 levels: H1, H2 and H3.
+A-level subjects can now be taken at 3 levels: H1, H2 and H3.
 
 *   H1 level (1 academic unit per H1 subject) - Half of H2 in terms of curriculum time
 *   H2 level (2 academic unit per H2 subject) - Equivalent to what was previously termed A-Level subjects
