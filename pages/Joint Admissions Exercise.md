@@ -18,13 +18,15 @@ The JAE posting results will be released on **Thursday, 1 February 2024** throug
 
 Applicants applying to enter NYJC must meet the entry criteria based on the L1R5 aggregate.
 
-For JAE, this aggregate is calculated from results obtained in the previous year's Singapore-Cambridge GCE 'O' Level Examinations.
+For JAE, this aggregate is calculated from results obtained in the previous year's Singapore-Cambridge GCE O-Level Examinations.
 
 Please note that the entry criteria changes from year to year and the following table should only be used as a guide.
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3"><tbody><tr><td colspan="3" width="245"><b>MINIMUM L1R5 AGGREGATE<br>[after bonus points deduction]</b></td></tr><tr><td width="85"><b>FACULTY</b></td><td width="66"><b>ARTS</b></td><td width="95"><b>SCIENCE</b></td></tr><tr><td width="85">JAE 2023</td><td width="66">6</td><td width="95">5</td></tr></tbody></table>
 
-Applicants are posted to courses based first on the applicants' merit and second, in the order of the applicants' choice of courses. Applicants with better aggregates will be considered for admission first. Each applicant is then considered for his/her choice of courses in the order of preference indicated, subject to available vacancies in the course.**Am I eligible for bonus point deductions?**
+Applicants are posted to courses based first on the applicants' merit and second, in the order of the applicants' choice of courses. Applicants with better aggregates will be considered for admission first. Each applicant is then considered for his/her choice of courses in the order of preference indicated, subject to available vacancies in the course.
+
+**Am I eligible for bonus point deductions?**
 
 The table below shows the number of bonus points awarded if you:
 
