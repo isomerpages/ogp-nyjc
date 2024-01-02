@@ -27,7 +27,7 @@ sections:
       subtitle: headlines
       button: Click here
       url: https://apps.nyjc.edu.sg/openhouse2024/
-      image: /images/NYJCOH2024_WebBanner.jpg
+      image: /images/NYJCOH2024_WebBanner1.jpg
       alt: Graduation
       description: 2 Jan
   - infopic:
