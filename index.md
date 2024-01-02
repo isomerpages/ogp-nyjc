@@ -23,14 +23,6 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2024 NYJC Open House
-      subtitle: headlines
-      button: Click here
-      url: https://apps.nyjc.edu.sg/openhouse2024/
-      image: /images/NYJCOH2024_WebBanner1.jpg
-      alt: Graduation
-      description: 2 Jan
-  - infopic:
       title: 2023 JC2 Dinner and Dance
       subtitle: Stories
       description: 1 Dec
