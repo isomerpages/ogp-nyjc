@@ -25,10 +25,11 @@ sections:
   - infopic:
       title: 2024 NYJC Open House
       subtitle: headlines
-      button: view here
-      url: https://nanyangjc.smugmug.com/2023-Walk-for-Rice/
-      image: /images/231110_Walk_for_Rice_031.jpg
+      button: Click here
+      url: https://apps.nyjc.edu.sg/openhouse2024/
+      image: /images/NYJCOH2024_WebBanner.jpg
       alt: Graduation
+      description: 2 Jan
   - infopic:
       title: 2023 JC2 Dinner and Dance
       subtitle: Stories
