@@ -23,6 +23,13 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 NYJC Open House
+      subtitle: headlines
+      button: view here
+      url: https://nanyangjc.smugmug.com/2023-Walk-for-Rice/
+      image: /images/231110_Walk_for_Rice_031.jpg
+      alt: Graduation
+  - infopic:
       title: 2023 JC2 Dinner and Dance
       subtitle: Stories
       description: 1 Dec
@@ -46,14 +53,6 @@ sections:
       alt: 2023 Changi
       subtitle: STORIES
       description: 17 Nov
-  - infopic:
-      title: 2023 Walk For Rice
-      subtitle: stories
-      description: 10 Nov
-      button: view here
-      url: https://nanyangjc.smugmug.com/2023-Walk-for-Rice/
-      image: /images/231110_Walk_for_Rice_031.jpg
-      alt: Graduation
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
