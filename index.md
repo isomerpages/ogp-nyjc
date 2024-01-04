@@ -32,6 +32,15 @@ sections:
       image: /images/NYJCOH2024_WebBanner_Still7.jpg
       alt: Image alt text
   - infopic:
+      title: Joint Admissions Exercise 2024
+      subtitle: Headlines
+      id: infopic
+      description: 4 Jan
+      button: click here
+      url: https://www.nanyangjc.moe.edu.sg/jae/
+      image: /images/Untitled.jpeg
+      alt: Image alt text
+  - infopic:
       title: 2023 JC2 Dinner and Dance
       subtitle: Stories
       description: 1 Dec
