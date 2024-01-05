@@ -24,4 +24,5 @@ For students pursuing other degrees, science, even at the H1 level, gives them a
 **Science &amp; Research Department Members**
 ![Science Department Staff](/images/Science_Dept_1.jpg)
 ![Science Department Staff](/images/Science_Dept_2.jpg)
-![Science Department Staff](/images/Science_Dept_3.jpg)
+
+![Science Department Staff](/images/Sci_Dept_3a.jpg)
