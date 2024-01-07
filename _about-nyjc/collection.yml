@@ -2,7 +2,7 @@ collections:
   about-nyjc:
     output: true
     order:
-      - Our Principal's Messaage.md
+      - Our Principal's Message.md
       - Our Strategy.md
       - Our Achievements.md
       - Our School Management Committee.md
