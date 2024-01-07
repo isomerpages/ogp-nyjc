@@ -1,5 +1,5 @@
 ---
-title: Our Principal's Messaage
+title: Our Principal's Message
 permalink: /about-nyjc/principal/
 variant: tiptap
 description: ""
