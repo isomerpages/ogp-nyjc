@@ -14,4 +14,4 @@ The PW cycle begins with the release of project tasks in March and ends with the
 For more details about **Project Work 8808**, you may refer to [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8808_y21_sy.pdf).
 
 **Project Work Department Members**
-![Project Work Department](/images/PW_Dept.jpg)
+![Project Work Department](/images/pw_dept_2024.jpg)
