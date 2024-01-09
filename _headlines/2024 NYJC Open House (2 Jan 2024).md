@@ -4,4 +4,4 @@ permalink: /headlines/oh2024/
 variant: tiptap
 description: ""
 ---
-<p></p><a class="isomer-image-wrapper" href="https://apps.nyjc.edu.sg/openhouse2024/"><img style="width: 100%" height="auto" width="100%" alt="OH2024" src="/images/NYJCOH2024_WebBanner_Still7.jpg"></a><p></p>
+<p></p><a class="isomer-image-wrapper" href="https://apps.nyjc.edu.sg/openhouse2024/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_08_at_8_58_16_PM.jpeg"></a><p></p>
