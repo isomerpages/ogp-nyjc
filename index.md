@@ -29,7 +29,7 @@ sections:
       description: 2 Jan
       button: Click here
       url: https://apps.nyjc.edu.sg/openhouse2024/
-      image: /images/NYJCOH2024_WebBanner_Still7.jpg
+      image: /images/WhatsApp_Image_2024_01_08_at_8_58_16_PM.jpeg
       alt: Image alt text
   - infopic:
       title: Joint Admissions Exercise 2024
