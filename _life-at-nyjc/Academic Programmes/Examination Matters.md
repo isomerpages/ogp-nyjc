@@ -3,31 +3,6 @@ title: Examination Matters
 permalink: /life-at-nyjc/Academic-Programmes/examination-matters/
 description: ""
 third_nav_title: Academic Programmes
+variant: tiptap
 ---
-Information
-
-[2019_GCE_A_Level_Examinations_Registration_Info](/files/2019_GCE_A_Level_Examinations_Registration_Info_for_Sch_Cddt_20190307102024.pdf)
-
-[2019_GCE_A_Level_Subject_Fees](/files/2019_GCE_A_Level_Subject_Fees_20190313103231.pdf)
-
-
-JC1 Exam Timetable
-
-[2023 J1 EOY (Updated 18 Sep Computing)](/files/2023%20j1%20eoy%20tt_final_stud_18%20sep_updated%20comp.pdf)
-
-
-JC2 Exam Timetable
-
-[2023 J2 Prelim (Updated)](/files/2023%20j2%20prelim%20tt_finalised_students_11aug.pdf)
-
-JC1 Promotional Criteria
-
-Please refer [here.](https://ogp-nyjc-staging.netlify.app/ny-parents/jc1-information/)
-
-
-Grades/mark ranges for H1, H2 and H3 Subjects
-The grades/mark ranges for the H1, H2 and H3 subjects would be as follows:
-
-<table><thead><tr><th colspan="2">H1 and H2 Grade/Mark Scheme</th><th></th></tr></thead><tbody><tr><td>Grade</td><td>Mark</td><td></td></tr><tr><td>A</td><td>70 - 100</td><td></td></tr><tr><td>B</td><td>60 - 69</td><td></td></tr><tr><td>C</td><td>55 - 59</td><td></td></tr><tr><td>D</td><td>50 - 54</td><td></td></tr><tr><td>E</td><td>45 - 49</td><td></td></tr><tr><td>S</td><td>40 - 44</td><td></td></tr><tr><td>Ungraded</td><td>0 - 39</td><td></td></tr></tbody></table>
-
-<table><thead><tr><th>H3 Grade Scheme</th><th></th><th></th></tr></thead><tbody><tr><td>Grade Only</td><td></td><td></td></tr><tr><td>Distinction</td><td></td><td></td></tr><tr><td>Merit</td><td></td><td></td></tr><tr><td>Pass</td><td></td><td></td></tr><tr><td>Ungraded</td><td></td><td></td></tr></tbody></table>
+<p>Information</p><p><a href="/files/2019_GCE_A_Level_Examinations_Registration_Info_for_Sch_Cddt_20190307102024.pdf" rel="noopener noreferrer nofollow" target="_blank">2019_GCE_A_Level_Examinations_Registration_Info</a></p><p><a href="/files/2019_GCE_A_Level_Subject_Fees_20190313103231.pdf" rel="noopener noreferrer nofollow" target="_blank">2019_GCE_A_Level_Subject_Fees</a></p><p>JC1 Exam Timetable</p><p><a href="/files/2023%20j1%20eoy%20tt_final_stud_18%20sep_updated%20comp.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 J1 EOY (Updated 18 Sep Computing)</a></p><p>JC2 Exam Timetable</p><p><a href="/files/2023%20j2%20prelim%20tt_finalised_students_11aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 J2 Prelim (Updated)</a></p><p>JC1 Promotional Criteria</p><p>Please refer <a href="/ny-parents/jc1-information/" rel="noopener noreferrer nofollow" target="_blank">here.</a></p><p>Grades/mark ranges for H1, H2 and H3 Subjects The grades/mark ranges for the H1, H2 and H3 subjects would be as follows:</p><table><tbody><tr><th rowspan="1" colspan="2"><p>H1 and H2 Grade/Mark Scheme</p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Grade</p></td><td rowspan="1" colspan="1"><p>Mark</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>A</p></td><td rowspan="1" colspan="1"><p>70 - 100</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>B</p></td><td rowspan="1" colspan="1"><p>60 - 69</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>C</p></td><td rowspan="1" colspan="1"><p>55 - 59</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>D</p></td><td rowspan="1" colspan="1"><p>50 - 54</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>E</p></td><td rowspan="1" colspan="1"><p>45 - 49</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>S</p></td><td rowspan="1" colspan="1"><p>40 - 44</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ungraded</p></td><td rowspan="1" colspan="1"><p>0 - 39</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p>H3 Grade Scheme</p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Grade Only</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Distinction</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Merit</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Pass</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ungraded</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
