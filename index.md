@@ -63,10 +63,10 @@ sections:
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe></div>
   - infobar:
-      description: <div class="bp-youtube"><iframe width="560" height="315"
-        src="https://www.youtube.com/embed/lLuY2JrCeiA" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe></div>
+      description: <div class="bp-youtube"><iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="2024
+        NYJC Open House" src="https://www.youtube.com/embed/8J6sV5RO8Pg"
+        height="315" width="560"></iframe></div>
       title: "Watch our latest video:"
 ---
