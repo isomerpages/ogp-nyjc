@@ -1,0 +1,13 @@
+collections:
+  admissions-and-admin:
+    output: true
+    order:
+      - Admissions/.keep
+      - Admissions/Joint Admissions Exercise (JAE).md
+      - Admissions/Direct School Admission (DSA).md
+      - Admissions/Returning Singaporeans.md
+      - Admissions/International Students.md
+      - Administrations/.keep
+      - Administrations/Insurance Plans & Claim Process.md
+      - Administrations/Financial Assistance Scheme.md
+      - Administrations/School Canteen Advertisement.md

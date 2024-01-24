@@ -1,0 +1,12 @@
+collections:
+  headlines:
+    output: true
+    order:
+      - 2024 NYJC Open House (2 Jan 2024).md
+      - MOE EDUSAVE CHARACTER AWARD (ECHA) (Aug 28, 2023).md
+      - RemiNYscence (May 20, 2023).md
+      - Stay Connected with NYJC (Mar 6, 2023).md
+      - 2023 Student Council Election (Mar 1, 2023).md
+      - 2022 A Level Results Release (Feb 14, 2023).md
+      - University and Scholarship Application Resources (Feb 13, 2023).md
+      - EDspiration (Feb 12, 2023).md
