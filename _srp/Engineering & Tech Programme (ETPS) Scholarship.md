@@ -2,6 +2,7 @@
 title: Engineering & Tech Programme (ETPS) Scholarship
 permalink: /srp/ETPS/
 description: ""
+variant: markdown
 ---
 The Engineering and Tech Programme Scholarships are awarded to Pre-University students who have strong foundations in mathematics and science, with an inclination towards applied, interdisciplinary and hands-on learning.
 
@@ -42,17 +43,22 @@ Selection Interview by MOE and Offer of Award:
 *   Offer of Award: June to September
 *   Please note that only successful candidates will be notified.
 
-Interested students can access the online scholarship applications via this [link](https://www.moe.gov.sg/financial-matters/awards-scholarships). You have to login to the application system using a valid Singpass.
+Interested students can access the online scholarship applications via this [link](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u). You have to login to the application system using a valid Singpass.
 
 Students are reminded to factor in extra time if they need to apply for SingPass account/ID (with their personal NRIC). Logging in through a third-party SingPass is not allowed and will render the application void. The application for a SingPass account with 2-Factor Authentication (2FA) can be completed through the SingPass homepage or completed immediately over the SingPass designated counters. **There will be strictly NO extension to the online application closing date and no offline applications will be accepted after application period ends.**
 
 You can access the following documents for more information:
 
-[AY2023 Local Scholarships Poster](/files/AY2023-Local-Scholarships-Poster.pdf)  
-[AY2023 Ministry of Education Scholarships for Pre-University Studies](/files/AY2023-Ministry-of-Education-Scholarships-for-Pre-University-Studies.pdf)  
-[MOE Pre-U Scholarships User Guide](/files/MOE-Pre-U-Scholarships-User-Guide.pdf)  
-[ETPS Briefing to Students](/files/ETPS-Briefing-to-Students.pdf)
+[AY2024 Local Scholarships Poster](/files/AY2024_Local_Scholarships_Poster.pdf)
+
+[AY2024 Ministry of Education Scholarships for Pre-University Studies](/files/AY2024_Ministry_of_Education_Scholarships_for_Pre_University_Studies.pdf)
+
+[MOE Pre-U Scholarships User Guide](/files/MOE_Local_Scholarships_User_Guide_myinfo.pdf)
+
+[ETPS e-Poster](/files/ETPS_e_Poster.pdf)
+
+[ETPS Briefing to Students](/files/ETPS_Briefing_Slides_w_online_video_link.pdf)
 
 **Online Registration Period**
 
-12 Jan 2023 – 27 Feb 2023
+11 Jan 2024 – 26 Feb 2024
