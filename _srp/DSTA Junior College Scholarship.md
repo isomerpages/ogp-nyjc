@@ -11,7 +11,7 @@ For more information about the programme and registration, please click [**here*
 Eligibility:
 
 *   Open to all JC1 students who are holding Singapore citizenship
-*   Achieved excellent results in Science and Mathematics
+*   Good academic and CCA track records
 *   Have a strong passion for science and technology
 
 Value of scholarship:
@@ -22,4 +22,4 @@ Value of scholarship:
 
 **Online Registration Deadline**
 
-28 Feb 2023
+15 Feb 2024
