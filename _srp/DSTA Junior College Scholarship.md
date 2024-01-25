@@ -2,6 +2,7 @@
 title: DSTA Junior College Scholarship
 permalink: /srp/DSTA/
 description: ""
+variant: markdown
 ---
 Every year, Defence Science and Technology Agency (DSTA) provides scholarships to JC1 students who are interested in discovering exciting opportunities in defence science and engineering with their engineers and scientists.
 
