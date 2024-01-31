@@ -2,6 +2,7 @@
 title: NTU Nanyang Research Programme (NRP)
 permalink: /srp/NTU/
 description: ""
+variant: markdown
 ---
 The NTU Nanyang Research Programme (NRP) can be offered as an enrichment or H3 module.
 
@@ -21,4 +22,4 @@ Applicants will have to provide a write-up articulating their reason(s) for want
 
 **Online Registration Period**
 
-6 Feb 2023 – 24 Feb 2023 (3pm)
+5 Feb 2024 – 23 Feb 2024 (3pm)
