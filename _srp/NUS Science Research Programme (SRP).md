@@ -58,7 +58,7 @@ and apply for admission to SRP 2024/25 in May.&nbsp; On acceptance of the
 Research Plan approved by either a H3-SRP supervisor or an Enrichment-SRP
 mentor, they qualify as participants of the SRP 2024/25.
 <br>
-<br><strong>Application Procedures For Research Methods Module (RMM)</strong>
+<br><strong>Application Procedures For Research Methods Module (RMM)</strong> 
 <br>To student, prepare the following information beforehand:</p>
 <p><em>A. Questions</em>
 </p>
@@ -78,5 +78,5 @@ grade/award and year obtained)</p>
 <p>Click <a href="https://form.gov.sg/65a60bfc399a250012c9eccb" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 apply online.
 <br>
-<br><strong>Online Registration Period</strong>
+<br><strong>Online Registration Period</strong> 
 <br>13 – 19 Feb 2024</p>
