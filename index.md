@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Post JAE Appeals
+      subtitle: Headlines
+      id: infopic
+      description: 1 Feb
+      button: click here
+      url: /headlines/2024appeal/
+      image: /images/jae_appeal.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 NYJC Open House
       button: View here
       url: https://nanyangjc.smugmug.com/2024-Open-House
@@ -30,15 +39,6 @@ sections:
       alt: 2023 Changi
       subtitle: STORIES
       description: 12 Jan
-  - infopic:
-      title: Joint Admissions Exercise 2024
-      subtitle: Headlines
-      id: infopic
-      description: 4 Jan
-      button: click here
-      url: https://www.nanyangjc.moe.edu.sg/jae/
-      image: /images/Untitled.jpeg
-      alt: Image alt text
   - infopic:
       title: 2023 JC2 Dinner and Dance
       subtitle: Stories
