@@ -7,109 +7,128 @@ variant: tiptap
 ---
 <p><strong>Hear From Your Seniors…</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oliver.jpg">
+</div>
 <p><strong>Oliver Alexander Wang</strong>
-</p>
-<p></p>
-<p><em>NUS Science Research Programme</em>
-</p>
-<p></p>
-<p>Subject Combination:</p>
+<br>
+<br><em>NUS Science Research Programme</em>
+<br>
+<br>Subject Combination:</p>
 <p>H2 Biology
 <br>H2 Chemistry
 <br>H2 Mathematics
 <br>H2 Economics
-<br>H3 Chemistry</p>
-<p>&nbsp;</p>
-<p>CCA/SIG:</p>
-<p>Tchoukball (Vice-President)</p>
-<p>Nanyang Musicians Club</p>
-<p>From a young age, my ambition has always been geared towards becoming
+<br>H3 Chemistry
+<br>
+<br>CCA/SIG:
+<br>
+<br>Tchoukball (Vice-President)
+<br>
+<br>Nanyang Musicians Club
+<br>
+<br>From a young age, my ambition has always been geared towards becoming
 a researcher. Naturally, I found myself drawn to the Science Research Project
 (SRP). This programme provides aspiring researchers like me, the prestigious
 opportunity to work with leading researchers in top universities, such
 as NUS and NTU on a 6-month long attachment, giving us a taste on the hectic,
-yet rewarding and fulfilling life of a researcher.</p>
-<p>&nbsp;</p>
-<p>Being part of SRP not only exposes us to the challenges of the research
+yet rewarding and fulfilling life of a researcher.
+<br>
+<br>Being part of SRP not only exposes us to the challenges of the research
 world but also allows us to reap the rewards of our hard work. Interacting
 with like-minded individuals from other JCs has been a highlight, fostering
 invaluable friendships along the way. On a personal note, navigating through
 the lengthy and challenging SRP journey has been a lot of fun for me, especially
-when we get to see the fruits of our labour when we participate in competitions.</p>
-<p>&nbsp;</p>
-<p>SRP really is a once-in-a-lifetime opportunity, and I strongly encourage
+when we get to see the fruits of our labour when we participate in competitions.
+<br>
+<br>SRP really is a once-in-a-lifetime opportunity, and I strongly encourage
 you to sign up, especially if you have keen interest in STEM or research!</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inchara.jpg">
+</div>
 <p><strong>Inchara Praveen</strong>
-</p>
-<p>&nbsp;</p>
-<p><em>MOE Overseas Student Attachment Programme – International Science School</em>
-</p>
-<p>&nbsp;</p>
-<p>Subject Combination:</p>
-<p>H2 Physics</p>
-<p>H2 Chemistry</p>
-<p>H2 Mathematics</p>
-<p>H2 Economics</p>
-<p>H3 Physics</p>
-<p>&nbsp;</p>
-<p>CCA/SIG:</p>
-<p>Floorball</p>
-<p>I had the privilege of attending the International Science School (ISS),
+<br>
+<br><em>MOE Overseas Student Attachment Programme – International Science School</em>
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Physics
+<br>
+<br>CCA/SIG:
+<br>
+<br>Floorball
+<br>
+<br>I had the privilege of attending the International Science School (ISS),
 a two-week programme at the University of Sydney featuring workshops and
 lectures spanning all branches of science. As someone inherently curious
 with questions that extend beyond our standard curriculum, the experience
 was truly eye-opening. Exploring researcher’s breakthroughs was fascinating,
-with my favourite revelation being in the realm of quantum computing.</p>
-<p>&nbsp;</p>
-<p>Quantum computing, a unique fusion of theoretical science (quantum physics)
+with my favourite revelation being in the realm of quantum computing.
+<br>
+<br>Quantum computing, a unique fusion of theoretical science (quantum physics)
 and contemporary computing, captivated me. It tackles immensely complex
 problems that classical computers cannot solve. The application of quantum
 computing in cryptography, with its potential to address modern-day cybersecurity
 issues, particularly resonated with me as a self-taught programmer, deepening
-my interest in computing as a whole.</p>
-<p>&nbsp;</p>
-<p>From learning about ongoing research in different fields along with the
+my interest in computing as a whole.
+<br>
+<br>From learning about ongoing research in different fields along with the
 process of scientific inquiry, the ISS helped me solidify my passion for
 a Computer Science course in university. Not only was it educational, the
 programme was also extremely enjoyable. Exploring diverse scientific branches
 like marine science and genetic fingerprinting broadened my understanding
-and sparked further enthusiasm.</p>
-<p>&nbsp;</p>
-<p>Inspired by the ISS experience, I decided to take up the academic challenge
+and sparked further enthusiasm.
+<br>
+<br>Inspired by the ISS experience, I decided to take up the academic challenge
 of H3 physics to delve deeper into the science I had been learning within
 my curriculum. However, perhaps the most impactful aspect of the ISS was
 the opportunity to socialise with students from around the world, resulting
 in the formation of lifelong friendships.</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ling_Kai.jpg">
+</div>
 <p><strong>Ng Ling Kai</strong>
-</p>
-<p>&nbsp;</p>
-<p><em>Engineering and Tech Programme Scholarship</em>
-</p>
-<p>&nbsp;</p>
-<p>Subject Combination:</p>
-<p>H2 Physics</p>
-<p>H2 Computing</p>
-<p>H2 Mathematics</p>
-<p>H2 Economics</p>
-<p>&nbsp;</p>
-<p>CCA/SIG:</p>
-<p>Dragon Boat</p>
-<p>Singapore University of Technology and Design (SUTD) hosted a 5-day workshop
+<br>
+<br><em>Engineering and Tech Programme Scholarship</em>
+<br>
+<br>Subject Combination:
+<br>
+<br>H2 Physics
+<br>H2 Computing
+<br>H2 Mathematics
+<br>H2 Economics
+<br>
+<br>CCA/SIG:
+<br>
+<br>Dragon Boat
+<br>
+<br>Singapore University of Technology and Design (SUTD) hosted a 5-day workshop
 for Engineering and Tech Programme Scholarship (ETPS) recipients on 15th
 of January this year. The workshop featured two parallel tracks: AI robotics
-and drone, aimed to equip students with essential engineering skills.</p>
-<p>&nbsp;</p>
-<p>In the AI robotics track, we delved into various aspects, including computer-aided
+and drone, aimed to equip students with essential engineering skills.
+<br>
+<br>In the AI robotics track, we delved into various aspects, including computer-aided
 design (CAD) for designing camera links, programming the robot using AI
 to detect humans and animals, robot assembly, and discussions on ethics
 and design thinking through the double diamond framework. These skills
 culminated in preparing us for the competition held on the final day, which
 involved pitching our projects and test-driving the robots equipped with
-AI.</p>
-<p>&nbsp;</p>
-<p>All in all, it was an enjoyable and fruitful experience, enriched by the
+AI.
+<br>
+<br>All in all, it was an enjoyable and fruitful experience, enriched by the
 camaraderie with new friends made along the way. Looking forward to applying
-these skills and knowledge in future endeavours!</p>
+these skills and knowledge in future endeavours!
+<br>
+</p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Gabrielle" alt="Gabrielle" src="/images/Gabrielle.jpg">
 </div>
@@ -155,6 +174,7 @@ time to adjust, but eventually I was able to schedule all my commitments
 properly every day and dedicate enough time to each commitment.</p>
 <p>Overall, the programme has made my JC 1 year an enriching and rewarding
 one.</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Michelle" alt="Michelle" src="/images/Michelle.jpg">
@@ -193,6 +213,8 @@ updates, etc.</p>
 <p>Overall, this invaluable opportunity has allowed me to learn so many new
 things and has helped me gain essential skills that would be beneficial
 for me in the future!</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Wenyang" alt="Wenyang" src="/images/Wenyang.jpg">
 </div>
@@ -232,6 +254,8 @@ in nature for university. Overall, participating in this research has helped
 to shape my perspective on labwork and I strongly encourage research for
 students who are unsure of what they wish to pursue as research will help
 open their perspectives (provided that one is not struggling with academics).</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Lihan" alt="Lihan" src="/images/A7_08458.jpg">
 </div>
@@ -291,6 +315,7 @@ am sure your experience will be no less rewarding.</p>
 <p>So, if you have a research programme in mind, go for it. Find out about
 a new field, take up new skills, build up friendships and most importantly.
 Have fun!</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Rui Xuan" alt="Rui Xuan" src="/images/A7_08449.jpg">
@@ -325,6 +350,8 @@ life.</p>
 <p>I am extremely thankful for this learning experience. The programme allows
 me to apply what I have learnt in school, as well as to give me an introduction
 to Science research at the tertiary level.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Karel Lee" alt="Karel Lee" src="/images/Karel-Lee.jpg">
 </div>
@@ -363,6 +390,8 @@ or take a break.</p>
 <p>There was no doubt that the attachment has made my December holidays one
 of the most meaningful yet. The values, connections and knowledge I acquired
 would truly be beneficial to me in the years ahead.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Vaikesh" alt="Vaikesh" src="/images/Vaikesh.jpg">
 </div>
@@ -399,6 +428,8 @@ eventually learn are long lasting ones that can be applied in your daily
 lives.</p>
 <p>“Discovery is seeing what everybody else has seen and thinking what nobody
 else has thought.” - Albert Szent-Györgyi.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Thanakorn Sripratak" alt="Thanakorn Sripratak" src="/images/Thanakorn-Sripratak.jpg">
 </div>
@@ -445,6 +476,8 @@ commitments with the programme was difficult but manageable through proper
 planning and scheduling.</p>
 <p>This programme has been a wonderful experience and has allowed me to learn
 so much!</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Wenkang" alt="Wenkang" src="/images/Wenkang.jpg">
 </div>
@@ -491,6 +524,8 @@ in school subjects.</p>
 out a research project. It gives you a taste of working in the scientific
 community and allows you to pick up many important skills for your future
 academics and career.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Chin Siang" alt="Chin Siang" src="/images/Chin-Siang.jpg">
 </div>
@@ -530,6 +565,8 @@ all the required expertise is extremely advanced.</p>
 I had to juggle academics and other commitments at the same time. Thus,
 I had to have good time management and consistency in my work - not just
 during the holidays, but across the whole year to cope with all these activities.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Bernice Photo-large" alt="Bernice Photo-large" src="/images/Bernice-Photo-large.jpg">
 </div>
@@ -576,6 +613,8 @@ being translated into words and diagrams. Fortunately for me, my mentor
 has also published an edited version of my research online, and I could
 share with my close friends and family, a titbit of my understanding gained
 during the programme.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Tracey Photo" alt="Tracey Photo" src="/images/Tracey-Photo.jpg">
 </div>
