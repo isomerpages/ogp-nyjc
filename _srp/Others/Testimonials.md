@@ -9,16 +9,16 @@ variant: tiptap
 </p>
 <p><strong>Oliver Alexander Wang</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>NUS Science Research Programme</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>Subject Combination:</p>
-<p>H2 Biology</p>
-<p>H2 Chemistry</p>
-<p>H2 Mathematics</p>
-<p>H2 Economics</p>
-<p>H3 Chemistry</p>
+<p>H2 Biology
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Chemistry</p>
 <p>&nbsp;</p>
 <p>CCA/SIG:</p>
 <p>Tchoukball (Vice-President)</p>
