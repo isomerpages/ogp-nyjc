@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: headlines/oh2024/
+          url: /headlines/2024appeal/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
