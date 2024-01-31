@@ -27,7 +27,7 @@ the Cut-off Point for NYJC's courses.&nbsp;
 that this appeal&nbsp;system will close at the deadline and no further
 submission or&nbsp;change is allowed.
 <br>
-<br>Please note that due to large&nbsp;volume of appeals received, we&nbsp;will
+<br>Please note that due to the large&nbsp;number of appeals received, we&nbsp;will
 only contact shortlisted applicants. All successful applicants will be
 notified by Wednesday 7 February 2024, 12 pm.
 <br>
