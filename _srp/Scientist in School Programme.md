@@ -12,3 +12,5 @@ Eligibility:
 
 *   Open to all JC1 students
 *   Have a passion for science and research
+
+Any new opportunities will be announced on the NYJC Learning Portal.
