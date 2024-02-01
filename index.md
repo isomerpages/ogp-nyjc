@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Select Subject Combination
+      subtitle: Headlines
+      button: click HERE
+      url: /headlines/subjectcombi/
+      image: /images/WhatsApp_Image_2024_02_02_at_7_20_41_AM.jpeg
+      description: 2 Feb
+      alt: 2023 ISLE
+  - infopic:
       title: Post JAE Appeals
       subtitle: Headlines
       id: infopic
@@ -47,14 +55,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2023-JC2-Dinner-and-Dance/
       image: /images/231201_JC2_Dinner_and_Dance_002.jpg
       alt: 2023 TDC
-  - infopic:
-      title: 2023 ISLE Batam Trip (Jus Jeruk Team)
-      subtitle: Stories
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2023-ISLE-Batam-Trip-Jus-Jeruk-Team/
-      image: /images/231127_ISLE_Jus_Jerak_056.jpg
-      description: 27 - 29 Nov
-      alt: 2023 ISLE
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
