@@ -31,5 +31,4 @@ submission or&nbsp;change is allowed.
 only contact shortlisted applicants. All successful applicants will be
 notified by Wednesday 7 February 2024, 12 pm.
 <br>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://jae.nyjc.edu.sg/</a>
 </p>
