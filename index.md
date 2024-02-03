@@ -24,12 +24,22 @@ sections:
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
       title: In Loving Memory
-      button: View here
+      subtitle: Headlines
+      id: infopic
+      description: 3 Feb
+      button: click here
+      alt: Image alt text
       url: /headlines/wcy/
       image: /images/WCY.jpg
-      alt: 2023 Changi
-      subtitle: HEADLINES
+  - infopic:
+      title: The Nanyang Novice Law Moot Competition
+      subtitle: Stories
+      id: infopic
       description: 3 Feb
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-The-Nanyang-Novice-Law-Moot-Competition
+      image: /images/2024_Moot_Law_017.jpg
   - infopic:
       title: 2024 Orientation Day 1
       subtitle: Stories
