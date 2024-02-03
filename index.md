@@ -23,14 +23,6 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: In Loving Memory
-      button: View here
-      url: /headlines/wcy/
-      image: /images/WCY.jpg
-      alt: 2023 Changi
-      subtitle: HEADLINES
-      description: 3 Feb
-  - infopic:
       title: 2024 Orientation Day 1
       subtitle: Stories
       description: 2 Feb
