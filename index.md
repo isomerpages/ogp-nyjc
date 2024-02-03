@@ -32,6 +32,15 @@ sections:
       url: /headlines/wcy/
       image: /images/WCY.jpg
   - infopic:
+      title: The Nanyang Novice Law Moot Competition
+      subtitle: Stories
+      id: infopic
+      description: 3 Feb
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-The-Nanyang-Novice-Law-Moot-Competition
+      image: /images/2024_Moot_Law_017.jpg
+  - infopic:
       title: 2024 Orientation Day 1
       subtitle: Stories
       description: 2 Feb
@@ -70,11 +79,4 @@ sections:
         NYJC Open House" src="https://www.youtube.com/embed/8J6sV5RO8Pg"
         height="315" width="560"></iframe></div>
       title: "Watch our latest video:"
-  - infopic:
-      title: Infopic
-      subtitle: Stories
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
