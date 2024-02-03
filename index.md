@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: In Loving Memory
+      subtitle: Headlines
+      id: infopic
+      description: 3 Feb
+      button: click here
+      alt: Image alt text
+      url: /headlines/wcy/
+      image: /images/WCY.jpg
+  - infopic:
       title: 2024 Orientation Day 1
       subtitle: Stories
       description: 2 Feb
@@ -63,7 +72,7 @@ sections:
       title: "Watch our latest video:"
   - infopic:
       title: Infopic
-      subtitle: Add an image and text
+      subtitle: Stories
       id: infopic
       description: Infopic description
       button: Button Text
