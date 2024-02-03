@@ -61,4 +61,11 @@ sections:
         NYJC Open House" src="https://www.youtube.com/embed/8J6sV5RO8Pg"
         height="315" width="560"></iframe></div>
       title: "Watch our latest video:"
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
