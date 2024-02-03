@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Orientation Day 1
+      subtitle: Stories
+      description: 2 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
+      image: /images/2024_JC1_Orientation_Day_1_142.jpg
+      alt: 2023 TDC
+  - infopic:
       title: Select Subject Combination
       subtitle: Headlines
       button: click HERE
@@ -47,14 +55,6 @@ sections:
       alt: 2023 Changi
       subtitle: STORIES
       description: 12 Jan
-  - infopic:
-      title: 2023 JC2 Dinner and Dance
-      subtitle: Stories
-      description: 1 Dec
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2023-JC2-Dinner-and-Dance/
-      image: /images/231201_JC2_Dinner_and_Dance_002.jpg
-      alt: 2023 TDC
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
