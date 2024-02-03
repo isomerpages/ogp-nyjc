@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/subjectcombi/
+          url: /headlines/wcy/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,14 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
+  - infopic:
+      title: In Loving Memory
+      button: View here
+      url: /headlines/wcy/
+      image: /images/WCY.jpg
+      alt: 2023 Changi
+      subtitle: HEADLINES
+      description: 3 Feb
   - infopic:
       title: 2024 Orientation Day 1
       subtitle: Stories
@@ -47,14 +55,6 @@ sections:
       url: /headlines/2024appeal/
       image: /images/jae_appeal.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 NYJC Open House
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-Open-House
-      image: /images/240112_Open_House_044.jpg
-      alt: 2023 Changi
-      subtitle: STORIES
-      description: 12 Jan
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
