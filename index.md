@@ -49,13 +49,13 @@ sections:
       image: /images/2024_JC1_Orientation_Day_1_142.jpg
       alt: 2023 TDC
   - infopic:
-      title: Select Subject Combination
-      subtitle: Headlines
+      title: 2024 JC1 Orientation Day 2
+      subtitle: STORIES
       button: click HERE
-      url: /headlines/subjectcombi/
-      image: /images/WhatsApp_Image_2024_02_02_at_7_20_41_AM.jpeg
-      description: 2 Feb
-      alt: 2023 ISLE
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-2
+      image: /images/240206_JC1_Orientation_Day_2_141.jpg
+      description: 5 Feb
+      alt: 2024 Orientation Day 2
   - infopic:
       title: Post JAE Appeals
       subtitle: Headlines
