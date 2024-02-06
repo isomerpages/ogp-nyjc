@@ -32,6 +32,15 @@ sections:
       url: /headlines/wcy/
       image: /images/WCY.jpg
   - infopic:
+      title: Edspiration
+      subtitle: Headlines
+      id: infopic
+      description: 6  Feb
+      button: click here
+      url: /headlines/edspiration/
+      image: /images/EDspiration.png
+      alt: Image alt text
+  - infopic:
       title: 2024 JC1 Orientation Day 2
       subtitle: STORIES
       button: click HERE
@@ -56,15 +65,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-The-Nanyang-Novice-Law-Moot-Competition
       image: /images/2024_Moot_Law_017.jpg
-  - infopic:
-      title: Post JAE Appeals
-      subtitle: Headlines
-      id: infopic
-      description: 1 Feb
-      button: click here
-      url: /headlines/2024appeal/
-      image: /images/jae_appeal.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe

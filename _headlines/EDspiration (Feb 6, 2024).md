@@ -1,6 +1,6 @@
 ---
-title: EDspiration (Feb 12, 2023)
-permalink: /headlines/44th-student-council-election/
+title: EDspiration (Feb 6, 2024)
+permalink: /headlines/edspiration/
 description: ""
 variant: tiptap
 ---
