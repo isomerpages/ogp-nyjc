@@ -32,6 +32,22 @@ sections:
       url: /headlines/wcy/
       image: /images/WCY.jpg
   - infopic:
+      title: 2024 JC1 Orientation Day 2
+      subtitle: STORIES
+      button: click HERE
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-2
+      image: /images/240206_JC1_Orientation_Day_2_141.jpg
+      description: 5 Feb
+      alt: 2024 Orientation Day 2
+  - infopic:
+      title: 2024 JC1 Orientation Day 1
+      subtitle: Stories
+      description: 2 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
+      image: /images/2024_JC1_Orientation_Day_1_142.jpg
+      alt: 2024 Ori Day 2
+  - infopic:
       title: The Nanyang Novice Law Moot Competition
       subtitle: Stories
       id: infopic
@@ -40,22 +56,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-The-Nanyang-Novice-Law-Moot-Competition
       image: /images/2024_Moot_Law_017.jpg
-  - infopic:
-      title: 2024 Orientation Day 1
-      subtitle: Stories
-      description: 2 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
-      image: /images/2024_JC1_Orientation_Day_1_142.jpg
-      alt: 2023 TDC
-  - infopic:
-      title: Select Subject Combination
-      subtitle: Headlines
-      button: click HERE
-      url: /headlines/subjectcombi/
-      image: /images/WhatsApp_Image_2024_02_02_at_7_20_41_AM.jpeg
-      description: 2 Feb
-      alt: 2023 ISLE
   - infopic:
       title: Post JAE Appeals
       subtitle: Headlines
