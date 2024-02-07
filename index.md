@@ -57,14 +57,14 @@ sections:
       image: /images/2024_JC1_Orientation_Day_1_142.jpg
       alt: 2024 Ori Day 2
   - infopic:
-      title: The Nanyang Novice Law Moot Competition
+      title: 2024 JC1 Orientation Day 3
       subtitle: Stories
       id: infopic
-      description: 3 Feb
+      description: 63 Feb
       button: view here
       alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-The-Nanyang-Novice-Law-Moot-Competition
-      image: /images/2024_Moot_Law_017.jpg
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
+      image: /images/240206_JC1_Orientation_Day_3_155.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
