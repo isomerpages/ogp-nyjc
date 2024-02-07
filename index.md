@@ -60,7 +60,7 @@ sections:
       title: 2024 JC1 Orientation Day 3
       subtitle: Stories
       id: infopic
-      description: 63 Feb
+      description: 6 Feb
       button: view here
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
