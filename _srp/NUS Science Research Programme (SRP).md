@@ -10,6 +10,7 @@ or H3 module.</p>
 strong interest and have an aptitude for scientific research to participate
 in research projects under the guidance of professors from NUS and research
 centres.</p>
+<p>For more information about the programme and registration, please click <strong><a href="/files/SRP_2024_25_Information_Sheet__for_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p>Eligibility:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,4 +80,4 @@ grade/award and year obtained)</p>
 apply online.
 <br>
 <br><strong>Online Registration Period</strong> 
-<br>13 – 19 Feb 2024</p>
+<br>10 –20 Feb 2024</p>
