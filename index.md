@@ -23,14 +23,13 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: In Loving Memory
-      subtitle: Headlines
-      id: infopic
-      description: 3 Feb
-      button: click here
-      alt: Image alt text
-      url: /headlines/wcy/
-      image: /images/WCY.jpg
+      title: 2024 NYJC Chinese New Year Celebration
+      subtitle: Stories
+      description: 9 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-NYJC-Chinese-New-Year-Celebration
+      image: /images/240209_CNY_096.jpg
+      alt: 2024 CNY
   - infopic:
       title: 2024 JC1 Orientation Day 4
       subtitle: stories
@@ -57,14 +56,6 @@ sections:
       image: /images/240206_JC1_Orientation_Day_2_141.jpg
       description: 5 Feb
       alt: 2024 Orientation Day 2
-  - infopic:
-      title: 2024 JC1 Orientation Day 1
-      subtitle: Stories
-      description: 2 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
-      image: /images/2024_JC1_Orientation_Day_1_142.jpg
-      alt: 2024 Ori Day 2
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
