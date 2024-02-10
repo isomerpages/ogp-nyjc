@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 NYJC Chinese New Year Celebration
+      subtitle: Stories
+      description: 9 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
+      image: /images/240209_CNY_096.jpg
+      alt: 2024 CNY
+  - infopic:
       title: 2024 JC1 Orientation Day 4
       subtitle: stories
       id: infopic
@@ -32,15 +40,6 @@ sections:
       image: /images/DSC03333.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 JC1 Orientation Day 3
-      subtitle: Stories
-      id: infopic
-      description: 6 Feb
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
-      image: /images/240206_JC1_Orientation_Day_3_155.jpg
-  - infopic:
       title: 2024 JC1 Orientation Day 2
       subtitle: STORIES
       button: click HERE
@@ -49,13 +48,14 @@ sections:
       description: 5 Feb
       alt: 2024 Orientation Day 2
   - infopic:
-      title: 2024 NYJC Chinese New Year Celebration
+      title: 2024 JC1 Orientation Day 3
       subtitle: Stories
-      description: 9 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
-      image: /images/2024_JC1_Orientation_Day_1_142.jpg
-      alt: 2024 CNY
+      id: infopic
+      description: 6 Feb
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
+      image: /images/240206_JC1_Orientation_Day_3_155.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
