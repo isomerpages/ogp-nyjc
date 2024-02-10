@@ -40,14 +40,6 @@ sections:
       image: /images/DSC03333.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 JC1 Orientation Day 2
-      subtitle: STORIES
-      button: click HERE
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-2
-      image: /images/240206_JC1_Orientation_Day_2_141.jpg
-      description: 5 Feb
-      alt: 2024 Orientation Day 2
-  - infopic:
       title: 2024 JC1 Orientation Day 3
       subtitle: Stories
       id: infopic
@@ -56,6 +48,14 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
       image: /images/240206_JC1_Orientation_Day_3_155.jpg
+  - infopic:
+      title: 2024 JC1 Orientation Day 2
+      subtitle: STORIES
+      button: click HERE
+      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-2
+      image: /images/240206_JC1_Orientation_Day_2_141.jpg
+      description: 5 Feb
+      alt: 2024 Orientation Day 2
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
