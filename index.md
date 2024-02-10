@@ -27,7 +27,7 @@ sections:
       subtitle: Stories
       description: 9 Feb
       button: View Here
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-1
+      url: https://nanyangjc.smugmug.com/2024-NYJC-Chinese-New-Year-Celebration
       image: /images/240209_CNY_096.jpg
       alt: 2024 CNY
   - infopic:
