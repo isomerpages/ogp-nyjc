@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2024 Professor Tony Wilson Visit to NYJC
+      title: 2024 Professor Tony Wilson's Visit to NYJC
       subtitle: STORIES
       button: click HERE
       url: https://nanyangjc.smugmug.com/2024-Professor-Tony-Wilson-Visit-to-NYJC
