@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Professor Tony Wilson Visit to NYJC
+      subtitle: STORIES
+      button: click HERE
+      url: https://nanyangjc.smugmug.com/2024-Professor-Tony-Wilson-Visit-to-NYJC
+      image: /images/240214_Professor_Tony_04.jpg
+      description: 14 Feb
+      alt: Professor Tony
+  - infopic:
       title: 2024 NYJC Chinese New Year Celebration
       subtitle: Stories
       description: 9 Feb
@@ -48,14 +56,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
       image: /images/240206_JC1_Orientation_Day_3_155.jpg
-  - infopic:
-      title: 2024 Professor Tony Wilson Visit to NYJC
-      subtitle: STORIES
-      button: click HERE
-      url: https://nanyangjc.smugmug.com/2024-Professor-Tony-Wilson-Visit-to-NYJC
-      image: /images/240214_Professor_Tony_04.jpg
-      description: 14 Feb
-      alt: Professor Tony
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
