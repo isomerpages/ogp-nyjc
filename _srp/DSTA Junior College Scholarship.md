@@ -22,4 +22,4 @@ Value of scholarship:
 
 **Online Registration Deadline**
 
-15 Feb 2024
+22 Feb 2024

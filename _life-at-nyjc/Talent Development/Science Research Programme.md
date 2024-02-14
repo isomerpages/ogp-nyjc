@@ -82,7 +82,7 @@ mathematics, humanities and social sciences</p>
 <br>Have a passion for science and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Feb 2024</p>
+<p>22 Feb 2024</p>
 </td>
 </tr>
 <tr>
