@@ -49,13 +49,13 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-3
       image: /images/240206_JC1_Orientation_Day_3_155.jpg
   - infopic:
-      title: 2024 JC1 Orientation Day 2
+      title: 2024 Professor Tony Wilson Visit to NYJC
       subtitle: STORIES
       button: click HERE
-      url: https://nanyangjc.smugmug.com/2024-JC1-Orientation-Day-2
-      image: /images/240206_JC1_Orientation_Day_2_141.jpg
-      description: 5 Feb
-      alt: 2024 Orientation Day 2
+      url: https://nanyangjc.smugmug.com/2024-Professor-Tony-Wilson-Visit-to-NYJC
+      image: /images/240214_Professor_Tony_04.jpg
+      description: 14 Feb
+      alt: Professor Tony
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
