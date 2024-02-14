@@ -18,4 +18,5 @@ Students with Economics background stand themselves in good stead as possible ca
 * [H3 Economics 9809](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9809_y21_sy.pdf)
 
 **Economics Department Members**
-![Econs Department Staff](/images/Econs_Dept.jpg)
+![Econs Department Staff](/images/econs_dept_2024_1.jpg)
+![Econs Department Staff](/images/econs_dept_2024_2.jpg)
