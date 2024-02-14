@@ -7,13 +7,63 @@ variant: tiptap
 ---
 <p><strong>Hear From Your Seniors…</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yeu_Jiunn.jpg">
+</div>
+<p><strong>Chen Yeu Jiunn</strong>
+<br><em>NUS Science Research Programme</em>
+<br>
+<br>Subject Combination:
+<br>H2 Mathematics
+<br>H2 Further Mathematics
+<br>H2 Physics
+<br>H1 Economics
+<br>H3 NTU Semiconductor Physics and Devices
+<br>
+<br>CCA/SIG:
+<br>Nanyang Robotics and Computer Science Club
+<br>Mathematics Club
+<br>Singularity
+<br>
+<br>I have always been driven by curiosity. I love to experiment with different
+things to observe their outcomes, whether it be through movement, combustion,
+or manipulation. When I joined NYJC, I made a personal vow to infuse in
+my JC1 journey with excitement and memorable experiences. The NUS Science
+Research Programme became a pivotal part of achieving that goal.
+<br>
+<br>This programme allowed me to experience the research cycle from the inception
+of formulating research questions to the culmination of producing a research
+report. It gave me deeper insights into research at a university level,
+which was a significant departure from my previous experiences.
+<br>
+<br>Teaming up with another student, our project focused on investigating
+the acoustic properties of watermelons, specifically examining their sweetness
+and detecting internal damage that is not visible externally. Over the
+course of working on the project, I came to appreciate the interdisciplinary
+nature of research. While our project centred on physics, our literature
+review underscored the significance of other natural sciences in this domain,
+in addition to requiring programming skills to navigate the complexities
+of our investigation.
+<br>
+<br>Participating in this programme left me with a wealth of knowledge and
+inspiration. It has motivated me to contemplate delving further into the
+realm of science and technology research whenever the opportunity arises.
+Moreover, it provided me greater clarity on my choices of university courses
+that I wish to pursue. Initially torn between pursuing a degree in applied
+mathematics or physics, my involvement in the research project and my coursework
+helped me realise my deeper interest in the sciences, particularly physics.
+<br>
+<br>In all, it was an electrifying experience with much to learn and take
+away from. It is a once-in-a-lifetime experience that I wholeheartedly
+recommend to any aspiring researcher.</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oliver.jpg">
 </div>
-<p><strong>Oliver Alexander Wang</strong>
+<p><strong>Oliver Alexander Wang</strong> 
 <br>
-<br><em>NUS Science Research Programme</em>
+<br><em>NUS Science Research Programme</em> 
 <br>
 <br>Subject Combination:</p>
 <p>H2 Biology
@@ -49,9 +99,9 @@ you to sign up, especially if you have keen interest in STEM or research!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inchara.jpg">
 </div>
-<p><strong>Inchara Praveen</strong>
+<p><strong>Inchara Praveen</strong> 
 <br>
-<br><em>MOE Overseas Student Attachment Programme – International Science School</em>
+<br><em>MOE Overseas Student Attachment Programme – International Science School</em> 
 <br>
 <br>Subject Combination:
 <br>H2 Physics
@@ -95,9 +145,9 @@ in the formation of lifelong friendships.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ling_Kai.jpg">
 </div>
-<p><strong>Ng Ling Kai</strong>
+<p><strong>Ng Ling Kai</strong> 
 <br>
-<br><em>Engineering and Tech Programme Scholarship</em>
+<br><em>Engineering and Tech Programme Scholarship</em> 
 <br>
 <br>Subject Combination:
 <br>
