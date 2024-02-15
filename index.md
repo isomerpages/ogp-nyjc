@@ -40,14 +40,6 @@ sections:
       description: 14 Feb
       alt: Professor Tony
   - infopic:
-      title: 2024 NYJC Chinese New Year Celebration
-      subtitle: Stories
-      description: 9 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-NYJC-Chinese-New-Year-Celebration
-      image: /images/240209_CNY_096.jpg
-      alt: 2024 CNY
-  - infopic:
       title: 2024 Total Defense Day
       subtitle: stories
       id: infopic
@@ -56,6 +48,14 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Total-Defence-Day
       image: /images/240214_Total_Defense_Day_029.jpg
       alt: Image alt text
+  - infopic:
+      title: 2024 NYJC Chinese New Year Celebration
+      subtitle: Stories
+      description: 9 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-NYJC-Chinese-New-Year-Celebration
+      image: /images/240209_CNY_096.jpg
+      alt: 2024 CNY
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
