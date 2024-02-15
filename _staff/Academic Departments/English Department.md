@@ -16,5 +16,6 @@ For more detailed information about General Paper 8807 (last year of examination
 For detailed information about General Paper 8881 (first year of examination in 2024), please visit [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy.pdf).
 
 **English Department Members**
-![English Department Staff](/images/English_Dept_1.jpg)
-![English Department Staff](/images/English_Dept_2.jpg)
+![English Department Staff](/images/2024_English_Dept_1.jpg)
+![English Department Staff](/images/2024_English_Dept_2.jpg)
+![English Department Staff](/images/2024_English_Dept_3.jpg)
