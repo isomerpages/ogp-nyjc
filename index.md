@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 CT Orientation Day 1
+      subtitle: Stories
+      description: 15 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-1
+      image: /images/240216_CT_Orientation_Day_1_081.jpg
+      alt: 2024 CT Orientation
+  - infopic:
       title: 2024 CCA Bazaar
       subtitle: Stories
       id: infopic
@@ -48,14 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Total-Defence-Day
       image: /images/240214_Total_Defense_Day_029.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 NYJC Chinese New Year Celebration
-      subtitle: Stories
-      description: 9 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-NYJC-Chinese-New-Year-Celebration
-      image: /images/240209_CNY_096.jpg
-      alt: 2024 CNY
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
