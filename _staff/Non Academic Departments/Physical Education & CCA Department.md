@@ -22,4 +22,5 @@ The college offers the following categories of CCA:
 3.       Clubs and Societies.
 
 **Physical Education & CCA Department Members**
-![](/images/PE_Dept.jpg)
+![](/images/2024_PE_1.jpg)
+![](/images/2024_PE_2.jpg)
