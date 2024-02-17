@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 CT Orientation Day 2
+      subtitle: stories
+      id: infopic
+      description: 16 Feb
+      button: click here
+      url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-2
+      image: /images/240216_CTO_Day_2_026.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 CT Orientation Day 1
       subtitle: Stories
       description: 15 Feb
@@ -47,15 +56,6 @@ sections:
       image: /images/240214_Professor_Tony_04.jpg
       description: 14 Feb
       alt: Professor Tony
-  - infopic:
-      title: 2024 Total Defense Day
-      subtitle: stories
-      id: infopic
-      description: 14 Feb
-      button: click here
-      url: https://nanyangjc.smugmug.com/2024-Total-Defence-Day
-      image: /images/240214_Total_Defense_Day_029.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
