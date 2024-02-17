@@ -29,7 +29,7 @@ sections:
       description: 16 Feb
       button: click here
       url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-2
-      image: /images/240214_Total_Defense_Day_029.jpg
+      image: /images/240216_CTO_Day_2_026.jpg
       alt: Image alt text
   - infopic:
       title: 2024 CT Orientation Day 1
