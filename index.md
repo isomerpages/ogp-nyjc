@@ -48,12 +48,12 @@ sections:
       description: 14 Feb
       alt: Professor Tony
   - infopic:
-      title: 2024 Total Defense Day
+      title: 2024 CT Orientation Day 2
       subtitle: stories
       id: infopic
-      description: 14 Feb
+      description: 16 Feb
       button: click here
-      url: https://nanyangjc.smugmug.com/2024-Total-Defence-Day
+      url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-2
       image: /images/240214_Total_Defense_Day_029.jpg
       alt: Image alt text
   - infobar:
