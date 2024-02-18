@@ -23,6 +23,23 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: Release of 2023 A Level Results
+      subtitle: Headlines
+      id: infopic
+      description: 18 Feb
+      button: Click here
+      url: /headlines/2022/02/16/4972/
+      image: /images/a_level_.jpg
+      alt: Image alt text
+  - infopic:
+      title: University and Scholarship Application Resources
+      subtitle: headlines
+      button: Click here
+      url: /headlines/qa-with-the-university-admission-directors/
+      image: /images/uni.jpg
+      description: 18 Feb
+      alt: Professor Tony
+  - infopic:
       title: 2024 CT Orientation Day 2
       subtitle: stories
       id: infopic
@@ -48,14 +65,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-CCA-Bazaar
       image: /images/240214_CCA_Bazaar_014.jpg
-  - infopic:
-      title: 2024 Professor Tony Wilson's Visit to NYJC
-      subtitle: STORIES
-      button: click HERE
-      url: https://nanyangjc.smugmug.com/2024-Professor-Tony-Wilson-Visit-to-NYJC
-      image: /images/240214_Professor_Tony_04.jpg
-      description: 14 Feb
-      alt: Professor Tony
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
