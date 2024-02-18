@@ -1,5 +1,5 @@
 ---
-title: 2023 A Level Results Release (Feb 18, 2024)
+title: 2023 A Level Results Release on 23 Feb (Feb 18, 2024)
 permalink: /headlines/2022/02/16/4972/
 description: ""
 variant: markdown
