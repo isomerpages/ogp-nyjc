@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: Release of 2023 A Level Results
+      title: Release of 2023 A Level Results on 23 Feb
       subtitle: Headlines
       id: infopic
       description: 18 Feb
