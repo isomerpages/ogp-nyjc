@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/wcy/
+          url: /headlines/2022/02/16/4972/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
