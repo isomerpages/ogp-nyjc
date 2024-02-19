@@ -47,5 +47,5 @@ To qualify for the programme, students must obtain at the GCE 'O' Level examinat
 in the GCE O level examination.
 
 **Chinese Department Members**
-![Mother Tongue Department Staff](/images/chinese_dept_2024_1.jpg)
-![Mother Tongue Department Staff](/images/chinese_dept_2024_2.jpg)
+![Mother Tongue Department Staff](/images/2024_Chinese_Dept__1.jpg)
+![Chinese Department Staff](/images/2024_Chinese_Dept__2.jpg)
