@@ -34,25 +34,24 @@ Examination from 2025)
 <br>This subject must be taken together with H2 Mathematics.</p>
 <p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9820_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics 9820 </a></strong>(For
 Examination till 2024)
-<br><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics 9820 (Revised)</a></strong><em> (For Examination from 2025)</em>
+<br><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics 9820 (Revised)</a></strong><em> (For Examination from 2025)</em> 
 <br>
 <br>This subject must be taken together with H2 Mathematics and is only offered
 in the second year to students who have performed outstandingly well in
 H2 Mathematics.</p>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Computing 9569</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Computing 9569</a></strong> 
 <br>
 <br>It is strongly recommended that this subject be taken with&nbsp;H2 Mathematics.</p>
 <p><strong>Mathematics Department Members</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department Staff" src="/images/math_dept_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department Staff" src="/images/2024_Math_Dept__1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department Staff" src="/images/math_dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department Staff" src="/images/2024_Math_Dept__2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department Staff" src="/images/math_dept_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department Staff" src="/images/2024_Math_Dept__3.jpg">
 </div>
 <p></p>
