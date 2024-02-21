@@ -40,6 +40,15 @@ sections:
       description: 18 Feb
       alt: Professor Tony
   - infopic:
+      title: 2024 JC1 Sports and Aesthetic Day
+      subtitle: Stories
+      id: infopic
+      description: 21 Feb
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-JC1-Sports-and-Aesthetic
+      image: /images/240221_JC1_Sports_Enrichment_039.jpg
+  - infopic:
       title: 2024 CT Orientation Day 2
       subtitle: stories
       id: infopic
@@ -56,15 +65,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-1
       image: /images/240216_CT_Orientation_Day_1_081.jpg
       alt: 2024 CT Orientation
-  - infopic:
-      title: 2024 CCA Bazaar
-      subtitle: Stories
-      id: infopic
-      description: 14 Feb
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-CCA-Bazaar
-      image: /images/240214_CCA_Bazaar_014.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
