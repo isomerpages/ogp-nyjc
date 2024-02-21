@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/a_level_.jpg)
+Dear class of 2023, please enter the college via the main gate and attendance will be taken manually at the porch as we are having problems with the Facial Recognition System. We seek your understanding and we look forward to seeing you this Friday!
 
 [2023 A Level Results Release Letter](/files/Letter_on_2023_A_Level_Results_Release_College_Website.pdf)
 
