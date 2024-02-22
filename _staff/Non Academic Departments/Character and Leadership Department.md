@@ -31,4 +31,4 @@ Each year, we also sent student volunteers on overseas community service project
 “The very best leaders spend time examining what they have done and are planning to do.” To complete the cycle of learning, we encourage students to consciously reflect on the various experiences gathered from workshops, projects and community involvement. Students are encouraged to keep a portfolio to record these experiences and to meet regularly with tutors who will monitor their development.
 
 **Character and Leadership Development Department Members**
-![Character and Leadership Department](/images/CLD_Dept.jpg)
+![Character and Leadership Department](/images/2024_CLD_Dept.jpg)

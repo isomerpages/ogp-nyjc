@@ -27,4 +27,4 @@ It commits to develop staff competency in the use of IT by conducting relevant w
 5.       Partnership with National Library Board (NLB) to bring in more resources for staff and students' borrowing.
 	
 **Innovation and Technology Members**
-![](/images/ICT_Dept.jpg)
+![](/images/2024_ICT_Dept.jpg)
