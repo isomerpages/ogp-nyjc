@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Non Academic Departments
 variant: markdown
 ---
-![](/images/EAS_Dept_1b.jpg)
-
-![](/images/EAS_Dept_2.jpg)
-
-![](/images/EAS_Dept_3.jpg)
+![](/images/2024_EAS_Dept_1.jpg)
+![](/images/2024_EAS_Dept_2.jpg)
+![](/images/2024_EAS_Dept_3.jpg)
