@@ -49,7 +49,7 @@ Lifeskills One: Self-Awareness
 Our Lifeskills Framework adopts a holistic and comprehensive approach, which served as the guiding principle to help students develop the fundamental skills for life effectiveness. In NYJC, students will learn to effectively manage themselves, their relationships with others and varied life situations. Students are encouraged to do self-reflection and discuss areas for improvements during conferences with their tutors using the Managing Self Development Tool.
 
 **Student Affairs and Management Committee**
-![](/images/Student_Affairs_Dept.jpg)
+![](/images/2024_Student_Affairs_Dept.jpg)
 
 **Counselling Services**
 
