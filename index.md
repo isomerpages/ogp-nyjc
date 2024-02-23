@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Release of 2023 A Level Results
+      subtitle: Stories
+      description: 23 Feb
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Release-of-2023-A-Level-Results
+      image: /images/240223_A_level_Results_Release_125.jpg
+      alt: 2024 CT Orientation
+  - infopic:
       title: Release of 2023 A Level Results on 23 Feb
       subtitle: Headlines
       id: infopic
@@ -57,14 +65,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-2
       image: /images/240216_CTO_Day_2_026.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 CT Orientation Day 1
-      subtitle: Stories
-      description: 15 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-1
-      image: /images/240216_CT_Orientation_Day_1_081.jpg
-      alt: 2024 CT Orientation
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
