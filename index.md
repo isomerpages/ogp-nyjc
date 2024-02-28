@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/2022/02/16/4972/
+          url: /headlines/sc
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -26,7 +26,7 @@ sections:
       title: 2024 Student Council Election
       subtitle: headlines
       id: infopic
-      description: 29 Feb
+      description: 28 Feb
       button: click here
       url: /headlines/sc
       image: /images/SC election banner.jpg

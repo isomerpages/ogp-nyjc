@@ -1,5 +1,5 @@
 ---
-title: 2024 Student Council Election (Feb 29, 2024)
+title: 2024 Student Council Election (Feb 28, 2024)
 permalink: /headlines/sc/
 description: ""
 image: /images/SC election banner.jpg
