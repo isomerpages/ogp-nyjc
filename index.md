@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Student Council Election
+      subtitle: headlines
+      id: infopic
+      description: 29 Feb
+      button: click here
+      url: /headlines/sc
+      image: /images/SC election banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Release of 2023 A Level Results
       subtitle: Stories
       description: 23 Feb
@@ -56,15 +65,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-JC1-Sports-and-Aesthetic
       image: /images/240221_JC1_Sports_Enrichment_039.jpg
-  - infopic:
-      title: 2024 CT Orientation Day 2
-      subtitle: stories
-      id: infopic
-      description: 16 Feb
-      button: click here
-      url: https://nanyangjc.smugmug.com/2024-CT-Orientation-Day-2
-      image: /images/240216_CTO_Day_2_026.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
