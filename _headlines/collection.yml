@@ -2,6 +2,7 @@ collections:
   headlines:
     output: true
     order:
+      - 2023 Student Council Election (Mar 1, 2023).md
       - 2023 A Level Results Release on 23 Feb (Feb 18, 2024).md
       - University and Scholarship Application Resources (Feb 18, 2024).md
       - In Loving Memory (3 Feb).md
@@ -12,4 +13,3 @@ collections:
       - MOE EDUSAVE CHARACTER AWARD (ECHA) (Aug 28, 2023).md
       - RemiNYscence (May 20, 2023).md
       - Stay Connected with NYJC (Mar 6, 2023).md
-      - 2023 Student Council Election (Mar 1, 2023).md
