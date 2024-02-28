@@ -26,7 +26,7 @@ sections:
       title: 2024 Student Council Election
       subtitle: headlines
       id: infopic
-      description: 29 Feb
+      description: 28 Feb
       button: click here
       url: /headlines/sc
       image: /images/SC election banner.jpg
