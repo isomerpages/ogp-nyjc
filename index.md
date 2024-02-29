@@ -75,8 +75,9 @@ sections:
   - infobar:
       description: <div class="bp-youtube"><iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture; web-share" frameborder="0" title="2024
-        NYJC Open House" src="https://www.youtube.com/embed/8J6sV5RO8Pg"
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/pQu6RfWKO9k?si=WFHQ65NQ5tl-M84f"
         height="315" width="560"></iframe></div>
       title: "Watch our latest video:"
 ---
