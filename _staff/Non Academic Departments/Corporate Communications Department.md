@@ -21,7 +21,8 @@ of NYJCians.</p>
 <p><strong>Corporate Communications and Partnership Department Members</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Corporate Communications Department Staff" src="/images/2024_Corps_Comm_Dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Corporate Communications Department Staff" src="/images/2024_Corps_Comm.jpg">
 </div>
 <p></p>
