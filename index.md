@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 JC2 IllumiNYte
+      subtitle: Stories
+      id: infopic
+      description: 6 Mar
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-JC2-IllumiNYte
+      image: /images/240306_JC2_Illuminyte_093.jpg
+  - infopic:
       title: 2024 Student Council Election
       subtitle: headlines
       id: infopic
@@ -56,15 +65,6 @@ sections:
       image: /images/uni.jpg
       description: 18 Feb
       alt: Professor Tony
-  - infopic:
-      title: 2024 JC1 Sports and Aesthetic Day
-      subtitle: Stories
-      id: infopic
-      description: 21 Feb
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-JC1-Sports-and-Aesthetic
-      image: /images/240221_JC1_Sports_Enrichment_039.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
