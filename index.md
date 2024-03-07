@@ -27,7 +27,7 @@ sections:
       subtitle: Stories
       id: infopic
       description: 7 Mar
-      button: Click here
+      button: view here
       url: https://nanyangjc.smugmug.com/2024-NYJC-Sports-Carnival
       image: /images/240307_NYJC_Sports_Carnival_026.jpg
       alt: Image alt text
