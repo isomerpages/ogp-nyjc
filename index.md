@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 JC1 IllumiNYte
+      subtitle: Stories
+      description: 7 Mar
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-JC1-IllumiNYte
+      image: /images/240307_JC1_IllumiNYte_094.jpg
+      alt: 2024 CT Orientation
+  - infopic:
       title: 2024 NYJC Sports Carnival
       subtitle: Stories
       id: infopic
@@ -49,14 +57,6 @@ sections:
       url: /headlines/sc
       image: /images/SC election banner.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Release of 2023 A Level Results
-      subtitle: Stories
-      description: 23 Feb
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Release-of-2023-A-Level-Results
-      image: /images/240223_A_level_Results_Release_125.jpg
-      alt: 2024 CT Orientation
   - infopic:
       title: University and Scholarship Application Resources
       subtitle: headlines
