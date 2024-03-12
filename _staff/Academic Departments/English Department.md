@@ -17,5 +17,5 @@ For detailed information about General Paper 8881 (first year of examination in 
 
 **English Department Members**
 ![English Department Staff](/images/2024_English_Dept_1.jpg)
-![English Department Staff](/images/2024_English_Dept_2.jpg)
+![English Department Staff](/images/2024_English_Dept_21.jpg)
 ![English Department Staff](/images/2024_English_Dept_3.jpg)
