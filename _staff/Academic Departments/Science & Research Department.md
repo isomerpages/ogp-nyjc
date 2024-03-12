@@ -22,7 +22,7 @@ For students pursuing other degrees, science, even at the H1 level, gives them a
 *   **[H3 Physics 9814](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9814_y21_sy.pdf)**
 
 **Science &amp; Research Department Members**
-![Science Department Staff](/images/2024_Sci_1.jpg)
+![Science Department Staff](/images/2024_Sci_Dept_1_1.jpg)
 ![Science Department Staff](/images/2024_Sci_2.jpg)
 ![Science Department Staff](/images/2024_Sci_3.jpg)
 ![Science Department Staff](/images/2024_Sci_4.jpg)

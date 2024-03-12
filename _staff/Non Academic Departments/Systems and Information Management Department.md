@@ -10,4 +10,4 @@ The department formulates and reviews the college’s policy on systems and info
 The department is also responsible for all matters pertaining to School Cockpit and School Excellence Model (SEM).  it works closely with the SEM criterion owners to identify and track Key Performance Indicators (KPIs) and organize college data to not only facilitate SEM or other award nominations, but more importantly to identify areas for improvement in order to achieve organisational excellence.
 
 **Systems and Information Management Department Members**
-![Systems and Information Management Department](/images/2024_Systems___Information_Management_Dept.jpg)
+![Systems and Information Management Department](/images/2024_Sys_Info_Dept.jpg)
