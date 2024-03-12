@@ -19,4 +19,4 @@ Students with Economics background stand themselves in good stead as possible ca
 
 **Economics Department Members**
 ![Econs Department Staff](/images/econs_dept_2024_1.jpg)
-![Econs Department Staff](/images/econs_dept_2024_2.jpg)
+![Econs Department Staff](/images/2024_Econ_Dept_2_1.jpg)
