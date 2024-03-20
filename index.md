@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 National School Games Opening Ceremony
+      subtitle: Stories
+      id: infopic
+      description: 20 Mar
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-National-School-Games-Opening-Ceremony
+      image: /images/240320_NSG_Ceremony_034.jpg
+  - infopic:
       title: 2024 JC1 IllumiNYte
       subtitle: Stories
       description: 7 Mar
@@ -39,15 +48,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-NYJC-Sports-Carnival
       image: /images/240307_NYJC_Sports_Carnival_026.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 JC2 IllumiNYte
-      subtitle: Stories
-      id: infopic
-      description: 6 Mar
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-JC2-IllumiNYte
-      image: /images/240306_JC2_Illuminyte_093.jpg
   - infopic:
       title: 2024 Student Council Election
       subtitle: headlines
