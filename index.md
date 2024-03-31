@@ -28,7 +28,7 @@ sections:
       description: 30 Mar
       button: View Here
       url: https://nanyangjc.smugmug.com/2024-Infernus-Cup
-      image: /images/240307_JC1_IllumiNYte_094.jpg
+      image: /images/240330_Infernus_Cup_035.jpg
   - infopic:
       title: 2024 JC2 Life-skills and Leadership Seminar
       subtitle: Stories
