@@ -23,7 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2024 Life-skills and Leadership Seminar
+      title: 2024 Infernus Cup Finals
+      subtitle: Stories
+      description: 30 Mar
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Infernus-Cup
+      image: /images/240330_Infernus_Cup_035.jpg
+  - infopic:
+      title: 2024 JC2 Life-skills and Leadership Seminar
       subtitle: Stories
       id: infopic
       description: 27 Mar
@@ -40,14 +47,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-National-School-Games-Opening-Ceremony
       image: /images/240320_NSG_Ceremony_034.jpg
-  - infopic:
-      title: 2024 JC1 IllumiNYte
-      subtitle: Stories
-      description: 7 Mar
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-JC1-IllumiNYte
-      image: /images/240307_JC1_IllumiNYte_094.jpg
-      alt: 2024 CT Orientation
   - infopic:
       title: 2024 Student Council Election
       subtitle: headlines
