@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 JC2 Principal's Dialogue
+      subtitle: Stories
+      button: View here
+      url: https://nanyangjc.smugmug.com/2024-JC2-Principals-Dialogue
+      image: /images/240402_JC2_Principals_Dialogue_018.jpg
+      description: 2 Apr
+      alt: J2 Dialogue
+  - infopic:
       title: 2024 Infernus Cup Finals
       subtitle: Stories
       description: 30 Mar
@@ -57,14 +65,6 @@ sections:
       url: /headlines/sc
       image: /images/SC election banner.jpg
       alt: Image alt text
-  - infopic:
-      title: University and Scholarship Application Resources
-      subtitle: headlines
-      button: Click here
-      url: /headlines/qa-with-the-university-admission-directors/
-      image: /images/uni.jpg
-      description: 18 Feb
-      alt: Professor Tony
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
