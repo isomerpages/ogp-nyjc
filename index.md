@@ -48,23 +48,14 @@ sections:
       image: /images/240327_JC2_Lifeskills_and_Leadership_Seminar051.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 National School Games Opening Ceremony
+      title: 2024 Chinese Cultural Society (SYF Drama Rehearsal)
       subtitle: Stories
       id: infopic
-      description: 20 Mar
+      description: 11 Apr
       button: view here
       alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-National-School-Games-Opening-Ceremony
+      url: https://nanyangjc.smugmug.com/2024-SYF-Chinese-Drama-Rehearsal
       image: /images/240320_NSG_Ceremony_034.jpg
-  - infopic:
-      title: 2024 Student Council Election
-      subtitle: headlines
-      id: infopic
-      description: 28 Feb
-      button: click here
-      url: /headlines/sc
-      image: /images/SC election banner.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
