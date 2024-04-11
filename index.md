@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Chinese Cultural Society (SYF Drama Rehearsal)
+      subtitle: Stories
+      id: infopic
+      description: 11 Apr
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2024-SYF-Chinese-Drama-Rehearsal
+      image: /images/240411_SYF_Chinese_Drama_031.jpg
+  - infopic:
       title: 2024 JC2 Principal's Dialogue
       subtitle: Stories
       button: View here
@@ -47,15 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-JC2-Life-skills-and-Leadership-Seminar
       image: /images/240327_JC2_Lifeskills_and_Leadership_Seminar051.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Chinese Cultural Society (SYF Drama Rehearsal)
-      subtitle: Stories
-      id: infopic
-      description: 11 Apr
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-SYF-Chinese-Drama-Rehearsal
-      image: /images/240320_NSG_Ceremony_034.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
