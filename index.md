@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Tennis National A Div Girls Quarter Finals
+      subtitle: Stories
+      id: infopic
+      description: 23 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-Tennis-National-A-Div-Girls-Quarter-Finals
+      image: /images/240423_Tennis_Girls_NSG_027.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Chinese Cultural Society (SYF Drama Rehearsal)
       subtitle: Stories
       id: infopic
@@ -47,15 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Infernus-Cup
       image: /images/240330_Infernus_Cup_035.jpg
       alt: Infernus Cup
-  - infopic:
-      title: 2024 JC2 Life-skills and Leadership Seminar
-      subtitle: Stories
-      id: infopic
-      description: 27 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-JC2-Life-skills-and-Leadership-Seminar
-      image: /images/240327_JC2_Lifeskills_and_Leadership_Seminar051.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
