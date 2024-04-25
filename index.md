@@ -23,6 +23,22 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 NDP Practice
+      subtitle: Stories
+      button: View here
+      url: https://nanyangjc.smugmug.com/2024-National-Day-Parade-Practice
+      image: /images/240424_NDP_Practice_024.jpg
+      description: 24 Apr
+      alt: NDP
+  - infopic:
+      title: 2024 Tennis National A Div Boys Quarter Finals
+      subtitle: Stories
+      description: 24 Apr
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Tennis-National-A-Div-Boys-Quarter-Finals
+      image: /images/240424_A_Div_Tennis_Boys_005.jpg
+      alt: Tennis A Div
+  - infopic:
       title: 2024 Tennis National A Div Girls Quarter Finals
       subtitle: Stories
       id: infopic
@@ -40,22 +56,6 @@ sections:
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2024-SYF-Chinese-Drama-Rehearsal
       image: /images/240411_SYF_Chinese_Drama_031.jpg
-  - infopic:
-      title: 2024 JC2 Principal's Dialogue
-      subtitle: Stories
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-JC2-Principals-Dialogue
-      image: /images/240402_JC2_Principals_Dialogue_018.jpg
-      description: 2 Apr
-      alt: J2 Dialogue
-  - infopic:
-      title: 2024 Infernus Cup Finals
-      subtitle: Stories
-      description: 30 Mar
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Infernus-Cup
-      image: /images/240330_Infernus_Cup_035.jpg
-      alt: Infernus Cup
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
