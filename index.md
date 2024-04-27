@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Community Leadership Programme Pitching Day
+      subtitle: Stories
+      id: infopic
+      description: 27 Apr
+      button: view here
+      alt: CLP Pitching
+      url: https://nanyangjc.smugmug.com/2024-Community-Leadership-Programme-Pitching-Day
+      image: /images/240427_2024_CLP_Pitching_Day_044.jpg
+  - infopic:
       title: 2024 NDP Practice
       subtitle: Stories
       button: View here
@@ -47,15 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Tennis-National-A-Div-Girls-Quarter-Finals
       image: /images/240423_Tennis_Girls_NSG_027.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Chinese Cultural Society (SYF Drama Rehearsal)
-      subtitle: Stories
-      id: infopic
-      description: 11 Apr
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2024-SYF-Chinese-Drama-Rehearsal
-      image: /images/240411_SYF_Chinese_Drama_031.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
