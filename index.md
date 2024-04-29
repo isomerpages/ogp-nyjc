@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 National Secondary Schools Translation Competition
+      subtitle: Stories
+      id: infopic
+      description: 27 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-National-Secondary-Schools-Translation-Competition
+      image: /images/240427_Chinese_Translation_Competition_023.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Community Leadership Programme Pitching Day
       subtitle: Stories
       id: infopic
@@ -47,15 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Tennis-National-A-Div-Boys-Quarter-Finals
       image: /images/240424_A_Div_Tennis_Boys_005.jpg
       alt: Tennis A Div
-  - infopic:
-      title: 2024 Tennis National A Div Girls Quarter Finals
-      subtitle: Stories
-      id: infopic
-      description: 23 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-Tennis-National-A-Div-Girls-Quarter-Finals
-      image: /images/240423_Tennis_Girls_NSG_027.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
