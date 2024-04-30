@@ -28,8 +28,8 @@ sections:
       description: 28 Apr
       button: View Here
       url: https://nanyangjc.smugmug.com/2024-Chinese-Orchestra-Guzheng-Musical-Concert
-      image: /images/240424_A_Div_Tennis_Boys_005.jpg
-      alt: Tennis A Div
+      image: /images/240428_CO_and_Guzheng_concert_Qian_Rong__017.jpg
+      alt: Concert
   - infopic:
       title: 2024 National Secondary Schools Translation Competition
       subtitle: Stories
