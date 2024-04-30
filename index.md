@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Chinese Orchestra & Guzheng Musical Concert
+      subtitle: Stories
+      description: 28 Apr
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Chinese-Orchestra-Guzheng-Musical-Concert
+      image: /images/240428_CO_and_Guzheng_concert_Qian_Rong__017.jpg
+      alt: Concert
+  - infopic:
       title: 2024 National Secondary Schools Translation Competition
       subtitle: Stories
       id: infopic
@@ -48,14 +56,6 @@ sections:
       image: /images/240424_NDP_Practice_024.jpg
       description: 24 Apr
       alt: NDP
-  - infopic:
-      title: 2024 Tennis National A Div Boys Quarter Finals
-      subtitle: Stories
-      description: 24 Apr
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Tennis-National-A-Div-Boys-Quarter-Finals
-      image: /images/240424_A_Div_Tennis_Boys_005.jpg
-      alt: Tennis A Div
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
