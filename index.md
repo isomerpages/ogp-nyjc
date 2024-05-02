@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Tchoukball National A Div
+      subtitle: Stories
+      button: View here
+      url: https://nanyangjc.smugmug.com/2024-A-Div-Tchoukball-Championships
+      image: /images/240502_A_Div_Tchoukball_050.jpg
+      description: 2 May
+      alt: Tchoukball
+  - infopic:
       title: 2024 Chinese Orchestra & Guzheng Musical Concert
       subtitle: Stories
       description: 28 Apr
@@ -48,14 +56,6 @@ sections:
       alt: CLP Pitching
       url: https://nanyangjc.smugmug.com/2024-Community-Leadership-Programme-Pitching-Day
       image: /images/240427_2024_CLP_Pitching_Day_044.jpg
-  - infopic:
-      title: 2024 NDP Practice
-      subtitle: Stories
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-National-Day-Parade-Practice
-      image: /images/240424_NDP_Practice_024.jpg
-      description: 24 Apr
-      alt: NDP
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
