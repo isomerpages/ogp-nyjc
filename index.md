@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Football National A Div Boys Quarter Finals
+      subtitle: Stories
+      id: infopic
+      description: 3 May
+      button: view here
+      alt: Football
+      url: https://nanyangjc.smugmug.com/2024-Football-National-A-Div-Boys-Quarter-Finals-2024
+      image: /images/240503_A_Div_Soccer_015.jpg
+  - infopic:
       title: 2024 Tchoukball National A Div
       subtitle: Stories
       button: View here
@@ -47,15 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-National-Secondary-Schools-Translation-Competition
       image: /images/240427_Chinese_Translation_Competition_023.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Community Leadership Programme Pitching Day
-      subtitle: Stories
-      id: infopic
-      description: 27 Apr
-      button: view here
-      alt: CLP Pitching
-      url: https://nanyangjc.smugmug.com/2024-Community-Leadership-Programme-Pitching-Day
-      image: /images/240427_2024_CLP_Pitching_Day_044.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
