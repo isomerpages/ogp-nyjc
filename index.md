@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/sc
+          url: headlines/2024-dsa-jc-exercise-6-may-2024/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
