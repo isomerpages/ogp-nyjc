@@ -10,7 +10,7 @@ talents/skills to apply for Direct School Admission (DSA). Successful DSA-JC
 candidates will gain admission to NYJC in 2025 for their JC education,
 if they meet the eligibility criteria set by MOE for the two-year Junior
 College Course (based on their GCE ‘O’ Level examination results).</p>
-<p>The DSA-JC 2024 exercise starts from 6 May 2024 via NYJC website. Upon
+<p>The DSA-JC 2024 exercise starts from 7 May 2024 via NYJC website. Upon
 application, shortlisted applicants will be contacted for a trial/audition
 and/or interview that will take place between 10 May to 23 August 2024.</p>
 <p>To apply for DSA to NYJC, please click&nbsp;<a href="https://form.gov.sg/662106c610ad92e303c0bba9" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
