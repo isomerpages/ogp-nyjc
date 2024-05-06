@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/sc
+          url: headlines/2024-dsa-jc-exercise-6-may-2024/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
+  - infopic:
+      title: 2024 DSA-JC Exercise
+      subtitle: Headlines
+      id: infopic
+      description: 6 May
+      button: click here
+      url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
+      image: /images/DSA_banner.png
+      alt: Image alt text
   - infopic:
       title: 2024 Football National A Div Boys Quarter Finals
       subtitle: Stories
