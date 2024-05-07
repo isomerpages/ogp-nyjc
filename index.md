@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 In.harmoNY Choir Concert
+      subtitle: Stories
+      id: infopic
+      description: 5 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-InharmoNY-Choir-Concert
+      image: /images/240505_Choir_Concert_003.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
       id: infopic
@@ -56,15 +65,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Chinese-Orchestra-Guzheng-Musical-Concert
       image: /images/240428_CO_and_Guzheng_concert_Qian_Rong__017.jpg
       alt: Concert
-  - infopic:
-      title: 2024 National Secondary Schools Translation Competition
-      subtitle: Stories
-      id: infopic
-      description: 27 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-National-Secondary-Schools-Translation-Competition
-      image: /images/240427_Chinese_Translation_Competition_023.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
