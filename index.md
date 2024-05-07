@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 A Div Touch Rugby Girls Quarter Finals
+      subtitle: Stories
+      description: 7 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-A-Division-Touch-Rugby-Quarter-Finals
+      image: /images/240507_Touch_Rugby_040.jpg
+      alt: Concert
+  - infopic:
       title: 2024 In.harmoNY Choir Concert
       subtitle: Stories
       id: infopic
@@ -57,14 +65,6 @@ sections:
       image: /images/240502_A_Div_Tchoukball_050.jpg
       description: 2 May
       alt: Tchoukball
-  - infopic:
-      title: 2024 Chinese Orchestra & Guzheng Musical Concert
-      subtitle: Stories
-      description: 28 Apr
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Chinese-Orchestra-Guzheng-Musical-Concert
-      image: /images/240428_CO_and_Guzheng_concert_Qian_Rong__017.jpg
-      alt: Concert
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
