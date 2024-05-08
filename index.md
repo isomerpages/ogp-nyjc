@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Badminton National A Div Girls Finals
+      subtitle: Stories
+      button: View here
+      url: https://nanyangjc.smugmug.com/2024-Badminton-National-A-Div-Girls-Finals
+      image: /images/240508_Badminton_011.jpg
+      description: 8 May
+      alt: Tchoukball
+  - infopic:
       title: 2024 A Div Touch Rugby Girls Quarter Finals
       subtitle: Stories
       description: 7 May
@@ -57,14 +65,6 @@ sections:
       alt: Football
       url: https://nanyangjc.smugmug.com/2024-Football-National-A-Div-Boys-Quarter-Finals-2024
       image: /images/240503_A_Div_Soccer_015.jpg
-  - infopic:
-      title: 2024 Tchoukball National A Div
-      subtitle: Stories
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-A-Div-Tchoukball-Championships
-      image: /images/240502_A_Div_Tchoukball_050.jpg
-      description: 2 May
-      alt: Tchoukball
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
