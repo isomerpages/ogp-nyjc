@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Football National A Div Boys Quarter Finals
+      subtitle: Stories
+      id: infopic
+      description: 8 May
+      button: view here
+      alt: Sci Day
+      url: https://nanyangjc.smugmug.com/2024-NY-Science-Day
+      image: /images/240508_Science_Day_022.jpg
+  - infopic:
       title: 2024 Badminton National A Div Girls Finals
       subtitle: Stories
       button: View here
@@ -56,15 +65,6 @@ sections:
       url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
       image: /images/DSA_banner.png
       alt: Image alt text
-  - infopic:
-      title: 2024 Football National A Div Boys Quarter Finals
-      subtitle: Stories
-      id: infopic
-      description: 3 May
-      button: view here
-      alt: Football
-      url: https://nanyangjc.smugmug.com/2024-Football-National-A-Div-Boys-Quarter-Finals-2024
-      image: /images/240503_A_Div_Soccer_015.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
