@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
-      title: 2024 Football National A Div Boys Quarter Finals
+      title: 2024 NY Science Day
       subtitle: Stories
       id: infopic
       description: 8 May
