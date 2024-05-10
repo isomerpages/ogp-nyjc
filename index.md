@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Table Tennis National A Div Girls Quarter Finals
+      subtitle: Stories
+      id: infopic
+      description: 9 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-Table-Tennis-National-A-Div-Girls-Quarter-Finals
+      image: /images/240509_Table_Tennis_014.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 NY Science Day
       subtitle: Stories
       id: infopic
@@ -47,15 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-A-Division-Touch-Rugby-Quarter-Finals
       image: /images/240507_Touch_Rugby_040.jpg
       alt: Concert
-  - infopic:
-      title: 2024 In.harmoNY Choir Concert
-      subtitle: Stories
-      id: infopic
-      description: 5 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-InharmoNY-Choir-Concert
-      image: /images/240505_Choir_Concert_003.jpg
-      alt: Image alt text
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
