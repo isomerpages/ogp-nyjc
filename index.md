@@ -23,6 +23,23 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Drama Night
+      subtitle: STORIES
+      id: infopic
+      description: 10 May
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-Drama-Night
+      image: /images/240510_Drama_Night_Lana_Chen_042.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2024 Interact Club Installation
+      subtitle: Stories
+      description: 9 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Interact-Club-Installation
+      image: /images/240509_Interact_Club_Installation_Joshua_Chew_042.jpg
+      alt: Concert
+  - infopic:
       title: 2024 Table Tennis National A Div Girls Quarter Finals
       subtitle: Stories
       id: infopic
@@ -48,14 +65,6 @@ sections:
       image: /images/240508_Badminton_011.jpg
       description: 8 May
       alt: Tchoukball
-  - infopic:
-      title: 2024 A Div Touch Rugby Girls Quarter Finals
-      subtitle: Stories
-      description: 7 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-A-Division-Touch-Rugby-Quarter-Finals
-      image: /images/240507_Touch_Rugby_040.jpg
-      alt: Concert
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
