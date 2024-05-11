@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Drama Night
+      subtitle: STORIES
+      id: infopic
+      description: 10 May
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-Drama-Night
+      image: /images/240510_Drama_Night_Lana_Chen_042.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Interact Club Installation
       subtitle: Stories
       description: 9 May
