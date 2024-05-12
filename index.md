@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 College Day
+      subtitle: stories
+      id: infopic
+      description: 11 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-College-Day
+      image: /images/240511_College_Day_027.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Drama Night
       subtitle: STORIES
       id: infopic
