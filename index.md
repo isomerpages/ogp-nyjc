@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Volleyball National A Div Girls 3rd/4th
+      subtitle: Stories
+      button: View here
+      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Volleyball-Championship-Girls
+      image: /images/240514_Volleyball_Girls_Finals_Elvia_045.jpg
+      description: 14 May
+      alt: volleyball
+  - infopic:
       title: 2024 College Day
       subtitle: stories
       id: infopic
@@ -66,14 +74,6 @@ sections:
       alt: Sci Day
       url: https://nanyangjc.smugmug.com/2024-NY-Science-Day
       image: /images/240508_Science_Day_022.jpg
-  - infopic:
-      title: 2024 Badminton National A Div Girls Finals
-      subtitle: Stories
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-Badminton-National-A-Div-Girls-Finals
-      image: /images/240508_Badminton_011.jpg
-      description: 8 May
-      alt: Tchoukball
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
