@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 我们的白云岗
+      subtitle: STORIES
+      id: infopic
+      description: 17 May
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-%E6%88%91%E4%BB%AC%E7%9A%84%E7%99%BD%E4%BA%91%E5%B2%97
+      image: /images/2400517_Bai_Yun_Gang_068.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 47th Student Council Investiture
       subtitle: Stories
       description: 16 May
@@ -64,15 +73,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-College-Day
       image: /images/240511_College_Day_027.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Drama Night
-      subtitle: STORIES
-      id: infopic
-      description: 10 May
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-Drama-Night
-      image: /images/240510_Drama_Night_Lana_Chen_042.jpg
       alt: Image alt text
   - infopic:
       title: 2024 DSA-JC Exercise
