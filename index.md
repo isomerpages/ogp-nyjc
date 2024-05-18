@@ -23,6 +23,23 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 47th Student Council Investiture
+      subtitle: Stories
+      description: 16 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Student-Council-Investiture
+      image: /images/240516_SC_Investiture_Malvia_089.jpg
+      alt: Concert
+  - infopic:
+      title: 2024 National A Div Basketball Boys and Girls Semifinals
+      subtitle: Stories
+      id: infopic
+      description: 15 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Boys-and-Girls-Semifinals
+      image: /images/240515_Basketball_Semi_Finals_Boys_Girls_Vanessa_045.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Volleyball National A Div Boys Finals
       subtitle: Stories
       id: infopic
@@ -56,23 +73,6 @@ sections:
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2024-Drama-Night
       image: /images/240510_Drama_Night_Lana_Chen_042.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Interact Club Installation
-      subtitle: Stories
-      description: 9 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Interact-Club-Installation
-      image: /images/240509_Interact_Club_Installation_Joshua_Chew_042.jpg
-      alt: Concert
-  - infopic:
-      title: 2024 Table Tennis National A Div Girls Quarter Finals
-      subtitle: Stories
-      id: infopic
-      description: 9 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-Table-Tennis-National-A-Div-Girls-Quarter-Finals
-      image: /images/240509_Table_Tennis_014.jpg
       alt: Image alt text
   - infopic:
       title: 2024 DSA-JC Exercise
