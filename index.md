@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Class Leaders' Camp Day 1
+      subtitle: stories
+      id: infopic
+      description: 17 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-Clexco-Camp-Day-1
+      image: /images/240517_Clexco_Camp_Day_1__Vanessa_005.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 我们的白云岗
       subtitle: STORIES
       id: infopic
@@ -65,15 +74,6 @@ sections:
       image: /images/240514_Volleyball_Girls_Finals_Elvia_045.jpg
       description: 14 May
       alt: volleyball
-  - infopic:
-      title: 2024 College Day
-      subtitle: stories
-      id: infopic
-      description: 11 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-College-Day
-      image: /images/240511_College_Day_027.jpg
-      alt: Image alt text
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
