@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 National A Div Basketball Girls Finals
+      subtitle: Stories
+      button: View here
+      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Girls-Finals
+      image: /images/240520_National_A_Div_Basketball_Girls_Final_Kenneth_Koh_004.jpg
+      description: 20 May
+      alt: volleyball
+  - infopic:
       title: 2024 Class Leaders' Camp Day 1
       subtitle: stories
       id: infopic
@@ -66,14 +74,6 @@ sections:
       alt: volleyball
       url: https://nanyangjc.smugmug.com/2024-Volleyball-National-A-Div-Boys-Finals
       image: /images/250515_Volleyball_Finals_Boys_022.jpg
-  - infopic:
-      title: 2024 Volleyball National A Div Girls 3rd/4th
-      subtitle: Stories
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Volleyball-Championship-Girls
-      image: /images/240514_Volleyball_Girls_Finals_Elvia_045.jpg
-      description: 14 May
-      alt: volleyball
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
