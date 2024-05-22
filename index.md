@@ -40,6 +40,15 @@ sections:
       description: 20 May
       alt: volleyball
   - infopic:
+      title: 2024 Class Leaders' Camp Day 2
+      subtitle: Stories
+      id: infopic
+      description: 18 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-Class-Leaders-Camp-Day-2
+      image: /images/240518_Class_Leaders_Camp_Day_2_Xin_Hui_064.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Class Leaders' Camp Day 1
       subtitle: stories
       id: infopic
@@ -65,15 +74,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Student-Council-Investiture
       image: /images/240516_SC_Investiture_Malvia_089.jpg
       alt: Concert
-  - infopic:
-      title: 2024 National A Div Basketball Boys and Girls Semifinals
-      subtitle: Stories
-      id: infopic
-      description: 15 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Boys-and-Girls-Semifinals
-      image: /images/240515_Basketball_Semi_Finals_Boys_Girls_Vanessa_045.jpg
-      alt: Image alt text
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
