@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 National A Div Basketball Boys Finals
+      subtitle: Stories
+      id: infopic
+      description: 20 May
+      button: view here
+      alt: volleyball
+      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Boys-Finals
+      image: /images/DS401669.jpg
+  - infopic:
       title: 2024 National A Div Basketball Girls Finals
       subtitle: Stories
       button: View here
@@ -65,15 +74,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Boys-and-Girls-Semifinals
       image: /images/240515_Basketball_Semi_Finals_Boys_Girls_Vanessa_045.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Volleyball National A Div Boys Finals
-      subtitle: Stories
-      id: infopic
-      description: 14 May
-      button: view here
-      alt: volleyball
-      url: https://nanyangjc.smugmug.com/2024-Volleyball-National-A-Div-Boys-Finals
-      image: /images/250515_Volleyball_Finals_Boys_022.jpg
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
