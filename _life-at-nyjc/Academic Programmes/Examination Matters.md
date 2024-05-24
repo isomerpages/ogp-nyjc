@@ -13,14 +13,19 @@ variant: tiptap
 <p>JC1 Exam Timetable
 <br>To be updated</p>
 <p>JC2 Exam Timetable</p>
-<p><a href="/files/2024_J2_CT_TT_Final_Stud.pdf" rel="noopener noreferrer nofollow" target="_blank">JC2 Common Test</a>
+<p><a href="/files/01_2024_J2_CT_TT_Final_Stud_23_May_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">JC2 Common Test</a>
 </p>
 <p>JC1 Promotional Criteria</p>
 <p>Please refer <a href="/ny-parents/jc1-information/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>Grades/mark ranges for H1, H2 and H3 Subjects The grades/mark ranges for
 the H1, H2 and H3 subjects would be as follows:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -120,7 +125,12 @@ the H1, H2 and H3 subjects would be as follows:</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
