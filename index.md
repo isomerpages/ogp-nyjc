@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 The NYght
+      subtitle: Stories
+      description: 24 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-The-NYght
+      image: /images/240524_The_NYght_038.jpg
+      alt: Concert
+  - infopic:
       title: 2024 National A Div Basketball Boys Finals
       subtitle: Stories
       id: infopic
@@ -66,14 +74,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-%E6%88%91%E4%BB%AC%E7%9A%84%E7%99%BD%E4%BA%91%E5%B2%97
       image: /images/2400517_Bai_Yun_Gang_068.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 47th Student Council Investiture
-      subtitle: Stories
-      description: 16 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Student-Council-Investiture
-      image: /images/240516_SC_Investiture_Malvia_089.jpg
-      alt: Concert
   - infopic:
       title: 2024 DSA-JC Exercise
       subtitle: Headlines
