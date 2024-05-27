@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Aureus Experentia XX
+      subtitle: STORIES
+      id: infopic
+      description: 25 May
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-Aureus-Experentia
+      image: /images/240524_Band_Concert_Xin_Hui_032.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 The NYght
       subtitle: Stories
       description: 24 May
@@ -64,15 +73,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-Clexco-Camp-Day-1
       image: /images/240517_Clexco_Camp_Day_1__Vanessa_005.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 我们的白云岗
-      subtitle: STORIES
-      id: infopic
-      description: 17 May
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-%E6%88%91%E4%BB%AC%E7%9A%84%E7%99%BD%E4%BA%91%E5%B2%97
-      image: /images/2400517_Bai_Yun_Gang_068.jpg
       alt: Image alt text
   - infopic:
       title: 2024 DSA-JC Exercise
