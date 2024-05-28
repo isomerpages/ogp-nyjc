@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Wild Run 10.0
+      subtitle: stories
+      id: infopic
+      description: 27 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-Wild-Run-100
+      image: /images/240527_Wild_Run_066.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Aureus Experentia XX
       subtitle: STORIES
       id: infopic
@@ -56,33 +65,6 @@ sections:
       image: /images/240520_National_A_Div_Basketball_Girls_Final_Kenneth_Koh_004.jpg
       description: 20 May
       alt: volleyball
-  - infopic:
-      title: 2024 Class Leaders' Camp Day 2
-      subtitle: Stories
-      id: infopic
-      description: 18 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-Class-Leaders-Camp-Day-2
-      image: /images/240518_Class_Leaders_Camp_Day_2_Xin_Hui_064.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Class Leaders' Camp Day 1
-      subtitle: stories
-      id: infopic
-      description: 17 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-Clexco-Camp-Day-1
-      image: /images/240517_Clexco_Camp_Day_1__Vanessa_005.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 DSA-JC Exercise
-      subtitle: Headlines
-      id: infopic
-      description: 6 May
-      button: click here
-      url: https://www.nanyangjc.moe.edu.sg/admissions-and-admin/Administration/dsa/
-      image: /images/DSA_banner.png
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
