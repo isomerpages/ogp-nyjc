@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Competitive Programming Introductory Course
+      subtitle: Stories
+      id: infopic
+      description: 28 Jun
+      button: view here
+      alt: volleyball
+      url: https://nanyangjc.smugmug.com/Competitive-Programming-Introductory-Course
+      image: /images/L1001093.jpg
+  - infopic:
       title: 2024 Wild Run 10.0
       subtitle: stories
       id: infopic
@@ -48,23 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-The-NYght
       image: /images/240524_The_NYght_038.jpg
       alt: Concert
-  - infopic:
-      title: 2024 National A Div Basketball Boys Finals
-      subtitle: Stories
-      id: infopic
-      description: 20 May
-      button: view here
-      alt: volleyball
-      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Boys-Finals
-      image: /images/DS401669.jpg
-  - infopic:
-      title: 2024 National A Div Basketball Girls Finals
-      subtitle: Stories
-      button: View here
-      url: https://nanyangjc.smugmug.com/2024-National-A-Div-Basketball-Girls-Finals
-      image: /images/240520_National_A_Div_Basketball_Girls_Final_Kenneth_Koh_004.jpg
-      description: 20 May
-      alt: volleyball
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
