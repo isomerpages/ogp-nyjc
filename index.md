@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 CarNYval
+      subtitle: Stories
+      description: 5 Jul
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-CarNYval
+      image: /images/240705_CarNYval_Chloe_020.jpg
+      alt: CarNYval
+  - infopic:
       title: 2024 Competitive Programming Introductory Course
       subtitle: Stories
       id: infopic
@@ -49,14 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Aureus-Experentia
       image: /images/240524_Band_Concert_Xin_Hui_032.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 The NYght
-      subtitle: Stories
-      description: 24 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-The-NYght
-      image: /images/240524_The_NYght_038.jpg
-      alt: Concert
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
