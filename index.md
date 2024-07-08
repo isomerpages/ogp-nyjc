@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Hosting NIEI-China Principals Delegation
+      subtitle: STORIES
+      id: infopic
+      description: 8 Jul
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-Visitors
+      image: /images/240708_Visitors_ELVIA_007.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 CarNYval
       subtitle: Stories
       description: 5 Jul
@@ -47,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-Wild-Run-100
       image: /images/240527_Wild_Run_066.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Aureus Experentia XX
-      subtitle: STORIES
-      id: infopic
-      description: 25 May
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-Aureus-Experentia
-      image: /images/240524_Band_Concert_Xin_Hui_032.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
