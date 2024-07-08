@@ -28,7 +28,7 @@ sections:
       description: 5 Jul
       button: View Here
       url: https://nanyangjc.smugmug.com/2024-CarNYval
-      image: /images/240705_CarNYval_Chloe_020.jpg
+      image: /images/240705_CarNYval_Long_Yi_024.jpg
       alt: CarNYval
   - infopic:
       title: 2024 Competitive Programming Introductory Course
