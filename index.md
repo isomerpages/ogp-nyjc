@@ -29,7 +29,7 @@ sections:
       description: 9 Jul
       button: view here
       url: https://nanyangjc.smugmug.com/2024-SG-Perspectives-Dialogue-Session-for-J2-Students
-      image: /images/240527_Wild_Run_066.jpg
+      image: /images/2407009_SG_Perspective_for_J2_Qian_Rong_019.jpg
       alt: Image alt text
   - infopic:
       title: 2024 Hosting NIEI-China Principals Delegation
