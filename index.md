@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 SG Perspectives Dialogue Session for J2 Students
+      subtitle: stories
+      id: infopic
+      description: 9 Jul
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-SG-Perspectives-Dialogue-Session-for-J2-Students
+      image: /images/2407009_SG_Perspective_for_J2_Qian_Rong_019.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Hosting NIEI-China Principals Delegation
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       alt: volleyball
       url: https://nanyangjc.smugmug.com/Competitive-Programming-Introductory-Course
       image: /images/L1001093.jpg
-  - infopic:
-      title: 2024 Wild Run 10.0
-      subtitle: stories
-      id: infopic
-      description: 27 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-Wild-Run-100
-      image: /images/240527_Wild_Run_066.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
