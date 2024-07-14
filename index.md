@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Community Leadership Programme (CLP) Final Presentation
+      subtitle: Stories
+      id: infopic
+      description: 13 Jul
+      button: view here
+      alt: volleyball
+      url: https://nanyangjc.smugmug.com/2024-Community-Leadership-Programme-CLP-Final-Presentation-
+      image: /images/240713_CLP_Final_Presentation_Xin_Yao_022.jpg
+  - infopic:
       title: 2024 SG Perspectives Dialogue Session for J2 Students
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-CarNYval
       image: /images/240705_CarNYval_Long_Yi_024.jpg
       alt: CarNYval
-  - infopic:
-      title: 2024 Competitive Programming Introductory Course
-      subtitle: Stories
-      id: infopic
-      description: 28 Jun
-      button: view here
-      alt: volleyball
-      url: https://nanyangjc.smugmug.com/Competitive-Programming-Introductory-Course
-      image: /images/L1001093.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
