@@ -28,8 +28,8 @@ sections:
       description: 18 Jul
       button: View Here
       url: https://nanyangjc.smugmug.com/2024-Leadership-Training-Camp-Day-1
-      image: /images/240705_CarNYval_Long_Yi_024.jpg
-      alt: CarNYval
+      image: /images/240718_LTC_Day_1_064.jpg
+      alt: LTC Day 1
   - infopic:
       title: 2024 Community Leadership Programme (CLP) Final Presentation
       subtitle: Stories
