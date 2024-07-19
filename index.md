@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Leadership Training Camp Day 1
+      subtitle: Stories
+      description: 18 Jul
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Leadership-Training-Camp-Day-1
+      image: /images/240718_LTC_Day_1_064.jpg
+      alt: LTC Day 1
+  - infopic:
       title: 2024 Community Leadership Programme (CLP) Final Presentation
       subtitle: Stories
       id: infopic
@@ -49,14 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Visitors
       image: /images/240708_Visitors_ELVIA_007.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 CarNYval
-      subtitle: Stories
-      description: 5 Jul
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-CarNYval
-      image: /images/240705_CarNYval_Long_Yi_024.jpg
-      alt: CarNYval
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
