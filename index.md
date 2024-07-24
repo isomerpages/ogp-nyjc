@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Racial Harmony Day Celebration
+      subtitle: stories
+      id: infopic
+      description: 24 Jul
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-Racial-Harmony-Day-Celebration
+      image: /images/240724_Rachial_Harmony_Day_008.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Leadership Training Camp Day 2 & 3
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       alt: volleyball
       url: https://nanyangjc.smugmug.com/2024-Community-Leadership-Programme-CLP-Final-Presentation-
       image: /images/240713_CLP_Final_Presentation_Xin_Yao_022.jpg
-  - infopic:
-      title: 2024 SG Perspectives Dialogue Session for J2 Students
-      subtitle: stories
-      id: infopic
-      description: 9 Jul
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-SG-Perspectives-Dialogue-Session-for-J2-Students
-      image: /images/2407009_SG_Perspective_for_J2_Qian_Rong_019.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
