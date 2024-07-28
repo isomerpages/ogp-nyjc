@@ -23,6 +23,14 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 CCA Award Ceremony
+      subtitle: Stories
+      description: 26 Jul
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-CCA-Awards-Ceremony
+      image: /images/240726_CCA_Awards_059a.jpg
+      alt: LTC Day 1
+  - infopic:
       title: 2024 SG Perspectives Dialogue Session for J1 Students
       subtitle: Stories
       id: infopic
@@ -49,14 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Leadership-Training-Camp-Day-2
       image: /images/240719_LTC_Day_2_055.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Leadership Training Camp Day 1
-      subtitle: Stories
-      description: 18 Jul
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Leadership-Training-Camp-Day-1
-      image: /images/240718_LTC_Day_1_064.jpg
-      alt: LTC Day 1
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
