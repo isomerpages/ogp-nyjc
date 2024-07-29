@@ -28,7 +28,7 @@ sections:
       description: 26 Jul
       button: View Here
       url: https://nanyangjc.smugmug.com/2024-CCA-Awards-Ceremony
-      image: /images/240726_CCA_Awards_059a.jpg
+      image: /images/240726_CCA_Award_Ceremony_Sirui_153_web.jpg
       alt: LTC Day 1
   - infopic:
       title: 2024 SG Perspectives Dialogue Session for J1 Students
