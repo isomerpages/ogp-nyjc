@@ -12,8 +12,8 @@ variant: tiptap
 </p>
 <p>JC1 Exam Timetable
 <br>To be updated</p>
-<p>JC2 Exam Timetable</p>
-<p><a href="/files/01_2024_J2_CT_TT_Final_Stud_23_May_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">JC2 Common Test</a>
+<p>JC2 Exam Timetable
+<br><a href="/files/2024_J2_Prelims_TT_FINAL_STUD.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 JC2 Prelims</a>
 </p>
 <p>JC1 Promotional Criteria</p>
 <p>Please refer <a href="/ny-parents/jc1-information/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
