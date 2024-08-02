@@ -2,7 +2,6 @@ collections:
   headlines:
     output: true
     order:
-      - 2024 DSA JC Exercise (6 May, 2024).md
       - 2024 Student Council Election (Feb 28, 2024).md
       - 2023 A Level Results Release on 23 Feb (Feb 18, 2024).md
       - University and Scholarship Application Resources (Feb 18, 2024).md
