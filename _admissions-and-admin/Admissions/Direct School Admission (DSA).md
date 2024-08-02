@@ -13,7 +13,7 @@ College Course (based on their GCE ‘O’ Level examination results).</p>
 <p>The DSA-JC 2024 exercise starts from 7 May 2024 via NYJC website. Upon
 application, shortlisted applicants will be contacted for a trial/audition
 and/or interview that will take place between 10 May to 23 August 2024.</p>
-<p>To apply for DSA to NYJC, please click&nbsp;<a href="https://form.gov.sg/662106c610ad92e303c0bba9" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>Direct School Admission-JC Exercise 2024 is now closed</p>
 <p>For more information about DSA, please visit our microsite&nbsp;<a href="https://www.nanyangjc.org/dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>
 <br><strong>Area of&nbsp;Talent/ Skills:</strong> 
