@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 National Day Celebration
+      subtitle: STORIES
+      id: infopic
+      description: 8 Aug
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-National-Day-Celebration
+      image: /images/240808_NDC_LONG_YI_020.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 CCA Award Ceremony
       subtitle: Stories
       description: 26 Jul
@@ -47,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-Racial-Harmony-Day-Celebration
       image: /images/240724_Rachial_Harmony_Day_008.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Leadership Training Camp Day 2 & 3
-      subtitle: STORIES
-      id: infopic
-      description: 20 Jul
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-Leadership-Training-Camp-Day-2
-      image: /images/240719_LTC_Day_2_055.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
