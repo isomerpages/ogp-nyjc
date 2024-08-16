@@ -11,7 +11,8 @@ variant: tiptap
 <p><a href="/files/2019_GCE_A_Level_Subject_Fees_20190313103231.pdf" rel="noopener noreferrer nofollow" target="_blank">2019_GCE_A_Level_Subject_Fees</a>
 </p>
 <p>JC1 Exam Timetable
-<br>To be updated</p>
+<br><a href="/files/2024_J1_EOY_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 JC1 EOY</a>
+</p>
 <p>JC2 Exam Timetable
 <br><a href="/files/2024_J2_Prelims_TT_FINAL_STUD.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 JC2 Prelims</a>
 </p>
