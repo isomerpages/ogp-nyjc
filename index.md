@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 CLEP 25th Anniversary
+      subtitle: Stories
+      id: infopic
+      description: 24 Aug
+      button: view here
+      alt: image
+      url: https://nanyangjc.smugmug.com/2024-CLEP-25th-Anniversary-
+      image: /images/240824_CLEP_25_028.jpg
+  - infopic:
       title: 2024 CCA and Class Leaders' Investiture
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-CCA-Awards-Ceremony
       image: /images/240726_CCA_Award_Ceremony_Sirui_153_web.jpg
       alt: LTC Day 1
-  - infopic:
-      title: 2024 SG Perspectives Dialogue Session for J1 Students
-      subtitle: Stories
-      id: infopic
-      description: 25 Jul
-      button: view here
-      alt: image
-      url: https://nanyangjc.smugmug.com/2024-SG-Perspectives-Dialogue-Session-for-J1-Students
-      image: /images/240725_JC1_SG_Perspective_Dialogue_Vanessa_014.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
