@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Teachers' Day Celebration
+      subtitle: STORIES
+      id: infopic
+      description: 29 Aug
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-Teachers-Day-Celebration
+      image: /images/240829_Teachers__Day_Celebration_QianHua_033.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Teachers' Day Dinner
       subtitle: Stories
       description: 28 Aug
@@ -47,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-CCA-and-Class-Leaders-Investiture
       image: /images/240815_CCA_and_Class_Leaders_Investiture_YI_LING_043.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 National Day Celebration
-      subtitle: STORIES
-      id: infopic
-      description: 8 Aug
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-National-Day-Celebration
-      image: /images/240808_NDC_LONG_YI_020.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
