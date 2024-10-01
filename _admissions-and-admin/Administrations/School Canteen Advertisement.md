@@ -7,10 +7,9 @@ variant: tiptap
 ---
 <p><strong>Type of Stall:</strong> Muslim Food
 <br><strong>Commencement Data:</strong> 13th Jan 2025
-<br><strong>Closing Date:</strong> 25th Oct 2024
-<br>
-<br><strong>Application Procedure</strong>
-</p>
+<br><strong>Closing Date:</strong> 25th Oct 2024</p>
+<h4><strong>Application Procedure</strong></h4>
+<p></p>
 <ol>
 <li>
 <p>Download and complete the application <a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
@@ -53,10 +52,10 @@ email OR to the School’s General Office.</p>
 <p>Contact Person: Mr Tay Weng Keong</p>
 </li>
 </ul>
-<h5>How to get there?</h5>
+<h4>How to get there?</h4>
 <p>Nearest MRT: Lorong Chuan MRT (CC14 Circle Line) - 5 min walk</p>
 <p>Bus numbers: 58, 105</p>
-<h5>Interested applicants must meet the following criteria:</h5>
+<h4>Interested applicants must meet the following criteria:</h4>
 <ul>
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -78,7 +77,7 @@ in Schools Programme (HMSP)” guidelines (see &nbsp;<a href="https://www.hpb.go
 <p>Healthy and &nbsp;fit to operate the stall.</p>
 </li>
 </ul>
-<h5>Applicants should preferably fulfill the following criteria:</h5>
+<h4>Applicants should preferably fulfill the following criteria:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
