@@ -7,8 +7,10 @@ variant: tiptap
 ---
 <p><strong>Type of Stall:</strong> Muslim Food
 <br><strong>Commencement Data:</strong> 13th Jan 2025
-<br><strong>Closing Date:</strong> 25th Oct 2024</p>
-<h5>Application Procedure</h5>
+<br><strong>Closing Date:</strong> 25th Oct 2024
+<br>
+<br><strong>Application Procedure</strong>
+</p>
 <ol>
 <li>
 <p>Download and complete the application <a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
