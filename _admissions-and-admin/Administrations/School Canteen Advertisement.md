@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administrations
 variant: tiptap
 ---
-<p><strong>Type of Stall:</strong> 
+<p><strong>Type of Stall:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
