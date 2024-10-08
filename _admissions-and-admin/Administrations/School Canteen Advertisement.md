@@ -5,9 +5,21 @@ description: ""
 third_nav_title: Administrations
 variant: tiptap
 ---
-<p><strong>Type of Stall:</strong> Muslim Food
-<br><strong>Commencement Data:</strong> 13th Jan 2025
-<br><strong>Closing Date:</strong> 25th Oct 2024</p>
+<p><strong>Type of Stall:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Muslim Food</p>
+</li>
+<li>
+<p>Fish Soup</p>
+</li>
+<li>
+<p>Japanese Food</p>
+</li>
+</ol>
+<p><strong>Commencement Data:</strong> Mon, 13th Jan 2025
+<br><strong>Closing Date:</strong> Fri, 1st Nov 2024</p>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
 <ol>
