@@ -18,7 +18,7 @@ variant: tiptap
 <p>Japanese Food</p>
 </li>
 </ol>
-<p><strong>Commencement Data:</strong> Mon, 13th Jan 2025
+<p><strong>Commencement Date:</strong> Mon, 13th Jan 2025
 <br><strong>Closing Date:</strong> Fri, 1st Nov 2024</p>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
