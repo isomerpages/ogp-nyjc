@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: 10 Oct
       button: view here
-      url: https://nanyangjc.smugmug.com/2024-JC2-Graduation-Ceremony/i-zThhPBp/A
+      url: https://nanyangjc.smugmug.com/2024-JC2-Graduation-Ceremony
       image: /images/241010_JC2_Graduation_Ceremony_010.jpg
       alt: Image alt text
   - infopic:
