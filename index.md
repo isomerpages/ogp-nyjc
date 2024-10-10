@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 JC2 Graduation Ceremony
+      subtitle: stories
+      id: infopic
+      description: 10 Oct
+      button: view here
+      url: https://www.smugmug.com/app/organize/2024-JC2-Graduation-Ceremony
+      image: /images/241010_JC2_Graduation_Ceremony_010.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Teachers' Day Celebration
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       alt: image
       url: https://nanyangjc.smugmug.com/2024-CLEP-25th-Anniversary-
       image: /images/240824_CLEP_25_028.jpg
-  - infopic:
-      title: 2024 CCA and Class Leaders' Investiture
-      subtitle: stories
-      id: infopic
-      description: 15 Aug
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-CCA-and-Class-Leaders-Investiture
-      image: /images/240815_CCA_and_Class_Leaders_Investiture_YI_LING_043.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
