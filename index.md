@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 Walk for Rice
+      subtitle: Stories
+      id: infopic
+      description: 11 Oct
+      button: view here
+      alt: image
+      url: https://nanyangjc.smugmug.com/2024-Walk-for-Rice
+      image: /images/241011_Walk_for_rice_Lana_010.jpg
+  - infopic:
       title: 2024 JC2 Graduation Ceremony
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Teachers-Day-Dinner
       image: /images/240828_Teachers_Day_Dinner_055.jpg
       alt: LTC Day 1
-  - infopic:
-      title: 2024 CLEP 25th Anniversary
-      subtitle: Stories
-      id: infopic
-      description: 24 Aug
-      button: view here
-      alt: image
-      url: https://nanyangjc.smugmug.com/2024-CLEP-25th-Anniversary-
-      image: /images/240824_CLEP_25_028.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
