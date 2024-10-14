@@ -49,7 +49,7 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.ccf.org.sg/how/ssg.htm" rel="noopener noreferrer nofollow" target="_blank">Children’s Cancer Foundation</a>
+<p><a href="https://www.ccf.org.sg/get-involved/volunteer/" rel="noopener noreferrer nofollow" target="_blank">Children’s Cancer Foundation</a>
 </p>
 </li>
 <li>
