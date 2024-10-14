@@ -21,7 +21,7 @@ Gardens</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="http://www.nparks.gov.sg/cms/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a>
+<p><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a>
 </p>
 </li>
 <li>
