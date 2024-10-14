@@ -45,7 +45,7 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.cslmch.org.sg/volunteer.html" rel="noopener noreferrer nofollow" target="_blank">Chen Su Lan Methodist Children’s Home</a>
+<p><a href="https://www.cslmch.org.sg/volunteers" rel="noopener noreferrer nofollow" target="_blank">Chen Su Lan Methodist Children’s Home</a>
 </p>
 </li>
 <li>
