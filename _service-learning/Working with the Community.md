@@ -41,11 +41,11 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.redcross.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Red Cross</a>
+<p><a href="https://redcross.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Red Cross</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.samhealth.org.sg/volunteers/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of Mental Health</a>
+<p><a href="https://www.samhealth.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of Mental Health</a>
 </p>
 </li>
 <li>
