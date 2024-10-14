@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.spd.org.sg/volunteer-with-us.html" rel="noopener noreferrer nofollow" target="_blank">Society for Physically Dsiabled</a>
+<p><a href="https://www.spd.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Society for Physically Dsiabled</a>
 </p>
 </li>
 <li>
