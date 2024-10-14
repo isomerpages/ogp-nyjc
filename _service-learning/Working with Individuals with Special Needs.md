@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.cpas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cerebral Palsy Alliance Singapore</a>
+<p><a href="https://cpas.org.sg/get-involved/volunteer/" rel="noopener noreferrer nofollow" target="_blank">Cerebral Palsy Alliance Singapore</a>
 </p>
 </li>
 <li>
