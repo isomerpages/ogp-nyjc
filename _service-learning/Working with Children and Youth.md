@@ -53,7 +53,7 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://makeawish.org.sg/support-us/ways-to-support-us/" rel="noopener noreferrer nofollow" target="_blank">Make-a-Wish Singapore</a>
+<p><a href="https://makeawish.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Make-a-Wish Singapore</a>
 </p>
 </li>
 <li>
