@@ -41,7 +41,7 @@ Gardens</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.earthhour.org/singapore" rel="noopener noreferrer nofollow" target="_blank">Earth Hour</a>
+<p><a href="https://www.earthhour.org/" rel="noopener noreferrer nofollow" target="_blank">Earth Hour</a>
 </p>
 </li>
 </ol>
