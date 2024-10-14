@@ -14,10 +14,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.pac.gov.sg/pac/portal/jsp/login/index1.jsp" rel="noopener" target="_blank">Pac@Gov</a>
-</p>
-</li>
-<li>
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener" target="_blank">School Cockpit&nbsp;</a>
 </p>
 </li>
