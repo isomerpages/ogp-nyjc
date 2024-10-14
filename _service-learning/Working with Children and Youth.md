@@ -25,7 +25,7 @@ Christmas)</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="http://www.nyc.pa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Youth Council</a>
+<p><a href="https://www.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Youth Council</a>
 </p>
 </li>
 <li>
@@ -37,7 +37,7 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.milk.org.sg/milk/index.php" rel="noopener noreferrer nofollow" target="_blank">Mainly I love Kids (MILK)</a>
+<p><a href="https://www.milk.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Mainly I love Kids (MILK)</a>
 </p>
 </li>
 <li>
