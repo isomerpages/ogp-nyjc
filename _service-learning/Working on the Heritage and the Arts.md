@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="http://www.nhb.gov.sg/NHBPortal/" rel="noopener noreferrer nofollow" target="_blank">National Heritage Board</a>
+<p><a href="https://www.nhb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Heritage Board</a>
 </p>
 </li>
 <li>
