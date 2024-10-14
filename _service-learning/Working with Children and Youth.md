@@ -29,10 +29,6 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://app1.mcys.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Community Development, Youth and Sports</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.apsn.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Association for Persons with Special Needs</a>
 </p>
 </li>
