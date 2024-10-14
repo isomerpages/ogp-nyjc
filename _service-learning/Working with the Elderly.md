@@ -32,7 +32,7 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.fycs.org/index.cfm?GPID=35" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a>
+<p><a href="https://fycs.org/volunteer/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a>
 </p>
 </li>
 <li>
