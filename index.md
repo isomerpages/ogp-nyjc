@@ -26,7 +26,7 @@ sections:
       title: 2024 3R (Review, Rethink, Reinvent) Staff Retreat
       subtitle: STORIES
       id: infopic
-      description: 29 Aug
+      description: 25 Oct
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2024-3R
       image: /images/241025_3R_132.jpg
