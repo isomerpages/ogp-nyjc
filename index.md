@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 3R (Review, Rethink, Reinvent) Staff Retreat
+      subtitle: STORIES
+      id: infopic
+      description: 29 Aug
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-3R
+      image: /images/241025_3R_132.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 CarNYval
       subtitle: Stories
       description: 15 Oct
@@ -47,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-JC2-Graduation-Ceremony
       image: /images/241010_JC2_Graduation_Ceremony_010.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Teachers' Day Celebration
-      subtitle: STORIES
-      id: infopic
-      description: 29 Aug
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-Teachers-Day-Celebration
-      image: /images/240829_Teachers__Day_Celebration_QianHua_033.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
