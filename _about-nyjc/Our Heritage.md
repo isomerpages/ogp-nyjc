@@ -2,18 +2,15 @@
 title: Our Heritage
 permalink: /about-nyjc/our-heritage/
 description: ""
+variant: markdown
 ---
 **A Strong Foundation for Greater Success**
 
-Nanyang Junior College (NYJC) was founded in 1978 at its location in Serangoon Ave 3 and was among the first junior colleges to be established in Singapore.
+Nanyang Junior College (NYJC) was founded in 1978 at its location in Serangoon Ave 3 and was among the first junior colleges to be established in Singapore. As NYJC’s campus was built on a small hill, fog often covered part of the college in the 1980s and 1990s. NYJC was thus known affectionately as “白云岗” (literally meaning “White Cloud Hill”, for the fog that covered it).
 
-As NYJC’s campus was built on a small hill, fog often covered part of the college in the 1980s and 1990s. NYJC was thus known affectionately as “白云岗” (literally meaning “White Cloud Hill”, for the fog that covered it).
+‘Nanyang’ is hanyu pinyin for the Chinese characters “南洋”（translated as “Southern Seas”). This was used by the mainland Chinese to refer to the region encompassed by Singapore, Malaysia and the Southeast Asian region. The name is a reflection of the origins of Singapore having been built by immigrants predominantly from China, India, Malaysia and other parts of the world.
 
-‘Nanyang’ is hanyu pinyin for the Chinese characters “南洋（translated as “South Sea”). This was used by the mainland Chinese people to refer to the region encompassed by Singapore, Malaysia and the Southeast Asian region. The name is a reflection of the origins of Singapore having been built by immigrants predominantly from China, India, Malaysia and other parts of the world.
-
-The college crest is a red shield with a blue base, the red and blue being separated by a row of four crescents in yellow. Superimposed on this is a white lion’s head. The red of the shield symbolises unity in strength; the blue represents the southern sea; and the lion’s head stands for Singapore. The four crescents signify the multi-racial nature as well as the growth of the college in tandem with the nation.
-
-The focus on attaining growth and success based on collaboration and hard work is most obvious in the college’s motto of “Together We Build” （共同建设）.
+The college crest is a red shield with a blue base, the red and blue being separated by a row of four crescents in yellow. Superimposed on this is a white lion’s head. The red of the shield symbolises unity in strength; the blue represents the southern seas; and the lion’s head stands for Singapore, dubbed as the Lion City. The four crescents signify the multi-racial nature as well as the growth of the college in tandem with the nation. The focus on attaining growth and success based on collaboration, collective hard work and the spirit of community is encapsulated in the college’s motto of “Together We Build” （共同建设）.
 
 **Our College Song**
 
