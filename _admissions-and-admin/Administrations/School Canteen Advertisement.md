@@ -13,13 +13,11 @@ variant: tiptap
 </li>
 <li>
 <p>Fish Soup</p>
-</li>
-<li>
-<p>Japanese Food</p>
+<p></p>
 </li>
 </ol>
 <p><strong>Commencement Date:</strong> Mon, 13th Jan 2025
-<br><strong>Closing Date:</strong> Fri, 1st Nov 2024</p>
+<br><strong>Closing Date:</strong> Fri, 15 Nov 2024</p>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
 <ol>
