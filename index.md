@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 NS Engagement Session for JC1
+      subtitle: stories
+      id: infopic
+      description: 12 Nov
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-NS-Engagement-for-JC1
+      image: /images/241112_NS_Engagement_Ean_Shaw_013.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 3R (Review, Rethink, Reinvent) Staff Retreat
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       alt: image
       url: https://nanyangjc.smugmug.com/2024-Walk-for-Rice
       image: /images/241011_Walk_for_rice_Lana_010.jpg
-  - infopic:
-      title: 2024 JC2 Graduation Ceremony
-      subtitle: stories
-      id: infopic
-      description: 10 Oct
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-JC2-Graduation-Ceremony
-      image: /images/241010_JC2_Graduation_Ceremony_010.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
