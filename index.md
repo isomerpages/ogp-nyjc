@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
   - infopic:
+      title: 2024 JC1 Principal Dialogue
+      subtitle: Stories
+      id: infopic
+      description: 14 Nov
+      button: view here
+      alt: image
+      url: https://nanyangjc.smugmug.com/2024-JC1-Principal-Dialogue
+      image: /images/241114_JC1_Dialogue_with_Principal_Xinyao_036.jpg
+  - infopic:
       title: 2024 NS Engagement Session for JC1
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-CarNYval-
       image: /images/241015_CarNYval_Qianhua_012.jpg
       alt: LTC Day 1
-  - infopic:
-      title: 2024 Walk for Rice
-      subtitle: Stories
-      id: infopic
-      description: 11 Oct
-      button: view here
-      alt: image
-      url: https://nanyangjc.smugmug.com/2024-Walk-for-Rice
-      image: /images/241011_Walk_for_rice_Lana_010.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
