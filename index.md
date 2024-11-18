@@ -21,7 +21,7 @@ sections:
           url: https://portal.nyjc.edu.sg/
         - title: Time Table
           description: Student & Staff
-          url: https://apps.nyjc.edu.sg/nyapps/timetable/index.php
+          url: https://app.nyjc.edu.sg/timetable/
   - infopic:
       title: 2024 JC1 Principal Dialogue
       subtitle: Stories
