@@ -23,6 +23,13 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2024 Galileo Talk (Sharing on PSC Scholarships)
+      subtitle: Stories
+      description: 20 Nov
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2024-Galileo-Talk
+      image: /images/241120_PSC_001.jpg
+  - infopic:
       title: 2024 JC1 Principal Dialogue
       subtitle: Stories
       id: infopic
@@ -49,14 +56,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-3R
       image: /images/241025_3R_132.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 CarNYval
-      subtitle: Stories
-      description: 15 Oct
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-CarNYval-
-      image: /images/241015_CarNYval_Qianhua_012.jpg
-      alt: LTC Day 1
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
