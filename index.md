@@ -29,6 +29,7 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2024-Galileo-Talk
       image: /images/241120_PSC_001.jpg
+      alt: image
   - infopic:
       title: 2024 JC1 Principal Dialogue
       subtitle: Stories
