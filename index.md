@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2024 ISLE Batam
+      subtitle: STORIES
+      id: infopic
+      description: 16 - 18 Nov
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2024-ISLE-Trip-to-Batam
+      image: /images/241116_18_ISLE_058.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Galileo Talk (Sharing on PSC Scholarships)
       subtitle: Stories
       description: 20 Nov
@@ -47,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-NS-Engagement-for-JC1
       image: /images/241112_NS_Engagement_Ean_Shaw_013.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 3R (Review, Rethink, Reinvent) Staff Retreat
-      subtitle: STORIES
-      id: infopic
-      description: 25 Oct
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-3R
-      image: /images/241025_3R_132.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
