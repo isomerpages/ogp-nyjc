@@ -29,7 +29,7 @@ sections:
       description: 16 - 18 Nov
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2024-ISLE-Trip-to-Batam
-      image: /images/241116_18_ISLE_058.jpg
+      image: /images/DSC07796.jpg
       alt: Image alt text
   - infopic:
       title: 2024 Galileo Talk (Sharing on PSC Scholarships)
