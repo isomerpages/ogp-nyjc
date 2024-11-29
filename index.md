@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2024 JC2 Dinner and Dance
+      subtitle: stories
+      id: infopic
+      description: 28 Nov
+      button: view here
+      url: https://nanyangjc.smugmug.com/2024-JC2-Dinner-and-Dance
+      image: /images/241128_JC2_Prom_Joshua_013.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 ISLE Batam
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       alt: image
       url: https://nanyangjc.smugmug.com/2024-JC1-Principal-Dialogue
       image: /images/241114_JC1_Dialogue_with_Principal_Xinyao_036.jpg
-  - infopic:
-      title: 2024 NS Engagement Session for JC1
-      subtitle: stories
-      id: infopic
-      description: 12 Nov
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-NS-Engagement-for-JC1
-      image: /images/241112_NS_Engagement_Ean_Shaw_013.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
