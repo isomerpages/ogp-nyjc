@@ -4,7 +4,12 @@ permalink: /about-nyjc/our-key-personnel/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,10 +66,10 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gan-Tan Sor Leng</p>
+<p>Ms Joyce Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sor_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sor_leng@schools.gov.sg</a> 
+<p><a href="mailto:Joyce_CHAN@schools.gov.sg" rel="noopener nofollow" target="_blank">Joyce_CHAN@schools.gov.sg</a>
 <br>62842281</p>
 </td>
 </tr>
@@ -73,7 +78,12 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -115,7 +125,12 @@ variant: tiptap
 </li>
 <li>
 <p>Economics</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,7 +200,12 @@ variant: tiptap
 </li>
 <li>
 <p>English</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -230,7 +250,12 @@ variant: tiptap
 </li>
 <li>
 <p>Humanities</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -286,9 +311,13 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p><code>Innovation and Technology</code>
-</p>
-<table>
+<p>Innovation and Technology</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -328,7 +357,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -385,7 +419,12 @@ variant: tiptap
 </li>
 <li>
 <p>PE &amp; CCA</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -440,7 +479,12 @@ variant: tiptap
 </li>
 <li>
 <p>Project Work</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -482,7 +526,12 @@ variant: tiptap
 </li>
 <li>
 <p>Science &amp; Research</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -606,7 +655,12 @@ variant: tiptap
 </li>
 <li>
 <p>Character &amp; Leadership Development</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -676,7 +730,12 @@ variant: tiptap
 </li>
 <li>
 <p>Student Affairs &amp; Management</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -734,7 +793,12 @@ variant: tiptap
 </li>
 <li>
 <p>Corporate Communications &amp; Partnership</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -778,7 +842,12 @@ variant: tiptap
 </li>
 <li>
 <p>System &amp; Info Management</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -819,7 +888,12 @@ variant: tiptap
 </li>
 <li>
 <p>School Staff Developer</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
