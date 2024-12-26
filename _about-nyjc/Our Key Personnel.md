@@ -535,17 +535,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD</p>
+<p><strong>HOD</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Judy Tan
+<p><strong>Mrs Judy Tan </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_li_san_judy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_li_san_judy@schools.gov.sg</a> 
-<br>
-<br>63805113</p>
+<p><strong><a href="mailto:lau_li_san_judy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_li_san_judy@schools.gov.sg</a> <br><br>63805113</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -611,7 +611,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Physics (Acting)
+<p>LH Physics
 <br>
 </p>
 </td>
@@ -654,7 +654,7 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Character &amp; Leadership Development</p>
+<p>Student Development</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -664,29 +664,28 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sequeira Wayne Conrad
-<br>
+<p><strong>HOD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sequeira_wayne_conrad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sequeira_wayne_conrad@schools.gov.sg</a> 
-<br>
-<br>63805177</p>
+<p><strong>Mr Sequeira Wayne Conrad <br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:sequeira_wayne_conrad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sequeira_wayne_conrad@schools.gov.sg</a> <br><br>63805177</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Civic Literacy and Citizenship</p>
+<p>SH Education and Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Mui Hui</p>
+<p>Mr Chin De Shun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_mui_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_hui@schools.gov.sg </a>
-<br>63805128</p>
+<p><a href="mailto:chin_de_shun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_de_shun@schools.gov.sg </a>
+<br>63805143</p>
 </td>
 </tr>
 <tr>
@@ -729,7 +728,7 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Student Affairs &amp; Management</p>
+<p>Character &amp; Citizenship Education</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -754,14 +753,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Education and Career Guidance</p>
+<p>SH Civic Literacy and Citizenship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin De Shun</p>
+<p>Ms Ng Mui Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_de_shun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_de_shun@schools.gov.sg </a>
-<br>63805141</p>
+<p><a href="mailto:ng_mui_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_hui@schools.gov.sg </a>
+<br>63805128</p>
 </td>
 </tr>
 <tr>
