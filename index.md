@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH2025.jpg
+      background: /images/OH2025_HD.jpg
       url: /contact-us/
       key_highlights:
         - title: Headlines
