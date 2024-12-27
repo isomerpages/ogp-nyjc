@@ -11,7 +11,13 @@ variant: tiptap
 <br>Computer Lab – 6380 5118
 <br>PE Department – 6380 5157</p>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -30,6 +36,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Finance and Administrative Matters:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School fees</p>
 <p>Financial assistance</p>
 <p>Payment to vendors</p>
@@ -37,6 +56,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Doreen Goh</p>
 <p>Ms Lee Kam Yen</p>
+<p>Mr Tay Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Office</p>
@@ -169,24 +189,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Examinations</p>
-<p>- Internal (JC 1)</p>
-<p>- Internal (JC 2)</p>
-<p>- External</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Derek Lee</p>
-<p>Ms Eunice Sim</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Room</p>
-<p>Staff Room</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>115</p>
-<p>128</p>
-<p>&nbsp;</p>
+<p>115&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -282,13 +295,13 @@ variant: tiptap
 <p>Career Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Meng Lee</p>
+<p>Mr Chin De Shun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>178</p>
+<p>143</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +320,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leadership Development</p>
+<p>Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sequeira Wayne Conrad</p>
@@ -349,7 +362,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learning Management System (AsknLearn)</p>
+<p>Learning Management System</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jaivin Singh</p>
@@ -363,15 +376,20 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>You can find the list of extension numbers of Civics Tutors and Subject
-Tutors at the entrance of the Staff Room.</p>
+<p>Students can find the list of extension numbers of tutors at the entrance
+of the Staff Room.</p>
 <p><strong>School Counsellor</strong> 
 <br>Mdm Harbinder Kaur
 <br>Tel. No: 6380 5174
 <br>Email:&nbsp;<a href="mailto:harbinder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harbinder_kaur@schools.gov.sg</a>
 </p>
 <h2>JC1</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -747,7 +765,14 @@ Tutors at the entrance of the Staff Room.</p>
 </tbody>
 </table>
 <h2>JC2</h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
