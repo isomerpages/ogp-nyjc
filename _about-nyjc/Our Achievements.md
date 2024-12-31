@@ -7,7 +7,7 @@ variant: tiptap
 <p>We take pride in our achievements – because awards are recognitions of
 our efforts and affirmations of the college’s systems and processes that
 we have put in place to help our students maximize their potential and
-realize their goals.</p>
+realise their goals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss2.png">
 </div>
