@@ -16,8 +16,7 @@ Since 2013, we have introduced various self-study units across the campus
 to support group discussions, consultation sessions, and individual study.
 These spaces provide a conducive and flexible environment for students
 to collaborate, reflect, and learn at their own pace.</p>
-<p>[photos of the different learning spaces – consultation areas including
-the eblouissant corridor, and the library]</p>
+<p></p>
 <p>In 2023, we embarked on a multi-phase journey to further elevate our campus,
 beginning with a significant transformation of the library. This redesign,
 shaped by student feedback, aims to create a vibrant hub of inquiry, collaboration,
@@ -40,8 +39,6 @@ well-being.</p>
 including the <strong>Eblouissant</strong> and the <strong>Concourse</strong>,
 ensuring the entire campus reflects a modern and student-centric design
 ethos.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>More Than Just a Dining Space</strong>
 </p>
 <p>In 2023, the college canteen underwent a major revamp based on student
@@ -50,9 +47,6 @@ ambience, making it a more inviting and functional space. Recognising the
 importance of versatility, the new canteen also serves as a venue for study
 sessions, group discussions, and even performances or community events,
 fostering a dynamic campus culture.</p>
-<p>[pictures of new canteen]</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>&nbsp;A Space for Play and More</strong>
 </p>
 <p><strong>&nbsp;</strong>NYJC is dedicated to fostering an active and vibrant
@@ -96,7 +90,6 @@ with amenities like the X-box Kinect corner, foosball tables, arcade basketball
 machines, air hockey in the student lounging area, and even campus swings.&nbsp;
 Students can also book the BBQ pit for class gatherings, fostering bonds
 in a relaxed setting.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Ensuring Safety and Security</strong>
 </p>
 <p>Safety has always been paramount at NYJC. Over the years, we have introduced
@@ -112,8 +105,6 @@ posts and vehicle barriers in 2013.</p>
 and adherence to health protocols.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Looking Ahead</strong>
 </p>
 <p>As we move forward, NYJC remains committed to ensuring our campus evolves

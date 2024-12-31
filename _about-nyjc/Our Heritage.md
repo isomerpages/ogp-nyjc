@@ -486,11 +486,23 @@ of the college’s fifth principal, Mr Low Chun Meng.&nbsp; The Nanyang Junior
 College Alumni Association, in partnership with the School Management Committee,
 hosted an Anniversary Dinner attended by past principals, staff and students,
 with Mr. Tan Chuan Jin as Guest of Honour.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="40th Anniversary" src="/images/4oth_anniversary_dinner_with_tan_chuan_jin.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="40th Anniversary" src="/images/40th_anniversary_dinner_cake_cutting.jpg">
+</div>
 <p>Student leaders played a significant role in organising the inaugural
 RemiNYscence Carnival, which welcomed alumni, staff, and current students
 to an afternoon of games, nostalgia, and camaraderie.&nbsp; Many students
 attended with their parents, who were themselves NYJC alumni, creating
 a special intergenerational connection.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/poster_for_40th_anniversary.jpg">
+</div>
 <p>To honour the college’s artistic heritage, the Heritage Gallery was revamped,
 featuring new achievements and alumni stories.&nbsp; As an Art Elective
 Centre, we are happy to have produced many outstanding young artists such
@@ -504,10 +516,22 @@ a piece featuring 40 icons that are tied to the NY experience of different
 batches of students.&nbsp; Other than these 2 murals, the AEP unit also
 set up an Art Gallery on campus to showcase the artistic flair of our Art
 Elective Programme alumni.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="xin li mural" src="/images/xin_li_mural.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="40 icons" src="/images/40icons_mural_for_40th_anniversary.jpg">
+</div>
 <p>45<sup>th</sup> Anniversary (2023)</p>
 <p>NYJC celebrated its 45<sup>th</sup> anniversary with the theme “RemiNYscence:
 Let’s Nanyang”.&nbsp; This homecoming event brought together students from
 various cohorts, staff, and principals for a day of reunion and reflection.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="45 Anniversary" src="/images/45th_anniversary.jpg">
+</div>
 <p>NYJCians from earlier cohorts enjoyed matching their memories of the old
 campus with current facilities, attending “lectures” conducted by familiar
 faces, experiencing a sense of connection across generations.&nbsp; A highlight
