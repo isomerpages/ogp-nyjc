@@ -36,9 +36,8 @@ well-being.</p>
 </li>
 </ul>
 <p>This vision for revitalised learning spaces will extend to other key areas,
-including the <strong>Eblouissant</strong> and the <strong>Concourse</strong>,
-ensuring the entire campus reflects a modern and student-centric design
-ethos.</p>
+including the Eblouissant and the Concourse, ensuring the entire campus
+reflects a modern and student-centric design ethos.</p>
 <p><strong>More Than Just a Dining Space</strong>
 </p>
 <p>In 2023, the college canteen underwent a major revamp based on student
@@ -100,7 +99,7 @@ a range of measures, including:</p>
 posts and vehicle barriers in 2013.</p>
 </li>
 <li>
-<p>Implementation of a <strong>facial recognition and temperature-taking system</strong> in
+<p>Implementation of a facial recognition and temperature-taking system in
 2020 during the COVID-19 pandemic, ensuring efficient attendance tracking
 and adherence to health protocols.</p>
 </li>
