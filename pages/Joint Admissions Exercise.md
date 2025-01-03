@@ -756,10 +756,10 @@ who were admitted through JAE will have a net score of 5 or lower.</p>
 </p>
 <p>The college does not set the cut-off point. It is based on the choices
 of that particular year's cohort and is based on demand and supply.</p>
-<p><strong>4 NYJC's cut-off point was 5 points in 2023. Do I stand a chance if my net L1R5 is 6?</strong>
+<p><strong>4 NYJC's cut-off point was 5 points in 2024. Do I stand a chance if my net L1R5 is 6?</strong>
 </p>
 <p>The cut-off point may differ from year to year. The cut-off point for
-2023 merely serves as a reference when students consider their choices.</p>
+2024 merely serves as a reference when students consider their choices.</p>
 <p><strong>5 Can I have a list of subject combinations offered by NYJC?</strong>
 </p>
 <p>NYJC takes pride in its flexible subject combination system. As long as
