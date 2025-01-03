@@ -384,7 +384,7 @@ Baccalaureate schools, and polytechnics. The theme of the seminar was Singapore
 first time since its inception. The refreshed seminar format brought student
 ownership and thought leadership to the forefront, with the aim of creating
 a seminar by students, for students.</p>
-<p><strong>A popular and trusted college </strong>
+<p><strong>A popular and trusted college</strong>
 </p>
 <p>Over the years, Nanyang JC has become a reputable and popular JC in Singapore.
 With the college’s increasing popularity and the consistent excellent performance
