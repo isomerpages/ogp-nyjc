@@ -73,6 +73,17 @@ variant: tiptap
 <br>62842281</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
@@ -195,6 +206,17 @@ variant: tiptap
 <br>63805128</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </li>
@@ -241,6 +263,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ducro_clement_chandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ducro_clement_chandran@schools.gov.sg</a> 
 <br>63805132</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -303,6 +336,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_kim_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_kim_hong@schools.gov.sg</a> 
 <br>63805172</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -414,6 +458,17 @@ variant: tiptap
 <br>63805121</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </li>
@@ -472,6 +527,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:audrey_cheang_poh_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_cheang_poh_geok@schools.gov.sg</a> 
 <br>63805157</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -644,8 +710,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_kien_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kien_soon@schools.gov.sg</a> 
-<br>
 <br>63805143</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -721,6 +797,17 @@ variant: tiptap
 <br>63805128</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </li>
@@ -782,6 +869,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_yong_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yong_meng_a@schools.gov.sg</a> 
 <br>63805140</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -892,6 +990,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wan_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wan_har@schools.gov.sg</a> 
 <br>63805176</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
