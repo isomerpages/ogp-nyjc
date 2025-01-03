@@ -86,16 +86,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Choon Yan</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_choon_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_choon_yan@schools.gov.sg </a>
 <br>63805112</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -133,16 +133,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Soon Woon</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:lee_soon_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_soon_woon@schools.gov.sg</a> 
 <br>63805115</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -208,18 +208,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>HOD
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p>HOD</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Robyn Wong</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wong_su_cheng_robyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_su_cheng_robyn@schools.gov.sg</a> 
 <br>63805131</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -258,16 +256,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Jonathan Ng</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wee_ngee_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_ngee_jonathan@schools.gov.sg </a>
 <br>63805109</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -320,16 +318,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD (Acting)</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Mark Lim Chee Kang</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:mark_lim_chee_kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mark_lim_chee_kang@schools.gov.sg</a> 
 <br>63805140</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -345,8 +343,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -357,6 +354,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p>Mathematics</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -365,16 +365,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Lim Choy Fung</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:loo_choy_fung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_choy_fung@schools.gov.sg </a>
 <br>63805111</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -427,16 +427,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Koh Siew Leng</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:woo_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_siew_leng@schools.gov.sg </a>
 <br>63805157</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -487,16 +487,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Amy Chiew</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:chiew_kek_huang_amy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_kek_huang_amy@schools.gov.sg</a> 
 <br>63805108</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -535,17 +535,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD</strong>
-</p>
+<p>HOD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Judy Tan </strong>
+<p>Mrs Judy Tan
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lau_li_san_judy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_li_san_judy@schools.gov.sg</a> <br><br>63805113</strong>
-</p>
+<p><a href="mailto:lau_li_san_judy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_li_san_judy@schools.gov.sg</a> 
+<br>63805113</p>
 </td>
 </tr>
 <tr>
@@ -557,7 +556,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_wei_chiang_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_wei_chiang_vincent@schools.gov.sg</a> 
-<br>
 <br>63805144</p>
 </td>
 </tr>
@@ -664,16 +662,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD</strong>
+<p>HOD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sequeira Wayne Conrad <strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sequeira Wayne Conrad <br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sequeira_wayne_conrad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sequeira_wayne_conrad@schools.gov.sg</a> <br><br>63805177</strong>
-</p>
+<p><a href="mailto:sequeira_wayne_conrad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sequeira_wayne_conrad@schools.gov.sg</a> 
+<br>63805177</p>
 </td>
 </tr>
 <tr>
