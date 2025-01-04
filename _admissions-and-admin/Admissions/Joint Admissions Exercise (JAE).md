@@ -56,5 +56,5 @@ following table should only be used as a guide.</p>
 </tr>
 </tbody>
 </table>
-<p>Click <a href="/headlines/2024appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/headlines/sc/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
