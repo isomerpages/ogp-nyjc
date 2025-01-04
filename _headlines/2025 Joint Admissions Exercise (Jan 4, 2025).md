@@ -770,7 +770,7 @@ Art.</p>
 sit for a Drawing &amp; Painting Test and a Written Test administered by
 NYJC AEP Unit to assess their aptitude for the course. Students are also
 required to attend an interview and present their portfolio.</p>
-<p>Students can find out more about the elective programmes at <strong><a href="https://www.moe.gov.sg/programmes/" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/programmes<br></a></strong>
+<p>Students can find out more about the elective programmes <strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/pre-university" rel="noopener noreferrer nofollow" target="_blank">here.<br></a></strong>
 </p>
 <p><strong>The persons-in-charge of the programmes in NYJC</strong>
 </p>
