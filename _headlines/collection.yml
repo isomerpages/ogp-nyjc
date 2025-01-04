@@ -2,6 +2,8 @@ collections:
   headlines:
     output: true
     order:
+      - 2024 Student Council Election (Feb 28, 2024).md
+      - Archive/.keep
       - Archive/Stay Connected with NYJC (Mar 6, 2023).md
       - Archive/RemiNYscence (May 20, 2023).md
       - Archive/MOE EDUSAVE CHARACTER AWARD (ECHA) (Aug 28, 2023).md
@@ -13,5 +15,3 @@ collections:
       - Archive/University and Scholarship Application Resources (Feb 18,
         2024).md
       - Archive/2023 A Level Results Release on 23 Feb (Feb 18, 2024).md
-      - Archive/.keep
-      - 2024 Student Council Election (Feb 28, 2024).md
