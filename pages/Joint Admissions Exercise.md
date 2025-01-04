@@ -9,7 +9,7 @@ variant: tiptap
 <p>The JAE posting results will be released on <strong>Tuesday, 4 February 2025, 9am</strong> through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SMS, which is sent to the local mobile number in your application.</p>
+<p>SMS sent to the local mobile number in your application.</p>
 </li>
 <li>
 <p>JAE-IS, which can be accessed using your Singpass.</p>
@@ -126,11 +126,11 @@ Nanyang JC</p>
 </tr>
 </tbody>
 </table>
-<p>Bonus points are limited to a maximum of 4 points without CLEP. With CLEP,
-the maximum bonus points is 6 points. Applicants should note that if admitted
-to CLEP, MOE requires students to remain in the programme regardless of
-whether they had utilised the 2 bonus points. Students who fail to do so
-may be asked to leave the JC.</p>
+<p>Bonus points are capped at 4 points without CLEP. With CLEP, the maximum
+bonus points is 6. Applicants should note that if they are admitted to
+CLEP, MOE requires them to remain in the programme regardless of whether
+they had utilised the 2 bonus points. Students who fail to do so may be
+asked to leave the JC.</p>
 <h2>Subject Combination Information</h2>
 <p>A-level subjects can now be taken at 3 levels: H1, H2 and H3.</p>
 <ul data-tight="true" class="tight">
@@ -153,16 +153,16 @@ at H2 level.</p>
 </p>
 <p>The following subjects are compulsory and will be taken at H1 level:</p>
 <p>1. <strong>Mother Tongue Language(MTL)</strong>, which is examined at the
-end of JC 1. It cannot be replaced by another subject. (A student who achieves
-grade D7 or better in Higher MTL at O-level is exempted from H1 MTL)</p>
+end of JC 1. It cannot be replaced by another subject. A student who achieves
+grade D7 or better in Higher MTL at O-level is exempted from H1 MTL.</p>
 <p>2. <strong>Project Work(PW)</strong>, is examined in JC 1.</p>
 <p>3. <strong>General Paper</strong>, is examined at the end of JC 2.</p>
 <p><strong>Content-based subjects</strong>
 </p>
 <p>· In addition to the GP, PW and MTL, students must read at least four
 content-based subjects.
-<br>· Three of the content-based subjects must be at the H2 level and the
-fourth content-based subject may be at the H1 or H2 level.</p>
+<br>
+</p>
 <p><strong>Contrasting subjects</strong>
 </p>
 <p>· At least one of the four content-based subjects read must be a contrasting
@@ -542,8 +542,8 @@ to take 4 H2 subjects.</p>
 <p>The H3 subject is an extension of the H2 subject that is read in JC2 and
 it entails an in-depth study of a particular area that the student has
 the ability for and a passionate interest in. At the end of the JC1 year,
-the top 10% of the JC1 cohort (based on their JC1 final examination results)
-would be offered the opportunity to take H3 subjects.</p>
+the top 10% of the JC1 cohort would be offered the opportunity to take
+H3 subjects.</p>
 <h2>Subject Information and Requirements</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -734,7 +734,7 @@ we can reply to your query.</p>
 <p><strong>1 How will I be posted?</strong>
 </p>
 <p>Applicants are posted to courses based first on the applicant’s merit,
-and second in the order of applicants’ choice of courses. All applicants
+and second in the order of applicant's choice of courses. All applicants
 are first ranked in the order of their net L1R5 aggregates, taking into
 account the various bonus points for which the applicants are eligible.</p>
 <p>First, applicants with better aggregates will be considered for admission.
@@ -762,10 +762,7 @@ of that particular year's cohort and is based on demand and supply.</p>
 2024 merely serves as a reference when students consider their choices.</p>
 <p><strong>5 Can I have a list of subject combinations offered by NYJC?</strong>
 </p>
-<p>NYJC takes pride in its flexible subject combination system. As long as
-a student meets the individual subject criteria and fulfils the contrasting
-subject requirement of the posted stream, he will most likely be offered
-his choice of subjects.</p>
+<p>NYJC takes pride in its flexible subject combination system.</p>
 <p>On an average, the college offers more than 60 different subject combinations
 each year. The more popular combinations are:</p>
 <p>Physics, Chemistry, Mathematics and Economics</p>
