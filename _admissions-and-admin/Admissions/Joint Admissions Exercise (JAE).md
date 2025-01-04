@@ -12,7 +12,12 @@ obtained in the previous year's Singapore-Cambridge GCE 'O' Level Examinations.<
 <p>Please note that the entry criteria may change from year to year and the
 following table should only be used as a guide.</p>
 <p><strong>MINIMUM L1R5 AGGREGATE</strong> [after deduction of bonus points]</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,4 +57,4 @@ following table should only be used as a guide.</p>
 </tbody>
 </table>
 <p>Click <a href="/headlines/2024appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-appeal information.</p>
+more information.</p>
