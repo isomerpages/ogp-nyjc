@@ -3,6 +3,7 @@ title: Post JAE Appeals (Feb 1, 2024)
 permalink: /headlines/2024appeal/
 variant: tiptap
 description: ""
+third_nav_title: Archive
 ---
 <p>Nanyang JC Cut-off Point</p>
 <p>Science: 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

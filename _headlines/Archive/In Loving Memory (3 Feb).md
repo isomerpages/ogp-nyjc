@@ -3,6 +3,7 @@ title: In Loving Memory (3 Feb)
 permalink: /headlines/wcy/
 variant: tiptap
 description: ""
+third_nav_title: Archive
 ---
 <p></p>
 <div class="isomer-image-wrapper">

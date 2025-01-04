@@ -1,7 +1,8 @@
 ---
-title: Joint Admissions Exercise
-permalink: /jae/
+title: 2025 Joint Admissions Exercise (Jan 4, 2025)
+permalink: /headlines/sc/
 description: ""
+image: /images/SC election banner.jpg
 variant: tiptap
 ---
 <p>The 2024 JAE registration will be held over 6 calendar days starting from <strong>4 pm on Friday, 10 January 2025 and end at 4 pm on Tuesday, 15 January 2025</strong>.</p>
@@ -58,6 +59,17 @@ following table should only be used as a guide.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -124,6 +136,14 @@ Nanyang JC</p>
 <p>2</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Bonus points are capped at 4 points without CLEP. With CLEP, the maximum
@@ -160,9 +180,7 @@ grade D7 or better in Higher MTL at O-level is exempted from H1 MTL.</p>
 <p><strong>Content-based subjects</strong>
 </p>
 <p>· In addition to the GP, PW and MTL, students must read at least four
-content-based subjects.
-<br>
-</p>
+content-based subjects.</p>
 <p><strong>Contrasting subjects</strong>
 </p>
 <p>· At least one of the four content-based subjects read must be a contrasting
@@ -530,6 +548,20 @@ that suits their needs and aspirations.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -635,6 +667,14 @@ H3 subjects.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -694,6 +734,14 @@ Language</p>
 their suitability to take the subject.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Chinese Language Elective Programme and Art Elective Programme</h2>
@@ -722,7 +770,7 @@ Art.</p>
 sit for a Drawing &amp; Painting Test and a Written Test administered by
 NYJC AEP Unit to assess their aptitude for the course. Students are also
 required to attend an interview and present their portfolio.</p>
-<p>Students can find out more about the elective programmes at <strong><a href="https://www.moe.gov.sg/programmes/" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/programmes<br></a></strong>
+<p>Students can find out more about the elective programmes <strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/pre-university" rel="noopener noreferrer nofollow" target="_blank">here.<br></a></strong>
 </p>
 <p><strong>The persons-in-charge of the programmes in NYJC</strong>
 </p>

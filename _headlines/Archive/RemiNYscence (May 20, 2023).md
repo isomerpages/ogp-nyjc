@@ -3,6 +3,7 @@ title: RemiNYscence (May 20, 2023)
 permalink: /headlines/reminyscence/
 description: ""
 image: /images/reminence.jpg
+third_nav_title: Archive
 ---
 ![](/images/slide1.JPG)
 ![](/images/slide2.JPG)
@@ -12,6 +13,3 @@ image: /images/reminence.jpg
 ![](/images/slide6.JPG)
 ![](/images/slide7.JPG)
 ![](/images/slide8.JPG)
-
-
-
