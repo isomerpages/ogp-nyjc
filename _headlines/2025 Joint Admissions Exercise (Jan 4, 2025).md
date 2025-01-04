@@ -5,7 +5,7 @@ description: ""
 image: /images/SC election banner.jpg
 variant: tiptap
 ---
-<p>The 2024 JAE registration will be held over 6 calendar days starting from <strong>4 pm on Friday, 10 January 2025 and end at 4 pm on Tuesday, 15 January 2025</strong>.</p>
+<p>The 2025 JAE registration will be held over 6 calendar days starting from <strong>4 pm on Friday, 10 January 2025 and end at 4 pm on Tuesday, 15 January 2025</strong>.</p>
 <p>More information can be found on MOE's website <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>The JAE posting results will be released on <strong>Tuesday, 4 February 2025, 9am</strong> through:</p>
 <ul data-tight="true" class="tight">
