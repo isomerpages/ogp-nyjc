@@ -29,7 +29,7 @@ sections:
       description: 4 Jan
       button: click here
       alt: image
-      url: https://nanyangjc.smugmug.com/2024-JC1-Principal-Dialogue
+      url: /headlines/sc/
       image: /images/Untitled.jpg
   - infopic:
       title: 2024 JC2 Dinner and Dance
