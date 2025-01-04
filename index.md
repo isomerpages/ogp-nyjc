@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Joint Admissions Exercise
+      subtitle: Headlines
+      id: infopic
+      description: 4 Jan
+      button: click here
+      alt: image
+      url: https://nanyangjc.smugmug.com/2024-JC1-Principal-Dialogue
+      image: /images/Untitled.jpg
+  - infopic:
       title: 2024 JC2 Dinner and Dance
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-Galileo-Talk
       image: /images/241120_PSC_001.jpg
       alt: image
-  - infopic:
-      title: 2024 JC1 Principal Dialogue
-      subtitle: Stories
-      id: infopic
-      description: 14 Nov
-      button: view here
-      alt: image
-      url: https://nanyangjc.smugmug.com/2024-JC1-Principal-Dialogue
-      image: /images/241114_JC1_Dialogue_with_Principal_Xinyao_036.jpg
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
