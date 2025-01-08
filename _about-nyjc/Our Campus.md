@@ -58,29 +58,6 @@ fitness stations, a floorball-cum-street soccer court, and a well-equipped
 gym enhanced with new equipment.&nbsp; These amenities support a wide range
 of recreational and fitness activities, ensuring students have plenty of
 opportunities to stay active and engaged.</p>
-<p><strong>Outdoor Adventure Learning Courses</strong>
-</p>
-<p>NYJC is proud to be one of the few schools equipped with Outdoor Adventure
-Learning (OAL) facilities, these facilities provide students with unique
-opportunities to develop resilience, teamwork, and leadership skills in
-a safe and supportive environment – qualities that are essential for success
-both in and beyond the classroom.</p>
-<p>Recognising the importance of maintaining high safety standards and ensuring
-relevance, the OAL challenge courses underwent a comprehensive redesign
-in 2023 and the first quarter of 2024.&nbsp; These updates were guided
-by the Association for Challenge Course Technology (ACCT), whose thorough
-inspections ensured the courses comply with stringent procedural and operational
-standards.</p>
-<p>To further enhance the learning experience, a team of our Physical Education
-(PE) teachers underwent specialised training and earned Level 1 Instructor
-Certification from ACCT. This ensures that the courses are facilitated
-by certified professionals who can maximise the learning potential of these
-activities while maintaining the highest safety protocols.</p>
-<p>By having OAL facilities on campus, NYJC empowers students to engage in
-confidence-building activities without the logistical challenges of off-site
-arrangements.&nbsp; Whether navigating a high-element course or collaborating
-on a team-based challenge, students are given meaningful opportunities
-to cultivate critical life skills that complement their academic journey.&nbsp;</p>
 <p><strong>Balancing Work and Play</strong>
 </p>
 <p>At NYJC, we recognise that play is an integral part of learning. Beyond
