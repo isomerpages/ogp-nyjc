@@ -359,31 +359,6 @@ the annual Ready For School Programme with CDAC since 2012.</p>
 2nd consecutive year in 2014 in recognition of the college’s continual
 and good efforts in fostering meaningful partnerships with the community
 and other agencies.</p>
-<p><strong>Review, Rethink, Reinvent (3Rs)</strong>
-</p>
-<p>The 3Rs are very important to the college's planning and development.
-It is undergirded by our belief that there is no sacred cow too big to
-slaughter and it is important that as an education institution, Nanyang
-JC is constantly reviewing its processes and programmes in order to create
-learning spaces and a learning environment that is responding to and anticipating
-new needs and challenges.</p>
-<p>Besides constantly reviewing and enhancing our instructional and co-curricular
-programme, the college is also known for introducing dress-down days, late
-starting time, 10-days timetable, flexible subject combinations – all done
-to enhance NYJCians’ well-being.</p>
-<p>This effort to challenge the norm and time-honoured ways to bring about
-progress is not only limited to the college's internal processes and programmes.
-One example is the successful mooting and changing of the Pre-U Seminar
-format.</p>
-<p><strong>Format of Pre-U Seminar changed after 40 years</strong>
-</p>
-<p>In 2013, the college organised the Pre-University Seminar at U-Town for
-540 students from the various JCs, Integrated Programme schools, International
-Baccalaureate schools, and polytechnics. The theme of the seminar was Singapore
-2030: Our Future, Our Home. The format of the seminar was changed for the
-first time since its inception. The refreshed seminar format brought student
-ownership and thought leadership to the forefront, with the aim of creating
-a seminar by students, for students.</p>
 <p><strong>A popular and trusted college</strong>
 </p>
 <p>Over the years, Nanyang JC has become a reputable and popular JC in Singapore.
