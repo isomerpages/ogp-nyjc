@@ -50,7 +50,7 @@ more information on MOE Sexuality Education.</p>
 <p>
 <br>
 </p>
-<h2>Overview of Nanyang Junior College Sexuality Education Programme for 2023</h2>
+<h2>Overview of Nanyang Junior College Sexuality Education Programme</h2>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education
 is delivered in a holistic manner through the school curriculum.&nbsp;The
 content for Sexuality Education is grouped into five main themes: Human
@@ -62,24 +62,7 @@ Pre-University is on respectful relationships. Specifically, the JC/CI
 package covers Interpersonal Relationships, with themes of Human Development,
 Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into
 the main focus on relationships.</p>
-<p><strong>At Nanyang Junior College, the following Sexuality Education lessons will be taught in 2023:</strong>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="JC1" src="/images/SE-JC1-pg-1-1536x832.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="JC1 2" src="/images/SE-JC1-pg-2-1536x803.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="JC2" src="/images/SE-JC2-pg-1-1-1536x91.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="JC2 2" src="/images/SE-JC2-pg-2-1536x971.jpg">
-</div>
-<p><em><a href="https://www.moe.gov.sg/-/media/files/programmes/eteens-programme-2017.pdf" rel="noopener noreferrer nofollow" target="">eTeens&nbsp;</a></em>
-<a href="https://www.moe.gov.sg/-/media/files/programmes/eteens-programme-2017.pdf" rel="noopener noreferrer nofollow" target="">Programme&nbsp;</a>
-</p>
 <p>6. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide JC/CI Year
 1 students with accurate information on STI/HIV and protection from a health
@@ -90,24 +73,5 @@ the importance of responsible decision-making and knowing where to seek
 help. Abstinence and upholding family values are the key messages. The
 desired outcome of the <em>eTeens</em> programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
-<p><strong>At Nanyang Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eteens" src="/images/eteens.png">
-</div>
-<h2>Information for Parents</h2>
-<p>8. Parents may opt their children out of Growing Years and/or supplementary
-sexuality education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
-children out of the Sexuality Education lessons need to complete an opt-out
-form. This form will be distributed to parents at the start of the year
-and is also downloadable [here](/files/Annex-A_Growing-Years-Parent-Opt-out-Form_NYJC-2023.pdf).
-The completed form is to be submitted by 20/03/2023.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the eTeens programme need to complete an opt-out form. This form
-will be distributed to parents at the start of the year and is also downloadable
-<a href="/files/Annex-B_eTeens-Parent-Opt-Out-Form_NYJC-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be submitted by 20/03/2023.
-<br>
-<br>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="mailto:nyjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a>for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
+<p></p>
+<p></p>
