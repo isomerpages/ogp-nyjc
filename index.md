@@ -27,7 +27,7 @@ sections:
       subtitle: Headlines
       description: 9 Jan
       button: click here
-      url: headlines/
+      url: /2025-nyjc-open-house-microsite/
       image: /images/oh.jpg
       alt: image
   - infopic:
