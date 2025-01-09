@@ -53,16 +53,13 @@ sciences.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Dept_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="sci" src="/images/Sci_Dept_2025_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="sci" src="/images/Sci_Dept_2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Dept_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Dept_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="sci" src="/images/Sci_Dept_2025_3.jpg">
 </div>
 <p></p>
 <p></p>

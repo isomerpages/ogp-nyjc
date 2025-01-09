@@ -1,6 +1,6 @@
 ---
-title: Character and Leadership Department
-permalink: /staff/Non-Academic-departments/character-and-leadership-department/
+title: Student Development Department
+permalink: /staff/non-academic-departments/student-development-dept/
 description: ""
 third_nav_title: Non Academic Departments
 variant: tiptap
@@ -51,9 +51,10 @@ to consciously reflect on the various experiences gathered from workshops,
 projects and community involvement. Students are encouraged to keep a portfolio
 to record these experiences and to meet regularly with tutors who will
 monitor their development.</p>
-<p><strong>Character and Leadership Development Department Members</strong>
+<p><strong>Student Development Department Members</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLD_Dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Development" src="/images/Student_Development_2025_Dept.jpg">
 </div>
 <p></p>

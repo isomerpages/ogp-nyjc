@@ -1,6 +1,6 @@
 ---
-title: Corporate Communications Department
-permalink: /staff/Non-Academic-departments/corporate-communications-department/
+title: Corporate Communications and Partnership Department
+permalink: /staff/non-academic-departments/corporate-communications-department/
 description: ""
 third_nav_title: Non Academic Departments
 variant: tiptap
@@ -21,8 +21,8 @@ of NYJCians.</p>
 <p><strong>Corporate Communications and Partnership Department Members</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Corporate Communications Department Staff" src="/images/2024_Corps_Comm.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="corps comm and partnership" src="/images/Corporate_Communications_and_Partnership_Dept_2025.jpg">
 </div>
+<p></p>
 <p></p>

@@ -25,15 +25,12 @@ in 2023), please visit <a href="https://www.seab.gov.sg/docs/default-source/nati
 in 2024), please visit <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>English Department Members</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Department Staff" src="/images/English_Dept_1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Department Staff" src="/images/English_Dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="eng" src="/images/English_Dept_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng" src="/images/English_Dept_2025_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Department Staff" src="/images/English_Dept_3.jpg">
-</div>
 <p></p>

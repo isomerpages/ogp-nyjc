@@ -87,10 +87,7 @@ for Paper 1:</p><pre><code>1.  Practical criticism of unseen poetry
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities_Dept_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities_Dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="humanities" src="/images/Humanities_Dept_2025_1.jpg">
 </div>
 <p></p>
 <p></p>
