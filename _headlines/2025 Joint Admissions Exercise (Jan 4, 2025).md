@@ -834,9 +834,17 @@ showcase the student’s interest and ability in handling different media
 and craft types. The portfolio submitted can either be the original pieces
 or well-documented digital images of the student's artworks.</p>
 <p>Selection test consists of 3 components:</p>
-<p>DAY 1 of reporting: Written Test (30 min), Drawing &amp; Painting Test
-(1 hr);
-<br>DAY 2 of reporting: Portfolio Interview (15 min)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Written Test (15 min)</p>
+</li>
+<li>
+<p>Drawing &amp; Painting Test (30 min)</p>
+</li>
+<li>
+<p>Portfolio Interview (15 min)</p>
+</li>
+</ul>
 <p><strong>8 How do I apply to the CLEP in NYJC?</strong>
 </p>
 <p>You would need to indicate your choice when submitting your online application
