@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: https://www.nanyangjc.moe.edu.sg/headlines/sc/
+          url: /2025-nyjc-open-house-microsite/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,14 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infopic:
+      title: 2025 Open House Microsite
+      subtitle: Headlines
+      description: 9 Jan
+      button: click here
+      url: /2025-nyjc-open-house-microsite/
+      image: /images/oh.jpg
+      alt: image
   - infopic:
       title: 2025 Joint Admissions Exercise
       subtitle: Headlines
@@ -49,14 +57,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2024-ISLE-Trip-to-Batam
       image: /images/DSC07796.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 Galileo Talk (Sharing on PSC Scholarships)
-      subtitle: Stories
-      description: 20 Nov
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2024-Galileo-Talk
-      image: /images/241120_PSC_001.jpg
-      alt: image
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
