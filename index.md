@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: https://www.nanyangjc.moe.edu.sg/headlines/sc/
+          url: /2025-nyjc-open-house-microsite/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
