@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Interest Groups
 ---
-<p>The Nanyang Competitive Programming Club (NYCP) is a Special Interest
+<p>The Nanyang Competitive Programming Club (NYCP) is a Student Interest
 Group (SIG) set up by computer science enthusiasts. We provide a platform
 for everyone to express their creativity through code.&nbsp;
 <br>
