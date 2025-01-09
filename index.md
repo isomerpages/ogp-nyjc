@@ -26,9 +26,9 @@ sections:
       title: 2025 Open House Microsite
       subtitle: Headlines
       description: 9 Jan
-      button: View Here
+      button: click here
       url: headlines/
-      image: /images/241120_PSC_001.jpg
+      image: /images/oh.jpg
       alt: image
   - infopic:
       title: 2025 Joint Admissions Exercise
