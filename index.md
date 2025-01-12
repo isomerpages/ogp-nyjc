@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 NYJC Open House
+      subtitle: STORIES
+      id: infopic
+      description: 11 Jan
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2025-NYJC-Open-House
+      image: /images/250111_Open_House_Lana_060.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Open House Microsite
       subtitle: Headlines
       description: 9 Jan
@@ -47,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2024-JC2-Dinner-and-Dance
       image: /images/241128_JC2_Prom_Joshua_013.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 ISLE Batam
-      subtitle: STORIES
-      id: infopic
-      description: 16 - 18 Nov
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2024-ISLE-Trip-to-Batam
-      image: /images/DSC07796.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
