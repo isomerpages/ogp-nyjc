@@ -19,9 +19,8 @@ the human experience. It is therefore not confined to a textbook. The course
 is designed to acquaint students with significant issues in the political
 and social realms, scientific progress and its effects on human life, and
 the arts and their relevance.</p>
-<p>For more detailed information about General Paper 8807 (last year of examination
-in 2023), please visit <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8807_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>For detailed information about General Paper 8881 (first year of examination
+<p>
+<br>For detailed information about General Paper 8881 (first year of examination
 in 2024), please visit <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>English Department Members</strong>
 </p>
