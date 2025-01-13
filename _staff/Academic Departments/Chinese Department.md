@@ -11,35 +11,35 @@ variant: tiptap
 Mother tongue courses</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8655_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chinese 8655</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8655_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chinese 8655</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9572_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chinese language and Literature 9572</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9575_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chinese language and Literature 9575</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8611_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B+ 8611</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8611_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B8611</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9571_y21_sy_english_version.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Translation (Chinese) 9571</a></strong>
-</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8656_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Malay Language 8651</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9573_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Malay Language and Literature 9573</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9571_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Translation (Chinese) 9571</a></strong>
 </p>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8657_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Tamil Language 8657&nbsp;</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8656_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Malay Language 8656</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9576_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Malay Language and Literature 9576</a></strong>
+</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Tamil Language 8657&nbsp;</a></strong>
 </p>
 </li>
 </ul>
