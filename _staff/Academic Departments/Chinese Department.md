@@ -19,7 +19,7 @@ Mother tongue courses</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8611_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B8611</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8611_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B 8611</a></strong>
 </p>
 </li>
 <li>
