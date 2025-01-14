@@ -247,9 +247,6 @@ sciences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sci" src="/images/Sci_Dept_2025_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sci" src="/images/Sci_Dept_2025_3.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
