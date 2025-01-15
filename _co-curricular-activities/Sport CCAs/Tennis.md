@@ -32,4 +32,9 @@ as participate in the annual National School Games ‘A’ Division Championship
 These competitions provide invaluable opportunities to refine our skills,
 analyze gameplay, and learn from our opponents. Each match strengthens
 our abilities and enhances our understanding of the game.</p>
-<p></p>
+<p><strong>Join Us!</strong>
+<br>
+<br>If you’re passionate about learning tennis and have a competitive spirit,
+we invite you to be part of our team. Whether you're a beginner or a seasoned
+player, you’ll find a supportive environment to grow, compete, and thrive.
+Together, let’s take your game to the next level!</p>
