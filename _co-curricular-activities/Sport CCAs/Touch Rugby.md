@@ -23,4 +23,4 @@ both on and off the field.</p>
 it will be easier for you to pick up the skills. If you are just an energetic
 girl who would like to experience the exhilarating feeling of running around
 the open field, scoring a try and learning a new sport, touch rugby is
-the CCA for you!t, touch rugby is the CCA for you!</p>
+the CCA for you!</p>
