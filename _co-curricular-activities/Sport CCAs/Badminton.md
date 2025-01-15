@@ -3,9 +3,24 @@ title: Badminton
 permalink: /co-curricular-activities/Sport-CCAs/Badminton/
 description: ""
 third_nav_title: Sport CCAs
+variant: tiptap
 ---
-Badminton, a whole new dimension of excitement and fun, keeping players fit as they chase after a single shuttlecock everywhere around the court!
-
-The NYJC Badminton Team trains twice a week – Tuesday and Thursday – with additional training sessions before any tournament. Court training sessions take place from 5.30 to 7.30pm and involve footwork, drills and improvement of players’ technical skills. Physical training sessions follow after, from 7.30 to 8 pm. We take part in various competitions such as the National Schools ‘A’ Division Championships and the Pilot Pen Cup and we also organise friendly matches. Through all these activities, we gain exposure to a wide range of game play and learn the styles adopted by others, thereby helping us become better players.
-
-However, the NYJC Badminton Team isn’t all about hard work alone. We also make short trips to places such as Malaysia where we learn and train with players outside of Singapore. The experience of playing together and learning from one another not only strengthens the bond among members of our team but also instills the values of diligence, perseverance and excellence in each of us
+<p>Unleash Your Potential with NYJC Badminton!</p>
+<p></p>
+<p>NYJC Badminton is where passion meets precision on the court. Our team
+fosters a love for this dynamic sport, offering a platform for students
+to develop their skills and build lasting friendships.</p>
+<p>We actively participate in the National School Games (NSG) A-Division
+Championships, representing our college with pride and determination. We
+also engage in regular friendly matches with other Junior Colleges, which
+not only test our abilities but also foster inter-school camaraderie.</p>
+<p>NYJC Badminton maintains a rigorous training schedule, with sessions held
+every Tuesday and Thursday from 5pm to 7.30pm. During the A-Division period,
+we intensify our preparation with additional training sessions to ensure
+peak performance. Our dedicated coaches and players focus on improving
+techniques, strategic gameplay, and overall fitness. From perfecting serves
+to executing swift smashes, each training session is designed to bring
+players closer to their full potential.</p>
+<p>NYJC Badminton is more than just a sports team; it's a community where
+shared passion and teamwork create lasting bonds and memorable experiences
+on and off the court.</p>
