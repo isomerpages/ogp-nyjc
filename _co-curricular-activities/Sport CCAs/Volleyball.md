@@ -3,9 +3,42 @@ title: Volleyball
 permalink: /co-curricular-activities/Sport-CCAs/Volleyball/
 description: ""
 third_nav_title: Sport CCAs
+variant: tiptap
 ---
-Volleyball is a team sport that requires cooperation amongst highly disciplined team members. It requires not only skills, but also perseverance and a high level of fitness.
-
-The Volleyball team trains twice a week, Wednesdays and Saturdays for the girls’ team, Tuesdays and Fridays for the boys’ team, with an extra training session when a competition is near. Fitness training sessions take place from 5.30pm to 6.30pm and Court training sessions take place from 7pm to 9.30pm. It is important to maintain a high level of physical fitness and hence the fitness training sessions are crucial. Court training sessions brush up skills that are needed to excel in the sport. We take part in the annual National School Games ‘A’ Division Volleyball Championships. Through this competition, we have gained insightful experiences from other teams, which have different playing styles that we can learn and put to use in future.
-
-The NYJC Volleyball team is a closely-knit team. Our annual overseas trips to places such as Malaysia, Taiwan and China were memorable in many ways and have definitely made our ties stronger and closer.
+<p>Volleyball is more than just a sport; at Nanyang Junior College (NYJC),
+it is a testament to teamwork, discipline, and perseverance. The NYJC Volleyball
+team is a dynamic and closely-knit group that strives to embody these values
+on and off the court. Through rigorous training and shared goals, the team
+fosters a culture of mutual support and excellence.</p>
+<p>The Volleyball team trains three times a week but it is reduced during
+off-season and examination periods. We take part in the annual National
+School Games ‘A’ Division Volleyball Championships, where both the boys
+and girls teams have demonstrated remarkable performances:</p>
+<p><strong>Boys Team Achievements:</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015: 3rd
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016: 2nd
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022: 2nd
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: 1st</p>
+<p><strong>Girls Team Achievements:</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022: Quarter Finalists
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023: 3rd
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: 3rd</p>
+<p>Through this competition, the team has gained invaluable experience and
+insights, learning from the diverse playing styles of other schools to
+continually improve and excel.</p>
+<p>The NYJC Volleyball team also cherishes the memories created during annual
+overseas trips to destinations such as Malaysia and China. These trips
+have strengthened the bonds among teammates and provided opportunities
+to experience volleyball in a global context, enriching the team’s journey
+together.</p>
