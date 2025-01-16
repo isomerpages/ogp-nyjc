@@ -32,15 +32,6 @@ sections:
       image: /images/250111_Open_House_Lana_060.jpg
       alt: Image alt text
   - infopic:
-      title: 2025 Joint Admissions Exercise
-      subtitle: Headlines
-      id: infopic
-      description: 4 Jan
-      button: click here
-      alt: image
-      url: /headlines/sc/
-      image: /images/Untitled.jpg
-  - infopic:
       title: 2024 JC2 Dinner and Dance
       subtitle: stories
       id: infopic
