@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Web_Banner_11Jan.jpg
+      background: /images/Admissions-Admin.jpg
       url: /contact-us/
       key_highlights:
         - title: Headlines
@@ -31,14 +31,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2025-NYJC-Open-House
       image: /images/250111_Open_House_Lana_060.jpg
       alt: Image alt text
-  - infopic:
-      title: 2025 Open House Microsite
-      subtitle: Headlines
-      description: 9 Jan
-      button: click here
-      url: /2025-nyjc-open-house-microsite/
-      image: /images/oh.jpg
-      alt: image
   - infopic:
       title: 2025 Joint Admissions Exercise
       subtitle: Headlines
