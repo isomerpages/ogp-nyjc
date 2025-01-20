@@ -151,7 +151,7 @@ sciences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physics [Revised]&nbsp;~</p>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sy.pdf" rel="noopener nofollow" target="_blank">Physics</a> [Revised]&nbsp;~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9478&nbsp;</p>
