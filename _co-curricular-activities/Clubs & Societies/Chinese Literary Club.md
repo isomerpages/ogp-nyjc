@@ -3,9 +3,18 @@ title: Chinese Literary Club
 permalink: /co-curricular-activities/Clubs-and-Societies/Chinese-Literary-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-The Chinese Literary Club aims to cultivate students’ interest in Chinese Culture and Literature as well as to equip students with literary appreciation and writing skill. The club conducts a wide range of activities, such as short stories appreciation and writing workshops, novel introductory and appreciation programme and movie sharing sessions. This is useful in fostering students’ abilities in literary appreciation as well as strengthening their understanding of Chinese Literature.
-
-The members also get to enhance their intellectual and cultural knowledge through outings and interactive activities such as tea culture appreciation session, learning journeys to places of cultural significance, participating in literary talks, conducting novel appreciation sessions and etc.
-
-Moreover, the club also provides opportunity for its members to organise events including the JC1 Orientation, JC2 Farewell Ceremony for the Chinese Language Elective Programme (CLEP) students and the annual gathering for the programme’s alumni. Through organising such events, the club helps to train its members in leadership, teamwork and organisation skills.
+<p>The NYJC Chinese Cultural Society (CCS) provides a platform for students
+to explore and express their passion for Chinese theatre performing arts.
+Guided by a professional instructor renowned in Singapore's theatre industry,
+members of CCS gain valuable insights into theatre practices and have the
+opportunity to engage with both local and international drama productions.</p>
+<p>The weekly drama lessons are put to practical test as CCS members collaborate
+on their annual Chinese drama production, 《我们的白云岗》. This production not
+only provides aspiring actors and actresses the opportunity to showcase
+their talents on stage but also offers in-depth learning experiences in
+stage design, sound and lighting control, as well as props and costume
+design.</p>
+<p>If you share a passion for theatre arts, join the CCS family and be part
+of an exciting and creative journey!</p>
