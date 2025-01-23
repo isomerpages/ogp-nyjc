@@ -3,8 +3,12 @@ title: AVA Club
 permalink: /co-curricular-activities/Clubs-and-Societies/AVA-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
+Welcome to the Audio Visual Aids Club! We are a dedicated group who work tirelessly behind the scenes to ensure the success of various events and activities. With a passion for audio and visual production, we strive to enhance the overall experience and create unforgettable moments.
 
-The AVA Club is a very important set-up in NYJC. The crew is responsible for the smooth running of the daily morning assemblies and every concert and programme that requires the support of audio visual aid. Where there are lights and sound, the AVA crew will be there.
+We actively support a range of events throughout the year, playing a crucial role in their smooth execution. From the excitement of our college Open House, where we help create a vibrant atmosphere, to the electrifying performances of our talent time competition The Nyght, where we provide seamless sound and lighting coordination, our club ensures that every event receives the attention it deserves. Additionally, we assist in organizing Morning Assemblies, where we set the stage for inspirational talks and engaging presentations, ensuring a captivating start to each day.
 
-AVA crew members are known for their ability to stay cool under pressure.  They are sharp observers, keen problem-solvers and excellent team players. The AVA Club opens its doors to everyone – whether you are a veteran or one who cannot tell one wire from another – training will be provided and you will be the key to a successful performance in no time.
+Joining the Audio Visual Aids Club provides an excellent opportunity to explore the world of audio and visual production, gain practical experience, and develop valuable skills in event management. Whether you have a passion for technology, creativity, or simply enjoy being part of the behind-the-scenes magic, we welcome all enthusiastic members who share our love for audio and visual arts. Our club has a remarkable track record of achievements, as we firmly believe that our hard work and dedication are key factors in every success story. Whether it's setting up sound systems, managing lighting effects, or handling multimedia presentations, we take pride in our ability to bring events to life through the power of audio and visual elements.
+
+Come and be part of our dynamic team, where your dedication and talent will contribute to the success of memorable events and create lasting impressions on our audience. Together, let's harness the power of audio and visuals to make every moment unforgettable!
