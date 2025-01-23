@@ -3,9 +3,25 @@ title: Nanyang Debaters and Orators (NYDO)
 permalink: /co-curricular-activities/Clubs-and-Societies/nanyang-debaters-and-orators-nydo/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-The Nanyang Debaters and Orators (NYDO) commits itself to encouraging NYJCians to think critically and communicate effectively.  It strives to engage in discourse within the college, serving as a platform for students to voice their opinions. The Recreational Wing works hard to organise exhibition debates, dialogue sessions and talks to bring to attention of NYJCians, important socio-political issues.  
-
-Besides organising events within the college to engage their college mates, the Competitive Wing also actively participates in friendly spars and competitions, such as the  Oldham Cup and MOE Intercollegiate Debate Competition (MIDC), YMCA Plain English Speaking Award (PESA), Singapore Model Cabinet (SMC) and Preparatory Model United Nations (PREPMUN) Conference. However, NYDO also believes that debating and public speaking should not only be open to those with experience. They welcome NYJCians of any skill level to join them on Team Infernus.
-
-CCA sessions are held twice a week on Tuesdays and Wednesdays where they endeavour to live up to their motto, ‘ARTE ET MARTE’, by honing our oratorical skills and logical reasoning.
+<p>At the heart of the Nanyang Debaters and Orators (NYDO) is a commitment
+to ignite critical thinking and hone persuasive communication among NYJCians.
+By creating a vibrant space for discourse, NYDO empowers students to speak
+their minds, question assumptions, and broaden their perspectives.</p>
+<p>Guided by the motto, ‘ARTE ET MARTE,’—‘Skill and Valour’, NYDO sessions
+go beyond imparting debate and public speaking techniques. They also give
+members the confidence to push their own boundaries and rise to intellectual
+challenges.</p>
+<p>Within NYJC, NYDO organises events such as NY Model United Nations and
+exhibition debates, igniting lively conversations on pressing socio-political
+issues. Beyond these on-campus initiatives, the Competitive Wing embraces
+friendly spars and prestigious competitions, such as the MOE Intercollegiate
+Debate Competition (MIDC), YMCA Plain English Speaking Award (PESA),and
+Model United Nation conferences. Contributing to the wider debating community,
+NYDO organises their very own Infernus Cup, a debate competition for novice
+debaters who would otherwise have limited competitive debating opportunities.</p>
+<p>NYDO believes everyone can benefit from mastering the art of debate and
+public speaking. Whether you are a seasoned speaker or brand-new to the
+craft, all are invited to join NYDO, where you will strengthen your oratorical
+skills, sharpen your reasoning, and grow into a confident communicator.</p>
