@@ -63,69 +63,42 @@ research competitions at both the national and international levels.
 <br>
 </p>
 <p><strong>2023 Singapore Science and Engineering Fair</strong>
-<br>
-<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhu Sizhe (CT 2210) – Silver</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabrielle Marcya Joan (CT 2210) – Bronze
-and Loreal Special Award for Innovation in Sustainability</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emily Tan Seok Hui (CT 2214) – Bronze</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Jie En, Nigel (CT 2214) – Bronze</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Wenyang (CT 2223) – Bronze</p>
-<p><strong>&nbsp;</strong>
-<br><strong>2023 International Elementz Fair</strong>
-<br>
-<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Zhao En (CT 2214) – Gold</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emily Tan Seok Hui (CT 2214) – Bronze</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Jie En, Nigel (CT 2214) – Bronze</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua She Jia (CT 2217) – Bronze</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Wenyang (CT 2223) – Bronze</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhu Sizhe (CT 2210) – Silver
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabrielle Marcya Joan (CT 2210) – Bronze
+and Loreal Special Award for Innovation in Sustainability
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emily Tan Seok Hui (CT 2214) – Bronze
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Jie En, Nigel (CT 2214) – Bronze
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Wenyang (CT 2223) – Bronze</p>
+<p><strong>2023 International Elementz Fair</strong>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Zhao En (CT 2214) – Gold
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emily Tan Seok Hui (CT 2214) – Bronze
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Jie En, Nigel (CT 2214) – Bronze
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua She Jia (CT 2217) – Bronze
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Wenyang (CT 2223) – Bronze</p>
 <p><strong>2023 A*STAR Science Award (Junior College)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koh Hong Feng (CT 2301)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pey Ruo-yu (CT 2302)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kayla Lim Yu En (CT 2307)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheong Guang Yi (CT 2315)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koh Hong Feng (CT 2301)
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pey Ruo-yu (CT 2302)
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kayla Lim Yu En (CT 2307)
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheong Guang Yi (CT 2315)</p>
 <p><strong>2023 DSTA Junior College Scholarship</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loh Tse Yen (CT 2316)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loh Tse Yen (CT 2316)</p>
 <p><strong>2023 MOE OSAP - International Science School</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inchara Praveen (CT 2323)</p>
-<p>&nbsp;</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inchara Praveen (CT 2323)&nbsp;</p>
 <p><strong>2023 MOE LSAP</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ang Yew Shuen (CT 2301)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ang Yew Shuen (CT 2301)</p>
 <p><strong>2023 Engineering &amp; Tech Programme Scholarship (ETPS)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua Ya Wen (CT 2314)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Qian Lin, Valerie (CT 2314)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chuah Kun Da (CT 2315)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gan Yee Quim Ethan (CT 2315)</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leong Kai Jie (CT 2318 )</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chiong Wei Jie, Samuel (CT 2322 )</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quak En Hao Ethan (CT 2322)</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Xyn Jieh, Samuel (CT 2322)</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amatatsu Shoko (CT 2323)</p>
-<p>10.&nbsp;&nbsp; Ethan Tse Chun Lam (CT 2328)</p>
-<p>11.&nbsp;&nbsp; Ng Ling Kai (CT 2328)</p>
-<p>12.&nbsp;&nbsp; Chen Weizhi (CT 2330)</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua Ya Wen (CT 2314)
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Qian Lin, Valerie (CT 2314)
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chuah Kun Da (CT 2315)
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gan Yee Quim Ethan (CT 2315)
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leong Kai Jie (CT 2318 )
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chiong Wei Jie, Samuel (CT 2322 )
+<br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quak En Hao Ethan (CT 2322)
+<br>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Xyn Jieh, Samuel (CT 2322)
+<br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amatatsu Shoko (CT 2323)
+<br>10.&nbsp;&nbsp; Ethan Tse Chun Lam (CT 2328)
+<br>11.&nbsp;&nbsp; Ng Ling Kai (CT 2328)
+<br>12.&nbsp;&nbsp; Chen Weizhi (CT 2330)</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>2023 NUS Science Research Programme</strong>
