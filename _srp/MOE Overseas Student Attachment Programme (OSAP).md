@@ -74,33 +74,34 @@ Goh Kien Soon) pigeonhole number 13A. You can download the form <a href="/files/
 </li>
 </ul>
 <p>Students who are interested to participate in <strong>CEE-RSI </strong>can
-indicate your interest through this <strong><a href="https://form.gov.sg/678f2e0df1fdcd69fbb78924" rel="noopener noreferrer nofollow" target="_blank">form</a>. </strong>
+indicate your interest through this <strong><a href="https://form.gov.sg/678f2e0df1fdcd69fbb78924" rel="noopener noreferrer nofollow" target="_blank">form</a>.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>The University of Sydney International Science School (ISS)</u></strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; 24 Feb 2025, 12 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>24 Feb 2025, 12 pm&nbsp;</p>
 <p>Submission of video clip</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; 10 Mar 2025, 12 pm</p>
-<p>Submission of completed hardcopy application to school coordinator (Mr
-Goh Kien Soon) pigeonhole number 13A. You can download the form <u>here</u>.
-(link to OSAP Annex C_2025 (ISS))</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; 14 Mar 2025, 10 am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Submit online application form for students nominated by the school</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; After 14 Mar 2025&nbsp;&nbsp;</p>
-<p>Selected applicants will attend an interview</p>
-<p><strong><u>&nbsp;</u></strong>
+</li>
+<li>
+<p>10 Mar 2025, 12 pm
+<br>Submission of completed hardcopy application to school coordinator (Mr
+Goh Kien Soon) pigeonhole number 13A. You can download the form <a href="/files/OSAP_Annex_C_2025__ISS_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>Students who are interested to participate in
-<br><strong>ISS </strong>can indicate your interest through this <strong><a href="https://form.gov.sg/678f2ef5864ffc362d3af6ff" rel="noopener noreferrer nofollow" target="_blank">form</a>.</strong> 
-</p>
-<p><strong><u>&nbsp;</u></strong>
+</li>
+<li>
+<p>14 Mar 2025, 10 am
+<br>Submit online application form for students nominated by the school</p>
+</li>
+<li>
+<p>After 14 Mar 2025
+<br>Selected applicants will attend an interview</p>
+</li>
+</ul>
+<p>Students who are interested to participate in <strong>ISS </strong>can
+indicate your interest through this <strong><a href="https://form.gov.sg/678f2ef5864ffc362d3af6ff" rel="noopener noreferrer nofollow" target="_blank">form</a>.</strong>
 </p>
 </td>
 </tr>
