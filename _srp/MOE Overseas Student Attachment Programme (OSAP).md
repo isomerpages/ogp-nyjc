@@ -55,11 +55,11 @@ good communication skills</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>8 Feb 2025, 12 pm
-<br>Submission of video clip
-<br>10 Feb 2025, 12 pm</p>
+<p>8 Feb 2025, 12 pm</p>
+<p>Submission of video clip</p>
 </li>
 <li>
+<p>10 Feb 2025, 12 pm</p>
 <p>Submission of completed hardcopy application to school coordinator (Mr
 Goh Kien Soon) pigeonhole number 13A. You can download the form <a href="/files/OSAP_Annex_C_2025__CEE_RSI_.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
@@ -82,8 +82,8 @@ indicate your interest through this <strong><a href="https://form.gov.sg/678f2e0
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>24 Feb 2025, 12 pm&nbsp;</p>
-<p>Submission of video clip</p>
+<p>24 Feb 2025, 12 pm
+<br>Submission of video clip</p>
 </li>
 <li>
 <p>10 Mar 2025, 12 pm
@@ -109,4 +109,4 @@ indicate your interest through this <strong><a href="https://form.gov.sg/678f2ef
 </table>
 <p><u>&nbsp;</u>
 </p>
-<p>&nbsp;</p>
+<p></p>

@@ -4,9 +4,9 @@ permalink: /srp/nyrp/
 description: ""
 variant: tiptap
 ---
-<p>The NY Research Partnerships (title renamed to this) provides students
-research opportunities to further deepen their knowledge and interest in
-research, by collaborating with external institutions that offer attachments.</p>
+<p>The NY Research Partnerships provides students research opportunities
+to further deepen their knowledge and interest in research, by collaborating
+with external institutions that offer attachments.</p>
 <p>Through attachments, the students are given opportunities to work in collaborative
 groups, designing methods, collecting data and analysing them to simulate
 how scientists work. This will help develop creative and critical thinking
