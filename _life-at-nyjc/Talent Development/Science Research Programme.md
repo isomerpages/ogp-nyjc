@@ -14,7 +14,12 @@ research.</p>
 and deepen their learning in various fields. They would be mentored by
 our teachers, in collaboration with our partners in local research and
 academic institutions.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,7 +87,7 @@ mathematics, humanities and social sciences</p>
 <br>Have a passion for science and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Feb 2024</p>
+<p>15 Feb 2025</p>
 </td>
 </tr>
 <tr>
@@ -99,17 +104,23 @@ Mathematics and two <strong><u>pure</u></strong> Science subjects</p>
 <p>·&nbsp;&nbsp; Should have prior Research experience</p>
 <p>·&nbsp;&nbsp; Should be outstanding in their co-curricular activities;
 and should have good communication skills</p>
-<p>·&nbsp;&nbsp; Applicants can indicate your interest in this <strong><a href="https://form.gov.sg/65a9e983c173380012546976" rel="noopener noreferrer nofollow" target="_blank">form</a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Feb 2024
-<br>(8 am)</p>
+<p><strong><u>CEE-RSI</u></strong>
+</p>
+<p>8 Feb 2025
+<br>(12 pm)</p>
+<p>&nbsp;</p>
+<p><strong><u>ISS</u></strong>
+</p>
+<p>24 Feb 2025
+<br>(12 pm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/srp/SISP" rel="noopener noreferrer" target="_blank">Scientist-in-School Programme</a>
+<p><a href="/srp/nyrp" rel="noopener noreferrer" target="_blank">NY Research Partnerships</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +155,7 @@ one of the following subjects:</p>
 <p>Ø H2 Further Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Feb 2024</p>
+<p>24 Feb 2025</p>
 </td>
 </tr>
 <tr>
