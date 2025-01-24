@@ -99,46 +99,30 @@ and Loreal Special Award for Innovation in Sustainability
 <br>10.&nbsp;&nbsp; Ethan Tse Chun Lam (CT 2328)
 <br>11.&nbsp;&nbsp; Ng Ling Kai (CT 2328)
 <br>12.&nbsp;&nbsp; Chen Weizhi (CT 2330)</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2023 NUS Science Research Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tiffany Putri (CT 2303)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oliver Alexander Wang (CT 2306)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foong Mun Ying Christen (CT 2307)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Jun Lim (CT 2317)</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chiong Wei Jie, Samuel (CT 2322)</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chen Yeu Jiunn (CT 2330)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tiffany Putri (CT 2303)
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oliver Alexander Wang (CT 2306)
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foong Mun Ying Christen (CT 2307)
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Jun Lim (CT 2317)
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chiong Wei Jie, Samuel (CT 2322)
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chen Yeu Jiunn (CT 2330)</p>
 <p><strong>2023 NTU Nanyang Research Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koh Hong Feng (CT 2301)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hannah Tan Rui Xuan (CT 2306)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Veron Oh Teng Teng (CT 2306)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liu Meiqi Priscilla (CT 2308)</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ling You Chen (CT 2310)</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manleen Kaur (CT 2314)</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adam Chew Zhen Hong bin Mika'il Chew
-(CT 2315)</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theng Yi Ming (CT 2316)</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joshua Beh Zhiwei (CT 2317)</p>
-<p>10.&nbsp;&nbsp; Meiyappan Akshaya (CT 2317)</p>
-<p>11.&nbsp;&nbsp; Liu Yibo (CT 2326)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koh Hong Feng (CT 2301)
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hannah Tan Rui Xuan (CT 2306)
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Veron Oh Teng Teng (CT 2306)
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liu Meiqi Priscilla (CT 2308)
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ling You Chen (CT 2310)
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manleen Kaur (CT 2314)
+<br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adam Chew Zhen Hong bin Mika'il Chew
+(CT 2315)
+<br>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theng Yi Ming (CT 2316)
+<br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joshua Beh Zhiwei (CT 2317)
+<br>10.&nbsp;&nbsp; Meiyappan Akshaya (CT 2317)
+<br>11.&nbsp;&nbsp; Liu Yibo (CT 2326)</p>
 <p><strong>2022 International Science and Engineering Fair</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Rui Xuan (CT 2102) – 4th Position</p>
-<p><strong>&nbsp;</strong>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Rui Xuan (CT 2102) – 4th Position<strong>&nbsp;</strong>
 </p>
 <p><strong>2022 Singapore Science and Engineering Fair</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -181,11 +165,7 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Yang Lihan (CT 2129)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2022 A*STAR Science Award (Junior College)</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -195,22 +175,14 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Hannah Hoo Si En (CT 2225)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2022 DSTA Junior College Scholarship</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Goh Kai Jun Kavan (CT 2221)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2022 NUS Science Research Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -232,11 +204,7 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Aman Jalan (CT 2223)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2022 NTU Nanyang Research Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -267,11 +235,7 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Niu Te (CT 2228)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2022 SUTD Research Mentorship Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -287,13 +251,8 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Yu Guo (CT 2228)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 Singapore Science and Engineering Fair</strong>
 </p>
-<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Basil Kuok Zi Xi (CT 2005)</p>
@@ -329,11 +288,7 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Xin Wenkang (CT 2030)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 A*STAR Science Award (Junior College)</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -343,22 +298,15 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Nicolas Chan Pak-Leung (CT 2124)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 MOE OSAP</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Nevan Lim Zhen Yu (CT 2127)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 NUS Science Research Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Lee Rui Xuan (CT 2102)</p>
@@ -382,11 +330,8 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Kang Kiat Yang (CT 2125)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 NTU Nanyang Research Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Chia Jenxi (CT 2101)</p>
@@ -401,27 +346,22 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Popova Mariia (CT 2121)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 SUTD Research Mentorship Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Yeo Yong Xuan (CT 2029)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2021 Singapore International Science Challenge</strong>
+<br>
 </p>
-<p></p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoo Di Heng (CT 2023)&nbsp; - Overall
-2nd runner-up for Field and Design &amp; Build Challenges</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- Best in Category</p>
-<p></p>
-<ol start="2" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
+<li>
+<p>Hoo Di Heng (CT 2023)&nbsp; - Overall 2nd runner-up for Field and Design
+&amp; Build Challenges
+<br>- Best in Category</p>
+</li>
 <li>
 <p>Wong Zi Hao, Deston (CT 2029) - Best in Category</p>
 </li>
@@ -429,12 +369,8 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Xin Wenkang (CT 2030) - Best in Category</p>
 </li>
 </ol>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2020 Singapore Science and Engineering Fair</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bernice Teo Wei Shan (CT 1921)</p>
@@ -456,12 +392,10 @@ and Loreal Special Award for Innovation in Sustainability
 </li>
 <li>
 <p>Leong Kit Ye (CT 1928)</p>
-<p></p>
 </li>
 </ol>
 <p><strong>2020 A*STAR Science Award (Junior College)</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Lee Wen Xuan, Karel (CT 2007)</p>
@@ -470,10 +404,8 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Chia Bing Xuan (CT 2028)</p>
 </li>
 </ol>
-<p></p>
 <p><strong>2020 NUS Science Research Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Basil Kuok Zi Xi (CT 2005)</p>
@@ -485,7 +417,6 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Li Xukai (CT 2018)</p>
 </li>
 </ol>
-<p></p>
 <p><strong>2020 NTU Nanyang Research Programme</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -517,11 +448,9 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Vaikesh S/O Manimaran (CT 2028)</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>2020 S.-T. Yau High School Science Award (Asia Category) – Gold Award</strong>
 </p>
-<p></p>
-<ol start="4" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Hoo Di Heng (CT 2023)</p>
 </li>
@@ -532,12 +461,8 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Xin Wenkang (CT 2030)</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
 <p><strong>2019 A*STAR Science Award (Junior College)</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Darren Chan Shunjie (CT 1905)</p>
@@ -552,19 +477,15 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Soh Ze Kai (CT 1927)</p>
 </li>
 </ol>
-<p></p>
 <p><strong>2019 A*STAR-MOE Local Student Attachment Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Au Jeng Guan, Kenneth (CT 1923)</p>
 </li>
 </ol>
-<p></p>
 <p><strong>2019 NUS Science Research Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Hong Seokjun (CT 1902)</p>
@@ -582,22 +503,18 @@ and Loreal Special Award for Innovation in Sustainability
 <p>Leong Kit Ye (CT 1928)</p>
 </li>
 </ol>
-<p></p>
 <p><strong>2019 NTU Nanyang Research Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Wang Yihui (CT 1916)</p>
 </li>
 <li>
 <p>Chew Yong Zhang (CT 1921)</p>
-<p></p>
 </li>
 </ol>
 <p><strong>2019 SUTD Research Mentorship Programme</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Lin Zuming (CT 1913)</p>
