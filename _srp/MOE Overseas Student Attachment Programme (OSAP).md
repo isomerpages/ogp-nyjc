@@ -55,12 +55,12 @@ good communication skills</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>8 Feb 2025, 12 pm</p>
-<p>Submission of video clip</p>
+<p>8 Feb 2025, 12 pm
+<br>Submission of video clip</p>
 </li>
 <li>
-<p>10 Feb 2025, 12 pm</p>
-<p>Submission of completed hardcopy application to school coordinator (Mr
+<p>10 Feb 2025, 12 pm
+<br>Submission of completed hardcopy application to school coordinator (Mr
 Goh Kien Soon) pigeonhole number 13A. You can download the form <a href="/files/OSAP_Annex_C_2025__CEE_RSI_.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 </li>
