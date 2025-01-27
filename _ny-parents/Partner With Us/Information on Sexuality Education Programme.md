@@ -99,16 +99,14 @@ Behaviour, and Culture, Society and Law woven into the main focus on relationshi
 </td>
 <td rowspan="1" colspan="1">
 <p><em>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students will learn to navigate challenges in a dating
+<br>
+<br>In this lesson, students will learn to navigate challenges in a dating
 relationship. This includes identifying unhealthy relationships, when to
 seek help, who to turn to for support and to appreciate that one can emerge
-stronger and be better prepared for future relationships.</p>
-<p>&nbsp;</p>
-<p>Students will have a deeper understanding of what dating and family violence
-entails and be reminded of the importance of respect for others.</p>
-<p>&nbsp;</p>
+stronger and be better prepared for future relationships.
+<br>
+<br>Students will have a deeper understanding of what dating and family violence
+entails and be reminded of the importance of respect for others.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -123,17 +121,14 @@ entails and be reminded of the importance of respect for others.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students examine issues related to abstinence and explore
+<br>In this lesson, students examine issues related to abstinence and explore
 the balance between being free to make personal choices and being responsible
 for the consequences of their choices. They will understand that, in the
 face of conflicting voices and perspectives, they need to focus on integrity,
-and choose to act in accordance with sound values and moral principles.</p>
-<p>&nbsp;</p>
-<p>In so doing, students learn to make responsible decisions for self and
+and choose to act in accordance with sound values and moral principles.
+<br>
+<br>In so doing, students learn to make responsible decisions for self and
 others, and think through the consequences of doing so.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
@@ -148,13 +143,12 @@ others, and think through the consequences of doing so.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students examine issues related to abortion and the impact
+<br>
+<br>In this lesson, students examine issues related to abortion and the impact
 of sexually transmitted infections (STIs), and understand that one has
-to make responsible decisions for both self and others.</p>
-<p>&nbsp;</p>
-<p>Students are also taught to consider sexual abstinence before marriage
+to make responsible decisions for both self and others.
+<br>
+<br>Students are also taught to consider sexual abstinence before marriage
 to remove any risks that come with casual sex. The lesson will also focus
 on being a source of support for others who may be pregnant or have STIs.</p>
 </td>
@@ -224,18 +218,15 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Is voyeurism wrong? Why?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students will examine the relationship between rights
+<br>In this lesson, students will examine the relationship between rights
 and responsibilities by exploring societal expectations, the laws that
 protect teenagers from sexual crimes, and the legal consequences of inappropriate
-sexual behaviour.</p>
-<p>&nbsp;</p>
-<p>Students will examine what makes voyeurism wrong, learn the importance
+sexual behaviour.
+<br>
+<br>Students will examine what makes voyeurism wrong, learn the importance
 of the law as signposts for desired behaviours and conduct in society,
 and the importance of one’s moral compass in responsible decision-making
 and choosing to do what is right.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 4</p>
@@ -249,13 +240,13 @@ and choosing to do what is right.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students will recognise that some segments of society
+<br>
+<br>In this lesson, students will recognise that some segments of society
 may inaccurately reflect the efforts needed to maintain healthy relationships,
 leading to skewed assumptions of sexual messages and connotations within
-relationships.</p>
-<p>Students will understand how societal influences can skew one’s understanding
+relationships.
+<br>
+<br>Students will understand how societal influences can skew one’s understanding
 of gender stereotypes (e.g. boys should not cry, and are to suppress emotional
 sensitivity so as not to seem weak; girls are physically weak and unathletic,
 and downplay achievements so as to fit in), which can affect interactions
@@ -364,12 +355,13 @@ by MOE-approved external providers.
 <br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="/files/Annex_A_Growing_Years_Parent_Opt_out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+and is also downloadable <a href="https://cms.isomer.gov.sg/files/Annex_A_Growing_Years_Parent_Opt_out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 31/05/2025.
 <br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_Out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+the year and is also downloadable <a href="https://cms.isomer.gov.sg/files/Annex_B_eTeens_Parent_Opt_Out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 31/05/2025.
-<br>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for discussion or
-to seek clarifiation about the school’s Sexuality Education program</p>
+<br>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for
+discussion or to seek clarifiation about the school’s Sexuality Education
+program</p>
