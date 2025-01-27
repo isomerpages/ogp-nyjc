@@ -39,150 +39,25 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
 <p><strong>Overview of &nbsp;nanyang Junior College’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a> )
-for more information on the scope of Sexuality Education in the school
-curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p><strong>Sexuality Education</strong>:</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The focus for Sexuality Education
 at Pre-University is on respectful relationships. Specifically, the JC/MI
 package covers themes of Interpersonal Relationships, Sexual Health, Sexual
 Behaviour, and Culture, Society and Law woven into the main focus on relationships.</p>
-<p>
-<br>
-</p>
 <p><strong>At Nanyang Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<p><strong>JC1&nbsp;</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Pre-U Year 1 / IP Year 5</a></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MODULE / THEME</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 8)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Developing Healthy Relationships/</p>
-<p>Theme 3B 'Sexual Health and Behaviour’</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>What Are Your #relationshipgoals?</p>
-<p>&nbsp;</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students will learn to navigate challenges in a dating
-relationship. This includes identifying unhealthy relationships, when to
-seek help, who to turn to for support and to appreciate that one can emerge
-stronger and be better prepared for future relationships.</p>
-<p>&nbsp;</p>
-<p>Students will have a deeper understanding of what dating and family violence
-entails and be reminded of the importance of respect for others.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If Not Now When</p>
-<p>(Part 1)</p>
-<p>&nbsp;</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students examine issues related to abstinence and explore
-the balance between being free to make personal choices and being responsible
-for the consequences of their choices. They will understand that, in the
-face of conflicting voices and perspectives, they need to focus on integrity,
-and choose to act in accordance with sound values and moral principles.</p>
-<p>&nbsp;</p>
-<p>In so doing, students learn to make responsible decisions for self and
-others, and think through the consequences of doing so.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If Not Now When</p>
-<p>(Part 2)</p>
-<p>&nbsp;</p>
-<p>(60&nbsp; mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?</em>
-</p>
-<p>&nbsp;</p>
-<p>In this lesson, students examine issues related to abortion and the impact
-of sexually transmitted infections (STIs), and understand that one has
-to make responsible decisions for both self and others.</p>
-<p>&nbsp;</p>
-<p>Students are also taught to consider sexual abstinence before marriage
-to remove any risks that come with casual sex. The lesson will also focus
-on being a source of support for others who may be pregnant or have STIs.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -392,7 +267,6 @@ opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <u>here</u> (please upload parents opt-out
 form found in Annex <strong>B</strong> and insert a hyperlink for parents
 to download the form). The completed form is to be submitted by 31/05/2025.</p>
-<p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for
-discussion or to seek clarifiation about the school’s Sexuality Education
-program</p>
+<p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for discussion or
+to seek clarifiation about the school’s Sexuality Education program</p>
 <p></p>
