@@ -287,8 +287,8 @@ developed by Health Promotion Board, in collaboration with the Ministry
 of Education, to provide JC/MI Year 1 students with accurate information
 on STIs/HIV and protection from a health perspective. The desired outcome
 of the eTeens programme is that students are empowered to make wise, informed
-and sensible decisions.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students learn the health,
+and sensible decisions.
+<br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students learn the health,
 social and financial implications of STIs/HIV on an individual and the
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
@@ -360,17 +360,16 @@ of STIs</p>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education and/or supplementary Sexuality Education programmes
-by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+by MOE-approved external providers.
+<br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
 and is also downloadable <a href="/files/Annex_A_Growing_Years_Parent_Opt_out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/05/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+The completed form is to be submitted by 31/05/2025.
+<br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_Out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/05/2025.</p>
-<p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for discussion or
+The completed form is to be submitted by 31/05/2025.
+<br>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for discussion or
 to seek clarifiation about the school’s Sexuality Education program</p>
-<p></p>
