@@ -58,29 +58,129 @@ Behaviour, and Culture, Society and Law woven into the main focus on relationshi
 </p>
 <p><strong>JC1&nbsp;</strong>
 </p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MODULE / THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 8)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Developing Healthy Relationships/</p>
+<p>Theme 3B 'Sexual Health and Behaviour’</p>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p>What Are Your #relationshipgoals?</p>
+<p>&nbsp;</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?</em>
 </p>
-<p><strong>&nbsp;</strong>
+<p>&nbsp;</p>
+<p>In this lesson, students will learn to navigate challenges in a dating
+relationship. This includes identifying unhealthy relationships, when to
+seek help, who to turn to for support and to appreciate that one can emerge
+stronger and be better prepared for future relationships.</p>
+<p>&nbsp;</p>
+<p>Students will have a deeper understanding of what dating and family violence
+entails and be reminded of the importance of respect for others.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If Not Now When</p>
+<p>(Part 1)</p>
+<p>&nbsp;</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?</em>
 </p>
-<p><strong>&nbsp;</strong>
+<p>&nbsp;</p>
+<p>In this lesson, students examine issues related to abstinence and explore
+the balance between being free to make personal choices and being responsible
+for the consequences of their choices. They will understand that, in the
+face of conflicting voices and perspectives, they need to focus on integrity,
+and choose to act in accordance with sound values and moral principles.</p>
+<p>&nbsp;</p>
+<p>In so doing, students learn to make responsible decisions for self and
+others, and think through the consequences of doing so.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If Not Now When</p>
+<p>(Part 2)</p>
+<p>&nbsp;</p>
+<p>(60&nbsp; mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?</em>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p>&nbsp;</p>
+<p>In this lesson, students examine issues related to abortion and the impact
+of sexually transmitted infections (STIs), and understand that one has
+to make responsible decisions for both self and others.</p>
+<p>&nbsp;</p>
+<p>Students are also taught to consider sexual abstinence before marriage
+to remove any risks that come with casual sex. The lesson will also focus
+on being a source of support for others who may be pregnant or have STIs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Pre-U Year 2 / IP Year 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>JC2</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -165,14 +265,22 @@ and relationships in ways that are harmful to themselves and others.</p>
 <p>&nbsp;&nbsp; Term 3 Week 5</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong><em><u>&nbsp;</u></em></strong>
-</p>
-<p><strong><em><u><br></u></em></strong>
-</p>
-<p><strong><em><u>&nbsp;</u></em></strong>
-</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme
 developed by Health Promotion Board, in collaboration with the Ministry
@@ -185,8 +293,6 @@ social and financial implications of STIs/HIV on an individual and the
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Nanyang Junior College, the <em>eTeens</em> programme will be implemented as follows in 2025</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -213,44 +319,44 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by HPB appointed vendor in
-Term 1 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by pre-recorded video from
+<p>Mass Talk
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by HPB appointed vendor in
+Term 1 2025
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by pre-recorded video from
 Semester 2 2025</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs
-and HIV)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for
-STIs and HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against
+and HIV)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for
+STIs and HIV
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against
 infection, specifically abstinence and the correct and consistent use of
-condoms</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of
-being infected with STIs/HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact
+condoms
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of
+being infected with STIs/HIV
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact
 of STIs</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Information for Parents</strong>
+<p><strong>&nbsp;Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education and/or supplementary Sexuality Education programmes
@@ -258,15 +364,13 @@ by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <u>here</u> (please upload parents opt-out form
-found in Annex <strong>A</strong> and insert a hyperlink for parents to download
-the form). The completed form is to be submitted by 31/05/2025.</p>
+and is also downloadable <a href="/files/Annex_A_Growing_Years_Parent_Opt_out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 31/05/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <u>here</u> (please upload parents opt-out
-form found in Annex <strong>B</strong> and insert a hyperlink for parents
-to download the form). The completed form is to be submitted by 31/05/2025.</p>
+the year and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_Out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 31/05/2025.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for discussion or
 to seek clarifiation about the school’s Sexuality Education program</p>
 <p></p>
