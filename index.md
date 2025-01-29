@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Chinese New Year Celebration
+      subtitle: stories
+      id: infopic
+      description: 29 Jan
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Chinese-New-Year-Celebration
+      image: /images/250128_CNY_Celebration_Ean_Shaw_046.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 NYJC Open House
       subtitle: STORIES
       id: infopic
@@ -30,15 +39,6 @@ sections:
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2025-NYJC-Open-House
       image: /images/250111_Open_House_Lana_060.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 JC2 Dinner and Dance
-      subtitle: stories
-      id: infopic
-      description: 28 Nov
-      button: view here
-      url: https://nanyangjc.smugmug.com/2024-JC2-Dinner-and-Dance
-      image: /images/241128_JC2_Prom_Joshua_013.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
