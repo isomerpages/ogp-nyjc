@@ -43,7 +43,7 @@ Ministerial Taskforce at the Ministry of Trade and Industry. Previous speakers
 include Mr. Tong Yee, co-founder of The Thought Collective, and Mr Jason
 Wong, founder of the Yellow Ribbon Project and Dads for Life movement.</p>
 <p><strong>Reflections</strong>
-<br>Than Zheng Yu / class 1910
+<br><strong>Than Zheng Yu / class 1910 </strong>
 <br>Scholarship: PSC Scholarship (Open)
 <br>Degree: Psychology
 <br>Uni: NUS
@@ -53,7 +53,6 @@ development and offering unique opportunities.&nbsp; It is a programme
 that not only supports students in preparing for their future but also
 encourages them to develop a reflective mindset and a deeper understanding
 of their aspirations.</p>
-<p></p>
 <p>The advice I received from my mentor throughout the programme instilled
 in me a reflective mindset and provided personalised guidance relevant
 to my interests. This mindset allowed me to leverage on the multitude of
@@ -63,7 +62,6 @@ I participate in. Despite the hectic life of a student, the mentoring sessions
 I had helped me shift my attention beyond academics. Aware of my interest
 in psychology, my mentor provided valuable insights into potential career
 paths that would not typically be explored in a classroom setting.&nbsp;</p>
-<p></p>
 <p>The many informative sharing sessions and opportunities, covering a wide
 range of topics, provided a platform for me to consider the various career
 paths. In my first year, I participated in the Criminal Behavioural Analysis
