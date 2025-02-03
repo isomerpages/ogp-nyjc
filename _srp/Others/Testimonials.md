@@ -65,6 +65,10 @@ recommend to any aspiring researcher.</p>
 <br>
 <br><em>NUS Science Research Programme</em> 
 <br>
+<br>A recipient of:
+<br>2023 Singapore Biology Olympiad − Gold medal
+<br>2023 Singapore Chemistry Olympiad − Silver medal
+<br>
 <br>Subject Combination:</p>
 <p>H2 Biology
 <br>H2 Chemistry
@@ -186,7 +190,11 @@ these skills and knowledge in future endeavours!
 </p>
 <p><em>A*STAR Science Award<br>NUS Science Research Programme<br>NYJC Zhong Zheng Ren Scholarship</em>
 </p>
-<p>Subject Combination:</p>
+<p>A recipient of:
+<br>2023 Singapore Science and Engineering Fair (SSEF) − Bronze award and
+Loreal Special Award for Innovation in Sustainability
+<br>
+<br>Subject Combination:</p>
 <p>H2 Biology
 <br>H2 Chemistry
 <br>H2 Mathematics
