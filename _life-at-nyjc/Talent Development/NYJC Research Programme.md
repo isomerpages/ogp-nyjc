@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Talent Development
 variant: tiptap
 ---
-<p>NYJC Science Research Programme aims to support students in exploring
-science, technology and engineering applications beyond the classroom.
-We hope to inculcate a strong culture of exploration, innovation and excellence
-in our students. This would prepare them to be future leaders in science
-research.</p>
+<p>NYJC Research Programme aims to support students in exploring beyond the
+classroom. We hope to inculcate a strong culture of exploration, innovation
+and excellence in our students. This would prepare them to be future leaders
+in research.</p>
 <p>Selected students will be given opportunities to develop their interest
 and deepen their learning in various fields. They would be mentored by
 our teachers, in collaboration with our partners in local research and
@@ -42,7 +41,7 @@ academic institutions.</p>
 and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Feb 2024</p>
+<p>24 Feb 2025 (12 pm)</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +54,7 @@ and technology</p>
 mathematics, humanities and social sciences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Feb 2024</p>
+<p>24 Feb 2025 (3 pm)</p>
 </td>
 </tr>
 <tr>
@@ -181,6 +180,6 @@ read what our current and graduated students have to say about their experiences
 <p>Click&nbsp;<a href="/srp/Others/FAQ/" rel="noopener" target="_blank">here</a>&nbsp;for
 frequently asked questions.</p>
 <p>For any research programme enquires, please email to</p>
-<p>Mrs Judy Tan (<a href="mailto:lau_li_san_judy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_li_san_judy@schools.gov.sg</a>)
-or
-<br>Mr Goh Kien Soon (<a href="mailto:goh_kien_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kien_soon@schools.gov.sg</a>).</p>
+<p>Mr Goh Kien Soon (<a href="mailto:goh_kien_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kien_soon@schools.gov.sg</a>)
+or</p>
+<p>Ms Toh Qianbing (<a href="mailto:toh_qianbing@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_qianbing@moe.edu.sg</a>)</p>
