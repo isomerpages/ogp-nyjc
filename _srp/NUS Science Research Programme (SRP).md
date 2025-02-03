@@ -10,7 +10,8 @@ or H3 module.</p>
 strong interest and have an aptitude for scientific research to participate
 in research projects under the guidance of professors from NUS and research
 centres.</p>
-<p>For more information about the programme and registration, please click <strong><a href="/files/SRP_2024_25_Information_Sheet__for_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>For more information about the programme and registration, please click
+<a href="/files/INFORMATION_SHEET_SRP2025__for_students_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Eligibility:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,11 +35,11 @@ School</p>
 <p>Admission criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful completion of Research Methods Module (RMM) (22 Mar – 20 Apr
-2024),</p>
+<p>Successful completion of Research Methods Module (RMM) (1 Apr – 24 Apr
+2025),</p>
 </li>
 <li>
-<p>Attendance at the 36th Research Congress (27 Apr 2024), and</p>
+<p>Attendance at the 37th Research Congress (26 Apr 2025), and</p>
 </li>
 <li>
 <p>Acceptance of an approved Research Plan by a&nbsp;H3-SRP supervisor/Enrichment-SRP
@@ -49,15 +50,15 @@ mentor.</p>
 Students are introduced to the library resources available on-campus, basic
 laboratory safety, ethics in research and gain some insights into the current
 R&amp;D available in participating departments/research centres in NUS.&nbsp;
-Students who intend to proceed to SRP 2024/25 then identify a self-selected
+Students who intend to proceed to SRP 2025/26 then identify a self-selected
 research topic, perform background literature search and formulate a viable
 research plan.</p>
-<p>On completion of the RMM and attendance at the 36th Research Congress,
+<p>On completion of the RMM and attendance at the 37th Research Congress,
 students interested to proceed with the Mentorship Attachment and Science
 Research Congress may then submit a Research Plan to a prospective mentor
-and apply for admission to SRP 2024/25 in May.&nbsp; On acceptance of the
+and apply for admission to SRP 2025/26 in May.&nbsp; On acceptance of the
 Research Plan approved by either a H3-SRP supervisor or an Enrichment-SRP
-mentor, they qualify as participants of the SRP 2024/25.
+mentor, they qualify as participants of the SRP 2025/26.
 <br>
 <br><strong>Application Procedures For Research Methods Module (RMM)</strong> 
 <br>To student, prepare the following information beforehand:</p>
@@ -80,4 +81,4 @@ grade/award and year obtained)</p>
 apply online.
 <br>
 <br><strong>Online Registration Period</strong> 
-<br>10 –20 Feb 2024</p>
+<br>20 Feb 2025 – 24 Feb 2025 (12 pm)</p>
