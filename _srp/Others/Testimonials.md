@@ -239,7 +239,10 @@ one.</p>
 <p><strong>Goh Wen Yang</strong>
 </p>
 <p><em>Research attachment at NUS Materials Science and Engineering</em>
-</p>
+<br>
+<br>A recipient of:
+<br>2023 Singapore Science and Engineering Fair (SSEF) − Bronze award
+<br>2022 Singapore Chemistry Olympiad − Bronze medal</p>
 <p>Subject Combination:</p>
 <p>H2 Physics
 <br>H2 Chemistry
@@ -280,8 +283,12 @@ open their perspectives (provided that one is not struggling with academics).</p
 <p><strong>Yang Lihan</strong>
 </p>
 <p><em>Scientist-in-School Programme at Institute of High Performance Computing (IHPC) ‒ A*STAR</em>
-</p>
-<p>Subject Combination:</p>
+<br>
+<br>A recipient of:
+<br>2022 Singapore Mathematics Olympiad − Silver medal
+<br>2021 Singapore Mathematics Olympiad − Bronze medal
+<br>
+<br>Subject Combination:</p>
 <p>H2 Mathematics
 <br>H2 Further Mathematics
 <br>H2 Physics
@@ -341,8 +348,13 @@ Have fun!</p>
 <p><strong>Lee Rui Xuan</strong>
 </p>
 <p><em>NUS Science Research Programme</em>
-</p>
-<p>Subject Combination:
+<br>
+<br>A recipient of:
+<br>2022 Regeneron<strong> </strong>International Science and Engineering
+Fair – 4<sup>th</sup> position
+<br>2022 Singapore Science and Engineering Fair (SSEF) − Gold award
+<br>
+<br>Subject Combination:
 <br>H2 Biology
 <br>H2 Chemistry
 <br>H2 Mathematics
@@ -464,7 +476,11 @@ so much!</p>
 </p>
 <p><em>Scientist-in-School Programme at Institute of High Performance Computing (IHPC) ‒ A*STAR</em>
 </p>
-<p>Subject Combination:</p>
+<p>A recipient of:
+<br>2020 ST Yau High School Science Award (Asia) – Gold medal
+<br>2020 Singapore Physics Olympiad − Gold medal
+<br>
+<br>Subject Combination:</p>
 <p>H2 Mathematics
 <br>H2 Further Mathematics
 <br>H2 Physics
