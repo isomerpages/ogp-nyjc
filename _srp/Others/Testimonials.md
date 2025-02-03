@@ -65,6 +65,10 @@ recommend to any aspiring researcher.</p>
 <br>
 <br><em>NUS Science Research Programme</em> 
 <br>
+<br>A recipient of:
+<br>2023 Singapore Biology Olympiad − Gold medal
+<br>2023 Singapore Chemistry Olympiad − Silver medal
+<br>
 <br>Subject Combination:</p>
 <p>H2 Biology
 <br>H2 Chemistry
@@ -186,7 +190,11 @@ these skills and knowledge in future endeavours!
 </p>
 <p><em>A*STAR Science Award<br>NUS Science Research Programme<br>NYJC Zhong Zheng Ren Scholarship</em>
 </p>
-<p>Subject Combination:</p>
+<p>A recipient of:
+<br>2023 Singapore Science and Engineering Fair (SSEF) − Bronze award and
+Loreal Special Award for Innovation in Sustainability
+<br>
+<br>Subject Combination:</p>
 <p>H2 Biology
 <br>H2 Chemistry
 <br>H2 Mathematics
@@ -225,53 +233,16 @@ properly every day and dedicate enough time to each commitment.</p>
 <p>Overall, the programme has made my JC 1 year an enriching and rewarding
 one.</p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Michelle" alt="Michelle" src="/images/Michelle.jpg">
-</div>
-<p><strong>Michelle Louisa Tanuwijaya</strong>
-</p>
-<p><em>SUTD Research Mentorship Programme</em>
-</p>
-<p>Subject Combination:</p>
-<p>H2 Physics
-<br>H2 Chemistry
-<br>H2 Mathematics
-<br>H2 Economics
-<br>H3 Chemistry</p>
-<p>CCA/SIG:</p>
-<p>Chinese Orchestra,
-<br>NY Acoustic Movement
-<br>NY Alchemy</p>
-<p>In 2022, I had the opportunity to take part in a research project with
-one other teammate under the guidance of a professor from SUTD as part
-of the Research Mentorship Programme (RMP). This journey is one of my most
-enriching and memorable experiences in JC1.</p>
-<p>The project was about image reconstruction of MRI machines and a part
-of this project involved using machine learning in different programming
-languages such as Python, Octave and MATLAB. My lack of experience in coding
-makes this journey quite challenging at the beginning. However, my mentor
-who has had numerous experiences in this field guided us closely throughout
-the journey, enabling me to learn the skills of coding and machine learning.
-He also provided us with advice on the next steps to take to learn these
-skills and pointed us to relevant resources which aided us in our learning.</p>
-<p>It was challenging to juggle between schoolwork, CCA and other commitments.
-However, taking part in this research project has taught me the importance
-of good time management and early preparation for various things such as
-the gathering of resources and revision material for upcoming exams, research
-updates, etc.</p>
-<p>Overall, this invaluable opportunity has allowed me to learn so many new
-things and has helped me gain essential skills that would be beneficial
-for me in the future!</p>
-<hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Wenyang" alt="Wenyang" src="/images/Wenyang.jpg">
 </div>
 <p><strong>Goh Wen Yang</strong>
 </p>
 <p><em>Research attachment at NUS Materials Science and Engineering</em>
-</p>
+<br>
+<br>A recipient of:
+<br>2023 Singapore Science and Engineering Fair (SSEF) − Bronze award
+<br>2022 Singapore Chemistry Olympiad − Bronze medal</p>
 <p>Subject Combination:</p>
 <p>H2 Physics
 <br>H2 Chemistry
@@ -312,8 +283,12 @@ open their perspectives (provided that one is not struggling with academics).</p
 <p><strong>Yang Lihan</strong>
 </p>
 <p><em>Scientist-in-School Programme at Institute of High Performance Computing (IHPC) ‒ A*STAR</em>
-</p>
-<p>Subject Combination:</p>
+<br>
+<br>A recipient of:
+<br>2022 Singapore Mathematics Olympiad − Silver medal
+<br>2021 Singapore Mathematics Olympiad − Bronze medal
+<br>
+<br>Subject Combination:</p>
 <p>H2 Mathematics
 <br>H2 Further Mathematics
 <br>H2 Physics
@@ -373,8 +348,13 @@ Have fun!</p>
 <p><strong>Lee Rui Xuan</strong>
 </p>
 <p><em>NUS Science Research Programme</em>
-</p>
-<p>Subject Combination:
+<br>
+<br>A recipient of:
+<br>2022 Regeneron<strong> </strong>International Science and Engineering
+Fair – 4<sup>th</sup> position
+<br>2022 Singapore Science and Engineering Fair (SSEF) − Gold award
+<br>
+<br>Subject Combination:
 <br>H2 Biology
 <br>H2 Chemistry
 <br>H2 Mathematics
@@ -441,45 +421,6 @@ or take a break.</p>
 of the most meaningful yet. The values, connections and knowledge I acquired
 would truly be beneficial to me in the years ahead.</p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Vaikesh" alt="Vaikesh" src="/images/Vaikesh.jpg">
-</div>
-<p><strong>Vaikesh S/O Manimaran</strong>
-</p>
-<p><em>NTU Nanyang Research Programme</em>
-</p>
-<p>Subject Combination:</p>
-<p>H2 Chemistry
-<br>H2 Physics
-<br>H2 Mathematics
-<br>H1 Economics</p>
-<p>CCA/SIG:</p>
-<p>Floorball
-<br>The Green Alliance</p>
-<p>When I first entered NYJC, I did not know which career path was best for
-me and I was unsure on what to do in the future: Engineering? Medicine?
-Research? I was clueless. By taking part in the Nanyang Research Programme
-(NRP), it allowed me to assess whether research was a viable career for
-me. This, along with my interest in the environment, chemistry and engineering,
-formed the basis for my decision in choosing to take part in an environmental
-engineering project in NRP.</p>
-<p>The most memorable part of NRP was going to Nanyang Technological University’s
-(NTU) research labs, where my research partner and I conducted experiments
-and collected data for our project. This was my favourite part of NRP as
-it was hands-on and fun. We also wrote research reports by reviewing articles
-online. Collecting data and writing reports took up a significant portion
-of time that I could have spent on leisure activities. When I felt like
-giving up, I pushed myself and persevered. Eventually, by managing my time
-properly and prioritising the more important tasks, I was able to juggle
-easily between my floorball CCA, academics and NRP. If you are a J1 considering
-taking part in NRP, know that the tangible and intangible skills you will
-eventually learn are long lasting ones that can be applied in your daily
-lives.</p>
-<p>“Discovery is seeing what everybody else has seen and thinking what nobody
-else has thought.” - Albert Szent-Györgyi.</p>
-<hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Thanakorn Sripratak" alt="Thanakorn Sripratak" src="/images/Thanakorn-Sripratak.jpg">
 </div>
@@ -535,7 +476,11 @@ so much!</p>
 </p>
 <p><em>Scientist-in-School Programme at Institute of High Performance Computing (IHPC) ‒ A*STAR</em>
 </p>
-<p>Subject Combination:</p>
+<p>A recipient of:
+<br>2020 ST Yau High School Science Award (Asia) – Gold medal
+<br>2020 Singapore Physics Olympiad − Gold medal
+<br>
+<br>Subject Combination:</p>
 <p>H2 Mathematics
 <br>H2 Further Mathematics
 <br>H2 Physics

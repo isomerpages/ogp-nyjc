@@ -55,6 +55,9 @@ good communication skills</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>You can find the MOE briefing slides <a href="/files/CEE_RSI_Briefing_Slides_for_Interested_Students_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+<li>
 <p>8 Feb 2025, 12 pm
 <br>Submission of video clip</p>
 </li>
