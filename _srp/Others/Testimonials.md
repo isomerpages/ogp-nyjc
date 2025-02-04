@@ -8,7 +8,51 @@ variant: tiptap
 <p><strong>Hear From Your Seniors…</strong>
 <br>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gareth" src="/images/Gareth_01.jpg">
+</div>
+<p><strong>Gareth Goh Yu Heng</strong>
+<br><em>NUS Science Research Programme</em>
+<br><em>A*STAR Science Award</em>
+<br><em>Engineering and Tech Programme Scholarship</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore Physics Olympiad − Gold medal
+<br>2024 Singapore Mathematics Olympiad − Silver medal
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Physic
+<br>
+<br>CCA/SIG:
+<br>Biz Club
+<br>Mathematics Club (Vice-President)
+<br>
+<br>Being a part of SRP was a transformative experience that deepened my appreciation
+for the −research process. I learned to craft thoughtful questions and
+systematically test them, often leading me to unexpected findings that
+resulted in meaningful conclusions. This journey highlighted the beauty
+of exploration and curiosity, showing me how each step builds upon the
+last. It strengthened my passion for discovery and gave me a deeper respect
+for scientific inquiry.
+<br>
+<br>As for the Engineering Tech Programme Scholarship, it greatly enhanced
+my understanding of engineering. When we were first tasked with building
+a device that combined a heart rate sensor and a glucose concentration
+detector using photoplethysmography and UV-Vis spectrometry, I initially
+thought it was an impossible task. The idea of fitting both functions into
+such a small box seemed overwhelming. Yet, through hours of experimentation,
+troubleshooting, and refining, we succeeded in bringing the project to
+life. I gained hands-on experience with coding and Arduino, and I learned
+that engineering is all about persistence, creativity, and constant iteration
+to solve problems. The moment the device worked as intended was incredibly
+rewarding. This experience not only intensified my interest in engineering
+but also inspired me to pursue it further at the university level.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Aik Seng" src="/images/Aik_Seng.jpg">
 </div>
@@ -54,57 +98,82 @@ which was both fun and eye-opening.
 and enjoyable but also strengthened my aspiration to pursue a career in
 the STEM field. I am grateful for these opportunities and encourage anyone
 interested in STEM to give SRP or ETPS a try.</p>
-<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="gareth" src="/images/Gareth_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="pannawit" src="/images/Pannawit.jpg">
 </div>
-<p><strong>Gareth Goh Yu Heng</strong>
-<br><em>NUS Science Research Programme</em>
-<br><em>A*STAR Science Award</em>
-<br><em>Engineering and Tech Programme Scholarship</em>
+<p><strong>Supanwassa Pannawit</strong>
+<br>
+<br><em>NTU Nanyang Research Programme</em>
 <br>
 <br>A recipient of:
-<br>2024 Singapore Physics Olympiad − Gold medal
-<br>2024 Singapore Mathematics Olympiad − Silver medal
+<br>2024 Singapore National Olympiad in Informatics – Silver medal
+<br>2024 Australian Informatics Olympiad – Gold medal
+<br>2024 Singapore Mathematics Olympiad – Bronze medal
+<br>2024 California Informatics Competition (organised by UC Berkley) – Gold
+medal
+<br>2024 Oxford University Computing Challenges − 6th place &amp; Distinction
+award
+<br>2024 Computational and Algorithmic Thinking Competition − Distinction
+award
+<br>2024 Singapore Physics Olympiad – Gold medal
+<br>2024 CS2 Course Final Contest: Introduction to Data Structure and Algorithms
+− Distinction award
 <br>
 <br>Subject Combination:
 <br>H2 Physics
-<br>H2 Chemistry
+<br>H2 Computing
 <br>H2 Mathematics
-<br>H2 Economics
-<br>H3 Physic
+<br>H1 Economics
+<br>H3 NTU Semiconductor Physics and Devices
 <br>
 <br>CCA/SIG:
-<br>Biz Club
-<br>Mathematics Club (Vice-President)
+<br>Nanyang Robotics and Computer Science Club (Training Head)
+<br>Nanyang Competitive Programming Club (President)
 <br>
-<br>Being a part of SRP was a transformative experience that deepened my appreciation
-for the −research process. I learned to craft thoughtful questions and
-systematically test them, often leading me to unexpected findings that
-resulted in meaningful conclusions. This journey highlighted the beauty
-of exploration and curiosity, showing me how each step builds upon the
-last. It strengthened my passion for discovery and gave me a deeper respect
-for scientific inquiry.
+<br>The NRP project allowed me to explore extracurriculars and be innovative
+in a makers/startup setting, fulfilling my inquisitiveness in science.
 <br>
-<br>As for the Engineering Tech Programme Scholarship, it greatly enhanced
-my understanding of engineering. When we were first tasked with building
-a device that combined a heart rate sensor and a glucose concentration
-detector using photoplethysmography and UV-Vis spectrometry, I initially
-thought it was an impossible task. The idea of fitting both functions into
-such a small box seemed overwhelming. Yet, through hours of experimentation,
-troubleshooting, and refining, we succeeded in bringing the project to
-life. I gained hands-on experience with coding and Arduino, and I learned
-that engineering is all about persistence, creativity, and constant iteration
-to solve problems. The moment the device worked as intended was incredibly
-rewarding. This experience not only intensified my interest in engineering
-but also inspired me to pursue it further at the university level.</p>
+<br>Once I identified my research interest in cybersecurity, I was directed
+to experts in the field who were eager to teach and advise us on our research.
+NRP not only taught me computer science (CS) knowledge, but it also helped
+me develop the skills to be an independent learner and problem-solver.
+Although the problem seemed daunting at first, my journey was enriching
+and smooth thanks to their guidance.
+<br>
+<br>NRP also empowered me through hands-on work experience. In an NIE-MOE
+research project, I was given the opportunity to volunteer in conducting
+a mid-scale experiment as well as presenting the results to school teachers.
+In addition, I had the chance to represent NTU in a regional AI seminar,
+being one of the youngest delegates.
+<br>
+<br>I was initially new to research, but by the time NRP concluded, it had
+taught me immense skills and truly sparked my interest in cybersecurity
+and scientific research.The NRP project allowed me to explore extracurriculars
+and be innovative in a makers/startup setting, fulfilling my inquisitiveness
+in science.
+<br>
+<br>Once I identified my research interest in cybersecurity, I was directed
+to experts in the field who were eager to teach and advise us on our research.
+NRP not only taught me computer science (CS) knowledge, but it also helped
+me develop the skills to be an independent learner and problem-solver.
+Although the problem seemed daunting at first, my journey was enriching
+and smooth thanks to their guidance.
+<br>
+<br>NRP also empowered me through hands-on work experience. In an NIE-MOE
+research project, I was given the opportunity to volunteer in conducting
+a mid-scale experiment as well as presenting the results to school teachers.
+In addition, I had the chance to represent NTU in a regional AI seminar,
+being one of the youngest delegates.
+<br>
+<br>I was initially new to research, but by the time NRP concluded, it had
+taught me immense skills and truly sparked my interest in cybersecurity
+and scientific research.</p>
 <hr>
 <p>
 <br>
 </p>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yeu_Jiunn.jpg">
 </div>
