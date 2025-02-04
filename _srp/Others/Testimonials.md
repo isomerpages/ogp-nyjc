@@ -50,7 +50,9 @@ life. I gained hands-on experience with coding and Arduino, and I learned
 that engineering is all about persistence, creativity, and constant iteration
 to solve problems. The moment the device worked as intended was incredibly
 rewarding. This experience not only intensified my interest in engineering
-but also inspired me to pursue it further at the university level.
+but also inspired me to pursue it further at the university level.</p>
+<hr>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -98,6 +100,7 @@ which was both fun and eye-opening.
 and enjoyable but also strengthened my aspiration to pursue a career in
 the STEM field. I am grateful for these opportunities and encourage anyone
 interested in STEM to give SRP or ETPS a try.</p>
+<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -222,6 +225,7 @@ a glimpse into the hectic yet fulfilling life of a researcher and has reaffirmed
 my decision to pursue a career in research.
 <br>
 </p>
+<hr>
 <p>
 <br>
 </p>
@@ -262,6 +266,9 @@ collaborating on research in the future! If STEM is something you’re passionat
 about, I strongly encourage you to sign up for this once-in-a-lifetime
 opportunity!
 <br>
+</p>
+<hr>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -310,8 +317,8 @@ scholarships or other programs, go for it! Use these two short years to
 pursue your interests, learn new skills, and gain the experience and knowledge
 that you can't obtain in the classroom.
 <br>
+<br>
 </p>
-<hr>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yeu_Jiunn.jpg">
