@@ -100,6 +100,7 @@ which was both fun and eye-opening.
 and enjoyable but also strengthened my aspiration to pursue a career in
 the STEM field. I am grateful for these opportunities and encourage anyone
 interested in STEM to give SRP or ETPS a try.</p>
+<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
