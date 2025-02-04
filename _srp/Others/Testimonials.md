@@ -222,6 +222,97 @@ a glimpse into the hectic yet fulfilling life of a researcher and has reaffirmed
 my decision to pursue a career in research.
 <br>
 </p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="brandon" src="/images/Brandon.jpg">
+</div>
+<p><strong>Brandon Kok Zhi Ren</strong>
+<br><em>NUS Science Research Programme</em>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Chemistry
+<br>
+<br>CCA/SIG:
+<br>Student Council (President)
+<br>NY Musicians Club
+<br>NY Crescendo
+<br>NY ShuFa
+<br>
+<br>I’ve always been incredibly fond of all things science, so when NYJC gave
+me the opportunity to experience actual research through the Science Research
+Programme (SRP), there was no way I could refuse!
+<br>
+<br>The Science Research Programme offers a wide range of subjects to explore,
+and even allows you to conduct your own research! My teammate and I went
+through the entire process of scientific research with the guidance of
+an NUS professor, from literature reviews to designing the experiment from
+scratch, delving into computer programming and human psychology, and conducting
+our experiment in an NUS office. It was truly an eye-opening and hands-on
+experience, unlike any other research programme I’ve participated in before.
+<br>
+<br>Despite the challenges, it was both immensely fun and educational, sparking
+my enthusiasm and aspiration to continue science research in the future.
+My teammate and I grew closer throughout this experience, and we may continue
+collaborating on research in the future! If STEM is something you’re passionate
+about, I strongly encourage you to sign up for this once-in-a-lifetime
+opportunity!
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="e ket" src="/images/E_Ket.jpg">
+</div>
+<p>
+<br><strong>Seah E-Ket</strong>
+<br><em>DSTA JC Scholarship</em>
+<br>
+<br>A recipient of:
+<br>CSIT Computing Scholarship
+<br>2024 National Olympiad in Informatics – Silver medal
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Computing
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Mathematics
+<br>
+<br>CCA/SIG:
+<br>Nanyang Robotics and Computer Science Club (Training Head)
+<br>Nanyang Competitive Programming Club (Vice-President)
+<br>Mathematics Club
+<br>
+<br>In December, the Centre for Strategic Infocomm Technologies (CSIT) organised
+a 5-day workshop aimed to enhance our skills in the four main areas of
+technology that CSIT specializes in: cybersecurity, data analytics, cloud
+infrastructure, and software engineering.
+<br>
+<br>As someone with a burning passion for computer science, this was an incredible
+opportunity to learn more about the field and gain hands-on experience
+with some of the common frameworks and concepts used in the real world.
+I particularly enjoyed the cybersecurity sessions, where we learned about
+common techniques used in malware analysis and reverse-engineered a malicious
+application.
+<br>
+<br>Additionally, I had the chance to meet industry professionals who shared
+their journeys and experiences in the tech field, offering insightful career
+advice. This gave me a glimpse into their day-to-day lives and broadened
+my understanding of various career paths.
+<br>
+<br>All in all, I thoroughly enjoyed every moment of the workshop—it was certainly
+one of the highlights of my JC1 year! For those considering applying for
+scholarships or other programs, go for it! Use these two short years to
+pursue your interests, learn new skills, and gain the experience and knowledge
+that you can't obtain in the classroom.
+<br>
+</p>
+<hr>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yeu_Jiunn.jpg">
 </div>
