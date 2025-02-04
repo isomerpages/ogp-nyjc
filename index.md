@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /nyjc-jae-appeal-2025-4-feb-2025/
+          url: /headlines/subjectcombi/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infopic:
+      title: 2025 Select Subjects
+      subtitle: Headlines
+      id: infopic
+      description: 5 Feb
+      button: click here
+      alt: Image alt text
+      image: /images/WhatsApp_Image_2024_02_02_at_7_20_41_AM.jpeg
+      url: /headlines/subjectcombi/
   - infopic:
       title: 2025 JAE Appeal
       subtitle: Headlines
