@@ -23,12 +23,14 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2025 Select Subjects
+      subtitle: Headlines
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: 5 Feb
+      button: click here
       alt: Image alt text
+      image: /images/WhatsApp_Image_2024_02_02_at_7_20_41_AM.jpeg
+      url: /headlines/subjectcombi/
   - infopic:
       title: 2025 JAE Appeal
       subtitle: Headlines
