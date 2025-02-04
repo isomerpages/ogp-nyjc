@@ -33,14 +33,14 @@ following table should only be used as a guide.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JAE 2024</strong>
+<p><strong>JAE 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
