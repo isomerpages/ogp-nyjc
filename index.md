@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /2025-nyjc-open-house-microsite/
+          url: /nyjc-jae-appeal-2025-4-feb-2025/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
