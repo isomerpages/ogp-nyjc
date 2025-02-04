@@ -6,7 +6,313 @@ third_nav_title: Others
 variant: tiptap
 ---
 <p><strong>Hear From Your Seniors…</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gareth" src="/images/Gareth_01.jpg">
+</div>
+<p><strong>Gareth Goh Yu Heng</strong>
+<br><em>NUS Science Research Programme</em>
+<br><em>A*STAR Science Award</em>
+<br><em>Engineering and Tech Programme Scholarship</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore Physics Olympiad − Gold medal
+<br>2024 Singapore Mathematics Olympiad − Silver medal
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Physic
+<br>
+<br>CCA/SIG:
+<br>Biz Club
+<br>Mathematics Club (Vice-President)
+<br>
+<br>Being a part of SRP was a transformative experience that deepened my appreciation
+for the −research process. I learned to craft thoughtful questions and
+systematically test them, often leading me to unexpected findings that
+resulted in meaningful conclusions. This journey highlighted the beauty
+of exploration and curiosity, showing me how each step builds upon the
+last. It strengthened my passion for discovery and gave me a deeper respect
+for scientific inquiry.
+<br>
+<br>As for the Engineering Tech Programme Scholarship, it greatly enhanced
+my understanding of engineering. When we were first tasked with building
+a device that combined a heart rate sensor and a glucose concentration
+detector using photoplethysmography and UV-Vis spectrometry, I initially
+thought it was an impossible task. The idea of fitting both functions into
+such a small box seemed overwhelming. Yet, through hours of experimentation,
+troubleshooting, and refining, we succeeded in bringing the project to
+life. I gained hands-on experience with coding and Arduino, and I learned
+that engineering is all about persistence, creativity, and constant iteration
+to solve problems. The moment the device worked as intended was incredibly
+rewarding. This experience not only intensified my interest in engineering
+but also inspired me to pursue it further at the university level.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aik Seng" src="/images/Aik_Seng.jpg">
+</div>
+<p>
+<br><strong>Yee Aik Seng</strong>
+<br><em>NUS Science Research Programme</em>
+<br><em>A*STAR Science Award</em>
+<br><em>Engineering and Tech Programme Scholarship</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore Chemistry Olympiad − Silver medal</p>
+<p>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Chemistry
+<br>
+<br>CCA/SIG:
+<br>Interact Club
+<br>NY Alchemy</p>
+<p>Since childhood, I have been captivated by the STEM field. Therefore,
+upon joining NYJC, I eagerly enrolled in the NUS Science Research Programme
+(SRP) to further my passion. Along with two teammates, I embarked on a
+project that involved harnessing crab shells and graphene oxide to generate
+electricity.
+<br>
+<br>My SRP experience was enriching and incredibly rewarding. Under the guidance
+of my esteemed mentors, I learned essential research skills, such as laboratory
+techniques, data analysis, and report writing. While we encountered many
+setbacks along the way, these challenges helped me build resilience and
+made our final breakthrough more fulfilling. This journey allowed me to
+truly understand the essence of research.
+<br>
+<br>Under the Engineering and Tech Programme Scholarship (ETPS), I attended
+a five-day Healthcare Technology workshop at the National University of
+Singapore (NUS). This exciting experience involved learning new skills
+such as Arduino programming, circuitry, and 3D printing. We also applied
+what we had learned by building an integrated glucose and heart rate monitor,
+which was both fun and eye-opening.
+<br>
+<br>In a nutshell, SRP and ETPS not only made my first year at NYJC memorable
+and enjoyable but also strengthened my aspiration to pursue a career in
+the STEM field. I am grateful for these opportunities and encourage anyone
+interested in STEM to give SRP or ETPS a try.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pannawit" src="/images/Pannawit.jpg">
+</div>
+<p><strong>Supanwassa Pannawit</strong>
+<br>
+<br><em>NTU Nanyang Research Programme</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore National Olympiad in Informatics – Silver medal
+<br>2024 Australian Informatics Olympiad – Gold medal
+<br>2024 Singapore Mathematics Olympiad – Bronze medal
+<br>2024 California Informatics Competition (organised by UC Berkley) – Gold
+medal
+<br>2024 Oxford University Computing Challenges − 6th place &amp; Distinction
+award
+<br>2024 Computational and Algorithmic Thinking Competition − Distinction
+award
+<br>2024 Singapore Physics Olympiad – Gold medal
+<br>2024 CS2 Course Final Contest: Introduction to Data Structure and Algorithms
+− Distinction award
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Computing
+<br>H2 Mathematics
+<br>H1 Economics
+<br>H3 NTU Semiconductor Physics and Devices
+<br>
+<br>CCA/SIG:
+<br>Nanyang Robotics and Computer Science Club (Training Head)
+<br>Nanyang Competitive Programming Club (President)
+<br>
+<br>The NRP project allowed me to explore extracurriculars and be innovative
+in a makers/startup setting, fulfilling my inquisitiveness in science.
+<br>
+<br>Once I identified my research interest in cybersecurity, I was directed
+to experts in the field who were eager to teach and advise us on our research.
+NRP not only taught me computer science (CS) knowledge, but it also helped
+me develop the skills to be an independent learner and problem-solver.
+Although the problem seemed daunting at first, my journey was enriching
+and smooth thanks to their guidance.
+<br>
+<br>NRP also empowered me through hands-on work experience. In an NIE-MOE
+research project, I was given the opportunity to volunteer in conducting
+a mid-scale experiment as well as presenting the results to school teachers.
+In addition, I had the chance to represent NTU in a regional AI seminar,
+being one of the youngest delegates.
+<br>
+<br>I was initially new to research, but by the time NRP concluded, it had
+taught me immense skills and truly sparked my interest in cybersecurity
+and scientific research.The NRP project allowed me to explore extracurriculars
+and be innovative in a makers/startup setting, fulfilling my inquisitiveness
+in science.
+<br>
+<br>Once I identified my research interest in cybersecurity, I was directed
+to experts in the field who were eager to teach and advise us on our research.
+NRP not only taught me computer science (CS) knowledge, but it also helped
+me develop the skills to be an independent learner and problem-solver.
+Although the problem seemed daunting at first, my journey was enriching
+and smooth thanks to their guidance.
+<br>
+<br>NRP also empowered me through hands-on work experience. In an NIE-MOE
+research project, I was given the opportunity to volunteer in conducting
+a mid-scale experiment as well as presenting the results to school teachers.
+In addition, I had the chance to represent NTU in a regional AI seminar,
+being one of the youngest delegates.
+<br>
+<br>I was initially new to research, but by the time NRP concluded, it had
+taught me immense skills and truly sparked my interest in cybersecurity
+and scientific research.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="trang" src="/images/Trang.jpg">
+</div>
+<p><strong>To Vu Nguyen Trang</strong>
+<br>
+<br><em>NTU Nanyang Research Programme</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore Biology Olympiad − Gold medal
+<br>
+<br>Subject Combination:
+<br>H2 Biology
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Biology
+<br>
+<br>CCA/SIG:
+<br>Choir (Quarter-mistress)
+<br>
+<br>Bionat
+<br>NY Alchemy
+<br>NY Crochers
+<br>NY Threads
+<br>
+<br>The Nanyang Research Programme (NRP) was one of the highlights of my JC1
+year. As someone who has always wanted to pursue research in molecular
+biology, I was over the moon when I was offered a spot in NRP to work on
+a project involving gene editing.
+<br>
+<br>My lack of research experience made the journey very challenging at the
+beginning. However, the close guidance and constant support from my supervisors
+allowed me to quickly pick up essential skills, such as working with cells
+and recombinant DNA, as well as other techniques required for my project.
+Over the course of my research, I developed a deep appreciation for the
+intricacy of science and its power in addressing real-world problems. My
+project focused on using prime editing to model human diseases, which can
+provide valuable insights into disease treatments. This experience motivated
+me to further explore different molecular biology innovations and their
+applications in medical treatments.
+<br>
+<br>Aside from gaining valuable knowledge about molecular biology, NRP also
+helped me grow holistically as a person. Juggling academics, CCA, and research
+forced me to improve my time management skills, while interacting with
+my partner and supervisors honed my communication skills.
+<br>
+<br>Overall, NRP has been a valuable and enriching experience. It gave me
+a glimpse into the hectic yet fulfilling life of a researcher and has reaffirmed
+my decision to pursue a career in research.
+<br>
+</p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="brandon" src="/images/Brandon.jpg">
+</div>
+<p><strong>Brandon Kok Zhi Ren</strong>
+<br><em>NUS Science Research Programme</em>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Chemistry
+<br>
+<br>CCA/SIG:
+<br>Student Council (President)
+<br>NY Musicians Club
+<br>NY Crescendo
+<br>NY ShuFa
+<br>
+<br>I’ve always been incredibly fond of all things science, so when NYJC gave
+me the opportunity to experience actual research through the Science Research
+Programme (SRP), there was no way I could refuse!
+<br>
+<br>The Science Research Programme offers a wide range of subjects to explore,
+and even allows you to conduct your own research! My teammate and I went
+through the entire process of scientific research with the guidance of
+an NUS professor, from literature reviews to designing the experiment from
+scratch, delving into computer programming and human psychology, and conducting
+our experiment in an NUS office. It was truly an eye-opening and hands-on
+experience, unlike any other research programme I’ve participated in before.
+<br>
+<br>Despite the challenges, it was both immensely fun and educational, sparking
+my enthusiasm and aspiration to continue science research in the future.
+My teammate and I grew closer throughout this experience, and we may continue
+collaborating on research in the future! If STEM is something you’re passionate
+about, I strongly encourage you to sign up for this once-in-a-lifetime
+opportunity!
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="e ket" src="/images/E_Ket.jpg">
+</div>
+<p>
+<br><strong>Seah E-Ket</strong>
+<br><em>DSTA JC Scholarship</em>
+<br>
+<br>A recipient of:
+<br>CSIT Computing Scholarship
+<br>2024 National Olympiad in Informatics – Silver medal
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Computing
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Mathematics
+<br>
+<br>CCA/SIG:
+<br>Nanyang Robotics and Computer Science Club (Training Head)
+<br>Nanyang Competitive Programming Club (Vice-President)
+<br>Mathematics Club
+<br>
+<br>In December, the Centre for Strategic Infocomm Technologies (CSIT) organised
+a 5-day workshop aimed to enhance our skills in the four main areas of
+technology that CSIT specializes in: cybersecurity, data analytics, cloud
+infrastructure, and software engineering.
+<br>
+<br>As someone with a burning passion for computer science, this was an incredible
+opportunity to learn more about the field and gain hands-on experience
+with some of the common frameworks and concepts used in the real world.
+I particularly enjoyed the cybersecurity sessions, where we learned about
+common techniques used in malware analysis and reverse-engineered a malicious
+application.
+<br>
+<br>Additionally, I had the chance to meet industry professionals who shared
+their journeys and experiences in the tech field, offering insightful career
+advice. This gave me a glimpse into their day-to-day lives and broadened
+my understanding of various career paths.
+<br>
+<br>All in all, I thoroughly enjoyed every moment of the workshop—it was certainly
+one of the highlights of my JC1 year! For those considering applying for
+scholarships or other programs, go for it! Use these two short years to
+pursue your interests, learn new skills, and gain the experience and knowledge
+that you can't obtain in the classroom.
+<br>
+</p>
+<hr>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yeu_Jiunn.jpg">
 </div>
