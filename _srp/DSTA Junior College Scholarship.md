@@ -36,4 +36,4 @@ and internship</p>
 </ul>
 <p><strong>Online Registration Deadline</strong>
 </p>
-<p>15 Feb 2025</p>
+<p>24 Feb 2025</p>
