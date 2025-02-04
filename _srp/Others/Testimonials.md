@@ -171,7 +171,55 @@ being one of the youngest delegates.
 taught me immense skills and truly sparked my interest in cybersecurity
 and scientific research.</p>
 <hr>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="trang" src="/images/Trang.jpg">
+</div>
+<p><strong>To Vu Nguyen Trang</strong>
+<br>
+<br><em>NTU Nanyang Research Programme</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore Biology Olympiad − Gold medal
+<br>
+<br>Subject Combination:
+<br>H2 Biology
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Biology
+<br>
+<br>CCA/SIG:
+<br>Choir (Quarter-mistress)
+<br>
+<br>Bionat
+<br>NY Alchemy
+<br>NY Crochers
+<br>NY Threads
+<br>
+<br>The Nanyang Research Programme (NRP) was one of the highlights of my JC1
+year. As someone who has always wanted to pursue research in molecular
+biology, I was over the moon when I was offered a spot in NRP to work on
+a project involving gene editing.
+<br>
+<br>My lack of research experience made the journey very challenging at the
+beginning. However, the close guidance and constant support from my supervisors
+allowed me to quickly pick up essential skills, such as working with cells
+and recombinant DNA, as well as other techniques required for my project.
+Over the course of my research, I developed a deep appreciation for the
+intricacy of science and its power in addressing real-world problems. My
+project focused on using prime editing to model human diseases, which can
+provide valuable insights into disease treatments. This experience motivated
+me to further explore different molecular biology innovations and their
+applications in medical treatments.
+<br>
+<br>Aside from gaining valuable knowledge about molecular biology, NRP also
+helped me grow holistically as a person. Juggling academics, CCA, and research
+forced me to improve my time management skills, while interacting with
+my partner and supervisors honed my communication skills.
+<br>
+<br>Overall, NRP has been a valuable and enriching experience. It gave me
+a glimpse into the hectic yet fulfilling life of a researcher and has reaffirmed
+my decision to pursue a career in research.
 <br>
 </p>
 <div class="isomer-image-wrapper">
