@@ -10,7 +10,7 @@ description: ""
 <br>
 <br>Students who are interested in appeal for transfer to Nanyang Junior College
 after the 2025 JAE Posting Exercise may do so by completing and submitting
-his/her application via <a rel="noopener noreferrer nofollow" target="_blank">https://jae.nyjc.edu.sg</a>.
+his/her application via <a href="https://jae.nyjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://jae.nyjc.edu.sg</a>.
 <br>
 <br>Based on the Ministry of Education (MOE)'s guidelines for post-JAE transfers,
 our college can only consider applicants whose net aggregate L1R5 meet
