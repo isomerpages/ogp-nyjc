@@ -33,14 +33,14 @@ following table should only be used as a guide.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JAE 2024</strong>
+<p><strong>JAE 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
@@ -56,5 +56,5 @@ following table should only be used as a guide.</p>
 </tr>
 </tbody>
 </table>
-<p>Click <a href="/headlines/sc/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/nyjc-jae-appeal-2025-4-feb-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>

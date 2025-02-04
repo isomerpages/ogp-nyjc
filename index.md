@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /2025-nyjc-open-house-microsite/
+          url: /nyjc-jae-appeal-2025-4-feb-2025/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infopic:
+      title: 2025 JAE Appeal
+      subtitle: Headlines
+      id: infopic
+      description: 4 Feb
+      button: click here
+      url: /nyjc-jae-appeal-2025-4-feb-2025/
+      image: /images/My_project_75_.jpg
+      alt: Image alt text
   - infopic:
       title: 2025 Chinese New Year Celebration
       subtitle: stories
