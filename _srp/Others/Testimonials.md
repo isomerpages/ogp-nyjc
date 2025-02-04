@@ -25,7 +25,7 @@ variant: tiptap
 <br>H2 Chemistry
 <br>H2 Mathematics
 <br>H2 Economics
-<br>H3 Physic
+<br>H3 Physics
 <br>
 <br>CCA/SIG:
 <br>Biz Club
