@@ -225,6 +225,7 @@ a glimpse into the hectic yet fulfilling life of a researcher and has reaffirmed
 my decision to pursue a career in research.
 <br>
 </p>
+<hr>
 <p>
 <br>
 </p>
@@ -265,6 +266,9 @@ collaborating on research in the future! If STEM is something you’re passionat
 about, I strongly encourage you to sign up for this once-in-a-lifetime
 opportunity!
 <br>
+</p>
+<hr>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -313,8 +317,8 @@ scholarships or other programs, go for it! Use these two short years to
 pursue your interests, learn new skills, and gain the experience and knowledge
 that you can't obtain in the classroom.
 <br>
+<br>
 </p>
-<hr>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yeu_Jiunn.jpg">
