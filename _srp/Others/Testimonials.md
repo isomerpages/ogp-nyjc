@@ -6,7 +6,61 @@ third_nav_title: Others
 variant: tiptap
 ---
 <p><strong>Hear From Your Seniors…</strong>
-<br><strong>Gareth Goh Yu Heng</strong>
+<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aik Seng" src="/images/Aik_Seng.jpg">
+</div>
+<p>
+<br><strong>Yee Aik Seng</strong>
+<br><em>NUS Science Research Programme</em>
+<br><em>A*STAR Science Award</em>
+<br><em>Engineering and Tech Programme Scholarship</em>
+<br>
+<br>A recipient of:
+<br>2024 Singapore Chemistry Olympiad − Silver medal</p>
+<p>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Chemistry
+<br>
+<br>CCA/SIG:
+<br>Interact Club
+<br>NY Alchemy</p>
+<p>Since childhood, I have been captivated by the STEM field. Therefore,
+upon joining NYJC, I eagerly enrolled in the NUS Science Research Programme
+(SRP) to further my passion. Along with two teammates, I embarked on a
+project that involved harnessing crab shells and graphene oxide to generate
+electricity.
+<br>
+<br>My SRP experience was enriching and incredibly rewarding. Under the guidance
+of my esteemed mentors, I learned essential research skills, such as laboratory
+techniques, data analysis, and report writing. While we encountered many
+setbacks along the way, these challenges helped me build resilience and
+made our final breakthrough more fulfilling. This journey allowed me to
+truly understand the essence of research.
+<br>
+<br>Under the Engineering and Tech Programme Scholarship (ETPS), I attended
+a five-day Healthcare Technology workshop at the National University of
+Singapore (NUS). This exciting experience involved learning new skills
+such as Arduino programming, circuitry, and 3D printing. We also applied
+what we had learned by building an integrated glucose and heart rate monitor,
+which was both fun and eye-opening.
+<br>
+<br>In a nutshell, SRP and ETPS not only made my first year at NYJC memorable
+and enjoyable but also strengthened my aspiration to pursue a career in
+the STEM field. I am grateful for these opportunities and encourage anyone
+interested in STEM to give SRP or ETPS a try.</p>
+<hr>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gareth" src="/images/Gareth_01.jpg">
+</div>
+<p><strong>Gareth Goh Yu Heng</strong>
 <br><em>NUS Science Research Programme</em>
 <br><em>A*STAR Science Award</em>
 <br><em>Engineering and Tech Programme Scholarship</em>
