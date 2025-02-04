@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /nyjc-jae-appeal-2025-4-feb-2025/
+          url: /headlines/subjectcombi/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
