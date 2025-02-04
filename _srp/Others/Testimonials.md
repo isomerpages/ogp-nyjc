@@ -50,7 +50,9 @@ life. I gained hands-on experience with coding and Arduino, and I learned
 that engineering is all about persistence, creativity, and constant iteration
 to solve problems. The moment the device worked as intended was incredibly
 rewarding. This experience not only intensified my interest in engineering
-but also inspired me to pursue it further at the university level.
+but also inspired me to pursue it further at the university level.</p>
+<hr>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
