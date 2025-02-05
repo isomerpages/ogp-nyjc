@@ -40,11 +40,8 @@ community partners in meaningful service</p>
 <br>To cultivate our five college values: Drive, Responsibility Integrity,
 Inventiveness and Empathy through&nbsp;programme&nbsp;design, service to
 the community, facilitation and reflection</p>
-<p><strong>NYJC CCE Project Standard Operating Procedure 2021 - 2022<br>For Students</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYJC_CCE_Project_SOP_2024___2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/NYJC_CCE_Project_SOP_2025___2026.jpg">
 </div>
 <p><strong>Project Beneficiaries</strong>
 </p>
