@@ -26,11 +26,11 @@ an interview and present their portfolio. Upon successful admission to
 the course, students will be automatically placed in the Art Elective Programme.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9750_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Art 9750</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9357_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Art 9357</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9818_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Art 9818</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9818_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Art 9818</a></strong>
 </p>
 </li>
 </ul>
@@ -38,41 +38,41 @@ the course, students will be automatically placed in the Art Elective Programme.
 <p>Besides Art, the department also offers the following subjects:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-geography.ashx?la=en&amp;hash=59454864B27CC12ACA395E2F5A32B15D21462AC0" rel="noopener noreferrer nofollow" target="_blank">H1 Geography 8834</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8834_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Geography 8834</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-geography.ashx?la=en&amp;hash=07B60FD69B25989817E29079E9173EC68AE764B9" rel="noopener noreferrer nofollow" target="_blank">H2 Geography 9173</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9173_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Geography 9173</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9822_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Geography 9822</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9822_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Geography 9822</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 History 8838</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8838_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 History 8838</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 History 9174</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9174_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 History 9174</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9823_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 History 9823</a></strong> 
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9823_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 History 9823</a></strong> 
 <br>
 <br>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8841_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Literature in English 8841</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8841_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Literature in English 8841</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9539_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Literature in English 9539</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9539_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Literature in English 9539</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9805_y21_sy_SchoolCandidates.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Literature in English 9805</a></strong>&nbsp;</p>
+<p><strong><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9805_y2 6_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Literature in English 9805</a></strong>&nbsp;</p>
 </li>
 </ul>
 <p>In NYJC, all Literature students would be studying the following texts
