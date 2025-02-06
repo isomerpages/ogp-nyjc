@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC1 Orientation Day 1
+      subtitle: stories
+      id: infopic
+      description: 5 Feb
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC1-Orientation-Day-1
+      image: /images/250205_JC1_Orientation_Day_1_002.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Select Subjects
       subtitle: Headlines
       id: infopic
