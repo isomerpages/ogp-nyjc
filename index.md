@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC1 Orientation Day 3
+      subtitle: STORIES
+      id: infopic
+      description: 7 Feb
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2025-JC1-Orientation-Day-3
+      image: /images/250207_JC1_Orientation_Day_3_Sirui_072.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC1 Orientation Day 2
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Chinese-New-Year-Celebration
       image: /images/250128_CNY_Celebration_Ean_Shaw_046.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 NYJC Open House
-      subtitle: STORIES
-      id: infopic
-      description: 11 Jan
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2025-NYJC-Open-House
-      image: /images/250111_Open_House_Lana_060.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
