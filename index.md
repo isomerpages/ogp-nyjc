@@ -28,8 +28,8 @@ sections:
       id: infopic
       description: 10 Feb
       button: view here
-      url: https://nanyangjc.smugmug.com/2025-Chinese-New-Year-Celebration
-      image: /images/250128_CNY_Celebration_Ean_Shaw_046.jpg
+      url: https://nanyangjc.smugmug.com/2025-JC1-Orientation-Day-4
+      image: /images/250210_JC1_Orientation_Day_4_Nynke_013.jpg
       alt: Image alt text
   - infopic:
       title: 2025 JC1 Orientation Day 3
