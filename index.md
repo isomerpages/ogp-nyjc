@@ -32,13 +32,13 @@ sections:
       image: /images/250210_JC1_Orientation_Day_4_Nynke_013.jpg
       alt: Image alt text
   - infopic:
-      title: 2025 JC1 Orientation Day 3
+      title: 2025 Total Defence Day
       subtitle: STORIES
       id: infopic
-      description: 7 Feb
+      description: 12 Feb
       button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2025-JC1-Orientation-Day-3
-      image: /images/250207_JC1_Orientation_Day_3_Sirui_072.jpg
+      url: https://nanyangjc.smugmug.com/2025-Total-Defence-Day
+      image: /images/250212_Total_Defence_Day_025.jpg
       alt: Image alt text
   - infopic:
       title: 2025 JC1 Orientation Day 2
