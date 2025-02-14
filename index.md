@@ -32,6 +32,15 @@ sections:
       image: /images/2500213_CT_Orientation_Day_1_JOSHUA_082.jpg
       alt: Image alt text
   - infopic:
+      title: University & Scholarship Application Resources
+      subtitle: headlines
+      id: infopic
+      description: 14 Feb
+      button: click here
+      url: /headlines/qa-with-the-university-admission-directors/
+      image: /images/uni.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 CCA Bazaar
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2025-Total-Defence-Day
       image: /images/250212_Total_Defence_Day_025.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC1 Orientation Day 2
-      subtitle: stories
-      id: infopic
-      description: 6 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC1-Orientation-Day-2
-      image: /images/250206_JC1_Orientation_Day_2_Xin_Hui_056.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
