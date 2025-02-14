@@ -1,5 +1,5 @@
 ---
-title: Select Subject Combination (5 Feb, 2025)
+title: Select Subject Combination (Feb 5, 2025)
 permalink: /headlines/subjectcombi/
 variant: tiptap
 description: ""
