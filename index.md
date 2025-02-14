@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/subjectcombi/
+          url: /headlines/qa-with-the-university-admission-directors/
         - title: STORIES
           description: View our stories
           url: https://nanyangjc.smugmug.com
