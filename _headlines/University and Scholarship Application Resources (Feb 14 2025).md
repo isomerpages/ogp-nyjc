@@ -4,6 +4,6 @@ permalink: /headlines/qa-with-the-university-admission-directors/
 description: ""
 variant: tiptap
 ---
-<a href="https://nyjcecg.wixsite.com/alvlresults/"> ![](/images/uni.jpg)</a>
-
-[University and Scholarship Application Resources](https://nyjcecg.wixsite.com/alvlresults/)
+<a class="isomer-image-wrapper" href="https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/uni.jpg"></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/" rel="noopener noreferrer nofollow" target="_blank">University and Scholarship Application Resources</a>
+</p>
