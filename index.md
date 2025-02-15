@@ -14,7 +14,7 @@ sections:
           description: Check out our headlines
           url: /headlines/qa-with-the-university-admission-directors/
         - title: STORIES
-          description: View our stories
+          description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
         - title: NYJC Integrated Portal
           description: Student Learning Resources
@@ -22,6 +22,15 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infopic:
+      title: 2025 CT Orientation Day 2
+      subtitle: STORIES
+      id: infopic
+      description: 14 Feb
+      button: VIEW HERE
+      url: https://nanyangjc.smugmug.com/2025-JC1-CT-Orientation-Day-2
+      image: /images/DS108463_Enhanced_NR__1_.jpg
+      alt: Image alt text
   - infopic:
       title: 2025 CT Orientation Day 1
       subtitle: stories
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-CCA-Bazaar
       image: /images/250212_CCA_Bazaar_QIAN_RONG_018.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Total Defence Day
-      subtitle: STORIES
-      id: infopic
-      description: 12 Feb
-      button: VIEW HERE
-      url: https://nanyangjc.smugmug.com/2025-Total-Defence-Day
-      image: /images/250212_Total_Defence_Day_025.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
