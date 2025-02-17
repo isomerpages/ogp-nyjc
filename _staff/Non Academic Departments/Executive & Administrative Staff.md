@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Non Academic Departments
 variant: tiptap
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eas" src="/images/EAS_Dept_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="EAS Department" src="/images/EAS_Dept_1aa.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eas" src="/images/EAS_Dept_2025_2.jpg">
