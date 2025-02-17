@@ -393,14 +393,30 @@ of the Staff Room.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CIVICS TUTOR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2501</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Qianbing/Ms Tong Wenxu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">toh_qianbing@schools.gov.sg</a>
-<a href="mailto:toh_qianbing@schools.gov.sg%20/" rel="noopener noreferrer nofollow" target="_blank">/</a><a rel="noopener noreferrer nofollow" target="_blank">tong_wenxu@schools.gov.sg</a>
+<p><a href="mailto:toh_qianbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_qianbing@schools.gov.sg/</a>
+</p>
+<p></p>
+<p><a href="mailto:toh_qianbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_wenxu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -412,7 +428,7 @@ of the Staff Room.</p>
 <p>Ms Oon Su Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oon_su_ping@schools.gov.sg</a>
+<p><a href="mailto:oon_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oon_su_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -761,13 +777,16 @@ of the Staff Room.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CIVICS TUTOR</p>
+<p><strong>CIVICS TUTOR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><strong>Email</strong>
+</p>
 </td>
 </tr>
 <tr>
