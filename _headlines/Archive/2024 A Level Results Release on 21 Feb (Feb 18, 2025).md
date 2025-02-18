@@ -17,9 +17,9 @@ to seeing you this Friday!</p>
 </p>
 <p><a href="/files/Letter_of_Authorisation_for_Collection_of_A_Level_Results__College_Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation for Collection of A Level Results</a>
 </p>
-<p><a href="/files/2023_A_Level_Results_Release_Message_and_Information_Sheet_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Message to Parents</a>
+<p><a href="/files/Supporting_Your_Teen_through_the_A_levels.pdf" rel="noopener nofollow" target="_blank">Message to Parents</a>
 </p>
 <p><a href="/files/CP_User_Guide___School_Candidates.pdf" rel="noopener nofollow" target="_blank">SEAB Candidates Portal User Guide</a>
 </p>
-<p><a href="/files/2024_Infosheet_for_Parents__A_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet for Parents</a>
+<p><a href="/files/A_level_Result_Release_Student_Resource.pdf" rel="noopener nofollow" target="_blank">Student Resource</a>
 </p>
