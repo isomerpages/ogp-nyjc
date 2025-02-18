@@ -27,7 +27,7 @@ sections:
       subtitle: HEadlines
       id: infopic
       description: 18 Feb
-      button: Button Text
+      button: click here
       url: /headlines/2022/02/16/4972/
       image: /images/results_2024.jpg
       alt: Image alt text
