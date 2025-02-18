@@ -795,7 +795,7 @@ of the Staff Room.</p>
 <p>CHUA XIU LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_xiu_ling@schools.gov.sg</a>
+<p><a href="mailto:chua_xiu_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xiu_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -807,7 +807,7 @@ of the Staff Room.</p>
 <p>CHAN BEE YAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_bee_yan@schools.gov.sg</a>
+<p><a href="mailto:chan_bee_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_bee_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -819,7 +819,7 @@ of the Staff Room.</p>
 <p>ELIZABETH OW SUE HSIEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ow_sue_hsien_elizabeth@schools.gov.sg</a>
+<p><a href="mailto:ow_sue_hsien_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_sue_hsien_elizabeth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -831,7 +831,7 @@ of the Staff Room.</p>
 <p>TAN SIEW LIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_siew_lian_a@schools.gov.sg</a>
+<p><a href="mailto:tan_siew_lian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_lian_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -843,7 +843,7 @@ of the Staff Room.</p>
 <p>LOKE WENG HENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loke_weng_heng@schools.gov.sg</a>
+<p><a href="mailto:loke_weng_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loke_weng_heng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -855,7 +855,7 @@ of the Staff Room.</p>
 <p>KUAH LI PING CHARLENE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kuah_li_ping_charlene@schools.gov.sg</a>
+<p><a href="mailto:kuah_li_ping_charlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_li_ping_charlene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -867,7 +867,7 @@ of the Staff Room.</p>
 <p>HOW FOO YONG LUCY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">how_foo_yong_lucy@schools.gov.sg</a>
+<p><a href="mailto:how_foo_yong_lucy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_foo_yong_lucy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -879,7 +879,7 @@ of the Staff Room.</p>
 <p>BERNARD LEE YIT HOE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">bernard_lee_yit_hoe@schools.gov.sg</a>
+<p><a href="mailto:bernard_lee_yit_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bernard_lee_yit_hoe@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -891,7 +891,7 @@ of the Staff Room.</p>
 <p>TOH SU MIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">toh_su_min@schools.gov.sg</a>
+<p><a href="mailto:toh_su_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_su_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -903,7 +903,7 @@ of the Staff Room.</p>
 <p>CHAN GUANG HUI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_guang_hui@schools.gov.sg</a>
+<p><a href="mailto:chan_guang_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_guang_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -915,7 +915,7 @@ of the Staff Room.</p>
 <p>CHANG TYNG TYNG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chang_tyng_tyng@schools.gov.sg</a>
+<p><a href="mailto:chang_tyng_tyng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_tyng_tyng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -927,7 +927,7 @@ of the Staff Room.</p>
 <p>HANISS B ALI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">haniss_b_ali@schools.gov.sg</a>
+<p><a href="mailto:haniss_b_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haniss_b_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -939,7 +939,7 @@ of the Staff Room.</p>
 <p>YEONG MEI LENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeong_mei_leng@schools.gov.sg</a>
+<p><a href="mailto:yeong_mei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_mei_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -951,7 +951,7 @@ of the Staff Room.</p>
 <p>KOH SOK LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_sok_ling@schools.gov.sg</a>
+<p><a href="mailto:koh_sok_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sok_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -963,7 +963,7 @@ of the Staff Room.</p>
 <p>HO WEN RUI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_wen_rui@schools.gov.sg</a>
+<p><a href="mailto:ho_wen_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wen_rui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -975,7 +975,7 @@ of the Staff Room.</p>
 <p>SEAH XIN YI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seah_xin_yi@schools.gov.sg</a>
+<p><a href="mailto:seah_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_xin_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -987,7 +987,7 @@ of the Staff Room.</p>
 <p>ANG JIAN MARTIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">jian_martin_ang@schools.gov.sg</a>
+<p><a href="mailto:jian_martin_ang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jian_martin_ang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -999,7 +999,7 @@ of the Staff Room.</p>
 <p>TAN TECK SIANG ALVIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_teck_siang_alvin@schools.gov.sg</a>
+<p><a href="mailto:tan_teck_siang_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_siang_alvin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1011,7 +1011,7 @@ of the Staff Room.</p>
 <p>FARHANA BTE HAJIAH NAJIMUDIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">farhana_hajiah_najimudin@schools.gov.sg</a>
+<p><a href="mailto:farhana_hajiah_najimudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farhana_hajiah_najimudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1023,7 +1023,7 @@ of the Staff Room.</p>
 <p>ZHUO GUANJUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhuo_guanjun@schools.gov.sg</a>
+<p><a href="mailto:zhuo_guanjun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_guanjun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1035,7 +1035,7 @@ of the Staff Room.</p>
 <p>DAPHNE LIM BAO HUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_baohuan_daphne@schools.gov.sg</a>
+<p><a href="mailto:lim_baohuan_daphne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_baohuan_daphne@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1047,7 +1047,7 @@ of the Staff Room.</p>
 <p>LIM FU KANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_fu_kang@schools.gov.sg</a>
+<p><a href="mailto:lim_fu_kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_fu_kang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1059,7 +1059,7 @@ of the Staff Room.</p>
 <p>LIM MEILIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_meilin@schools.gov.sg</a>
+<p><a href="mailto:lim_meilin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_meilin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1071,7 +1071,7 @@ of the Staff Room.</p>
 <p>LEONG TENG FOONG JASON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leong_teng_foong@schools.gov.sg</a>
+<p><a href="mailto:leong_teng_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_teng_foong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1083,7 +1083,7 @@ of the Staff Room.</p>
 <p>SENG BOON TAT GARY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seng_boon_tat_gary@schools.gov.sg</a>
+<p><a href="mailto:seng_boon_tat_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seng_boon_tat_gary@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1095,7 +1095,7 @@ of the Staff Room.</p>
 <p>LEE PING PING PETRINE, NG JUN SIANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_ping_ping_petrine@schools.gov.sg</a>
+<p><a href="mailto:lee_ping_ping_petrine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ping_ping_petrine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1107,7 +1107,7 @@ of the Staff Room.</p>
 <p>CHEN JIANDA ALVIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_jianda_alvin@schools.gov.sg</a>
+<p><a href="mailto:chen_jianda_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jianda_alvin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1119,7 +1119,7 @@ of the Staff Room.</p>
 <p>LIM HUI LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_hui_ling@schools.gov.sg</a>
+<p><a href="mailto:lim_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1131,7 +1131,7 @@ of the Staff Room.</p>
 <p>LOO HUI MIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loo_hui_min@schools.gov.sg</a>
+<p><a href="mailto:loo_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_hui_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1143,7 +1143,7 @@ of the Staff Room.</p>
 <p>LENG FOONG LAN ANDREA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leng_foong_lan_andrea@schools.gov.sg</a>
+<p><a href="mailto:leng_foong_lan_andrea@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leng_foong_lan_andrea@schools.gov.sg</a>
 </p>
 </td>
 </tr>
