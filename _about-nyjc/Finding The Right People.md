@@ -450,7 +450,8 @@ of the Staff Room.</p>
 <p>Ms Lim Wen Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:lim_wen_xuan_l@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_wen_xuan_l@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -581,7 +582,8 @@ of the Staff Room.</p>
 <p>Ms Ariel Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:ariel_lam_jing__yi@schools.gov.sg" rel="noopener nofollow" target="_blank">ariel_lam_jing__yi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
