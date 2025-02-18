@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/qa-with-the-university-admission-directors/
+          url: /headlines/2022/02/16/4972/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,24 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infopic:
+      title: Release of 2024 A Level Results
+      subtitle: HEadlines
+      id: infopic
+      description: 18 Feb
+      button: click here
+      url: /headlines/2022/02/16/4972/
+      image: /images/results_2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: University & Scholarship Application Resources
+      subtitle: headlines
+      id: infopic
+      description: 14 Feb
+      button: click here
+      url: /headlines/qa-with-the-university-admission-directors/
+      image: /images/uni.jpg
+      alt: Image alt text
   - infopic:
       title: 2025 CT Orientation Day 2
       subtitle: STORIES
@@ -39,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-CT-Orientation-Day-1
       image: /images/2500213_CT_Orientation_Day_1_JOSHUA_082.jpg
-      alt: Image alt text
-  - infopic:
-      title: University & Scholarship Application Resources
-      subtitle: headlines
-      id: infopic
-      description: 14 Feb
-      button: click here
-      url: /headlines/qa-with-the-university-admission-directors/
-      image: /images/uni.jpg
       alt: Image alt text
   - infopic:
       title: 2025 CCA Bazaar
