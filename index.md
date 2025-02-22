@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Release of 2024 A Level Results
+      subtitle: stories
+      id: infopic
+      description: 21 Feb
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Release-of-2024-A-Level-Results
+      image: /images/250221_Release_of_2024_A_Level_Results_018.jpg
+      alt: Image alt text
+  - infopic:
       title: Release of 2024 A Level Results
       subtitle: HEadlines
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-CT-Orientation-Day-1
       image: /images/2500213_CT_Orientation_Day_1_JOSHUA_082.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 CCA Bazaar
-      subtitle: stories
-      id: infopic
-      description: 12 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-CCA-Bazaar
-      image: /images/250212_CCA_Bazaar_QIAN_RONG_018.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
