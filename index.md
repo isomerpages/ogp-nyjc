@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC1 Sports and Aesthetics Enrichment Day
+      subtitle: stories
+      id: infopic
+      description: 26 Feb
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC1-Sports-and-Aesthetics-Enrichment-Day
+      image: /images/250226_JC1_Sports_and_Aesthetics_Enrichment_Day_XIN_HUI_050.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Release of 2024 A Level Results
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: VIEW HERE
       url: https://nanyangjc.smugmug.com/2025-JC1-CT-Orientation-Day-2
       image: /images/DS108463_Enhanced_NR__1_.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 CT Orientation Day 1
-      subtitle: stories
-      id: infopic
-      description: 13 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-CT-Orientation-Day-1
-      image: /images/2500213_CT_Orientation_Day_1_JOSHUA_082.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
