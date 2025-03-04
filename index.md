@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/2022/02/16/4972/
+          url: /headlines/edspiration/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
