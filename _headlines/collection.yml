@@ -2,6 +2,7 @@ collections:
   headlines:
     output: true
     order:
+      - EDspiration 2025 (Mar 4, 2025).md
       - 2024 A Level Results Release on 21 Feb (Feb 18, 2025).md
       - University and Scholarship Application Resources (Feb 14 2025).md
       - Select Subject Combination (Feb 5, 2025).md
@@ -14,5 +15,4 @@ collections:
       - Archive/MOE EDUSAVE CHARACTER AWARD (ECHA) (Aug 28, 2023).md
       - Archive/2024 NYJC Open House (2 Jan 2024).md
       - Archive/Post JAE Appeals (Feb 1, 2024).md
-      - Archive/EDspiration (Feb 6, 2024).md
       - Archive/In Loving Memory (3 Feb).md
