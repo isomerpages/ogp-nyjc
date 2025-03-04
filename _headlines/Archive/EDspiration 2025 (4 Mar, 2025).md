@@ -5,10 +5,24 @@ description: ""
 variant: tiptap
 third_nav_title: Archive
 ---
-<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/Jbklwo"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDspiration.png"></a>
-<p>EDspiration 2024 (For JC2 Students) 21 Feb 2024 (Wed), 0815h–1335h, Zoom.
-Attendance is compulsory.</p>
-<p>Each session consists of 6 concurrent talks which you can choose from.
-You are to choose 1 talk from each session.</p>
-<p>Sign up will open on 6th Feb 9 pm and end on 8 Feb, 12 noon.</p>
-<p>Sign up <a href="https://forms.moe.edu.sg/forms/Jbklwo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/JmxnyD"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDspiration.png"></a>
+<p><strong>EDspiration 2025</strong>
+</p>
+<p>2 Apr 2025 (Wed), 0830h–1430h, Face-to-Face
+<br>Attire: Full school uniform
+<br>
+<br>Attendance is compulsory.
+<br>Each session consists of 5 concurrent talks which you can choose from.
+<br>You are required to attend at least 3 out of the 4 sessions.&nbsp;</p>
+<p>Booths from many other organisations will be set up at the atrium and
+eblouissant from 10.30am - 2pm.
+<br>
+<br>Sign up portal will be opened from 11 March (Tues), 9pm till 13 March
+(Thurs), 12pm. It is on a first come first served basis.
+<br>Here is the link:&nbsp;<a href="https://forms.moe.edu.sg/forms/JmxnyD" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JmxnyD</a>
+</p>
+<p>Here is the QR code:&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Edspiration" src="/images/EDspiration_2025_Sign_Up_QR.png">
+</div>
+<p></p>
