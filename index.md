@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: EDspiration 2025
+      subtitle: HEadlines
+      id: infopic
+      description: 4 Mar
+      button: click here
+      url: /headlines/edspiration/
+      image: /images/EDspiration.png
+      alt: Image alt text
+  - infopic:
       title: 2025 JC1 Sports and Aesthetics Enrichment Day
       subtitle: stories
       id: infopic
@@ -39,15 +48,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Release-of-2024-A-Level-Results
       image: /images/250221_Release_of_2024_A_Level_Results_018.jpg
-      alt: Image alt text
-  - infopic:
-      title: Release of 2024 A Level Results
-      subtitle: HEadlines
-      id: infopic
-      description: 18 Feb
-      button: click here
-      url: /headlines/2022/02/16/4972/
-      image: /images/results_2024.jpg
       alt: Image alt text
   - infopic:
       title: University & Scholarship Application Resources
