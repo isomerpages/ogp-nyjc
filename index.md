@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/edspiration/
+          url: /student-council-election-mar-5-2025/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
