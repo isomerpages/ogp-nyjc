@@ -2,6 +2,7 @@ collections:
   headlines:
     output: true
     order:
+      - Student Council Election (Mar 5, 2025).md
       - EDspiration 2025 (Mar 4, 2025).md
       - 2024 A Level Results Release on 21 Feb (Feb 18, 2025).md
       - University and Scholarship Application Resources (Feb 14 2025).md
