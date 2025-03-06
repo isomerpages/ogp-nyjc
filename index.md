@@ -23,13 +23,13 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: 2025 Release of 2024 A Level Results
+      title: 2025 SIG Bazaar
       subtitle: stories
       id: infopic
-      description: 21 Feb
+      description: 5 Mar
       button: view here
-      url: https://nanyangjc.smugmug.com/2025-Release-of-2024-A-Level-Results
-      image: /images/250221_Release_of_2024_A_Level_Results_018.jpg
+      url: https://nanyangjc.smugmug.com/2025-SIG-Bazaar
+      image: /images/250305_SIG_Bazaar_Nynke_002.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Student Council Election
