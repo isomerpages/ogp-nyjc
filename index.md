@@ -23,11 +23,20 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 SIG Bazaar
+      subtitle: stories
+      id: infopic
+      description: 5 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-SIG-Bazaar
+      image: /images/250305_SIG_Bazaar_Nynke_002.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Student Council Election
       subtitle: HEADLINES
       id: infopic
       description: 5 Mar
-      button: VIEW HERE
+      button: clcik HERE
       url: /student-council-election-mar-5-2025/
       image: /images/SC election banner.jpg
       alt: Image alt text
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-JC1-Sports-and-Aesthetics-Enrichment-Day
       image: /images/250226_JC1_Sports_and_Aesthetics_Enrichment_Day_XIN_HUI_050.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Release of 2024 A Level Results
-      subtitle: stories
-      id: infopic
-      description: 21 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Release-of-2024-A-Level-Results
-      image: /images/250221_Release_of_2024_A_Level_Results_018.jpg
       alt: Image alt text
   - infopic:
       title: University & Scholarship Application Resources
