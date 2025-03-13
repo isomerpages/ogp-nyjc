@@ -26,7 +26,7 @@ sections:
       title: 2025 Exploring Mathematical Problem Solving with the GC
       subtitle: Stories
       id: infopic
-      description: Infopic description
+      description: 12 Mar
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Exploring-Mathematical
       image: /images/2503_Math_Competition_019.jpg
