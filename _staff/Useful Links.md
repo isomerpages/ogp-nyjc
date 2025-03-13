@@ -21,5 +21,13 @@ variant: tiptap
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SCMobile</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/nyincidentreporting" rel="noopener noreferrer nofollow" target="_blank">Incident Reporting Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/wvcset" rel="noopener noreferrer nofollow" target="_blank">Bus Service Order Form</a>
+</p>
+</li>
 </ul>
 <p></p>
