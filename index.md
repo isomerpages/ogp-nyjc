@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Exploring Mathematical Problem Solving with the GC
+      subtitle: Stories
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: https://nanyangjc.smugmug.com/2025-Exploring-Mathematical
+      image: /images/2503_Math_Competition_019.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Life-skills & Leadership Seminar (CCA & SIG Exchange)
       subtitle: stories
       id: infopic
