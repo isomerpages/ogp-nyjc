@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Life-skills & Leadership Seminar (CCA & SIG Exchange)
+      subtitle: stories
+      id: infopic
+      description: 12 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-CCA-SIG-Exchange
+      image: /images/250312_Lifeskills_027.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 SIG Bazaar
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: click here
       url: /headlines/edspiration/
       image: /images/EDspiration.png
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC1 Sports and Aesthetics Enrichment Day
-      subtitle: stories
-      id: infopic
-      description: 26 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC1-Sports-and-Aesthetics-Enrichment-Day
-      image: /images/250226_JC1_Sports_and_Aesthetics_Enrichment_Day_XIN_HUI_050.jpg
       alt: Image alt text
   - infopic:
       title: University & Scholarship Application Resources
