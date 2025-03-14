@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC2 IllumiNYte
+      subtitle: stories
+      id: infopic
+      description: 13 Mar
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-JC2-IllumiNYte
+      image: /images/250313_JC2_IllumiNYte_NYNKE_052.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Exploring Mathematical Problem Solving with the GC
       subtitle: Stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-SIG-Bazaar
       image: /images/250305_SIG_Bazaar_Nynke_002.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Student Council Election
-      subtitle: HEADLINES
-      id: infopic
-      description: 5 Mar
-      button: clcik HERE
-      url: /student-council-election-mar-5-2025/
-      image: /images/SC election banner.jpg
       alt: Image alt text
   - infopic:
       title: EDspiration 2025
