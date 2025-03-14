@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Sports Day
+      subtitle: STORIES
+      id: infopic
+      description: 14 Mar
+      button: VIEW here
+      url: https://nanyangjc.smugmug.com/2025-NYJC-Sports-Day
+      image: /images/250314_Sports_Day_005.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC2 IllumiNYte
       subtitle: stories
       id: infopic
@@ -66,15 +75,6 @@ sections:
       button: click here
       url: /headlines/edspiration/
       image: /images/EDspiration.png
-      alt: Image alt text
-  - infopic:
-      title: University & Scholarship Application Resources
-      subtitle: headlines
-      id: infopic
-      description: 14 Feb
-      button: click here
-      url: /headlines/qa-with-the-university-admission-directors/
-      image: /images/uni.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
