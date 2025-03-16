@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC1 IllumiNYte
+      subtitle: stories
+      id: infopic
+      description: 14 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC1-IllumiNYte
+      image: /images/250314_JC1_IllumiNYte_KHAR_NI_and_TRACY_052.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Sports Day
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Exploring-Mathematical
       image: /images/2503_Math_Competition_019.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Life-skills & Leadership Seminar (CCA & SIG Exchange)
-      subtitle: stories
-      id: infopic
-      description: 12 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-CCA-SIG-Exchange
-      image: /images/250312_Lifeskills_027.jpg
       alt: Image alt text
   - infopic:
       title: 2025 SIG Bazaar
