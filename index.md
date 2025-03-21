@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Beijing Cultural Immersion Trip (NYPS & AVA)
+      subtitle: stories
+      id: infopic
+      description: 15-19 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Beijing-Cultural-Immersion-Trip-NYPS-AVA
+      image: /images/L1011301_Enhanced_NR.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC1 IllumiNYte
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Exploring-Mathematical
       image: /images/2503_Math_Competition_019.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 SIG Bazaar
-      subtitle: stories
-      id: infopic
-      description: 5 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-SIG-Bazaar
-      image: /images/250305_SIG_Bazaar_Nynke_002.jpg
       alt: Image alt text
   - infopic:
       title: EDspiration 2025
