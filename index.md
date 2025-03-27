@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 SG60 Mural Tracing at Braddell Heights Community Hub
+      subtitle: stories
+      id: infopic
+      description: 26 Mar
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting-Opening
+      image: /images/250326_SG60_Mural_Painting_Opening_MAGGIE_018.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 National School Games Opening Ceremony
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: VIEW here
       url: https://nanyangjc.smugmug.com/2025-NYJC-Sports-Day
       image: /images/250314_Sports_Day_005.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC2 IllumiNYte
-      subtitle: stories
-      id: infopic
-      description: 13 Mar
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-JC2-IllumiNYte
-      image: /images/250313_JC2_IllumiNYte_NYNKE_052.jpg
       alt: Image alt text
   - infopic:
       title: EDspiration 2025
