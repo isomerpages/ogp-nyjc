@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 National School Games Opening Ceremony
+      subtitle: Stories
+      id: infopic
+      description: 26 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-National-School-Games-Opening-Ceremony
+      image: /images/250326_NSG_Opening_Ceremony_024.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Beijing Cultural Immersion Trip (NYPS & AVA)
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-JC2-IllumiNYte
       image: /images/250313_JC2_IllumiNYte_NYNKE_052.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Exploring Mathematical Problem Solving with the GC
-      subtitle: Stories
-      id: infopic
-      description: 12 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Exploring-Mathematical
-      image: /images/2503_Math_Competition_019.jpg
       alt: Image alt text
   - infopic:
       title: EDspiration 2025
