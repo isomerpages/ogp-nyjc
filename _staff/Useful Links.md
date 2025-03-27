@@ -22,11 +22,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/nyincidentreporting" rel="noopener noreferrer nofollow" target="_blank">Incident Reporting Form</a>
+<p><a href="https://go.gov.sg/nyjcincidentreporting" rel="noopener noreferrer nofollow" target="_blank">Incident Reporting Form</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/wvcset" rel="noopener noreferrer nofollow" target="_blank">Bus Service Order Form</a>
+<p><a href="https://go.gov.sg/nyjcbusbooking" rel="noopener noreferrer nofollow" target="_blank">Bus Service Order Form</a>
 </p>
 </li>
 </ul>
