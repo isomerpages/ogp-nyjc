@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 AGC-NYJC Novice Law Moot Training
+      subtitle: STORIES
+      id: infopic
+      description: 29 Mar
+      button: VIEW here
+      url: https://nanyangjc.smugmug.com/2025-AGC-Law-Moot-Training
+      image: /images/250329_AGC_Law_Moot005.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 SG60 Mural Tracing at Braddell Heights Community Hub
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-JC1-IllumiNYte
       image: /images/250314_JC1_IllumiNYte_KHAR_NI_and_TRACY_052.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Sports Day
-      subtitle: STORIES
-      id: infopic
-      description: 14 Mar
-      button: VIEW here
-      url: https://nanyangjc.smugmug.com/2025-NYJC-Sports-Day
-      image: /images/250314_Sports_Day_005.jpg
       alt: Image alt text
   - infopic:
       title: EDspiration 2025
