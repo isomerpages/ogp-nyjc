@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC2 Principal's Diaalogue
+      subtitle: stories
+      id: infopic
+      description: 1 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC2-Principals-Dialogue
+      image: /images/250401_JC2_Principal_s_Dialogue_YI_XUAN_003.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 AGC-NYJC Novice Law Moot Training
       subtitle: STORIES
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Beijing-Cultural-Immersion-Trip-NYPS-AVA
       image: /images/L1011301_Enhanced_NR.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC1 IllumiNYte
-      subtitle: stories
-      id: infopic
-      description: 14 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC1-IllumiNYte
-      image: /images/250314_JC1_IllumiNYte_KHAR_NI_and_TRACY_052.jpg
       alt: Image alt text
   - infopic:
       title: EDspiration 2025
