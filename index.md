@@ -32,13 +32,22 @@ sections:
       image: /images/250402_Chinese_Translation_Competition_Workshop_RUTH_030.jpg
       alt: Image alt text
   - infopic:
-      title: 2025 JC2 Principal's Diaalogue
+      title: 2025 JC2 Principal's Dialogue
       subtitle: stories
       id: infopic
       description: 1 Apr
       button: view here
       url: https://nanyangjc.smugmug.com/2025-JC2-Principals-Dialogue
       image: /images/250401_JC2_Principal_s_Dialogue_YI_XUAN_003.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2025 National School Games Opening Ceremony
+      subtitle: Stories
+      id: infopic
+      description: 26 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-National-School-Games-Opening-Ceremony
+      image: /images/250326_NSG_Opening_Ceremony_024.jpg
       alt: Image alt text
   - infopic:
       title: 2025 AGC-NYJC Novice Law Moot Training
@@ -57,15 +66,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting-Opening
       image: /images/250326_SG60_Mural_Painting_Opening_MAGGIE_018.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 National School Games Opening Ceremony
-      subtitle: Stories
-      id: infopic
-      description: 26 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-National-School-Games-Opening-Ceremony
-      image: /images/250326_NSG_Opening_Ceremony_024.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
