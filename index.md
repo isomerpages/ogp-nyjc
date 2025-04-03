@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: 2 Apr
       button: view here
-      url: https://www.smugmug.com/app/organize/2025-Chinese-Translation-Competition-Workshop
+      url: https://nanyangjc.smugmug.com/2025-Chinese-Translation-Competition-Workshop
       image: /images/250402_Chinese_Translation_Competition_Workshop_RUTH_030.jpg
       alt: Image alt text
   - infopic:
