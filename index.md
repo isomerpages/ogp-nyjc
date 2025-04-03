@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Chinese Translation Workshop for Secondary Schools
+      subtitle: stories
+      id: infopic
+      description: 2 Apr
+      button: view here
+      url: https://www.smugmug.com/app/organize/2025-Chinese-Translation-Competition-Workshop
+      image: /images/250402_Chinese_Translation_Competition_Workshop_RUTH_030.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC2 Principal's Diaalogue
       subtitle: stories
       id: infopic
@@ -57,24 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-National-School-Games-Opening-Ceremony
       image: /images/250326_NSG_Opening_Ceremony_024.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Beijing Cultural Immersion Trip (NYPS & AVA)
-      subtitle: stories
-      id: infopic
-      description: 15-19 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Beijing-Cultural-Immersion-Trip-NYPS-AVA
-      image: /images/L1011301_Enhanced_NR.jpg
-      alt: Image alt text
-  - infopic:
-      title: EDspiration 2025
-      subtitle: HEadlines
-      id: infopic
-      description: 4 Mar
-      button: click here
-      url: /headlines/edspiration/
-      image: /images/EDspiration.png
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
