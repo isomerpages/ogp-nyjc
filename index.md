@@ -37,7 +37,7 @@ sections:
       id: infopic
       description: 2 Apr
       button: view here
-      url: https://nanyangjc.smugmug.com/202https://nanyangjc.smugmug.com/2025-EDspiration
+      url: https://nanyangjc.smugmug.com/2025-EDspiration
       image: /images/250402_EDspiration_JAMES_042.jpg
       alt: Image alt text
   - infopic:
