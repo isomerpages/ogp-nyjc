@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 SYF Showcase
+      subtitle: stories
+      id: infopic
+      description: 8 Apr
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-SYF-Showcase
+      image: /images/250408_SYF_Showcase_017.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Chinese Translation Workshop for Secondary Schools
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: VIEW here
       url: https://nanyangjc.smugmug.com/2025-AGC-Law-Moot-Training
       image: /images/250329_AGC_Law_Moot005.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 SG60 Mural Tracing at Braddell Heights Community Hub
-      subtitle: stories
-      id: infopic
-      description: 26 Mar
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting-Opening
-      image: /images/250326_SG60_Mural_Painting_Opening_MAGGIE_018.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
