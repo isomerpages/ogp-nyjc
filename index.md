@@ -22,6 +22,22 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infobar:
+      title: Visit Our Facebook Page!
+      description: <div class="home-video"><iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+        height="500" style="border:none;overflow:hidden" scrolling="no"
+        frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
+        encrypted-media; picture-in-picture; web-share"></iframe></div>
+  - infopic:
+      title: 2025 AGC-NYJC Novice Law Moot Competition
+      subtitle: STORIES
+      id: infopic
+      description: 12 Apr
+      button: VIEW here
+      url: https://nanyangjc.smugmug.com/2025-AGC-NYJC-Novice-Law-Moot-Competition
+      image: /images/250412_AGC_NYJC_Novice_Law_Moot_Competition_054.jpg
+      alt: Image alt text
   - infopic:
       title: 2025 SYF Showcase
       subtitle: stories
@@ -58,22 +74,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2025-JC2-Principals-Dialogue
       image: /images/250401_JC2_Principal_s_Dialogue_YI_XUAN_003.jpg
       alt: Image alt text
-  - infopic:
-      title: 2025 AGC-NYJC Novice Law Moot Training
-      subtitle: STORIES
-      id: infopic
-      description: 29 Mar
-      button: VIEW here
-      url: https://nanyangjc.smugmug.com/2025-AGC-Law-Moot-Training
-      image: /images/250329_AGC_Law_Moot005.jpg
-      alt: Image alt text
-  - infobar:
-      title: Visit Our Facebook Page!
-      description: <div class="home-video"><iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-        height="500" style="border:none;overflow:hidden" scrolling="no"
-        frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
-        encrypted-media; picture-in-picture; web-share"></iframe></div>
   - infobar:
       description: <div class="bp-youtube"><iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
