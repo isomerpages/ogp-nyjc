@@ -30,6 +30,15 @@ sections:
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share"></iframe></div>
   - infopic:
+      title: 2025 National Secondary Schools Translation Competition
+      subtitle: stories
+      id: infopic
+      description: 12 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-National-Secondary-Schools-Translation-Competition
+      image: /images/250412_Chinese_Translation_Competition_VANESSA_080.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 AGC-NYJC Novice Law Moot Competition
       subtitle: STORIES
       id: infopic
@@ -64,15 +73,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-EDspiration
       image: /images/250402_EDspiration_JAMES_042.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC2 Principal's Dialogue
-      subtitle: stories
-      id: infopic
-      description: 1 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC2-Principals-Dialogue
-      image: /images/250401_JC2_Principal_s_Dialogue_YI_XUAN_003.jpg
       alt: Image alt text
   - infobar:
       description: <div class="bp-youtube"><iframe allowfullscreen=""
