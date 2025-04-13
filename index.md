@@ -22,13 +22,6 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
-  - infobar:
-      title: Visit Our Facebook Page!
-      description: <div class="home-video"><iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-        height="500" style="border:none;overflow:hidden" scrolling="no"
-        frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
-        encrypted-media; picture-in-picture; web-share"></iframe></div>
   - infopic:
       title: 2025 National Secondary Schools Translation Competition
       subtitle: stories
@@ -74,6 +67,13 @@ sections:
       url: https://nanyangjc.smugmug.com/2025-EDspiration
       image: /images/250402_EDspiration_JAMES_042.jpg
       alt: Image alt text
+  - infobar:
+      title: Visit Our Facebook Page!
+      description: <div class="home-video"><iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNanyangjc%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+        height="500" style="border:none;overflow:hidden" scrolling="no"
+        frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write;
+        encrypted-media; picture-in-picture; web-share"></iframe></div>
   - infobar:
       description: <div class="bp-youtube"><iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
