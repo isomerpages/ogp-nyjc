@@ -23,15 +23,6 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: 2025 A Div 800m Girls Track and Field Championship Finals
-      subtitle: Stories
-      id: infopic
-      description: 15 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-A-Div-Track-and-Field-800m-Girls-Finals-
-      image: /images/250415_A_Div_Track_and_Field_800m005.jpg
-      alt: Image alt text
-  - infopic:
       title: 2025 National Secondary Schools Translation Competition
       subtitle: stories
       id: infopic
