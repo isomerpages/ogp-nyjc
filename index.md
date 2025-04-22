@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC2 SG Perspectives
+      subtitle: stories
+      id: infopic
+      description: 22 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC2-SG-Perspectives
+      image: /images/250422_JC2_SG_Perspectives_XIN_HUI_030.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 National Secondary Schools Translation Competition
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-SYF-Showcase
       image: /images/250408_SYF_Showcase_017.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Chinese Translation Workshop for Secondary Schools
-      subtitle: stories
-      id: infopic
-      description: 2 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Chinese-Translation-Competition-Workshop
-      image: /images/250402_Chinese_Translation_Competition_Workshop_RUTH_030.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
