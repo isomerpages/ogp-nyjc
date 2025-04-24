@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 The Straits Times – Current Affairs Quiz
+      subtitle: stories
+      id: infopic
+      description: 23 Apr
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-The-Straits-Times-Current-Affair-Quiz
+      image: /images/250423_ST_News_Talk_JOIE_045.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC2 SG Perspectives
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: VIEW here
       url: https://nanyangjc.smugmug.com/2025-AGC-NYJC-Novice-Law-Moot-Competition
       image: /images/250412_AGC_NYJC_Novice_Law_Moot_Competition_054.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 SYF Showcase
-      subtitle: stories
-      id: infopic
-      description: 8 Apr
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-SYF-Showcase
-      image: /images/250408_SYF_Showcase_017.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
