@@ -29,7 +29,7 @@ sections:
       description: 23 Apr
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-The-Straits-Times-Current-Affair-Quiz
-      image: /images/250408_SYF_Showcase_017.jpg
+      image: /images/250423_ST_News_Talk_JOIE_045.jpg
       alt: Image alt text
   - infopic:
       title: 2025 JC2 SG Perspectives
