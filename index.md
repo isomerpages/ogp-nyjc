@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Track and Field National A Div Girls
+      subtitle: stories
+      id: infopic
+      description: 25 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Track-and-Field-National-A-Div-Girls
+      image: /images/250425_Track_and_Field_008.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 A Division Touch Rugby
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-JC2-SG-Perspectives
       image: /images/250422_JC2_SG_Perspectives_XIN_HUI_030.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 National Secondary Schools Translation Competition
-      subtitle: stories
-      id: infopic
-      description: 12 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-National-Secondary-Schools-Translation-Competition
-      image: /images/250412_Chinese_Translation_Competition_VANESSA_080.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
