@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 EDTech Seminar
+      subtitle: stories
+      id: infopic
+      description: 30 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-EDTech-Seminar
+      image: /images/250430_EDTech_Seminar_003.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Track and Field National A Div Girls
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-The-Straits-Times-Current-Affair-Quiz
       image: /images/250423_ST_News_Talk_JOIE_045.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC2 SG Perspectives
-      subtitle: stories
-      id: infopic
-      description: 22 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC2-SG-Perspectives
-      image: /images/250422_JC2_SG_Perspectives_XIN_HUI_030.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
