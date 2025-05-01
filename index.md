@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Tchoukball A Division Boys and Girls Championship
+      subtitle: stories
+      id: infopic
+      description: 30 Apr
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-Tchoukball-A-Div-Boys-and-Girls
+      image: /images/250430_Tchoukball_A_Div_019.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 EDTech Seminar
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: VIEW here
       url: https://nanyangjc.smugmug.com/2025-Touch-Rugby-Girls-A-Div-Championship
       image: /images/250424_Touch_Rugby_A_Div_082.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 The Straits Times – Current Affairs Quiz
-      subtitle: stories
-      id: infopic
-      description: 23 Apr
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-The-Straits-Times-Current-Affair-Quiz
-      image: /images/250423_ST_News_Talk_JOIE_045.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
