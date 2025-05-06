@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Admissions
 variant: tiptap
 ---
-<p>Nanyang Junior College invites students with outstanding talents/skills
+<p><strong>Direct School Admission-JC Exercise 2025</strong>
+<br>
+<br>Nanyang Junior College invites students with outstanding talents/skills
 to apply for Direct School Admission. Successful DSA-JC candidates will
 gain admission to NYJC in 2026 for their JC education as long as they meet
 the eligibility criteria set by MOE for the two-year Junior College Course
