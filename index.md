@@ -23,13 +23,13 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: 2025 A Division Touch Rugby
-      subtitle: STORIES
+      title: 2025 Direct School Admission-JC ExercisE
+      subtitle: HEADLINES
       id: infopic
       description: 24 Apr
-      button: VIEW here
-      url: https://nanyangjc.smugmug.com/2025-Touch-Rugby-Girls-A-Div-Championship
-      image: /images/250424_Touch_Rugby_A_Div_082.jpg
+      button: CLICK here
+      url: /direct-school-admission-jc-exercise-2025/
+      image: /images/DSA_banner_for_website.png
       alt: Image alt text
   - infopic:
       title: 2025 Tchoukball A Division Boys and Girls Championship
