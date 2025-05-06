@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 A Division Touch Rugby
+      subtitle: STORIES
+      id: infopic
+      description: 24 Apr
+      button: VIEW here
+      url: https://nanyangjc.smugmug.com/2025-Touch-Rugby-Girls-A-Div-Championship
+      image: /images/250424_Touch_Rugby_A_Div_082.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Tchoukball A Division Boys and Girls Championship
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Track-and-Field-National-A-Div-Girls
       image: /images/250425_Track_and_Field_008.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 A Division Touch Rugby
-      subtitle: STORIES
-      id: infopic
-      description: 24 Apr
-      button: VIEW here
-      url: https://nanyangjc.smugmug.com/2025-Touch-Rugby-Girls-A-Div-Championship
-      image: /images/250424_Touch_Rugby_A_Div_082.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
