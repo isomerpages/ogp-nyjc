@@ -184,6 +184,7 @@ test. The diagnostic test includes:</p>
 to a visual stimulus.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portfolio Interview (30min):
 Present the portfolio</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -226,6 +227,7 @@ exam)</p>
 <p>Candidates will be required to submit a personal statement of not more
 than 500 Chinese characters in the application form. Suitable candidates
 would be shortlisted for an interview.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -363,10 +365,7 @@ and/or Mathematics Olympiads or National Olympiads of Informatics (NOI)</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
