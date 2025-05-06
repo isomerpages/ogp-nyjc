@@ -21,10 +21,10 @@ They are expected to honour the commitment to their DSA-JC school.</p>
 The college accepts only online application, hard copy of the registration
 form is not required.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amendment to the application (if any)
-should be submitted to the college via the college email: <a rel="noopener noreferrer nofollow" target="_blank">nyjc@schools.gov.sg</a> with
-the subject title ‘2025 DSA Application Amendment – name, partial NRIC/FIN’.
-Partial NRIC/FIN includes the last 3 numerical digits and alphabet of your
-NRIC/FIN (e.g. '567A' from full NRIC number of 'S1234567A').</p>
+should be submitted to the college via the college email: <a rel="noopener noreferrer nofollow" target="_blank">nyjc@schools.gov.sg</a> with the subject
+title ‘2025 DSA Application Amendment – name, partial NRIC/FIN’. Partial
+NRIC/FIN includes the last 3 numerical digits and alphabet of your NRIC/FIN
+(e.g. '567A' from full NRIC number of 'S1234567A').</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are applying via more than one
 talent area, please submit a separate application form for each talent
 area.</p>
@@ -61,8 +61,7 @@ through email/whatsapp/sms.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The college will contact successful candidates
 by telephone and email.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All shortlisted applicants who have
-participated in the trial/interview:</p>
-<p><em>a)&nbsp;&nbsp;&nbsp;&nbsp; Phase 1 selection outcome will be released between 30 Jul and 12 Aug 2025;</em>
-</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Phase 2 selection outcome will be released between 26 Aug and 8 Sep 2025.</em>
+participated in the trial/interview:
+<br><em>a)&nbsp;&nbsp;&nbsp;&nbsp; Phase 1 selection outcome will be released between 30 Jul and 12 Aug 2025;</em>
+<br>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Phase 2 selection outcome will be released between 26 Aug and 8 Sep 2025.</em>
 </p>
