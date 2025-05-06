@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /student-council-election-mar-5-2025/
+          url: /direct-school-admission-jc-exercise-2025/5/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+  - infopic:
+      title: 2025 Direct School Admission-JC ExercisE
+      subtitle: HEADLINES
+      id: infopic
+      description: 24 Apr
+      button: CLICK here
+      url: /direct-school-admission-jc-exercise-2025/
+      image: /images/DSA_banner_for_website.png
+      alt: Image alt text
   - infopic:
       title: 2025 Tchoukball A Division Boys and Girls Championship
       subtitle: stories
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Track-and-Field-National-A-Div-Girls
       image: /images/250425_Track_and_Field_008.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 A Division Touch Rugby
-      subtitle: STORIES
-      id: infopic
-      description: 24 Apr
-      button: VIEW here
-      url: https://nanyangjc.smugmug.com/2025-Touch-Rugby-Girls-A-Div-Championship
-      image: /images/250424_Touch_Rugby_A_Div_082.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
