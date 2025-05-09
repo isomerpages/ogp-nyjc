@@ -21,7 +21,7 @@ realise their goals.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentation for Band (Concert)</p>
+<p>SYF 2025 Arts Presentation for Band (Concert)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -29,7 +29,7 @@ realise their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentation for Choir</p>
+<p>SYF 2025 Arts Presentation for Choir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -37,7 +37,7 @@ realise their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentation for Chinese Orchestra</p>
+<p>SYF 2025 Arts Presentation for Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -45,31 +45,15 @@ realise their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentation for Dance (International)</p>
+<p>SYF 2025 Arts Presentation for Dance (International)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2024 Arts Presentation for Drama (Chinese)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certification of Accomplishment</p>
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2024 Arts Presentation for Drama (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certification of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentation for Instrumental Ensemble (Guzheng)</p>
+<p>SYF 2025 Arts Presentation for Instrumental Ensemble (Guzheng)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
