@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Badminton A Div Girls Finals
+      subtitle: stories
+      id: infopic
+      description: 8 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Badminton-A-Div-Girls-Final-Championship
+      image: /images/250508_Badminton_A_Div_Girls_Finals_046.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Direct School Admission-JC ExercisE
       subtitle: HEADLINES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-EDTech-Seminar
       image: /images/250430_EDTech_Seminar_003.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Track and Field National A Div Girls
-      subtitle: stories
-      id: infopic
-      description: 25 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Track-and-Field-National-A-Div-Girls
-      image: /images/250425_Track_and_Field_008.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
