@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 我们的白云岗
+      subtitle: stories
+      id: infopic
+      description: 9 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-byg
+      image: /images/250409_Bai_Yun_Gang_025.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Badminton A Div Girls Finals
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-Tchoukball-A-Div-Boys-and-Girls
       image: /images/250430_Tchoukball_A_Div_019.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 EDTech Seminar
-      subtitle: stories
-      id: infopic
-      description: 30 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-EDTech-Seminar
-      image: /images/250430_EDTech_Seminar_003.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
