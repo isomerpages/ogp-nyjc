@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Community Leadership Programme Pitching Day
+      subtitle: stories
+      id: infopic
+      description: 10 May
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-Community-Leadership-Programme-Pitching-Day
+      image: /images/250510_CLP_Pitching_DIARIUS_027.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 我们的白云岗
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: CLICK here
       url: /direct-school-admission-jc-exercise-2025/
       image: /images/DSA_banner_for_website.png
-      alt: Image alt text
-  - infopic:
-      title: 2025 Tchoukball A Division Boys and Girls Championship
-      subtitle: stories
-      id: infopic
-      description: 30 Apr
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-Tchoukball-A-Div-Boys-and-Girls
-      image: /images/250430_Tchoukball_A_Div_019.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
