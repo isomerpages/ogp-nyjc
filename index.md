@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Floorball A Div Girls Semi Finals
+      subtitle: stories
+      id: infopic
+      description: 13 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/250513-Floorball-A-Div-Girls-Semi-Finals
+      image: /images/250513_Floorball_A_Div_Girls_Semi_Finals_CEDRIC_011.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Community Leadership Programme Pitching Day
       subtitle: stories
       id: infopic
@@ -39,15 +48,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-byg
       image: /images/250409_Bai_Yun_Gang_025.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Badminton A Div Girls Finals
-      subtitle: stories
-      id: infopic
-      description: 8 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Badminton-A-Div-Girls-Final-Championship
-      image: /images/250508_Badminton_A_Div_Girls_Finals_046.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
