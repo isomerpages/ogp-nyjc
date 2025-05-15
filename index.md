@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Football A Div Semi Finals
+      subtitle: stories
+      id: infopic
+      description: 13 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Football-A-Div-Semi-Finals
+      image: /images/250513_Football_A_Div_Semi_Finals_CEDRIC_057.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Floorball A Div Boys Semi Finals
       subtitle: Stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-Community-Leadership-Programme-Pitching-Day
       image: /images/250510_CLP_Pitching_DIARIUS_027.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 我们的白云岗
-      subtitle: stories
-      id: infopic
-      description: 9 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-byg
-      image: /images/250409_Bai_Yun_Gang_025.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
