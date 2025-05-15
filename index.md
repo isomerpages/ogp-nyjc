@@ -29,7 +29,7 @@ sections:
       description: 13 May
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Football-A-Div-Semi-Finals
-      image: /images/250409_Bai_Yun_Gang_025.jpg
+      image: /images/250513_Football_A_Div_Semi_Finals_CEDRIC_057.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Floorball A Div Boys Semi Finals
