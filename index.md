@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Floorball A Div Boys Finals
+      subtitle: Stories
+      id: infopic
+      description: 15 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-Floorball-A-Div-Boys-Finals
+      image: /images/250515_Floorball_A_Div_Boys_Finals_LANA_048_Web.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Floorball A Div Girls Finals
       subtitle: stories
       id: infopic
