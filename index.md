@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Drama Night
+      subtitle: stories
+      id: infopic
+      description: 16 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Drama-Night
+      image: /images/250516_Drama_Night_YI_XUAN_013.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Floorball A Div Boys Finals
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Floorball-A-Div-Boys-Semi-Finals
       image: /images/250513_Floorball_A_Div_Boys_Semi_Finals_CEDRIC_006.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Floorball A Div Girls Semi Finals
-      subtitle: stories
-      id: infopic
-      description: 13 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/250513-Floorball-A-Div-Girls-Semi-Finals
-      image: /images/250513_Floorball_A_Div_Girls_Semi_Finals_CEDRIC_011.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
