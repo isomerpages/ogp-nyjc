@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Netball A Div Girls Quarter Finals
+      subtitle: stories
+      id: infopic
+      description: 20 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Netball-A-Div-Girls-Quarter-Finals
+      image: /images/250520_Netball_A_Div_005.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 College Day
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-Floorball-A-Div-Girls-Finals
       image: /images/250515_Floorball_A_Div_Girls_Finals_091.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Football A Div Semi Finals
-      subtitle: stories
-      id: infopic
-      description: 13 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Football-A-Div-Semi-Finals
-      image: /images/250513_Football_A_Div_Semi_Finals_CEDRIC_057.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
