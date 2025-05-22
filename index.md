@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Football A Div Boys Finals
+      subtitle: Stories
+      id: infopic
+      description: 22 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-Football-A-Div-Boys-Finals
+      image: /images/250522_Football_A_Div_Boys_Finals_JOSHUA_035.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 NY Science Research Day
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Drama-Night
       image: /images/250516_Drama_Night_YI_XUAN_013.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Floorball A Div Boys Finals
-      subtitle: Stories
-      id: infopic
-      description: 15 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-Floorball-A-Div-Boys-Finals
-      image: /images/250515_Floorball_A_Div_Boys_Finals_LANA_048_Web.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
