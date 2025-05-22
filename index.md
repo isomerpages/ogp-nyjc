@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 NY Science Research Day
+      subtitle: stories
+      id: infopic
+      description: 21 May
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-NY-Science-Research
+      image: /images/250521_NY_Science_Research_ANGELINE_026.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Netball A Div Girls Quarter Finals
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-Floorball-A-Div-Boys-Finals
       image: /images/250515_Floorball_A_Div_Boys_Finals_LANA_048_Web.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Floorball A Div Girls Finals
-      subtitle: stories
-      id: infopic
-      description: 15 May
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-Floorball-A-Div-Girls-Finals
-      image: /images/250515_Floorball_A_Div_Girls_Finals_091.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
