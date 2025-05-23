@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 College Day
+      subtitle: Stories
+      id: infopic
+      description: 22 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Interact-Club-Installation-Ceremony
+      image: /images/250518_College_Day_006.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 48th Student Council Investiture
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Netball-A-Div-Girls-Quarter-Finals
       image: /images/250520_Netball_A_Div_005.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 College Day
-      subtitle: Stories
-      id: infopic
-      description: 17 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-College-Day
-      image: /images/250518_College_Day_006.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
