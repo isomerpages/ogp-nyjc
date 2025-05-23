@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Basketball A Div Girls Championship 3rd/4th
+      subtitle: stories
+      id: infopic
+      description: 23 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Basketball-A-Div-Girls-Championship
+      image: /images/250523_Basketball_A_Div_Girls_047.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Interact Club Installation Ceremony
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-NY-Science-Research
       image: /images/250521_NY_Science_Research_ANGELINE_026.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Netball A Div Girls Quarter Finals
-      subtitle: stories
-      id: infopic
-      description: 20 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Netball-A-Div-Girls-Quarter-Finals
-      image: /images/250520_Netball_A_Div_005.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
