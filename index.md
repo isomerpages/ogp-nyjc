@@ -28,8 +28,8 @@ sections:
       id: infopic
       description: 22 May
       button: view here
-      url: https://nanyangjc.smugmug.com/2025-Drama-Night
-      image: /images/250516_Drama_Night_YI_XUAN_013.jpg
+      url: https://nanyangjc.smugmug.com/2025-48th-Student-Council-Investiture
+      image: /images/250522_SC_Investiture_FELICIA_062.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Football A Div Boys Finals
