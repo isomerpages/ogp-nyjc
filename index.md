@@ -23,13 +23,13 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: 2025 College Day
+      title: 2025 Interact Club Installation Ceremony
       subtitle: Stories
       id: infopic
       description: 22 May
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Interact-Club-Installation-Ceremony
-      image: /images/250518_College_Day_006.jpg
+      image: /images/250522_Interact_Club_Installation_RUTH_038.jpg
       alt: Image alt text
   - infopic:
       title: 2025 48th Student Council Investiture
