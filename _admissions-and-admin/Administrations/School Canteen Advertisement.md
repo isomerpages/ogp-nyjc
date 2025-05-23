@@ -6,7 +6,7 @@ third_nav_title: Administrations
 variant: tiptap
 ---
 <p><strong>Type of Stall:</strong> Halal Fish Soup (Stall 8)
-<br><strong>Closing Date:</strong> Fri, 23 May 2025</p>
+<br><strong>Closing Date:</strong> Fri, 27 Jun 2025</p>
 <h5>Application Procedure</h5>
 <ol>
 <li>

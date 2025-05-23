@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 48th Student Council Investiture
+      subtitle: stories
+      id: infopic
+      description: 22 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-48th-Student-Council-Investiture
+      image: /images/250522_SC_Investiture_FELICIA_062.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Football A Div Boys Finals
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-College-Day
       image: /images/250518_College_Day_006.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Drama Night
-      subtitle: stories
-      id: infopic
-      description: 16 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Drama-Night
-      image: /images/250516_Drama_Night_YI_XUAN_013.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
