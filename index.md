@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Class Leaders' Camp Day 1
+      subtitle: stories
+      id: infopic
+      description: 23 May
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-Class-Leaders-Camp-Day-1
+      image: /images/250523_Class_Leaders_Camp_Day_1_SIRUI_007.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Basketball A Div Girls Championship 3rd/4th
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-Football-A-Div-Boys-Finals
       image: /images/250522_Football_A_Div_Boys_Finals_JOSHUA_035.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 NY Science Research Day
-      subtitle: stories
-      id: infopic
-      description: 21 May
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-NY-Science-Research
-      image: /images/250521_NY_Science_Research_ANGELINE_026.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
