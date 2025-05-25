@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Class Leaders' Camp Day 2
+      subtitle: Stories
+      id: infopic
+      description: 24 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-Class-Leaders-Camp-Day-2
+      image: /images/250524_Class_Leaders_Camp_Day_2_032.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Class Leaders' Camp Day 1
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-48th-Student-Council-Investiture
       image: /images/250522_SC_Investiture_FELICIA_062.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Football A Div Boys Finals
-      subtitle: Stories
-      id: infopic
-      description: 22 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-Football-A-Div-Boys-Finals
-      image: /images/250522_Football_A_Div_Boys_Finals_JOSHUA_035.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
