@@ -23,6 +23,24 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Volleyball National A Div Boys Finals
+      subtitle: Stories
+      id: infopic
+      description: 27 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Volleyball-National-A-Div-Boys-Finals
+      image: /images/250527_Volleyball_A_Div_Boys_Finals_015.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2025 Volleyball National A Div Girls Finals
+      subtitle: stories
+      id: infopic
+      description: 27 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Volleyball-National-A-Div-Girls-Finals
+      image: /images/250527_Volleyball_A_Div_Girls_Finals_028.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Class Leaders' Camp Day 2
       subtitle: Stories
       id: infopic
@@ -48,24 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Basketball-A-Div-Girls-Championship
       image: /images/250523_Basketball_A_Div_Girls_047.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Interact Club Installation Ceremony
-      subtitle: Stories
-      id: infopic
-      description: 22 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Interact-Club-Installation-Ceremony
-      image: /images/250522_Interact_Club_Installation_RUTH_038.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 48th Student Council Investiture
-      subtitle: stories
-      id: infopic
-      description: 22 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-48th-Student-Council-Investiture
-      image: /images/250522_SC_Investiture_FELICIA_062.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
