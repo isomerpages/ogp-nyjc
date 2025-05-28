@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: 2025 Volleyball National A DivBoys Finals
+      title: 2025 Volleyball National A Div Boys Finals
       subtitle: Stories
       id: infopic
       description: 27 May
