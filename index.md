@@ -32,13 +32,13 @@ sections:
       image: /images/250528_SG60_Mural_Painting_100.jpg
       alt: Image alt text
   - infopic:
-      title: 2025 Basketball A Div Girls Championship 3rd/4th
+      title: "2025 NYJC Alumni Band Concert - Roots III: 归根"
       subtitle: stories
       id: infopic
-      description: 23 May
+      description: 25 May
       button: view here
-      url: https://nanyangjc.smugmug.com/2025-Basketball-A-Div-Girls-Championship
-      image: /images/250523_Basketball_A_Div_Girls_047.jpg
+      url: https://nanyangjc.smugmug.com/2025-NYJC-Alumni-Band-Concert-Roots-III-%E5%BD%92%E6%A0%B9
+      image: /images/NYJCalumni_2025_Social_51.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Volleyball National A Div Boys Finals
