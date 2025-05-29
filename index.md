@@ -29,7 +29,7 @@ sections:
       description: 28 May
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting
-      image: /images/250523_Class_Leaders_Camp_Day_1_SIRUI_007.jpg
+      image: /images/250528_SG60_Mural_Painting_100.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Basketball A Div Girls Championship 3rd/4th
