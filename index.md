@@ -23,6 +23,24 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 SG60 Mural Painting
+      subtitle: stories
+      id: infopic
+      description: 28 May
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting
+      image: /images/250523_Class_Leaders_Camp_Day_1_SIRUI_007.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2025 Basketball A Div Girls Championship 3rd/4th
+      subtitle: stories
+      id: infopic
+      description: 23 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Basketball-A-Div-Girls-Championship
+      image: /images/250523_Basketball_A_Div_Girls_047.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Volleyball National A Div Boys Finals
       subtitle: Stories
       id: infopic
@@ -48,24 +66,6 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-Class-Leaders-Camp-Day-2
       image: /images/250524_Class_Leaders_Camp_Day_2_032.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Class Leaders' Camp Day 1
-      subtitle: stories
-      id: infopic
-      description: 23 May
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-Class-Leaders-Camp-Day-1
-      image: /images/250523_Class_Leaders_Camp_Day_1_SIRUI_007.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Basketball A Div Girls Championship 3rd/4th
-      subtitle: stories
-      id: infopic
-      description: 23 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Basketball-A-Div-Girls-Championship
-      image: /images/250523_Basketball_A_Div_Girls_047.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
