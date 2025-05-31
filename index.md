@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 The NYght
+      subtitle: Stories
+      id: infopic
+      description: 30 May
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-The-NYght
+      image: /images/250530_The_NYght_149.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 SG60 Mural Painting
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Volleyball-National-A-Div-Girls-Finals
       image: /images/250527_Volleyball_A_Div_Girls_Finals_028.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Class Leaders' Camp Day 2
-      subtitle: Stories
-      id: infopic
-      description: 24 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-Class-Leaders-Camp-Day-2
-      image: /images/250524_Class_Leaders_Camp_Day_2_032.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
