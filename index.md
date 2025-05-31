@@ -29,7 +29,7 @@ sections:
       description: 30 May
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-The-NYght
-      image: /images/250524_Class_Leaders_Camp_Day_2_032.jpg
+      image: /images/250530_The_NYght_149.jpg
       alt: Image alt text
   - infopic:
       title: 2025 SG60 Mural Painting
