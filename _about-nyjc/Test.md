@@ -4,6 +4,57 @@ permalink: /test/
 variant: tiptap
 description: ""
 ---
+<p><strong>Aesthetics, Clubs &amp; Societies</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation for Band (Concert)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation for Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation for Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation for Dance (International)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation for Instrumental Ensemble (Guzheng)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Sports &amp; Games (2025)</strong>
 </p>
 <table style="minWidth: 50px">
