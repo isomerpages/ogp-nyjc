@@ -8,6 +8,7 @@ variant: tiptap
 our efforts and affirmations of the college’s systems and processes that
 we have put in place to help our students maximize their potential and
 realise their goals.</p>
+<p></p>
 <p><strong>Aesthetics, Clubs &amp; Societies</strong>
 </p>
 <table style="minWidth: 50px">
