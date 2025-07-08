@@ -2,13 +2,15 @@
 title: Our Achievements
 permalink: /about-nyjc/our-achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>We take pride in our achievements – because awards are recognitions of
 our efforts and affirmations of the college’s systems and processes that
 we have put in place to help our students maximize their potential and
 realise their goals.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/awards.jpg">
+</div>
 <p><strong>Aesthetics, Clubs &amp; Societies</strong>
 </p>
 <table style="minWidth: 50px">
