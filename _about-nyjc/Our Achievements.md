@@ -9,7 +9,7 @@ our efforts and affirmations of the college’s systems and processes that
 we have put in place to help our students maximize their potential and
 realise their goals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/awards.jpg">
 </div>
 <p><strong>Aesthetics, Clubs &amp; Societies</strong>
 </p>
@@ -61,7 +61,7 @@ realise their goals.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Sports &amp; Games (2024)</strong>
+<p><strong>Sports &amp; Games (2025)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -82,14 +82,6 @@ realise their goals.</p>
 <p>National School Games A-Division Volleyball Championship - Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd Runners-up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games A-Division Basketball Championship - Boys</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1st Runners-up</p>
 </td>
 </tr>
@@ -98,7 +90,7 @@ realise their goals.</p>
 <p>National School Games A-Division Basketball Championship - Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion</p>
+<p>3rd Runners-up</p>
 </td>
 </tr>
 <tr>
@@ -119,10 +111,34 @@ realise their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Inter-School Tchouckball Championship - Girls</p>
+<p>National School Games A-Division Football Championship - Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st Runners-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games A-Division Floorball Championship - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runners-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games A-Division Floorball Championship - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runners-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Inter-School Tchouckball Championship - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
 </td>
 </tr>
 <tr>
@@ -131,25 +147,6 @@ realise their goals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st Runners-up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games A-Division Golf Championships (Team)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Runners-up</p>
-<p>Ong Qi Heng</p>
-<p>Cheng You Lun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games A-Division Golf Championships (Individual)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Runner-up</p>
-<p>Ong Qi Heng</p>
 </td>
 </tr>
 <tr>
@@ -166,17 +163,8 @@ realise their goals.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Runner-up (100m and 200m)</p>
+<p>1st Runner-up (100m)</p>
 <p>Teh Ying Shan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Runner-up (2000m Steeplechase)</p>
-<p>Lana Chen</p>
 </td>
 </tr>
 </tbody>
