@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Leadership Training Camp Day 1
+      subtitle: stories
+      id: infopic
+      description: 10 Jun
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-1
+      image: /images/250710_LTC_Day_1_LUCIUS_028.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 The NYght
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Volleyball-National-A-Div-Boys-Finals
       image: /images/250527_Volleyball_A_Div_Boys_Finals_015.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Volleyball National A Div Girls Finals
-      subtitle: stories
-      id: infopic
-      description: 27 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Volleyball-National-A-Div-Girls-Finals
-      image: /images/250527_Volleyball_A_Div_Girls_Finals_028.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
