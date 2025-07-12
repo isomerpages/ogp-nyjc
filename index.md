@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Leadership Training Camp Day 3
+      subtitle: stories
+      id: infopic
+      description: 12 Jul
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-3
+      image: /images/250712_Leadership_Training_Camp_Day_3_012.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Leadership Training Camp Day 2
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting
       image: /images/250528_SG60_Mural_Painting_100.jpg
-      alt: Image alt text
-  - infopic:
-      title: "2025 NYJC Alumni Band Concert - Roots III: 归根"
-      subtitle: stories
-      id: infopic
-      description: 25 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-NYJC-Alumni-Band-Concert-Roots-III-%E5%BD%92%E6%A0%B9
-      image: /images/NYJCalumni_2025_Social_51.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Direct School Admission-JC ExercisE
