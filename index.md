@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /direct-school-admission-jc-exercise-2025/5/
+          url: /student-council-election-mar-5-2025/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -66,15 +66,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting
       image: /images/250528_SG60_Mural_Painting_100.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Direct School Admission-JC ExercisE
-      subtitle: HEADLINES
-      id: infopic
-      description: 24 Apr
-      button: CLICK here
-      url: /direct-school-admission-jc-exercise-2025/
-      image: /images/DSA_banner_for_website.png
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
