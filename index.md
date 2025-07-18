@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC1 SG Perspectives Dialogue Session
+      subtitle: Stories
+      id: infopic
+      description: 17 Jul
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-JC1-SG-Perspectives
+      image: /images/250717_JC1_SG_Perspectives_YEQIAN_029.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Leadership Training Camp Day 3
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-1
       image: /images/250710_LTC_Day_1_LUCIUS_028.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 The NYght
-      subtitle: Stories
-      id: infopic
-      description: 30 May
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-The-NYght
-      image: /images/250530_The_NYght_149.jpg
       alt: Image alt text
   - infopic:
       title: 2025 SG60 Mural Painting
