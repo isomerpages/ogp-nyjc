@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Vietnam Schools Exchange Visit
+      subtitle: stories
+      id: infopic
+      description: 18 Jul
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-Vietnam-Schools-Exchange-Visit
+      image: /images/250718_Vietnam_Schools_Visit_033.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC1 SG Perspectives Dialogue Session
       subtitle: Stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-1
       image: /images/250710_LTC_Day_1_LUCIUS_028.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 SG60 Mural Painting
-      subtitle: stories
-      id: infopic
-      description: 28 May
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-SG60-Mural-Painting
-      image: /images/250528_SG60_Mural_Painting_100.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
