@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Community Leadership Programme Final Presentation
+      subtitle: stories
+      id: infopic
+      description: 19 Jul
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Community-Leadership-Programme-Final-Presentation
+      image: /images/250719_CLP_Final_Presentation_048.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Vietnam Schools Exchange Visit
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-2
       image: /images/250711_LTC_Day_2_Team_Explorer_076.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Leadership Training Camp Day 1
-      subtitle: stories
-      id: infopic
-      description: 10 Jun
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-1
-      image: /images/250710_LTC_Day_1_LUCIUS_028.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
