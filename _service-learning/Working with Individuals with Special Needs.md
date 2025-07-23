@@ -34,7 +34,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.vsa.org.sg/component/option,com_frontpage/Itemid,1/" rel="noopener noreferrer nofollow" target="_blank">Very Special Arts</a>
+<p><a href="https://www.artdis.org.sg/volunteer/" rel="noopener noreferrer nofollow" target="_blank">Very Special Arts</a>
 </p>
 </li>
 <li>
