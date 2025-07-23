@@ -36,7 +36,7 @@ Christmas)</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.touch.org.sg/volunteer" rel="noopener noreferrer nofollow" target="_blank">TOUCH Community Services</a>
+<p><a href="https://www.touch.org.sg/get-involved/volunteer.html" rel="noopener noreferrer nofollow" target="_blank">TOUCH Community Services</a>
 </p>
 </li>
 <li>
