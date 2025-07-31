@@ -28,8 +28,8 @@ sections:
       id: infopic
       description: 30 Jul
       button: view here
-      url: https://nanyangjc.smugmug.com/2025-Leadership-Training-Camp-Day-3
-      image: /images/250712_Leadership_Training_Camp_Day_3_012.jpg
+      url: https://nanyangjc.smugmug.com/2025-Racial-Harmony-Day-Celebration
+      image: /images/250730_Racial_Harmony_Day_ANGELINE_008.jpg
       alt: Image alt text
   - infopic:
       title: 2025 Community Leadership Programme Final Presentation
