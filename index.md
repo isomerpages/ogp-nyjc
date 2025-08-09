@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 National Day Celebration
+      subtitle: Stories
+      id: infopic
+      description: 8 Aug
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-National-Day-Celebration
+      image: /images/250808_National_Day_Celebration_MR_OOI_024.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Racial Harmony Day Celebration
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-Vietnam-Schools-Exchange-Visit
       image: /images/250718_Vietnam_Schools_Visit_033.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC1 SG Perspectives Dialogue Session
-      subtitle: Stories
-      id: infopic
-      description: 17 Jul
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-JC1-SG-Perspectives
-      image: /images/250717_JC1_SG_Perspectives_YEQIAN_029.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
