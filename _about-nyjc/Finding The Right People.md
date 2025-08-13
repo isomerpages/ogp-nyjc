@@ -4,10 +4,8 @@ permalink: /about-nyjc/people/
 description: ""
 variant: tiptap
 ---
-<p>General Office 6284 2281
-<br>6285 5147 (Fax)
+<p>General Office 6284 2281, 6285 5147 (Fax)
 <br>Security Guard Post 6380 5199
-<br>Library – 6380 5145
 <br>Computer Lab – 6380 5118
 <br>PE Department – 6380 5157</p>
 <p>&nbsp;</p>
@@ -38,33 +36,13 @@ variant: tiptap
 <p>Finance and Administrative Matters:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School fees</p>
-<p>Financial assistance</p>
-<p>Payment to vendors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Doreen Goh</p>
-<p>Ms Lee Kam Yen</p>
-<p>Mr Tay Weng Keong</p>
+<p>General Office</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>167</p>
-<p>165</p>
-<p>116</p>
+<p>62842281</p>
 </td>
 </tr>
 <tr>
@@ -72,13 +50,13 @@ variant: tiptap
 <p>Estate Management (includes reporting of defects)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mr Chan Kum Wah</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>General Office</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>168</p>
+<p>98182981</p>
 </td>
 </tr>
 <tr>
