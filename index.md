@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 CCA Award Ceremony
+      subtitle: stories
+      id: infopic
+      description: 15 Aug
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-CCA-Award-Ceremony
+      image: /images/250815_CCA_Award_Ceremony_046.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 National Day Celebration
       subtitle: Stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Community-Leadership-Programme-Final-Presentation
       image: /images/250719_CLP_Final_Presentation_048.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Vietnam Schools Exchange Visit
-      subtitle: stories
-      id: infopic
-      description: 18 Jul
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-Vietnam-Schools-Exchange-Visit
-      image: /images/250718_Vietnam_Schools_Visit_033.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
