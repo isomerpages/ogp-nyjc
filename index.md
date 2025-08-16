@@ -23,7 +23,7 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
-      title: 2025 CCA Award Ceremony
+      title: 2025 CCA Awards Ceremony
       subtitle: stories
       id: infopic
       description: 15 Aug
