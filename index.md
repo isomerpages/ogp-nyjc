@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 CCA and Class Leaders' Investiture
+      subtitle: stories
+      id: infopic
+      description: 21 Aug
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-CCA-and-Class-Leaders-Investiture
+      image: /images/250821_CCA_and_Class_Leaders_Investiture_YOU_JAY_029.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 CCA Awards Ceremony
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Racial-Harmony-Day-Celebration
       image: /images/250730_Racial_Harmony_Day_ANGELINE_008.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Community Leadership Programme Final Presentation
-      subtitle: stories
-      id: infopic
-      description: 19 Jul
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Community-Leadership-Programme-Final-Presentation
-      image: /images/250719_CLP_Final_Presentation_048.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
