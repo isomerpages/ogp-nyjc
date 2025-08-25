@@ -1,6 +1,6 @@
 ---
 title: Notable Alumni
-permalink: /life-beyond-nyjc/notable-alumni/
+permalink: /life-beyond-nyjc/notable-alumni/archive/
 description: ""
 variant: tiptap
 ---
