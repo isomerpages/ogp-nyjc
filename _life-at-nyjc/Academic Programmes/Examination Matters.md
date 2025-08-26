@@ -11,12 +11,13 @@ variant: tiptap
 <p><a href="/files/2019_GCE_A_Level_Subject_Fees_20190313103231.pdf" rel="noopener noreferrer nofollow" target="_blank">2019_GCE_A_Level_Subject_Fees</a>
 </p>
 <p>JC1 Exam Timetable
-<br>
+<br><a href="/files/2025_J1_EOY_TT_FINAL_STUD_updated_19_Aug.pdf" rel="noopener nofollow" target="_blank">2025 JC1 EOY</a>
 </p>
 <p>JC2 Exam Timetable
 <br><a href="/files/2025_J2_Prelim_TT_FINAL_Stud.pdf" rel="noopener nofollow" target="_blank">2025 JC2 Prelims</a>
 </p>
 <p>JC1 Promotional Criteria</p>
+<p></p>
 <p>Please refer <a href="/ny-parents/jc1-information/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>Grades/mark ranges for H1, H2 and H3 Subjects The grades/mark ranges for
