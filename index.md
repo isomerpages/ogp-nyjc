@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC1 Principal's Dialogue
+      subtitle: stories
+      id: infopic
+      description: 28 Aug
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC1-Principals-Dialogue
+      image: /images/250828_JC1_Principal_s_Dialogue_TRACY_017.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 CCA and Class Leaders' Investiture
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-National-Day-Celebration
       image: /images/250808_National_Day_Celebration_MR_OOI_024.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Racial Harmony Day Celebration
-      subtitle: stories
-      id: infopic
-      description: 30 Jul
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Racial-Harmony-Day-Celebration
-      image: /images/250730_Racial_Harmony_Day_ANGELINE_008.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
