@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Teachers' Day Celebration
+      subtitle: Stories
+      id: infopic
+      description: 4 Sep
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-Teachers-Day-Celebration
+      image: /images/250904_Teachers_Day_Celebration_ANGELINE_001.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 JC1 Principal's Dialogue
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-CCA-Award-Ceremony
       image: /images/250815_CCA_Award_Ceremony_046.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 National Day Celebration
-      subtitle: Stories
-      id: infopic
-      description: 8 Aug
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-National-Day-Celebration
-      image: /images/250808_National_Day_Celebration_MR_OOI_024.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
