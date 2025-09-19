@@ -3,23 +3,133 @@ title: Code of Conduct
 permalink: /life-at-nyjc/Character-Development/code-of-conduct/
 description: ""
 third_nav_title: Character Development
+variant: tiptap
 ---
-<div>
-<p><strong>1. Attendance</strong><br /><br />1.1 Punctuality and regular attendance are expected of every student.<br />1.2 Every student must attend the following:<br />1.2.1 morning assembly and flag-raising ceremony;<br />1.2.2 lectures, tutorials, PE sessions, co-curricular activities(CCAs) and field and&nbsp;laboratory work and;&nbsp;<br />1.2.3 college functions.</p>
-<p><strong>2. Assembly Procedures</strong><br /><br />2.1 All students regardless of nationality are to be present at their designated places at the assembly ground at the stipulated time according to their timetable.<br /><strong>2.2 Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</strong><br />2.3 Non-Singaporeans need not sing the National Anthem and take the Pledge but are to show due respect to the proceedings by standing at attention when the National Anthem is being sung and the Pledge being taken.</p>
-<p><strong>3. Dismissal from College</strong><br /><br />3.1 A student is dismissed from college at the end of the last lesson for each day as stipulated in the timetable for his/her chosen course of study or by 1230 hours, whichever is later.<br />3.2 On days when the student is scheduled to attend Co-Curricular Activity (CCA) programmes, he/she may only be dismissed upon conclusion of the activities conducted by the CCA.</p>
-<p><strong>4. Leaving College before End of Scheduled Curriculum Time</strong><br /></p>
-<p>4.1 A student who has to leave the college before the end of his/her scheduled curriculum time is required to obtain and complete the Early Leave form available at the General Office.<br />4.2 The Early Leave form must be endorsed by any one of the following personnel before the student leaves the college: The Principal, Vice-Principal, any of the Heads of Department or the student&rsquo;s Civics tutor.<br />4.3 The student is to inform the relevant tutors, PE teachers and/or CCA teacher-advisors of his/her absence.<br />4.4 The student will have to give his/her parent&rsquo;s endorsement on the form before returning it to his/her Civics tutor (together with other accompanying documents e.g. medical certificates, official excuse slips, death certificates etc) on the day he/she returns to college.</p>
-<p><strong>5. Absence from College</strong><br /></p>
-<p>5.1 When a student is absent from college, he/she has to produce/show a medical certificate or a letter from his/her parent/guardian to the tutors, PE teachers and/or teacher-advisor concerned on the first day he/she returns to college.<br />5.2 All medical certificates, official documents and letters of absence (on compassionate grounds) must be endorsed by the Civics tutor and submitted to the General Office for recording purposes upon the student&rsquo;s return to college.<br />5.3 Any student who fails to produce the required document(s) will be considered as having committed an act of truancy and the errant student will be subjected to disciplinary action.</p>
-<p><strong>6. Attire and Personal Grooming<br /></strong></p>
-<p>6.1 A student must be properly attired at all times, both within and outside the college premises.<br /><strong>6.2 Students are to wear the prescribed school uniform and modification to the uniform is not allowed.&nbsp;</strong><br />6.3 The college skirt worn by female students must not be more than 2.5 cm above the knee.&nbsp;<br />6.4 Students are not to wear any form of jewellery, except for female students who are allowed to wear one pair of small plain stud/ringed earrings.&nbsp;Male students are not allowed to wear any form of accessories.<br />6.5 A student who is not correctly or fully attired (uniform etc.) may be barred from entering tutorial rooms, lecture theatres and the library.<br />6.6 Students are given the option to be attired in college pants/skirt with a college/official CCA/class T-shirt (half-uniform) on &ldquo;Dress-down days&rdquo;. Students who visit the College for non-academic purposes on Saturdays, during the school holidays or the exam revision/self-study period must be attired in at least half-uniform, with acceptable footwear.&nbsp;Slippers or sandals are only allowed to be worn on medical grounds. In such cases, a letter from the doctor should be produced.<br />6.7 College PE attire must be worn during PE lessons. Students are to change into the college uniform immediately after morning PE, prior to attending lesson in the tutorial rooms and lecture theatres and going into the library.<br />6.8 Students must be in their full college uniform or college polo t-shirt with college pants/skirt when they sit for all major college and A&rsquo; level examinations (e.g. Block Test, Mid-Year, Promotional, Preliminary, A&rsquo; level Practical and Oral examinations).</p>
-<p><strong>7. Appearance</strong></p>
-<p>7.1 All students are expected to maintain a neat appearance and good personal hygiene.<br /><strong>7.2 Male students must be neat in appearance, clean-shaven and no facial hair is allowed.</strong><br />7.3 Female students with shoulder-length hair must have it tied up neatly.<br />7.4 No colouring, tinting or highlighting of hair is allowed.<br />7.5 Wearing of makeup is not allowed.&nbsp;Students are not allowed to display tattoos or &lsquo;Body Art&rsquo; designs.</p>
-<p><strong>8. General Conduct</strong></p>
-<p>8.1 Students must always conduct themselves in a responsible and considerate manner. Conduct that is deemed to be detrimental to the credibility of the individual or the image of the college will not be acceptable.<br />8.2 Lecture theatres and tutorial rooms must be kept clean at all times. Littering is strictly prohibited.<br />8.3 All food or flavoured drinks are only to be consumed in the college canteen, Good News Caf&eacute; and Atrium area.<br />8.4 In the canteen, orderly queuing for food is necessary. After consumption, all used crockery and cutlery must be returned to the appropriate receptacles near the respective stalls. All litter must be disposed of properly. Littering is strictly prohibited.<br />8.5 Students are not allowed to represent the college in any external activities (sports, games, competitions, performances) organized by external agencies or individuals unless official consent has been granted by the college or the teacher-advisor. Students defying this rule would be severely dealt with and would be made to withdraw from the event immediately.<br />8.6 Students are not allowed to use the college facilities for unofficial events with/for outsiders without official permission from the college administration.<br /><strong>8.7 All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong><br />8.8 Smoking/possession of cigarettes is strictly prohibited.</p>
-<p><strong>9. Departure/Withdrawal from College</strong><br /></p>
-<p>9.1 A student who is withdrawing from the college has to make a formal withdrawal by completing the &ldquo;Withdrawal from college&rdquo; form obtainable from the General Office.</p>
-<p><strong>10. Consequences of a Breach of College Rules</strong></p>
-<p>10.1 Ignorance of the college rules and regulations is not an acceptable reason/excuse.<br />10.2 The Student Management Committee, with the authorisation of the college administration, has the right to mete out disciplinary actions it deems fit against any student(s) caught violating the Code of Student Conduct.<br />10.3 The School Cockpit conduct grade/ testimonial and recommendation (for awards/scholarships) may reflect disciplinary actions.</p>
-</div>
+<p><strong>1. Attendance</strong>
+<br>
+<br>1.1 Punctuality and regular attendance are expected of every student.
+<br>1.2 Every student must attend the following:
+<br>1.2.1 morning assembly and flag-raising ceremony;
+<br>1.2.2 lectures, tutorials, PE sessions, co-curricular activities(CCAs)
+and field and&nbsp;laboratory work and;&nbsp;
+<br>1.2.3 college functions.</p>
+<p><strong>2. Assembly Procedures</strong>
+<br>
+<br>2.1 All students regardless of nationality are to be present at their
+designated places at the assembly ground at the stipulated time according
+to their timetable.
+<br><strong>2.2 Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</strong>
+<br>2.3 Non-Singaporeans need not sing the National Anthem and take the Pledge
+but are to show due respect to the proceedings by standing at attention
+when the National Anthem is being sung and the Pledge being taken.</p>
+<p><strong>3. Dismissal from College</strong>
+<br>
+<br>3.1 A student is dismissed from college at the end of the last lesson
+for each day as stipulated in the timetable for his/her chosen course of
+study or by 1230 hours, whichever is later.
+<br>3.2 On days when the student is scheduled to attend Co-Curricular Activity
+(CCA) programmes, he/she may only be dismissed upon conclusion of the activities
+conducted by the CCA.</p>
+<p><strong>4. Leaving College before End of Scheduled Curriculum Time</strong>
+<br>
+</p>
+<p>4.1 A student who has to leave the college before the end of his/her scheduled
+curriculum time is required to obtain and complete the Early Leave form
+available at the General Office.
+<br>4.2 The Early Leave form must be endorsed by any one of the following
+personnel before the student leaves the college: The Principal, Vice-Principal,
+any of the Heads of Department or the student’s Civics tutor.
+<br>4.3 The student is to inform the relevant tutors, PE teachers and/or CCA
+teacher-advisors of his/her absence.
+<br>4.4 The student will have to give his/her parent’s endorsement on the
+form before returning it to his/her Civics tutor (together with other accompanying
+documents e.g. medical certificates, official excuse slips, death certificates
+etc) on the day he/she returns to college.</p>
+<p><strong>5. Absence from College</strong>
+<br>
+</p>
+<p>5.1 When a student is absent from college, he/she has to produce/show
+a medical certificate or a letter from his/her parent/guardian to the tutors,
+PE teachers and/or teacher-advisor concerned on the first day he/she returns
+to college.
+<br>5.2 All medical certificates, official documents and letters of absence
+(on compassionate grounds) must be endorsed by the Civics tutor and submitted
+to the General Office for recording purposes upon the student’s return
+to college.
+<br>5.3 Any student who fails to produce the required document(s) will be
+considered as having committed an act of truancy and the errant student
+will be subjected to disciplinary action.</p>
+<p><strong>6. Attire and Personal Grooming<br></strong>
+</p>
+<p>6.1 A student must be properly attired at all times, both within and outside
+the college premises.
+<br><strong>6.2 Students are to wear the prescribed school uniform and modification to the uniform is not allowed.&nbsp;</strong>
+<br>6.3 The college skirt worn by female students must not be more than 2.5
+cm above the knee.&nbsp;
+<br>6.4 Students are not to wear any form of jewellery, except for female
+students who are allowed to wear one pair of small plain stud/ringed earrings.&nbsp;Male
+students are not allowed to wear any form of accessories.
+<br>6.5 A student who is not correctly or fully attired (uniform etc.) may
+be barred from entering tutorial rooms, lecture theatres and the library.
+<br>6.6 Students are given the option to be attired in college pants/skirt
+with a college/official CCA/class T-shirt (half-uniform) on “Dress-down
+days”. Students who visit the College for non-academic purposes on Saturdays,
+during the school holidays or the exam revision/self-study period must
+be attired in at least half-uniform, with acceptable footwear.&nbsp;Slippers
+or sandals are only allowed to be worn on medical grounds. In such cases,
+a letter from the doctor should be produced.
+<br>6.7 College PE attire must be worn during PE lessons. Students are to
+change into the college uniform immediately after morning PE, prior to
+attending lesson in the tutorial rooms and lecture theatres and going into
+the library.
+<br>6.8 Students must be in their full college uniform or college polo t-shirt
+with college pants/skirt when they sit for all major college and A’ level
+examinations (e.g. Block Test, Mid-Year, Promotional, Preliminary, A’ level
+Practical and Oral examinations).</p>
+<p><strong>7. Appearance</strong>
+</p>
+<p>7.1 All students are expected to maintain a neat appearance and good personal
+hygiene.
+<br><strong>7.2 Male students must be neat in appearance, clean-shaven and no facial hair is allowed.</strong>
+<br>7.3 Female students with shoulder-length hair must have it tied up neatly.
+<br>7.4 No colouring, tinting or highlighting of hair is allowed.
+<br>7.5 Wearing of makeup is not allowed.&nbsp;Students are not allowed to
+display tattoos or ‘Body Art’ designs.</p>
+<p><strong>8. General Conduct</strong>
+</p>
+<p>8.1 Students must always conduct themselves in a responsible and considerate
+manner. Conduct that is deemed to be detrimental to the credibility of
+the individual or the image of the college will not be acceptable.
+<br>8.2 Lecture theatres and tutorial rooms must be kept clean at all times.
+Littering is strictly prohibited.
+<br>8.3 All food or flavoured drinks are only to be consumed in the college
+canteen, Good News Café and Atrium area.
+<br>8.4 In the canteen, orderly queuing for food is necessary. After consumption,
+all used crockery and cutlery must be returned to the appropriate receptacles
+near the respective stalls. All litter must be disposed of properly. Littering
+is strictly prohibited.
+<br>8.5 Students are not allowed to represent the college in any external
+activities (sports, games, competitions, performances) organized by external
+agencies or individuals unless official consent has been granted by the
+college or the teacher-advisor. Students defying this rule would be severely
+dealt with and would be made to withdraw from the event immediately.
+<br>8.6 Students are not allowed to use the college facilities for unofficial
+events with/for outsiders without official permission from the college
+administration.
+<br><strong>8.7 All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong>
+<br>8.8 Smoking/possession of cigarettes is strictly prohibited.</p>
+<p><strong>9. Departure/Withdrawal from College</strong>
+<br>
+</p>
+<p>9.1 A student who is withdrawing from the college has to make a formal
+withdrawal by completing the “Withdrawal from college” form obtainable
+from the General Office.</p>
+<p><strong>10. Consequences of a Breach of College Rules</strong>
+</p>
+<p>10.1 Ignorance of the college rules and regulations is not an acceptable
+reason/excuse.
+<br>10.2 The Student Management Committee, with the authorisation of the college
+administration, has the right to mete out disciplinary actions it deems
+fit against any student(s) caught violating the Code of Student Conduct.
+<br>10.3 The conduct grade/ testimonial and recommendation (for awards/scholarships)
+may reflect disciplinary actions.</p>
