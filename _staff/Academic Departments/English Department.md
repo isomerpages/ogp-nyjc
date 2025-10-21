@@ -21,7 +21,7 @@ and social realms, scientific progress and its effects on human life, and
 the arts and their relevance.</p>
 <p>
 <br>For detailed information about General Paper 8881 (first year of examination
-in 2024), please visit <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+in 2024), please visit <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8881_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>English Department Members</strong>
 </p>
 <p></p>
