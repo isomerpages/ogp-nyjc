@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 Staff Retreat
+      subtitle: stories
+      id: infopic
+      description: 29 Oct
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-Staff-Retreat
+      image: /images/251029_Staff_Retreat_009.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Walk For Health
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-Teachers-Day-Celebration
       image: /images/250904_Teachers_Day_Celebration_ANGELINE_001.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC1 Principal's Dialogue
-      subtitle: stories
-      id: infopic
-      description: 28 Aug
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC1-Principals-Dialogue
-      image: /images/250828_JC1_Principal_s_Dialogue_TRACY_017.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
