@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 CarNYval
+      subtitle: stories
+      id: infopic
+      description: 17 Nov
+      button: view HERE
+      url: https://nanyangjc.smugmug.com/2025-CarNYval
+      image: /images/251117_CarNYval_025.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 NS Engagement for JC1s
       subtitle: Stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Walk-for-Health
       image: /images/251017_Walk_for_Health_YAN_HON_029.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 JC2 Graduation Ceremony
-      subtitle: stories
-      id: infopic
-      description: 10 Oct
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-JC2-Graduation-Ceremony
-      image: /images/251010_JC2_Graduation_Ceremony_YUXIN_084.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
