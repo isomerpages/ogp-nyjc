@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 NS Engagement for JC1s
+      subtitle: Stories
+      id: infopic
+      description: 17 Nov
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2025-NS-Engagement-for-JC1s
+      image: /images/251117_NS_Engagement_for_JC1_009.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Staff Retreat
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view HERE
       url: https://nanyangjc.smugmug.com/2025-JC2-Graduation-Ceremony
       image: /images/251010_JC2_Graduation_Ceremony_YUXIN_084.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Teachers' Day Celebration
-      subtitle: Stories
-      id: infopic
-      description: 4 Sep
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2025-Teachers-Day-Celebration
-      image: /images/250904_Teachers_Day_Celebration_ANGELINE_001.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
