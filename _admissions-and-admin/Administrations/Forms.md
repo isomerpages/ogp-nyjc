@@ -108,8 +108,7 @@ motorists and pedestrians. Do not use mobile phones and ear phones while
 cycling.</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Cyclists should not unreasonably obstruct or prevent free passage of a
-vehicle or pedestrian. Always yield to pedestrians when cycling on footpaths.</p>
-<p>&nbsp;</p>
+vehicle or pedestrian. Always yield to pedestrians when cycling on footpaths.&nbsp;</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 No pillion passenger shall be carried on a bicycle unless it is designed
 to do so. If necessary, there should be a properly-constructed child seat
