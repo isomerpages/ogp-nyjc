@@ -18,7 +18,7 @@ and internationally.</p>
 <p>Parents should use the online platform for submitting accident insurance
 claims and checking their application status.
 <br>
-<br>Students’ Insurance Claim Portal :&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a> 
+<br>Students’ Insurance Claim Portal :&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p><strong>1.2 MOE Financial Assistance Scheme</strong>
 </p>
