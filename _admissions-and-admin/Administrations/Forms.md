@@ -53,17 +53,14 @@ receiving the RAL.</p>
 <p><strong>New JC1 Students</strong>
 </p>
 <p>Students will be informed of the extension of their Secondary School Smart
-Card during the Orientation (February).</p>
-<p>&nbsp;</p>
+Card during the Orientation (February).&nbsp;</p>
 <p><strong>Newly Admitted JC 1 International Students</strong>
 </p>
-<p>Students are required to approach the General Office for assistance.</p>
-<p><strong>&nbsp;</strong>
+<p>Students are required to approach the General Office for assistance.<strong>&nbsp;</strong>
 </p>
 <p><strong>Extension of Concession Validity</strong>
 </p>
-<p>Students are required to approach the General Office for assistance.</p>
-<p><strong>&nbsp;</strong>
+<p>Students are required to approach the General Office for assistance.<strong>&nbsp;</strong>
 </p>
 <p><strong>Change in Citizenship Status or Replacement for Lost Card</strong>
 </p>
@@ -85,53 +82,43 @@ replace the expired card with payment directly.</p>
 of the Advisory Note on Cycling to School and submit it to the General
 Office (GO).</p>
 <p>Form is available at the GO.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Any student cycling on the public roads must obey the same rules as other
 vehicles. A cyclist may be punished under the Penal Code/Road Traffic Act
 should he/she act rashly or negligently so as to endanger human life or
 the personal safety of others.</p>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The general cycling safety rules to be taught to students for recreational
 cycling may include the following:</p>
-<p>&nbsp;</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 For recreational cycling by students, they should cycle on designated bicycle
 tracts in parks or on park connectors only. There should be no cycling
 on expressways, road tunnels and areas demarcated with prohibitive signs.</p>
-<p>&nbsp;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Always make sure that the bicycle is in good working condition, e.g. working
 brakes, tyres, lights (front and rear), bell, are working, chains are secure,
 etc.</p>
-<p>&nbsp;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Always wear protective gear such as a properly secured helmet, shoes (with
 laces properly tied), elbow and knee pads to protect against injuries.</p>
-<p>&nbsp;</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Give undivided attention to ensure safety for oneself and other cyclists,
 motorists and pedestrians. Do not use mobile phones and ear phones while
 cycling.</p>
-<p>&nbsp;</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Cyclists should not unreasonably obstruct or prevent free passage of a
-vehicle or pedestrian. Always yield to pedestrians when cycling on footpaths.</p>
-<p>&nbsp;</p>
+vehicle or pedestrian. Always yield to pedestrians when cycling on footpaths.&nbsp;</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 No pillion passenger shall be carried on a bicycle unless it is designed
 to do so. If necessary, there should be a properly-constructed child seat
 affixed firmly to the bicycle.</p>
-<p>&nbsp;</p>
 <p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Cycling abreast is prohibited.</p>
-<p>&nbsp;</p>
 <p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Do not cycle across overhead pedestrian bridges or pedestrian crossings.
 Dismount and push your bicycle and practice proper kerb drills before crossing
 the road.</p>
-<p>&nbsp;</p>
 <p>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Always use the correct hand signals when turning left or right or stopping.
 Make them in sufficient time to enable other motorists to take appropriate
