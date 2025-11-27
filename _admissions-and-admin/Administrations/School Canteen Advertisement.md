@@ -10,7 +10,7 @@ variant: tiptap
 <h5>Application Procedure</h5>
 <ol>
 <li>
-<p>Download and complete the application <a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
+<p>Download and complete the application <a href="/files/application for canteen stall in existing school.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
 </li>
 <li>
