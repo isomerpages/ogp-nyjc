@@ -1,5 +1,5 @@
 ---
-title: Insurance Plans & Claim Process
+title: Insurance for Students
 permalink: /admissions-and-admin/administrations/insurance-plans-and-claim/
 description: ""
 third_nav_title: Administrations
