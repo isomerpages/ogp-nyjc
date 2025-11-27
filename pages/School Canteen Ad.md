@@ -2,9 +2,10 @@
 title: School Canteen Ad
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
-**Type of Stall:** Japanese Food<br>
-**Closing Date:** 13th Oct 2023
+**Type of Stall:** Muslim Rice/Noodle<br>
+**Closing Date:** 31 Dec 2025
 
 
 ##### Application Procedure
@@ -22,7 +23,7 @@ description: ""
 * Address: Nanyang Junior College, 128 Serangoon Avenue 3, Singapore 556111
 * Contact No.: 6284 2281
 * Email: [nyjc@moe.edu.sg](mailto:nyjc@moe.edu.sg)
-* Contact Person: Mr Tay Weng Keong
+* Contact Person: Chia Chin Woon
 
 ##### How to get there?
 
