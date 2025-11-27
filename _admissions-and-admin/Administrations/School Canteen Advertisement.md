@@ -10,8 +10,8 @@ variant: tiptap
 <h5>Application Procedure</h5>
 <ol>
 <li>
-<p>Download and complete the application <a href="/files/application for canteen stall in existing school.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-You may also request for a hardcopy from the School’s General Office.</p>
+<p>Download and complete the application <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>. You may
+also request for a hardcopy from the School’s General Office.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
