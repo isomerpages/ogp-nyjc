@@ -23,6 +23,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
   - infopic:
+      title: 2025 JC2 Dinner and Dance
+      subtitle: stories
+      id: infopic
+      description: 27 Nov
+      button: view here
+      url: https://nanyangjc.smugmug.com/2025-JC2-Dinner-and-Dance
+      image: /images/251127_JC2_Dinner_and_Dance_093.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 CarNYval
       subtitle: stories
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2025-Staff-Retreat
       image: /images/251029_Staff_Retreat_009.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Walk For Health
-      subtitle: stories
-      id: infopic
-      description: 17 Oct
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Walk-for-Health
-      image: /images/251017_Walk_for_Health_YAN_HON_029.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
