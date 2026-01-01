@@ -13,7 +13,7 @@ variant: tiptap
 time on school premises, while commuting, and when participating in school-related
 activities including Co-Curricular Activities (CCA) and sports, both locally
 and internationally.</p>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet Year 2025</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet Year 2026</a>
 </p>
 <p>Parents should use the online platform for submitting accident insurance
 claims and checking of claims application status.
