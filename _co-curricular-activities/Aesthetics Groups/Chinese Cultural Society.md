@@ -3,9 +3,26 @@ title: Chinese Cultural Society
 permalink: /co-curricular-activities/Aesthetics-Groups/Chinese-Cultural-Society/
 description: ""
 third_nav_title: Aesthetics Groups
+variant: tiptap
 ---
-NYJC Chinese Cultural Society (CCS) provides a platform for students to share their passion for Chinese theatre performing arts. Under the guidance of a professional instructor who is well known in Singapore’s theatre industry, members of CCS learn about theatre practices, and also get the chance to be exposed to both local and drama productions.
-
-The weekly drama lessons are put to practical test when the CCS members work on their annual Chinese drama production, 《我们的白云岗》.《我们的白云岗》not only provides a chance for potential actors and actresses to showcase their talent on stage, but also many learning points about stage design, professional sound and lighting control, props and costume designing.
-
-So, if you share the same passion towards theatre arts, be part of the CCS family!
+<p><strong>NYJC Chinese Cultural Society (CCS)</strong>&nbsp;provides a platform
+for students to explore and share their passion for Chinese theatre arts.
+Under the guidance of an accomplished professional instructor in Singapore
+theatre, students receive expert mentoring, personalised feedback, and
+exposure to industry practices, allowing them to develop their skills with
+confidence and depth.</p>
+<p>Our annual Chinese drama production,&nbsp;<strong>《我们的白云岗》</strong>, offers
+students the opportunity not only to perform on stage, but also to take
+on diverse roles throughout the production process. Covering scriptwriting,
+directing, acting, stage design, sound and lighting, props, and costumes,
+students gain hands-on experience and a well-rounded understanding of theatre
+production.</p>
+<p>Beyond skill development, CCS fosters a supportive and collaborative environment
+where passions are nurtured and friendships are forged. Students who join
+as new members and participate in the annual drama production will, in
+the following year, step into leadership roles — planning and guiding the
+entire production while mentoring the next cohort of new members. This
+unique cycle cultivates leadership, communication, teamwork, and the ability
+to inspire others throughout the creative process.</p>
+<p>CCS offers students unique opportunities to explore Chinese theatre, develop
+practical skills, and engage in creative production experiences.</p>
