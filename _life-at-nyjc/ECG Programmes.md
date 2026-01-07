@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p><strong>EDspiration</strong>
-<br>
 <br>As part of our holistic approach in educating NYJCians on future career
 and education options, NYJC hosts EDspiration – an annual event that invites
 speakers from various institutes of higher learning and industries to share
@@ -34,11 +33,10 @@ up a new skill at the same time. Some of the programmes that our students
 have participated in include the Chem E Challenge and FASS Track Youth
 Academy conducted by NUS, Science Discovery Day, CEE Summer Camp and LKC
 Med Camp and the science and engineering workshops (seeNTU) conducted by
-NTU.</p>
-<p>&nbsp;</p>
-<p><strong>EDubuzz</strong>
-</p>
-<p>The EDubuzz programme is a series of lunch time talks where representatives
+NTU.
+<br>
+<br><strong>EDubuzz</strong>
+<br>The EDubuzz programme is a series of lunch time talks where representatives
 from local and overseas institutions such as the Cambridge University Malaysia
 and Singapore Association (CUMSA) and Russell Group universities are invited
 to share about higher education programmes and prepare students on application
