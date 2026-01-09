@@ -57,7 +57,7 @@ variant: tiptap
 <p>Mr Leong Chun Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_chun_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yow_sihua_ken@schools.gov.sg</a> 
+<p><a href="mailto:leong_chun_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_chun_keong@schools.gov.sg</a> 
 <br>62842281</p>
 </td>
 </tr>
@@ -363,13 +363,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Acting)</p>
+<p>HOD Technology and Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Lim Chee Kang</p>
+<p>Mr Ng Wei Sheng Timmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mark_lim_chee_kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mark_lim_chee_kang@schools.gov.sg</a> 
+<p><a href="mailto:timmy_ng_wei_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">timmy_ng_wei_sheng@schools.gov.sg</a> 
 <br>63805140</p>
 </td>
 </tr>
