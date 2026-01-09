@@ -42,10 +42,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Ong Peishan</p>
+<p>Mrs Ken Oh Sihua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_ong_peishan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_ong_peishan@schools.gov.sg</a> 
+<p><a href="mailto:yow_sihua_ken@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yow_sihua_ken@schools.gov.sg</a> 
 <br>62842281</p>
 </td>
 </tr>
@@ -54,10 +54,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ken Oh Sihua</p>
+<p>Mr Leong Chun Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yow_sihua_ken@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yow_sihua_ken@schools.gov.sg</a> 
+<p><a href="mailto:leong_chun_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yow_sihua_ken@schools.gov.sg</a> 
 <br>62842281</p>
 </td>
 </tr>
