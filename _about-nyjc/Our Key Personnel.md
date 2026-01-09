@@ -169,13 +169,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Economics</p>
+<p>LH Economics (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Chua</p>
+<p>Mr Yan Wai Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_bee-lian_valerie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_bee-lian_valerie@schools.gov.sg</a> 
+<p><a href="mailto:yan_wai_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_wai_ching@schools.gov.sg </a>
 <br>63805136</p>
 </td>
 </tr>
