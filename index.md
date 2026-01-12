@@ -29,7 +29,7 @@ sections:
       description: 12 Jan
       button: Click here for more info
       url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
-      image: /images/2026_banner.jpg
+      image: /images/Announcement_Banner.jpg
       alt: Image alt text
   - infopic:
       title: 2025 JC2 Dinner and Dance
