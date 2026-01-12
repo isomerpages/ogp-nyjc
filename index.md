@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Admissions-Admin.jpg
-      url: /contact-us/
+      background: /images/2026_OH_banner.png
+      url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
       key_highlights:
         - title: Headlines
           description: Check out our headlines
@@ -22,6 +22,7 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
+      button: click here for more info...
   - infopic:
       title: 2025 JC2 Dinner and Dance
       subtitle: stories
