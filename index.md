@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Web_Banner_1_.png
-      url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
       key_highlights:
         - title: Headlines
           description: Check out our headlines
@@ -22,7 +21,6 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
-      button: more info...
       variant: image
   - infopic:
       title: 2026 Open House
