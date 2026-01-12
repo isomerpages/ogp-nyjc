@@ -56,4 +56,5 @@ following table should only be used as a guide.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Click <a href="/headlines/sc/" rel="noopener nofollow" target="_blank">here</a> for
+more info.</p>
