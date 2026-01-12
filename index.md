@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2026_OH_banner.png
+      background: /images/Web_Banner_1_.png
       url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
       key_highlights:
         - title: Headlines
@@ -22,7 +22,17 @@ sections:
         - title: Time Table
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
-      button: click here for more info...
+      button: more info...
+      variant: image
+  - infopic:
+      title: 2026 Open House
+      subtitle: stories
+      id: infopic
+      description: 12 Jan
+      button: view here
+      url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
+      image: /images/2026_banner.jpg
+      alt: Image alt text
   - infopic:
       title: 2025 JC2 Dinner and Dance
       subtitle: stories
@@ -49,15 +59,6 @@ sections:
       button: View Here
       url: https://nanyangjc.smugmug.com/2025-NS-Engagement-for-JC1s
       image: /images/251117_NS_Engagement_for_JC1_009.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 Staff Retreat
-      subtitle: stories
-      id: infopic
-      description: 29 Oct
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-Staff-Retreat
-      image: /images/251029_Staff_Retreat_009.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
