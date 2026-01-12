@@ -1,19 +1,19 @@
 ---
-title: 2025 Joint Admissions Exercise (Jan 4, 2025)
+title: 2026 Joint Admissions Exercise (Jan 12, 2026)
 permalink: /headlines/sc/
 description: ""
 image: /images/SC election banner.jpg
 variant: tiptap
 ---
-<p>The 2025 JAE registration will be held over 6 calendar days starting from <strong>4 pm on Friday, 10 January 2025 and end at 4 pm on Wednesday, 15 January 2025</strong>.</p>
+<p>The 2026 JAE application starts at <strong>4pm on Wednesday, 14 January 2026 and ends at 4.30pm on Monday, 19 January 2026</strong>.</p>
 <p>More information can be found on MOE's website <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>The JAE posting results will be released on <strong>Tuesday, 4 February 2025, 9am</strong> through:</p>
+<p>The JAE posting results will be released on <strong>Tuesday, 3 February 2026, 9am</strong> through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SMS sent to the local mobile number in your application.</p>
+<p>JAE-IS, which can be accessed using your Singpass.</p>
 </li>
 <li>
-<p>JAE-IS, which can be accessed using your Singpass.</p>
+<p>SMS, which is sent to the Singapore mobile number provided in your application.</p>
 </li>
 </ul>
 <h2>Cut Off &amp; Bonus Points</h2>
@@ -52,10 +52,10 @@ following table should only be used as a guide.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JAE 2024</p>
+<p>JAE 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5</p>
@@ -391,23 +391,6 @@ that suits their needs and aspirations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>√</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malay Language &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>√</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -778,80 +761,4 @@ required to attend an interview and present their portfolio.</p>
 <p>Art Elective Programme:&nbsp;<a href="mailto:sim_kim_hong@schools.gov.sg%C2%A0" rel="noopener noreferrer nofollow" target="_blank">sim_kim_hong@schools.gov.sg</a>&nbsp;</p>
 <p>Please remember to include your name, school and an email address so that
 we can reply to your query.</p>
-<h2>FAQ</h2>
-<p><strong>1 How will I be posted?</strong>
-</p>
-<p>Applicants are posted to courses based first on the applicant’s merit,
-and second in the order of applicant's choice of courses. All applicants
-are first ranked in the order of their net L1R5 aggregates, taking into
-account the various bonus points for which the applicants are eligible.</p>
-<p>First, applicants with better aggregates will be considered for admission.
-Then, each applicant is considered for his/her choice of courses in the
-order of preferences indicated, subject to available vacancies in the course.</p>
-<p>In situations where there are two or more applicants with the same net
-aggregate score vying for the last place in a course, they will be posted
-based on their citizenship status. If there is still a tie, say between
-two Singapore citizens, the one with the better gross aggregate score will
-be posted into the course first. If there is still a tie at this stage,
-then posting into the course will be determined by a computerised ballot
-where each candidate is given an equal opportunity.</p>
-<p><strong>2 How is the cut-off point calculated?</strong>
-</p>
-<p>The cut-off point is the net aggregate (L1R5) of the last student posted
-to the college. So if the cut-off point is 5, it means that all students
-who were admitted through JAE will have a net score of 5 or lower.</p>
-<p><strong>3 Is the cut-off point determined by the college?</strong>
-</p>
-<p>The college does not set the cut-off point. It is based on the choices
-of that particular year's cohort and is based on demand and supply.</p>
-<p><strong>4 NYJC's cut-off point was 5 points in 2024. Do I stand a chance if my net L1R5 is 6?</strong>
-</p>
-<p>The cut-off point may differ from year to year. The cut-off point for
-2024 merely serves as a reference when students consider their choices.</p>
-<p><strong>5 Can I have a list of subject combinations offered by NYJC?</strong>
-</p>
-<p>NYJC takes pride in its flexible subject combination system.</p>
-<p>On an average, the college offers more than 60 different subject combinations
-each year. The more popular combinations are:</p>
-<p>Physics, Chemistry, Mathematics and Economics</p>
-<p>Physics, Chemistry and Mathematics</p>
-<p>Chemistry, Mathematics and Economics</p>
-<p>Physics, Mathematics and Economics</p>
-<p><strong>6 When will I get to choose my subject combination?</strong>
-</p>
-<p>Students will choose their subject combination within the first two days
-of reporting to NYJC after their posting result. More details will be given
-during the orientation.</p>
-<p><strong>7</strong>  <strong>When will the Art Elective Programme (AEP)/Computing/Further Mathematics/Translation (Chinese) selection test be held?</strong>
-</p>
-<p>The various selection tests for interested JC1s will be held on the first
-day of reporting to NYJC. An announcement will be made during the subject
-combination talk to inform interested students.</p>
-<p>Additional information for AEP Selection Test:</p>
-<p>Students will submit their portfolio for assessment the day after the
-selection test. The portfolio should include a range of works that best
-showcase the student’s interest and ability in handling different media
-and craft types. The portfolio submitted can either be the original pieces
-or well-documented digital images of the student's artworks.</p>
-<p>Selection test consists of 3 components:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Written Test (15 min)</p>
-</li>
-<li>
-<p>Drawing &amp; Painting Test (30 min)</p>
-</li>
-<li>
-<p>Portfolio Interview (15 min)</p>
-</li>
-</ul>
-<p><strong>8 How do I apply to the CLEP in NYJC?</strong>
-</p>
-<p>You would need to indicate your choice when submitting your online application
-for JAE. Students who are eligible for the CLEP will be offered the option
-to enrol through the online application. You&nbsp;must&nbsp;select NYJC
-as your first choice if you are interested to join the CLEP in NYJC, otherwise
-you might be posted to other CLEP centres.</p>
-<p>If you did not apply for the CLEP at NYJC during JAE, you can still appeal
-to join the programme after you have been posted to NYJC. MOE will make
-the final decision on the approval of this application.</p>
+<p></p>

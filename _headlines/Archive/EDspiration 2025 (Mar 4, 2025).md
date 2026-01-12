@@ -3,6 +3,7 @@ title: EDspiration 2025 (Mar 4, 2025)
 permalink: /headlines/edspiration/
 description: ""
 variant: tiptap
+third_nav_title: Archive
 ---
 <p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/JmxnyD"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDspiration.png"></a>
 <p><strong>EDspiration 2025</strong>
