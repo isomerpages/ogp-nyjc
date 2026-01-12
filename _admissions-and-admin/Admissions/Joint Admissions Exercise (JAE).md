@@ -56,5 +56,4 @@ following table should only be used as a guide.</p>
 </tr>
 </tbody>
 </table>
-<p>Click <a href="/nyjc-jae-appeal-2025-4-feb-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information.</p>
+<p></p>
