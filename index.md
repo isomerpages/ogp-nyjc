@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /student-council-election-mar-5-2025/
+          url: https://www.nanyangjc.moe.edu.sg/headlines/sc/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
