@@ -854,7 +854,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_bee-lian_valerie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_bee-lian_valerie@schools.gov.sg</a>
-<br>63805???</p>
+<br>62842281</p>
 </td>
 </tr>
 <tr>
@@ -866,7 +866,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sanah_akhtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sanah_akhtar@schools.gov.sg</a>
-<br>63805???</p>
+<br>62842281</p>
 </td>
 </tr>
 <tr>
