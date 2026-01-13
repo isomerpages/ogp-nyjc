@@ -3,8 +3,16 @@ title: Nanyang Musicians Club
 permalink: /life-at-nyjc/Student-Interest-Groups/Nanyang-Musicians-Club/
 description: ""
 third_nav_title: Student Interest Groups
+variant: tiptap
 ---
-
-The Nanyang Musicians Club, known affectionately as NYMC, was created in 2012 and is sustained by avid music lovers in the college. Members get together to form performing bands, enabling the members to gain greater insights into the inner workings of a live band.  
-
-Performances by NYMC are always well-received by the audience! NYMC is a regular at school-related events such as Teacher's Day, National Day, Chinese New Year and the annual Open House. Apart from school performances, NYMC also takes part in many ad-hoc performances out of school. Some of the previous engagements include 'Concert-Uncaged' to raise funds for the Children Cancer Foundation and 'Tighten the Knots', a service-learning project in collaboration with NYJC Interact Club and 'Project Meliora' to raise funds for pediatric cancer patients.
+<p>The Nanyang Musicians Club, known affectionately as NYMC, was founded
+in 2012 and is sustained by avid music lovers in the college. Members come
+together to form performing bands, gaining greater insights into the dynamics
+and inner workings of a live band.</p>
+<p>NYMC bands have opportunities to perform regularly in school events such
+as Teacher’s Day, National Day, Chinese New Year and the annual Open House,
+and are always well received by the audience.&nbsp; Beyond school performances,
+NYMC also takes part in many ad-hoc performances outside of school.</p>
+<p>Most recently, NYMC was involved in planning the school CarNYval’s musical-esque
+performance alongside Student Council, bringing lively music and dance
+to the stage, and showcasing the club’s energy both on and behind the scenes.</p>
