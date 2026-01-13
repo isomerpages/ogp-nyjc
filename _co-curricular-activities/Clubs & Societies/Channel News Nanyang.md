@@ -3,7 +3,16 @@ title: Channel News Nanyang
 permalink: /co-curricular-activities/Clubs-and-Societies/Channel-News-Nanyang/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-<p><strong><em>We Film. We Edit. We Report.</em></strong><br /><br />Channel News Nanyang (CNNY) reports school events and broadcasts them via the college&rsquo;s TV Broadcast System. The news clips are on YouTube as well. In the process of news-making, the students will not only get to learn the technical aspects of filming but also the art of it &ndash; in the form of editing, scripting, reporting and the management of logistics.</p>
+<p>Channel News Nanyang is where creativity meets collaboration. Members
+gain hands-on experience producing a range of video content – from covering
+college events to competing in short-form video competitions such as <em>Our Schools, Our Stories Photo and Video Contest </em>and<em> Appreciating NSmen Video Competition, </em>among
+others. Beyond production, members go on learning journeys organised by
+the Infocomm Media Development Authority (IMDA), including visits to <em>TheSmartLocal</em>,
+where they pick up tips from professional creators. From every shot to
+every edit, our members are the ones sharing the Nanyang story.</p>
 <p>Members meet on Wednesdays, from 3pm to 5pm.</p>
-<p>CNNY is the place to start your journalistic/film-making dream.</p>
+<p>
+<br>
+</p>
