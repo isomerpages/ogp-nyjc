@@ -49,7 +49,28 @@ who offer professional counselling and guidance</p>
 </ul>
 <p>Together, these teams create a safe and supportive environment that builds
 emotional resilience, nurtures mental well-being, and enables every student
-to grow with confidence.</p>
-<p>
+to grow with confidence.
 <br>
+<br><a href="/counselling-services/" rel="noopener nofollow" target="_blank">Counselling Services</a>
 </p>
+<p><strong>International Students’ Welfare</strong>
+</p>
+<p>The College welcomes a small number of international students (IS) each
+year. The International Students Committee, supported by dedicated teacher
+mentors, helps international students by:</p>
+<ul>
+<li>
+<p>Assisting with accommodation and student passes</p>
+</li>
+<li>
+<p>Supporting their integration and well-being, and helping them understand
+the local environment</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Enabling them to engage with Singapore’s values and connect with the community
+beyond school.</p>
+</li>
+</ul>
+<p></p>
