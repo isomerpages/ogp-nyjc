@@ -41,7 +41,7 @@ academic institutions.</p>
 and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Feb 2025 (12 pm)</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ and technology</p>
 mathematics, humanities and social sciences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Feb 2025 (3 pm)</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ mathematics, humanities and social sciences</p>
 <br>Have a passion for science and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Feb 2025</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -106,15 +106,7 @@ and should have good communication skills</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>CEE-RSI</u></strong>
-</p>
-<p>8 Feb 2025
-<br>(12 pm)</p>
-<p>&nbsp;</p>
-<p><strong><u>ISS</u></strong>
-</p>
-<p>24 Feb 2025
-<br>(12 pm)</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +146,7 @@ one of the following subjects:</p>
 <p>Ø H2 Further Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Feb 2025</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -166,6 +158,19 @@ one of the following subjects:</p>
 holidays.
 <br>
 <br>Have a passion for science and research</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NYJC collaboration with NTU College of Engineering (CoE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp; Research opportunities offered by various NTU CoE schools.</p>
+<p>·&nbsp; Opportunities to attend research workshops and learning journeys.</p>
+<p>·&nbsp; Have a passion for science and research</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
