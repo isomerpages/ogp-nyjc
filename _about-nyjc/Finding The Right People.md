@@ -72,7 +72,7 @@ variant: tiptap
 <p>Mr Adrian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Room</p>
+<p>HOD Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>107</p>
@@ -220,6 +220,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Counselling Matters</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Valerie Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>136</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Civics Tutorial Programme</p>
+</td>
 <td rowspan="3" colspan="1">
 <p>Ms Tan Meng Lee</p>
 </td>
@@ -230,11 +244,7 @@ variant: tiptap
 <p>178</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Civics Tutorial Programme</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assembly Programme</p>
