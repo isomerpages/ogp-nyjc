@@ -575,7 +575,7 @@ results. An H3 subject is an extension of the H2 subject and it entails
 an in-depth study of a particular area that the student has the ability
 for and a passionate interest in.</p>
 <p>There are 3 modes in which the H3 subject can be taken:</p>
-<p><strong>a) <a href="https://www.seab.gov.sg/home/examinations/gce-a-level" rel="noopener noreferrer nofollow" target="_blank">MOE-developed examinable syllabus</a></strong>
+<p><strong>a) <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">MOE-developed examinable syllabus</a></strong>
 </p>
 <p><strong>b) An extended research project</strong>
 </p>
