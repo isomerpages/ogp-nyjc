@@ -99,16 +99,20 @@ that suits their needs and aspirations.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Compulsory Subjects</p>
+<p><strong>Compulsory Subjects</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H1</p>
+<p><strong>H1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H2</p>
+<p><strong>H2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H3</p>
+<p><strong>H3</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +159,8 @@ that suits their needs and aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humanities and the Arts</p>
+<p><strong>Humanities and the Arts</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,7 +273,8 @@ that suits their needs and aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics and Sciences</p>
+<p><strong>Mathematics and Sciences</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
