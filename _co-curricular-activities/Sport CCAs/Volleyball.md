@@ -23,7 +23,9 @@ and girls teams have demonstrated remarkable performances:</p>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019: 1st
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022: 2nd
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023: 1st
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: 1st</p>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: 1st
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025: 1st</p>
+<p></p>
 <p><strong>Girls Team Achievements:</strong>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015: 1st
@@ -33,7 +35,8 @@ and girls teams have demonstrated remarkable performances:</p>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019: 1st
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022: Quarter Finalists
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023: 3rd
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: 3rd</p>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: 3rd
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025: 2nd</p>
 <p>Through this competition, the team has gained invaluable experience and
 insights, learning from the diverse playing styles of other schools to
 continually improve and excel.</p>
