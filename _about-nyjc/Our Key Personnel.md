@@ -255,6 +255,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH General Paper</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wendy_ang_lin_min@schools.gov.sg" rel="noopener nofollow" target="_blank">wendy_ang_lin_min@schools.gov.sg</a>
+</p>
+<p>63805130</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -633,18 +646,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Civic Literacy and Citizenship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Mui Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_mui_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_hui@schools.gov.sg </a>
-<br>63805128</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Life-skills</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -884,7 +885,7 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Innovation and Technology</p>
+<p>Technology and Innovation</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

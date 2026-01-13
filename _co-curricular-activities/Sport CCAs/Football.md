@@ -24,6 +24,8 @@ Games Football Championships:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022: Quarter Finalists</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023: Quarter Finalists</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: Quarter Finalists</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025: 2nd</p>
+<p></p>
 <p>In addition to these achievements, the football team had the privilege
 of participating in cultural exchanges overseas, which provided unique
 opportunities for growth and learning beyond the pitch. These exchanges

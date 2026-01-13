@@ -26,18 +26,10 @@ Mother tongue courses</p>
 <p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9571_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Translation (Chinese) 9571</a></strong>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8656_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Malay Language 8656</a></strong>
 </p>
 </li>
-<li>
-<p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9576_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Malay Language and Literature 9576</a></strong>
-</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Tamil Language 8657&nbsp;</a></strong>
 </p>

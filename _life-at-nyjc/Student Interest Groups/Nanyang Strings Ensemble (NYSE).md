@@ -3,10 +3,16 @@ title: Nanyang Strings Ensemble (NYSE)
 permalink: /life-at-nyjc/Student-Interest-Groups/Nanyang-Strings-Ensemble-NYSE/
 description: ""
 third_nav_title: Student Interest Groups
+variant: tiptap
 ---
-
-The Nanyang String Ensemble is a Student Interest Group founded in 2015. Consisting of the classical string section of violins, violas, cellos and string basses, the Ensemble unites students who are passionate about their string instruments. It has the simple aim of providing a platform for these musicians to perform and discover more about music, especially from the string orchestra repertoire.
-
-The Ensemble performs a variety of genres, ranging from classical to movie soundtracks and sing-along pop songs. Many performing opportunities are available for its members – the college Open House, SIG Lunchtime Concerts, school events and even Community Involvement Programme (CIP) projects.
-
-Their objective is to achieve excellence in performing and hope to share the joy of music with NYJCians everywhere.
+<p>The Nanyang String Ensemble, founded in 2015, is a Student Interest Group
+comprising violins, violas, cellos, and double basses. It brings together
+students who are passionate about string music and ensemble performance.</p>
+<p>The Ensemble provides members with opportunities to develop their musicianship,
+perform with commitment and excellence, and explore a wide range of repertoire,
+including classical works and movie soundtracks. Members regularly perform
+at college events such as Open House, and Community Involvement Programme
+(CIP) projects.</p>
+<p>Through its activities, the Nanyang String Ensemble encourages students
+to take ownership of their musical growth, perform with dedication, and
+share the joy of music with the College and the wider community.</p>

@@ -99,16 +99,20 @@ that suits their needs and aspirations.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Compulsory Subjects</p>
+<p><strong>Compulsory Subjects</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H1</p>
+<p><strong>H1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H2</p>
+<p><strong>H2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>H3</p>
+<p><strong>H3</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +159,8 @@ that suits their needs and aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humanities and the Arts</p>
+<p><strong>Humanities and the Arts</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,7 +273,8 @@ that suits their needs and aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics and Sciences</p>
+<p><strong>Mathematics and Sciences</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -569,7 +575,7 @@ results. An H3 subject is an extension of the H2 subject and it entails
 an in-depth study of a particular area that the student has the ability
 for and a passionate interest in.</p>
 <p>There are 3 modes in which the H3 subject can be taken:</p>
-<p><strong>a) <a href="https://www.seab.gov.sg/home/examinations/gce-a-level" rel="noopener noreferrer nofollow" target="_blank">MOE-developed examinable syllabus</a></strong>
+<p><strong>a) <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">MOE-developed examinable syllabus</a></strong>
 </p>
 <p><strong>b) An extended research project</strong>
 </p>
