@@ -7,7 +7,7 @@ variant: tiptap
 <p>In line with the MOE ECG framework, ECG programmes in NYJC are designed
 based on the themes of career identity, career exploration and career planning.
 Our guiding principles when designing ECG programmes are:</p>
-<p><strong>1. Renting student needs</strong>
+<p><strong>1. Meeting student needs</strong>
 </p>
 <p>All ECG programmes are tailored according to the needs of our students.
 During the planning stage, student surveys play an important part in guiding
@@ -26,6 +26,7 @@ and alumni is key to a successful ECG programme. Not only does the school
 value its long term partnerships with external organisations, it also actively
 reaches out to parents and alumni to participate and spearhead ECG programmes.</p>
 <p><strong>NYJC ECG Programmes: </strong>
+<br>
 <br><strong>EDspiration</strong>
 </p>
 <p>This annual event invites speakers from various industries and institutes
@@ -76,8 +77,7 @@ of Teacher Admissions Coordinators who are responsible for specific regions.
 Apart from local universities, the Teacher Admissions Coordinators can
 advise on the application requirements for study destinations such as the
 United Kingdom, United States, China, Australia and beyond.&nbsp;</p>
-<p>
-<br><strong>ECG Portal</strong>
+<p><strong>ECG Portal</strong>
 </p>
 <p>This one-stop portal (<a href="https://ecg.nanyangjc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ecg.nanyangjc.moe.edu.sg/</u></a>)
 is designed for NYJC students exclusively. In this portal, students can
