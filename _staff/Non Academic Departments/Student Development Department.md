@@ -5,52 +5,126 @@ description: ""
 third_nav_title: Non Academic Departments
 variant: tiptap
 ---
-<p>The programmes that the department has put in place are in line with the
-college’s vision of nurturing the leadership potential in every NYJCian.
-We also strongly believe in service leadership, encouraging NYJCians to
-serve the wider community beyond the college.</p>
-<p>Leadership training takes place at 3 levels : the general student population,
-the class committee, the CCA leaders and student councillors.</p>
-<p>3 departments, namely the Student Leadership Department, CCA Department
-and the Student Well-being Department look into the integrated leadership
-development programme in Nanyang.</p>
-<p><strong>MSLO Framework</strong>
-<br>The framework that we are adopting is the Managing Self &amp; Leading
-Others framework. Essentially in J1, students will understand and learn
-more about themselves and how they relate to each other. In J2, students
-will be given opportunities to lead others either in CCA or class projects.</p>
-<p><strong>The Approach</strong>
-<br>The approach is 2-fold :</p>
-<ul data-tight="true" class="tight">
+<p><strong>MSLO Framework&nbsp;</strong>
+</p>
+<p>At Nanyang Junior College, character development is central to education
+and is integrated through the holistic Managing Self, Leading Others (MSLO)
+framework. This commitment is reflected in the college mission to Uphold
+Values, Enhance Life Skills, and Maximise Potential, supported by comprehensive
+Character and Citizenship Education programmes, including Service Learning
+and Student-Initiated Projects.</p>
+<p>A strong caring culture fosters shared responsibility in nurturing thinking,
+resilient, and compassionate leaders. Students develop through leadership
+camps, mentoring, life skills programmes, and local and international service-learning
+experiences. Under MSLO, J1 students focus on self-awareness and relationships,
+while J2 students take on greater leadership roles.</p>
+<p><strong>Leadership Development</strong>
+</p>
+<p>Leadership development in NYJC is grounded in the belief in service leadership
+- developing leaders who serve both the college and the wider community.</p>
+<p>The College focuses on six key leadership competencies:</p>
+<ul>
 <li>
-<p>Providing skills training and</p>
+<p>Communicating with confidence</p>
 </li>
 <li>
-<p>Providing opportunities to lead.</p>
+<p>Strategising well</p>
+</li>
+<li>
+<p>Influencing others positively&nbsp;</p>
 </li>
 </ul>
-<p>Skills training is conducted through the formal curriculum courses, workshops
-and civics programmes where basic leadership skills are taught and the
-informal curriculum where students can learn from many varied activities
-such as camps as well as sharing by successful entrepreneurs and civil
-servants.</p>
-<p>Many opportunities are provided for students to lead. Class leaders are
-given opportunities to act as facilitators in leadership camps organized
-by college or secondary schools in the cluster. We also encourage students
-to initiate projects to improve the college community.</p>
-<p>We believe in fostering the spirit of caring for the community beyond
-the college as well. We do our part for the community by being actively
-involved in fund raising activities of organizations in need as well as
-our partners – Tong Chai Medical Institution and Lions Befrienders.</p>
-<p>Each year, we also sent student volunteers on overseas community service
-projects to instill in students a sense of civic responsibility through
-helping needy communities abroad.</p>
-<p>“The very best leaders spend time examining what they have done and are
-planning to do.” To complete the cycle of learning, we encourage students
-to consciously reflect on the various experiences gathered from workshops,
-projects and community involvement. Students are encouraged to keep a portfolio
-to record these experiences and to meet regularly with tutors who will
-monitor their development.</p>
+<p>Leadership training is conducted at three levels:</p>
+<ul>
+<li>
+<p>General student population</p>
+</li>
+<li>
+<p>Class committee members</p>
+</li>
+<li>
+<p>CCA leaders and student councillors</p>
+</li>
+</ul>
+<p>The integrated leadership development programme is jointly supported by:</p>
+<ul>
+<li>
+<p>Student Development Department</p>
+</li>
+<li>
+<p>PE and CCA Department</p>
+</li>
+<li>
+<p>CCE Department</p>
+</li>
+</ul>
+<p>NYJC&nbsp; adopts a two-pronged approach:</p>
+<ol>
+<li>
+<p>Skills Training</p>
+</li>
+</ol>
+<p>Leadership skills are developed through:</p>
+<ul>
+<li>
+<p>Formal curriculum courses</p>
+</li>
+<li>
+<p>Workshops and civics programmes</p>
+</li>
+<li>
+<p>Informal learning experiences such as camps, talks by entrepreneurs and
+civil servants</p>
+</li>
+</ul>
+<p></p>
+<ol start="2">
+<li>
+<p>Leadership Opportunities</p>
+</li>
+</ol>
+<p>Students are provided with meaningful opportunities to lead, including:</p>
+<ul>
+<li>
+<p>Facilitating leadership camps</p>
+</li>
+<li>
+<p>Leading class and CCA initiatives</p>
+</li>
+<li>
+<p>Initiating projects to strengthen and improve the college community</p>
+</li>
+</ul>
+<p><strong>Career &amp; Education Guidance</strong>
+</p>
+<p>College life goes beyond preparation for the GCE ‘A’ Level examinations.
+The Career Guidance Programme equips students with the knowledge and skills
+needed for higher education and the working world.</p>
+<p>The programme includes:</p>
+<ul>
+<li>
+<p>Career talks and seminars by professionals from various industries</p>
+</li>
+<li>
+<p>Guidance on educational pathways and career requirements</p>
+</li>
+<li>
+<p>Support in matching personality and strengths to suitable careers</p>
+</li>
+<li>
+<p>Interview skills and workplace readiness</p>
+</li>
+</ul>
+<p>Career guidance is strengthened by full-time ECG Counsellor Mr Shaun Han,
+who brings over 30 years of multinational corporate experience, specialising
+in sales and regional management. He is passionate about talent development
+and finds fulfilment in mentoring students to discover their potential
+and plan future pathways. Students seeking personalised advice on higher
+education and career choices may schedule a session with him:
+<br><strong> &nbsp; 👉<a href="https://go.gov.sg/meet-shaun-han" rel="noopener noreferrer nofollow" target="_blank"><u> https://go.gov.sg/meet-shaun-han</u></a></strong>
+</p>
+<p>More on NYJC ECG Programmes: <a href="https://go.gov.sg/meet-shaun-han" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nanyangjc.moe.edu.sg/life-at-nyjc/ecg-programmes/</u></a>
+</p>
 <p><strong>Student Development Department Members</strong>
 </p>
 <p></p>
