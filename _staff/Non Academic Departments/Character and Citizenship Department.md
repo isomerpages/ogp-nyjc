@@ -5,113 +5,63 @@ description: ""
 third_nav_title: Non Academic Departments
 variant: tiptap
 ---
-<p>The Student Affairs and Management Department handles everything that
-concerns students so that students can be well-balanced individuals in
-a changing world.</p>
-<p>Its programmes include:</p>
-<ul data-tight="true" class="tight">
+<p><strong>Life Skills Education</strong>
+</p>
+<p>Our Life Skills Programme supports students’ social-emotional development
+and is aligned with MOE’s 21st Century Competencies (21CC). It guides students
+to manage themselves effectively, build healthy and respectful relationships,
+and navigate diverse life situations with confidence, resilience and sound
+values.</p>
+<p>These competencies are developed through purposeful learning experiences
+that are responsive to students’ needs, including Character and Citizenship
+Education (CCE) lessons, targeted workshops informed by students’ learning
+needs, and other structured programmes that provide authentic contexts
+for reflection, practice and growth.&nbsp;</p>
+<p>The College focuses on six key life skills areas:</p>
+<ol data-tight="true" class="tight">
 <li>
-<p>Counselling</p>
+<p>Self-Awareness</p>
 </li>
 <li>
-<p>Career guidance</p>
+<p>Self-Management (physical and mental well-being)</p>
 </li>
 <li>
-<p>Foreign students’ welfare</p>
+<p>Social and Global Awareness
+<br>○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Civic literacy
+<br>○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global awareness
+<br>○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cross-cultural skills</p>
 </li>
 <li>
-<p>Scholarship and Bursary Application</p>
+<p>Decision-Making
+<br>○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research
+<br>○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem-solving</p>
 </li>
 <li>
-<p>Pastoral Care Programme</p>
+<p>Critical and Inventive Thinking</p>
+</li>
+<li>
+<p>Communication and Interpersonal Skills</p>
+</li>
+</ol>
+<p><strong>Community Engagement &amp; Service Learning</strong>
+</p>
+<p>NYJC encourages students to care for communities beyond the college through:</p>
+<ul>
+<li>
+<p>Participating in fundraising activities for organisations in need</p>
+</li>
+<li>
+<p>Partnering with organisations such as Tong Chai Medical Institution, Lions
+Befrienders, the Rotary Club and Braddell Heights CC among others.</p>
+</li>
+<li>
+<p>Taking part in overseas community service projects to develop civic responsibility
+and global awareness</p>
 </li>
 </ul>
-<p><strong>Counselling</strong>
+<p>More on NYJC Service Learning: <a href="https://www.nanyangjc.moe.edu.sg/life-at-nyjc/Character-Development/SL" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nanyangjc.moe.edu.sg/life-at-nyjc/Character-Development/SL</u></a>
 </p>
-<p>The college is aware of the many problems that students may face as adolescents
-as they respond to adult demands, group pressure, new environments and
-new study habits. To take care of this need, we have made available teacher-counsellors
-who are trained to help students cope with the pressure of college life.
-There is also an online counselling service provided.</p>
-<p><strong>Career Guidance Programme</strong>
-</p>
-<p>College life does not consist of mere preparation for the GCE ‘A’ Level
-examinations. There is also the emphasis on educating students and preparing
-them for the wider aspects of life. The Career Guidance programme aims
-to prepare students for the job market and the working world. People with
-professional expertise are invited to give talks and conduct seminars for
-students. These serve to inform students about the necessary qualifications
-needed for various careers and to teach them how to match personality to
-career as well as handling job interviews.</p>
-<p>Students may approach our ECG Counsellor, Mr Shaun Han, if they need more
-personalised guidance and advice on their higher education and career aspirations
-and choices.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shaun Han
-<br>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shaun Han has over 30 years of experience in the corporate world with
-global multi-national companies, mainly in sales, customer success and
-regional business management. He is passionate about building and developing
-talents and has coached and mentored many business leaders in his career.
-He worked with many new entrants into the workforce from school and found
-it rewarding to work with them and help them to realise their potentials.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Students who would like to have a session with him may schedule a session
-at https://go.gov.sg/meet-shaun-han.</p>
-<p><strong>Foreign Students’ Welfare Committee</strong>
-</p>
-<p>Like many other institutions in Singapore, we accept a small number of
-foreign students into our college each year. There is a committee to look
-into their essentials such as accommodation and student passes. The committee
-also provides the necessary socio-emotional support to help students cope
-with their stay in Singapore.</p>
-<p><strong>Life Skills Programme</strong>
-</p>
-<p>The college recognises the importance of imparting relevant life skills
-which are deemed necessary for successful living. These skills aim to help
-students cope with the stresses and challenges of daily life as well as
-to help them make responsible and sound decisions. We also hope that these
-life skills can be relevant and useful to students even after their junior
-college education.</p>
-<p>The college focuses on six areas of life skills. They include:</p>
-<p>Lifeskills One: Self-Awareness</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Two: Self-Management (Physical and mental well-being)</p>
-</li>
-<li>
-<p>Three: Social and Global Awareness (Social awareness, civic literacy,
-global awareness, cross cultural skills)</p>
-</li>
-<li>
-<p>Four: Decision-making (Research, decision-making and problem-solving skills)</p>
-</li>
-<li>
-<p>Five: Critical Thinking and Inventive Thinking</p>
-</li>
-<li>
-<p>Six: Communication and Interpersonal Skills</p>
-</li>
-</ul>
-<p>Our Lifeskills Framework adopts a holistic and comprehensive approach,
-which served as the guiding principle to help students develop the fundamental
-skills for life effectiveness. In NYJC, students will learn to effectively
-manage themselves, their relationships with others and varied life situations.
-Students are encouraged to do self-reflection and discuss areas for improvements
-during conferences with their tutors using the Managing Self Development
-Tool.</p>
+<p></p>
 <p><strong>Character and Citizenship Education Department</strong>
 </p>
 <div class="isomer-image-wrapper">
