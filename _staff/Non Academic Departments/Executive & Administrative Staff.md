@@ -9,9 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eas_dept_2026_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EAS Department" src="/images/EAS_Dept_2025_2a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eas_dept_2026_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EAS" src="/images/EAS_Dept_2025_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eas_dept_2026_3.jpg">
 </div>
 <p></p>
