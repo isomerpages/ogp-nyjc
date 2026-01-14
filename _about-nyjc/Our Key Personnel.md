@@ -706,6 +706,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shaun Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_swee_kwang_shaun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_swee_kwang_shaun@schools.gov.sg</a>
+</p>
+<p>63805600</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Education and Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -718,26 +731,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Service-Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maggie Cai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cai_xiuting_maggie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_xiuting_maggie@schools.gov.sg </a>
-<br>63805127</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Student Leadership Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Theresia Line Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Theresia_line_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">theresia_line_ishak@schools.gov.sg</a> 
-<br>63805142</p>
+<p><a href="mailto:Theresia_line_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">theresia_line_ishak@schools.gov.sg</a>63805142</p>
 </td>
 </tr>
 <tr>
