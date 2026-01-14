@@ -26,7 +26,7 @@ in 2024), please visit <a href="https://www.seab.gov.sg/files/A%20Level%20Syllab
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eng" src="/images/English_Dept_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_dept_2026_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eng" src="/images/English_Dept_2025_2.jpg">

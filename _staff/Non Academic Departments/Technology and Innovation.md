@@ -50,9 +50,9 @@ students to work in small groups without disturbing others.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Partnership with National
 Library Board (NLB) to bring in more resources for staff and students'
 borrowing.</p>
-<p><strong>Innovation and Technology Members</strong>
+<p><strong>Technology and Innovation Department Members</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Dept_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict_dept_2026.jpg">
 </div>
 <p></p>

@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Department
+title: Character and Citizenship Education Department
 permalink: /staff/non-academic-departments/character-and-citizenship-department/
 description: ""
 third_nav_title: Non Academic Departments
@@ -61,10 +61,9 @@ and global awareness</p>
 </ul>
 <p>More on NYJC Service Learning: <a href="https://www.nanyangjc.moe.edu.sg/life-at-nyjc/Character-Development/SL" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nanyangjc.moe.edu.sg/life-at-nyjc/Character-Development/SL</u></a>
 </p>
-<p></p>
 <p><strong>Character and Citizenship Education Department</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Dept" src="/images/CCE_Dept_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_dept_2026.jpg">
 </div>
 <p></p>
