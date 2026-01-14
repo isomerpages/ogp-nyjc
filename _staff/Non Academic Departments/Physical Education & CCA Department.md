@@ -29,7 +29,6 @@ scholarships award.</p>
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clubs and Societies.</p>
 <p><strong>Physical Education &amp; CCA Department Members</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Dept.jpg">
 </div>
