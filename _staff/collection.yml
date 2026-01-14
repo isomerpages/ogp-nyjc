@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Academic Departments/.keep
-      - Academic Departments/Chinese Department.md
       - Academic Departments/Economics Department.md
       - Academic Departments/English Department.md
       - Academic Departments/Humanities Department.md
       - Academic Departments/Mathematics Department.md
+      - Academic Departments/Mother Tongue Languages Department.md
       - Academic Departments/Project Work Department.md
       - Academic Departments/Science Department.md
       - Non Academic Departments/.keep
@@ -15,7 +15,7 @@ collections:
       - Non Academic Departments/Corporate Communications and Partnership
         Department.md
       - Non Academic Departments/Executive & Administrative Staff.md
-      - Non Academic Departments/Innovation and Technology.md
+      - Non Academic Departments/Technology and Innovation.md
       - Non Academic Departments/Physical Education & CCA Department.md
       - Non Academic Departments/Student Development Department.md
       - Non Academic Departments/Student Support and Well being.md

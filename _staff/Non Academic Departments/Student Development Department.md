@@ -123,7 +123,7 @@ and plan future pathways. Students seeking personalised advice on higher
 education and career choices may schedule a session with him:
 <br><strong> &nbsp; 👉<a href="https://go.gov.sg/meet-shaun-han" rel="noopener noreferrer nofollow" target="_blank"><u> https://go.gov.sg/meet-shaun-han</u></a></strong>
 </p>
-<p>More on NYJC ECG Programmes: <a href="https://go.gov.sg/meet-shaun-han" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nanyangjc.moe.edu.sg/life-at-nyjc/ecg-programmes/</u></a>
+<p>More on NYJC ECG Programmes: <a href="https://www.nanyangjc.moe.edu.sg/life-at-nyjc/ecg-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nanyangjc.moe.edu.sg/life-at-nyjc/ecg-programmes/</u></a>
 </p>
 <p><strong>Student Development Department Members</strong>
 </p>

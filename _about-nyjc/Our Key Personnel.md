@@ -88,7 +88,8 @@ variant: tiptap
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese</p>
+<p><strong>Chinese</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -135,7 +136,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Economics</p>
+<p><strong>Economics</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -221,7 +223,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>English</p>
+<p><strong>English</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -293,7 +296,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Humanities</p>
+<p><strong>Humanities</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -366,7 +370,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Mathematics</p>
+<p><strong>Mathematics</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -439,7 +444,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Project Work</p>
+<p><strong>Project Work</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -486,7 +492,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Science &amp; Research</p>
+<p><strong>Science &amp; Research</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -623,7 +630,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Character &amp; Citizenship Education</p>
+<p><strong>Character &amp; Citizenship Education</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -658,14 +666,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Management</p>
+<p>SH Service-Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Yong Meng</p>
+<p>Ms Maggie Cai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yong_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yong_meng_a@schools.gov.sg</a> 
-<br>63805140</p>
+<p><a href="mailto:cai_xiuting_maggie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_xiuting_maggie@schools.gov.sg</a>
+<br>63805127</p>
 </td>
 </tr>
 <tr>
@@ -683,7 +691,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Student Development</p>
+<p><strong>Student Development</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -706,6 +715,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shaun Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_swee_kwang_shaun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_swee_kwang_shaun@schools.gov.sg</a>
+</p>
+<p>63805600</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Education and Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -718,26 +740,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Service-Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maggie Cai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cai_xiuting_maggie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_xiuting_maggie@schools.gov.sg </a>
-<br>63805127</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Student Leadership Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Theresia Line Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Theresia_line_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">theresia_line_ishak@schools.gov.sg</a> 
-<br>63805142</p>
+<p><a href="mailto:Theresia_line_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">theresia_line_ishak@schools.gov.sg</a>63805142</p>
 </td>
 </tr>
 <tr>
@@ -767,7 +776,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>PE &amp; CCA</p>
+<p><strong>PE &amp; CCA</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -838,7 +848,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Year Heads</p>
+<p><strong>Student Support and Well-being</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -872,6 +883,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Student Managment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Yong Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:SIM_Yong_Meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yong_meng_a@schools.gov.sg</a>
+</p>
+<p>63805140</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Harbinder Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:harbinder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harbinder_kaur@schools.gov.sg</a>
+</p>
+<p>63805174</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -885,7 +922,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Technology and Innovation</p>
+<p><strong>Technology and Innovation</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -932,7 +970,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>System &amp; Info Management</p>
+<p><strong>System &amp; Info Management</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -967,7 +1006,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>Corporate Communications &amp; Partnership</p>
+<p><strong>Corporate Communications &amp; Partnership</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1016,7 +1056,8 @@ variant: tiptap
 </table>
 </li>
 <li>
-<p>School Staff Developer</p>
+<p><strong>School Staff Developer</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

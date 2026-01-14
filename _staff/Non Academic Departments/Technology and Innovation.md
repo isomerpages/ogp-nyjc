@@ -1,6 +1,6 @@
 ---
-title: Innovation and Technology
-permalink: /staff/Non-Academic-departments/innovation-and-technology/
+title: Technology and Innovation
+permalink: /staff/non-academic-departments/innovation-and-technology/
 description: ""
 third_nav_title: Non Academic Departments
 variant: tiptap

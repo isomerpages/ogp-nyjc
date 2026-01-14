@@ -1,6 +1,6 @@
 ---
-title: Chinese Department
-permalink: /staff/Academic-Departments/Chinese-Department/
+title: Mother Tongue Languages Department
+permalink: /staff/academic-departments/chinese-department/
 description: ""
 third_nav_title: Academic Departments
 variant: tiptap
