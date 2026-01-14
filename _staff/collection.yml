@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Academic Departments/.keep
-      - Academic Departments/Chinese Department.md
+      - Academic Departments/Mother Tongue Languages Department.md
       - Academic Departments/Economics Department.md
       - Academic Departments/English Department.md
       - Academic Departments/Humanities Department.md
