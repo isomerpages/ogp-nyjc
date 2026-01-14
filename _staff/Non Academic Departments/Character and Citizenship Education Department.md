@@ -65,6 +65,6 @@ and global awareness</p>
 <p><strong>Character and Citizenship Education Department</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Dept" src="/images/CCE_Dept_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_dept_2026.jpg">
 </div>
 <p></p>
