@@ -70,13 +70,9 @@ or</p>
 </li>
 </ul>
 <p>in the GCE O level examination.</p>
-<p><strong>Chinese Department Members</strong>
+<p><strong>Mother Tongue Languages Department Members</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dept_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother_tongue_dept.jpg">
 </div>
 <p></p>
