@@ -76,9 +76,8 @@ must offer H2 Art and H3 Art (JC2).</p>
 </ul>
 <p><strong>Humanities Department Members</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="humanities" src="/images/Humanities_Dept_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humans_dept_2026.jpg">
 </div>
 <p></p>
 <p></p>
