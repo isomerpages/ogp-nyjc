@@ -127,8 +127,7 @@ education and career choices may schedule a session with him:
 </p>
 <p><strong>Student Development Department Members</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Development" src="/images/Student_Development_2025_Dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_development_2026.jpg">
 </div>
 <p></p>
