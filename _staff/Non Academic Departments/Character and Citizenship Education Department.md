@@ -61,7 +61,6 @@ and global awareness</p>
 </ul>
 <p>More on NYJC Service Learning: <a href="https://www.nanyangjc.moe.edu.sg/life-at-nyjc/Character-Development/SL" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nanyangjc.moe.edu.sg/life-at-nyjc/Character-Development/SL</u></a>
 </p>
-<p></p>
 <p><strong>Character and Citizenship Education Department</strong>
 </p>
 <div class="isomer-image-wrapper">
