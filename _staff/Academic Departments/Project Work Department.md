@@ -20,10 +20,6 @@ refer to&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%
 <p><strong>Project Work Department Members</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Project Work Department" src="/images/2024_PW_Dept_1_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Project Work Department" src="/images/2024_PW_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pw_dept_2026.jpg">
 </div>
 <p></p>
