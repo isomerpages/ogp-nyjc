@@ -658,14 +658,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Management</p>
+<p>SH Service-Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Yong Meng</p>
+<p>Ms Maggie Cai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yong_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yong_meng_a@schools.gov.sg</a> 
-<br>63805140</p>
+<p><a href="mailto:cai_xiuting_maggie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_xiuting_maggie@schools.gov.sg</a>
+<br>63805127</p>
 </td>
 </tr>
 <tr>
