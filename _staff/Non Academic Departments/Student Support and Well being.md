@@ -73,4 +73,9 @@ the local environment</p>
 beyond school.</p>
 </li>
 </ul>
+<p><strong>Student Support and Well-being Department Members</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_support_and_wellbeing.jpg">
+</div>
 <p></p>
