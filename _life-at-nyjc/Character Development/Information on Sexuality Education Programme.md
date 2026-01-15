@@ -39,7 +39,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of &nbsp;nanyang Junior College’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of &nbsp;nanyang Junior College’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -52,9 +52,9 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 at Pre-University is on respectful relationships. Specifically, the JC/MI
 package covers themes of Interpersonal Relationships, Sexual Health, Sexual
 Behaviour, and Culture, Society and Law woven into the main focus on relationships.</p>
-<p><strong>At Nanyang Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Nanyang Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>JC1&nbsp;</strong>
 </p>
@@ -109,7 +109,7 @@ stronger and be better prepared for future relationships.
 entails and be reminded of the importance of respect for others.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ to remove any risks that come with casual sex. The lesson will also focus
 on being a source of support for others who may be pregnant or have STIs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>JC2</strong>
 </p>
@@ -274,11 +274,14 @@ and relationships in ways that are harmful to themselves and others.</p>
 </table>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme
-developed by Health Promotion Board, in collaboration with the Ministry
-of Education, to provide JC/MI Year 1 students with accurate information
-on STIs/HIV and protection from a health perspective. The desired outcome
-of the eTeens programme is that students are empowered to make wise, informed
-and sensible decisions.
+that was developed by Health Promotion Board, in collaboration with the
+Ministry of Education, to provide JC/MI Year 1 students with accurate information
+on STIs/HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. The desired outcome of the eTeens programme is that students are empowered
+to make wise, informed and sensible decisions to protect themselves from
+sexually transmitted infectious diseases.
 <br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students learn the health,
 social and financial implications of STIs/HIV on an individual and the
 family, and the importance of responsible decision-making and seeking help.
@@ -311,24 +314,20 @@ Abstinence and upholding family values are the key messages.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mass Talk
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by HPB appointed vendor in
-Term 1 2025
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by pre-recorded video from
-Semester 2 2025</p>
+<br>·&nbsp;&nbsp;by pre-recorded video from January 2026</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs
-and HIV)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for
-STIs and HIV
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against
-infection, specifically abstinence and the correct and consistent use of
-condoms
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of
-being infected with STIs/HIV
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact
-of STIs</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexually transmitted infectious
+diseases (STIs and HIV): what it is, how it spreads, how to prevent infection
+mainly through ABC (abstinence, being faithful, correct, and consistent
+condom use), consequences and impact of STIs/HIV</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills for respecting boundaries
+(e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure
+to have pre-marital sex)</p>
+<p></p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and
+risky situations in a healthy way, including avenues for help-seeking</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
@@ -355,12 +354,12 @@ by MOE-approved external providers.
 <br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="/files/Annex_A_Growing_Years_Parent_Opt_out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/05/2025.
+and is also downloadable <a href="/files/Annex_A_Growing_Years_Parent_Opt_out_Form_NYJC_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 29/05/2026.
 <br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_Out_Form_NYJC_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/05/2025.
+the year and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_out_Form_NYJC_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 29/05/2026.
 <br>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">nyjc@moe.edu.sg</a> for discussion or
 to seek clarifiation about the school’s Sexuality Education program</p>
