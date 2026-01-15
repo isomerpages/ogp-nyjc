@@ -26,7 +26,6 @@ sections:
       title: 2026 Open House
       subtitle: stories
       id: infopic
-      description: 12 Jan
       button: Click here for more info
       url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
       image: /images/Announcement_Banner.jpg
