@@ -24,7 +24,7 @@ sections:
       variant: image
   - infopic:
       title: 2026 Open House
-      subtitle: stories
+      subtitle: Headlines
       id: infopic
       button: Click here for more info
       url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
