@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Web_Banner_1_.png
+      background: /images/Admissions-Admin.jpg
       key_highlights:
         - title: Headlines
           description: Check out our headlines
