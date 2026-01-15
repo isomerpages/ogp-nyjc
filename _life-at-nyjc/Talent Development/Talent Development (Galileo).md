@@ -88,7 +88,7 @@ my interest in psychology. Through these exposures to multiple future pathways,
 I was able to make an informed and confident decision about my direction,
 ultimately leading to a scholarship in the public service.</p>
 <p></p>
-<p><strong>Gabriel Tan Lin Liang / class 2026<br></strong>Scholarship: PSC
+<p><strong>Gabriel Tan Teng Liang / class 2026<br></strong>Scholarship: PSC
 Scholarship (Open)
 <br>Degree: Geography
 <br>University: NUS</p>
