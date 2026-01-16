@@ -24,12 +24,13 @@ sections:
       variant: image
   - infopic:
       title: 2026 Open House
-      subtitle: Headlines
+      subtitle: STORIES
       id: infopic
-      button: Click here for more info
-      url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
-      image: /images/Announcement_Banner.jpg
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-Open-House
+      image: /images/260115_Open_House_010.jpg
       alt: Image alt text
+      description: 15 Jan
   - infopic:
       title: 2025 JC2 Dinner and Dance
       subtitle: stories
