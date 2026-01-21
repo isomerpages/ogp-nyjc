@@ -8,9 +8,68 @@ variant: tiptap
 <p>NYJCians have been awarded research scholarships and participated in various
 research competitions at both the national and international levels.
 <br>
-<br><strong>2024 Singapore Science and Engineering Fair</strong>
-<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zannatun Noor (CT 2309)
-<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Akila Rajesh (CT 2311)</p>
+</p>
+<p><strong>2025 Singapore Science and Engineering Fair&nbsp;</strong>
+<br>Ang Chee Wei (CT 2413) – Silver
+<br>Amanda Teng (CT 2413) – Bronze
+<br>Koh Rui Xin Kiera (CT 2413) – Bronze
+<br>Gareth Goh Yu Heng (CT 2414) – Bronze
+<br>Yee Aik Seng (CT 2420) – Bronze
+<br>Toh Jia Ying, Zelda (CT 2421) – Bronze
+<br>Chua Yun Cheng (CT 2402) – Merit
+<br>Koay Jun Rong (CT 2406) – Merit
+<br>Feng Sirui (CT 2416) – Merit
+<br>Rajasekaran Dhinesh (CT 2422) – NUS Special Chemistry Award</p>
+<p><strong>2025 International Elementz Fair</strong>
+</p>
+<p>Gareth Goh Yu Heng (CT 2414) – Gold
+<br>Yee Aik Seng (CT 2420) – Gold
+<br>Toh Jia Ying, Zelda (CT 2421) – Gold
+<br>Supanwassa Pannawit (CT 2426) – Gold&nbsp;</p>
+<p><strong>2025 A*STAR Science Award (Junior College)</strong>
+<br>Lydia Loh Eng Neng (CT 2525)
+<br>Sayson Gerard Santos (CT 2528)</p>
+<p><strong>2025 DSTA Junior College Scholarship</strong>
+<br>Francis Ang Zhao Xiong (CT 2510)</p>
+<p><strong>2025 MOE LSAP</strong>
+<br>Zhu Xinyi (CT 2501)
+<br>Chow Qi En Niccole (CT 2506)</p>
+<p><strong>2025 Engineering &amp; Tech Programme Scholarship (ETPS)</strong>
+<br>Alex Chung Zi Xuan (CT 2516)
+<br>Kenric Christopher Tan Wei Zhi (CT 2524)
+<br>Lee Hom Yew Jerald (CT 2516)
+<br>Ling Wen Hao (CT 2516)
+<br>Luke Yeo (CT 2527)
+<br>Nathaniel Lau Kea Chuan (CT 2526)
+<br>Ong Zhen Lun (Wang Zhenlun) (CT 2516)
+<br>Rovil Ng Jun Ying (CT 2521)
+<br>Tay Rui Hong, Randall (CT 2515)
+<br>Toh Kai En Kelly (CT 2522)
+<br>Yong Min Han (Yang Minhan) (CT 2527)
+<br>Zoe Christa Choong Su Er (CT 2516)</p>
+<p><strong>2025 NUS Science Research Programme</strong>
+<br>Charmaine Lim Ying Xuan (CT 2503)
+<br>Ong Xin Yi (CT 2503)
+<br>Nguyen Duc Khoi Nguyen (CT 2508)
+<br>Tay Rui Hong, Randall (CT 2515)
+<br>Tok Hui Yun Shavonne (CT 2515)
+<br>Zoe Christa Choong Su Er (CT 2516)
+<br>Tran Luu Anh Kiet (CT 2520)
+<br>Kenric Christopher Tan Wei Zhi (CT 2524)
+<br>Prithviraj Madhavan (CT 2524)
+<br>Lydia Loh Eng Neng (CT 2525)</p>
+<p><strong>2025 NTU Nanyang Research Programme</strong>
+<br>Wong Kaylene (CT 2503)
+<br>James Sebastian Tiah Kean Hong (CT 2515)
+<br>Ng Poh Ghee Versilia (CT 2516)
+<br>Lim Yee Yan (CT 2518)
+<br>Chan Wai Yuen (Chen Weiyuan) (CT 2521)
+<br>Luke Yeo (CT 2527)
+<br>Wang Jiayuan (CT 2527)
+<br>Pham Luan Khang (CT 2528)</p>
+<p><strong>2024 Singapore Science and Engineering Fair</strong>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zannatun Noor (CT 2309) - Bronze
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Akila Rajesh (CT 2311) - Bronze</p>
 <p><strong>2024 A*STAR Science Award (Junior College)</strong>
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amanda Teng (CT 2413)
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gareth Goh Yu Heng (CT 2414)
