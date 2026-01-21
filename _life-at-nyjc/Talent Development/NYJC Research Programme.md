@@ -86,7 +86,7 @@ mathematics, humanities and social sciences</p>
 <br>Have a passion for science and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>23 Feb 2026</p>
 </td>
 </tr>
 <tr>
@@ -95,18 +95,32 @@ mathematics, humanities and social sciences</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp; Open to all JC1 students who are Singaporeans or Singapore
-Permanent Residents</p>
-<p>·&nbsp;&nbsp; Distinction in English and A1 for Mathematics, Additional
-Mathematics and two <strong><u>pure</u></strong> Science subjects</p>
-<p>·&nbsp;&nbsp; Should have strong passion in STEM and research</p>
-<p>·&nbsp;&nbsp; Should have prior Research experience</p>
-<p>·&nbsp;&nbsp; Should be outstanding in their co-curricular activities;
-and should have good communication skills</p>
-<p></p>
+<p>Open to all JC1 students who are Singaporeans or Singapore Permanent Residents</p>
+<ul>
+<li>
+<p>Distinction in English</p>
+</li>
+<li>
+<p>A1 for Mathematics and Additional Mathematics&nbsp;</p>
+</li>
+<li>
+<p>A1 for two <strong><u>pure</u></strong> Science subjects or A1 in one pure
+Science and Computing/Computer Science</p>
+</li>
+<li>
+<p>Should have strong passion in STEM and research</p>
+</li>
+<li>
+<p>Should have prior Research experience</p>
+</li>
+<li>
+<p>Should be outstanding in their co-curricular activities; and should have
+good communication skills</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>6 Feb 2026</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +160,7 @@ one of the following subjects:</p>
 <p>Ø H2 Further Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>25 Feb 2026</p>
 </td>
 </tr>
 <tr>
