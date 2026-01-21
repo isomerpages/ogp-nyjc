@@ -11,6 +11,8 @@ with strong aptitude and interest in mathematics and science and have a
 passion in scientific research and development are encouraged to apply
 through the college.&nbsp;
 <br>
+<br>For more information about the award, please click <strong><a href="https://www.a-star.edu.sg/scholarships/home/student-awards/astar-science-award-(jc)" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
+<br>
 <br>Eligibility:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to all JC1 students who are holding
 Singapore citizenship
