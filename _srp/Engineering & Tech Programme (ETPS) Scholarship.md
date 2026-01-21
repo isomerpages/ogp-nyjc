@@ -28,7 +28,10 @@ and meet the current and future needs of Singapore’s economy and industries.</
 <p>At least a A2 for a mathematics and a science subject in GCE O Level Examination</p>
 </li>
 <li>
-<p>Have good co-curricular activities record, particularly in STEM areas.</p>
+<p>Have good co-curricular activities record, particularly in STEM areas</p>
+</li>
+<li>
+<p>Have good conduct record</p>
 </li>
 <li>
 <p>Not currently be in receipt of any MOE scholarships (except Edusave Scholarships)</p>
@@ -65,8 +68,8 @@ Fair (SSEF) or equivalent</p>
 <p>S$1,000 per annum</p>
 </li>
 <li>
-<p>Remission of school fee at Singapore Citizens’ rate, subject to an annual
-cap of $2,400</p>
+<p>Covers school fee at Singapore Citizens’ rate, subject to an annual cap
+of $2,400</p>
 </li>
 <li>
 <p>Tenable for 2 years, subject to satisfactory academic performance at JC1
@@ -80,28 +83,17 @@ Government</p>
 <p>Selection Interview by MOE and Offer of Award:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Conduct of Selection Interview: March – August</p>
+<p>Conduct of Selection Interview: March – May</p>
 </li>
 <li>
-<p>Offer of Award: June to September</p>
+<p>Offer of Award: June - August</p>
 </li>
 <li>
 <p>Please note that only successful candidates will be notified.</p>
 </li>
 </ul>
 <p>Interested students can access the online scholarship applications via
-this <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship" rel="noopener noreferrer nofollow" target="_blank">link</a>.
+this <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a></strong>.
 You have to login to the application system using a valid Singpass.</p>
-<p>Students are reminded to factor in extra time if they need to apply for
-SingPass account/ID (with their personal NRIC). Logging in through a third-party
-SingPass is not allowed and will render the application void. The application
-for a SingPass account with 2-Factor Authentication (2FA) can be completed
-through the SingPass homepage or completed immediately over the SingPass
-designated counters. <strong>There will be strictly NO extension to the online application closing date and no offline applications will be accepted after application period ends.</strong>
-</p>
-<p>You can access the following documents for more information:</p>
-<p><a href="/files/ETPS_e_Poster_2025.pdf" rel="noopener nofollow" target="_blank">ETPS e-Poster</a>
-<br><a href="/files/ETPS_Briefing_Slides_w_online_video_link_updated.pdf" rel="noopener nofollow" target="_blank">ETPS Briefing to Students</a>
-</p>
 <p><strong>Online Registration Period</strong>
-<br>10 Jan 2025 – 24 Feb 2025</p>
+<br>14 Jan 2026 – 25 Feb 2026</p>
