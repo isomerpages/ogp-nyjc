@@ -60,6 +60,4 @@ form <a href="/files/OSAP_Annex_C_2026__CEE_RSI_.pdf" rel="noopener nofollow" ta
 </li>
 </ul>
 <p>Students who are interested to participate can indicate your interest
-through this <strong><a href="https://form.gov.sg/69703cc983d153f3d2d231fc" rel="noopener noreferrer nofollow" target="_blank"><u>form.</u></a></strong>
-</p>
-<p></p>
+through this <a href="https://form.gov.sg/69703cc983d153f3d2d231fc" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.</p>
