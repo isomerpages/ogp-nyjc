@@ -4,7 +4,7 @@ permalink: /srp/DSTA/
 description: ""
 variant: tiptap
 ---
-<p>Every year, Defence Science and Technology Agency (DSTA) provides scholarships
+<p>Every year, Defence Science and Technology Agency (DSTA) provide scholarships
 to JC1 students who are interested in discovering exciting opportunities
 in defence science and engineering with their engineers and scientists.</p>
 <p>For more information about the programme and registration, please click <strong><a href="https://brightsparks.com.sg/profile/dsta/dsta-jc-scholarship.php" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
@@ -36,4 +36,4 @@ and internship</p>
 </ul>
 <p><strong>Online Registration Deadline</strong>
 </p>
-<p>24 Feb 2025</p>
+<p>23 Feb 2026</p>
