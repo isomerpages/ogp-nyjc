@@ -30,6 +30,7 @@ sections:
       url: /2026-jc1-orientation-information/
       image: /images/orientation_2026.jpg
       alt: Image alt text
+      description: 31 Jan
   - infopic:
       title: 2026 Open House
       subtitle: STORIES
