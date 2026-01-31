@@ -23,6 +23,14 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 NYJC JC1 Orientation Information
+      subtitle: headlines
+      id: infopic
+      button: Click Here
+      url: /2026-jc1-orientation-information/
+      image: /images/orientation_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Open House
       subtitle: STORIES
       id: infopic
@@ -31,14 +39,6 @@ sections:
       image: /images/260115_Open_House_010.jpg
       alt: Image alt text
       description: 15 Jan
-  - infopic:
-      title: NYJC Open House Microsite
-      subtitle: headlines
-      id: infopic
-      button: Click Here
-      url: https://sites.google.com/nyjc.edu.sg/nyjcopenhouse
-      image: /images/Announcement_Banner.jpg
-      alt: Image alt text
   - infopic:
       title: 2025 JC2 Dinner and Dance
       subtitle: stories
