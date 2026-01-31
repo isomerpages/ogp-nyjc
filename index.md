@@ -39,24 +39,6 @@ sections:
       image: /images/260115_Open_House_010.jpg
       alt: Image alt text
       description: 15 Jan
-  - infopic:
-      title: 2025 JC2 Dinner and Dance
-      subtitle: stories
-      id: infopic
-      description: 27 Nov
-      button: view here
-      url: https://nanyangjc.smugmug.com/2025-JC2-Dinner-and-Dance
-      image: /images/251127_JC2_Dinner_and_Dance_093.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 CarNYval
-      subtitle: stories
-      id: infopic
-      description: 17 Nov
-      button: view HERE
-      url: https://nanyangjc.smugmug.com/2025-CarNYval
-      image: /images/251117_CarNYval_025.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
