@@ -2,6 +2,7 @@ collections:
   headlines:
     output: true
     order:
+      - 2026 JC1 Orientation Information.md
       - 2026 Joint Admissions Exercise (Jan 12, 2026).md
       - Archive/2025 NYJC Open House Microsite.md
       - Archive/Select Subject Combination (Feb 5, 2025).md
