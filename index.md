@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: https://www.nanyangjc.moe.edu.sg/headlines/sc/
+          url: /2026-jc1-orientation-information/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com

@@ -1,5 +1,5 @@
 ---
-title: 2026 JC1 Orientation Information
+title: 2026 JC1 Orientation Information (Jan 31, 2026)
 permalink: /2026-jc1-orientation-information/
 variant: tiptap
 description: ""
