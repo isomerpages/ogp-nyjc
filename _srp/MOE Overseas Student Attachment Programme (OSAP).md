@@ -43,10 +43,10 @@ good communication skills</p>
 <li>
 <p>28 Jan 2026, 3:00 pm – 4:30 pm
 <br>Briefing session for interested applicants. You can find the details
-<a href="/files/OSAP_Annex_D_2026__CEE_RSI_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<a href="/files/OSAP_Annex_D_2026__CEE_RSI_.pdf" rel="noopener nofollow" target="_blank">here</a>. You can find the MOE briefing slides <a href="/files/CEE_RSI_Briefing_Slides_for_Interested_Students_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p>6 Feb 2026, 12 pm
+<p>6 Feb 2026, 8 am
 <br>Submission of video clip and application form. You can download the application
 form <a href="/files/OSAP_Annex_C_2026__CEE_RSI_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
