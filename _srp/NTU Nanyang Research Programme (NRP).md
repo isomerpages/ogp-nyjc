@@ -31,4 +31,4 @@ for wanting to work on the chosen project and why they feel they are best-suited
 to work on it.</p>
 <p><strong>Online Registration Period</strong>
 </p>
-<p>5 Feb 2025 – 24 Feb 2025 (3pm)</p>
+<p>4 Feb 2026 – 24 Feb 2026</p>
