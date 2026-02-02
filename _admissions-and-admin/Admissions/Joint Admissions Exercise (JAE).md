@@ -33,7 +33,7 @@ following table should only be used as a guide.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JAE 2025</strong>
+<p><strong>JAE 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,5 +56,5 @@ following table should only be used as a guide.</p>
 </tr>
 </tbody>
 </table>
-<p>Click <a href="/headlines/sc/" rel="noopener nofollow" target="_blank">here</a> for
-more info.</p>
+<p><a href="/nyjc-jae-appeal-2026-feb-3-2026/" rel="noopener nofollow" target="_blank">2026 NYJC Appeals</a>
+</p>

@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /2026-jc1-orientation-information/
+          url: /nyjc-jae-appeal-2026-feb-3-2026/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
+  - infopic:
+      title: 2026 NYJC JAE Appeals
+      subtitle: HEADLINES
+      id: infopic
+      description: 3 Feb
+      button: click here
+      url: /nyjc-jae-appeal-2026-feb-3-2026/
+      image: /images/JAE_Appeal_2026.jpg
+      alt: Image alt text
   - infopic:
       title: 2026 NYJC JC1 Orientation Information
       subtitle: headlines
