@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /2026-jc1-orientation-information/
+          url: /nyjc-jae-appeal-2026-feb-3-2026/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
