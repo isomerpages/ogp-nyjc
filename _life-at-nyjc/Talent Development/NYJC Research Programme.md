@@ -54,7 +54,7 @@ and technology</p>
 mathematics, humanities and social sciences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>24 Feb 2026</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ good communication skills</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Feb 2026</p>
+<p>6 Feb 2026 (8am)</p>
 </td>
 </tr>
 <tr>
