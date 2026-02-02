@@ -8,6 +8,59 @@ variant: tiptap
 <p><strong>Hear From Your Seniors…</strong>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lydia.jpg">
+</div>
+<p><strong>Lydia Loh Eng Neng</strong>
+<br><em>NUS Science Research Programme</em>
+<br><em>A*STAR Science Award</em>
+</p>
+<p>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>
+</p>
+<p>CCA/SIG:
+<br>NY Singularity
+<br>NYAstro</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For the past three years, it has been my aspiration to become a physicist.
+The NUS Science Research Programme gave me the chance to conduct original
+and novel research which allowed me to experience significant personal
+growth. Because my project had not been done before, there was no established
+method or “correct” answer to follow. I had to rely on my own ideas to
+decide what to try next.
+<br>
+<br>Through this process, I learnt that my ideas are worth testing, that I
+can trust myself more, and that being wrong is not failure but the chance
+to gain new information. This experience changed how I see myself, from
+someone seeking existing answers to someone capable of developing new ones.
+<br>
+<br>The attachment also gave me a clearer view of what it is like to work
+as a physicist in a university, including both its rewarding and challenging
+aspects. Although the challenges made me pause and reflect on whether this
+was truly the path for me, they also allowed me to test my interest in
+a real-world setting. I realised that my interest in physics research was
+not fleeting, but a genuine and lasting passion, and that I am willing
+to pursue it even when it becomes difficult.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="gareth" src="/images/Gareth_01.jpg">
 </div>
