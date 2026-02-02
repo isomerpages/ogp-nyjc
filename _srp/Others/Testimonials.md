@@ -21,6 +21,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lydia.jpg">
 </div>
 <p><strong>Lydia Loh Eng Neng</strong>
+<br>
 <br><em>NUS Science Research Programme</em>
 <br><em>A*STAR Science Award</em>
 </p>
@@ -59,7 +60,241 @@ to pursue it even when it becomes difficult.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kiet.jpg">
+</div>
+<p><strong>Tran Luu Anh Kiet</strong>
+<br>
+<br><em>NUS Science Research Programme</em>
+<br>
+<br>A recipient of:
+<br>2025 Singapore Chemistry Olympiad − Silver medal
+<br>2025 Singapore Physics Olympiad − Silver medal
+<br>
+<br>Subject Combination:
+<br>H2 Physics
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Chemistry
+<br>H3 Physics
+<br>
+<br>CCA/SIG:
+<br>Choir (Secretary)
+<br>Singularity (President)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The NUS Science Research Programme (SRP) allowed me to further my interest
+in STEM by doing research on topics beyond the school syllabus. With one
+teammate from another school, I explored possible modifications done on
+a novel class of materials using simulation software.
+<br>
+<br>The SRP journey, while not free of obstacles and setbacks, has enriched
+me in many ways. I honed crucial research skills like forming a research
+hypothesis, planning experiments, data analysis and report writing, with
+my mentors guiding and providing support along the way. I learnt the essential
+ability of effective communication and presentation as I coordinated worked
+with my partner and updated my mentors with the progress of the project
+throughout the year.
+<br>
+<br>Besides the skills I acquired, I also gained knowledge about materials
+science from this research experience. Particularly, I was fascinated by
+the physical laws that dictate a material’s properties and the phenomena
+that arise when such material is modified. They have sparked an interest
+in me to pursue Physics for my higher education, where I can learn more
+about the laws of Physics in materials in order for me to eventually do
+research on discovering materials with useful novel properties.
+<br>
+<br>Overall, SRP has been a valuable and enriching experience. It further
+refined my abilities as a researcher, reaffirmed my interest in the sciences
+and inspired me to pursue a career in research.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinyi.jpg">
+</div>
+<p><strong>Ong Xin Yi</strong>
+<br>
+<br><em>NUS Science Research Programme</em>
+<br>
+<br>Subject Combination:
+<br>H2 Biology
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>
+<br>CCA/SIG:
+<br>Student Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being in the NUS Science Research Programme (SRP) was a valuable experience
+that not only allowed me to step out of my comfort zone but also broadened
+my horizons in the field of science.
+<br>
+<br>Growing up, I’d always been interested in discoveries and Science in general,
+but I never knew where to start. My idea of Science was confined to Biology,
+Chemistry, and Physics, as taught in school. Upon joining SRP, I was exposed
+to many scientific disciplines beyond the curriculum, including material
+sciences, earth sciences, and interdisciplinary fields such as bioinformatics,
+which became my field of research.
+<br>
+<br>Bioinformatics was a new field for me. Even though I had prior knowledge
+in Biology, I had no experience in computing or coding. However, SRP helped
+to prepare me for research by equipping me with the necessary skills to
+write reports and analyse research papers. Doing my research under the
+SRP also honed my resilience, as I had to diligently read articles as well
+as learn how to code in my free time.
+<br>
+<br>Despite the initial hurdles faced, I gained a lot of valuable insights
+through my experience and the guidance of my mentor, who provided me with
+steppingstones to learn coding. Overall, SRP was a learning opportunity
+I’d take up again in a heartbeat.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Francis.jpg">
+</div>
+<p><strong>Francis Ang Zhao Xiong</strong>
+<br>
+<br><em>DSTA JC Scholarship</em>
+<br>
+</p>
+<p>A recipient of:
+<br>CSIT Computing Scholarship
+<br>2024 National Olympiad in Informatics – Silver medal
+<br>2025 Australian Informatics Olympiad – Gold medal
+<br>2025 Singapore Informatics League – Silver medal
+<br>2025 Singapore Chemistry Olympiad – Bronze medal
+<br>
+<br>Subject Combination:
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Computing
+<br>H1 Economics
+<br>H3 Chemistry
+<br>
+<br>CCA/SIG:
+<br>Nanyang Competitive Programming (President)
+<br>Nanyang Robotics and Computer Science Club (Training Head)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participating in the DSTA Internship Attachment was one of the highlights
+of my JC1 year. As someone with a deep passion for computing, it was incredibly
+exciting to see how computing is applied in real-world R&amp;D settings.
+<br>
+<br>Though I am not allowed to provide specifics, working on a project with
+real impact was both challenging and rewarding. The internship pushed me
+to learn new skills and explore different areas of knowledge, stretching
+my abilities in meaningful ways. I especially enjoyed refining ideas through
+experimentation and experiencing the satisfaction of seeing each improvement
+take shape.
+<br>
+<br>The attachment also gave me a clearer glimpse of what a future in computing
+might look like. It reaffirmed my desire to pursue this field and showed
+me that this is the kind of work I’d be happy doing every day.
+<br>
+<br>All in all, taking up this opportunity was one of the best choices I’ve
+made. If you’re thinking about applying, I really encourage you to go for
+it! You’d never know how far one decision can take you.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zenden.jpg">
+</div>
+<p><strong>Teo Kai Zhe, Zenden</strong>
+<br>
+<br><em>MOE Overseas Student Attachment Programme – International Science School</em>
+<br>
+<br>A recipient of:
+<br>Zhong Zheng Ren Scholarship
+<br>
+<br>Subject Combination:
+<br>H2 Biology
+<br>H2 Chemistry
+<br>H2 Mathematics
+<br>H2 Economics
+<br>H3 Biology
+<br>
+<br>CCA/SIG:
+<br>Student Council (Head of Welfare Committee)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Through this journey in the MOE Overseas Student Attachment Programme
+(International Science School), I had gained invaluable academic and personal
+growth that extended beyond the classroom learning. With the opportunity
+to interact with delegates from different countries, I had learnt to keep
+an open mind and learn about diverse cultures, education systems, and social
+norms, broadening my horizons. The conversations with my peers from various
+backgrounds were also especially enlightening, as they exposed me to different
+perspectives and ways of thinking shaped by their unique backgrounds.
+<br>
+<br>Academically, the programme broadened my understanding of various scientific
+research fields. One particularly fascinating topic was how technology
+is used to visualise protein folding, enabling scientists to better understand
+protein structures and providing crucial insights for the development of
+medicines and treatments for diseases such as cancer. The hands-on activities
+were equally impactful, allowing me to witness theories that only exist
+in books blooming into the present reality, strengthening my appreciation
+for experimental science and its real-world applications.
+<br>
+<br>On a personal level, the programme &nbsp;had challenged me to step out
+of my comfort zone. This experience taught me how to interact confidently
+with people from diverse backgrounds, while also emphasising the importance
+of cultural sensitivity, respect, and thoughtful communication. The programme
+had also allowed me to further develop my passion in science, affirming
+my interest in pursuing science-related university courses, particularly
+those that emphasise research, critical thinking, and real-world applications.
+This programme has given me greater confidence in taking the next steps
+toward a future in science!</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="gareth" src="/images/Gareth_01.jpg">
