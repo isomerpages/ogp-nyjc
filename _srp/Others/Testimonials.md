@@ -307,6 +307,8 @@ toward a future in science!</p>
 <br>A recipient of:
 <br>2024 Singapore Physics Olympiad − Gold medal
 <br>2024 Singapore Mathematics Olympiad − Silver medal
+<br>2025 Singapore Science and Engineering Fair (SSEF) – Bronze
+<br>2025 International Elementz Fair - Gold
 <br>
 <br>Subject Combination:
 <br>H2 Physics
@@ -353,8 +355,11 @@ but also inspired me to pursue it further at the university level.</p>
 <br><em>Engineering and Tech Programme Scholarship</em>
 <br>
 <br>A recipient of:
-<br>2024 Singapore Chemistry Olympiad − Silver medal</p>
-<p>Subject Combination:
+<br>2024 Singapore Chemistry Olympiad − Silver medal
+<br>2025 Singapore Science and Engineering Fair (SSEF) – Bronze
+<br>2025 International Elementz Fair - Gold
+<br>
+<br>Subject Combination:
 <br>H2 Physics
 <br>H2 Chemistry
 <br>H2 Mathematics
@@ -411,6 +416,7 @@ award
 <br>2024 Singapore Physics Olympiad – Gold medal
 <br>2024 CS2 Course Final Contest: Introduction to Data Structure and Algorithms
 − Distinction award
+<br>2025 International Elementz Fair - Gold
 <br>
 <br>Subject Combination:
 <br>H2 Physics
