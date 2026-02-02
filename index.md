@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 NYJC JAE Appeal
+      subtitle: HEADLINES
+      id: infopic
+      description: 3 Feb
+      button: click here
+      url: /nyjc-jae-appeal-2026-feb-3-2026/
+      image: /images/JAE_Appeal_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 NYJC JC1 Orientation Information
       subtitle: headlines
       id: infopic
