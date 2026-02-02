@@ -23,7 +23,7 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
-      title: 2026 NYJC JAE Appeal
+      title: 2026 NYJC JAE Appeals
       subtitle: HEADLINES
       id: infopic
       description: 3 Feb
