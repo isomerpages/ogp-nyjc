@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /nyjc-jae-appeal-2026-feb-3-2026/
+          url: /headlines/subjectcombi/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
