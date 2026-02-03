@@ -24,7 +24,7 @@ sections:
       variant: image
   - infopic:
       title: Select Subject Combinations
-      subtitle: Add an image and text
+      subtitle: Headlines
       id: infopic
       description: 4 Feb
       button: click here
