@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: Select Subject Combinations
+      subtitle: Add an image and text
+      id: infopic
+      description: 4 Feb
+      button: click here
+      url: https://apps.nyjc.edu.sg/admissions/select/
+      image: /images/select subjects banner.jpeg
+      alt: Image alt text
+  - infopic:
       title: 2026 NYJC JAE Appeals
       subtitle: HEADLINES
       id: infopic
