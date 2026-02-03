@@ -41,7 +41,7 @@ academic institutions.</p>
 and technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>24 Feb 2026</p>
 </td>
 </tr>
 <tr>
