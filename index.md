@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /nyjc-jae-appeal-2026-feb-3-2026/
+          url: /headlines/subjectcombi/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
+  - infopic:
+      title: Select Subject Combinations
+      subtitle: Headlines
+      id: infopic
+      description: 4 Feb
+      button: click here
+      url: https://apps.nyjc.edu.sg/admissions/select/
+      image: /images/select subjects banner.jpeg
+      alt: Image alt text
   - infopic:
       title: 2026 NYJC JAE Appeals
       subtitle: HEADLINES

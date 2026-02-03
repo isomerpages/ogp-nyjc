@@ -2,11 +2,11 @@ collections:
   headlines:
     output: true
     order:
+      - Select Subject Combination (Feb 4, 2026).md
       - NYJC JAE Appeal 2026 (Feb 3, 2026).md
       - 2026 JC1 Orientation Information (Jan 31, 2026).md
       - 2026 Joint Admissions Exercise (Jan 12, 2026).md
       - Archive/2025 NYJC Open House Microsite.md
-      - Archive/Select Subject Combination (Feb 5, 2025).md
       - Archive/University and Scholarship Application Resources (Feb 14 2025).md
       - Archive/2024 A Level Results Release on 21 Feb (Feb 18, 2025).md
       - Archive/EDspiration 2025 (Mar 4, 2025).md
@@ -16,6 +16,3 @@ collections:
       - Archive/Stay Connected with NYJC (Mar 6, 2023).md
       - Archive/RemiNYscence (May 20, 2023).md
       - Archive/MOE EDUSAVE CHARACTER AWARD (ECHA) (Aug 28, 2023).md
-      - Archive/2024 NYJC Open House (2 Jan 2024).md
-      - Archive/Post JAE Appeals (Feb 1, 2024).md
-      - Archive/In Loving Memory (3 Feb).md
