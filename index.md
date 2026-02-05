@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC1 Orientation Day 1
+      subtitle: stories
+      id: infopic
+      description: 4 Feb
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-1
+      image: /images/260204_JC1_Orientation_Day_1_FELICIA_108.jpg
+      alt: Image alt text
+  - infopic:
       title: Select Subject Combinations
       subtitle: Headlines
       id: infopic
@@ -40,15 +49,6 @@ sections:
       url: /nyjc-jae-appeal-2026-feb-3-2026/
       image: /images/JAE_Appeal_2026.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 NYJC JC1 Orientation Information
-      subtitle: headlines
-      id: infopic
-      button: Click Here
-      url: /2026-jc1-orientation-information/
-      image: /images/orientation_2026.jpg
-      alt: Image alt text
-      description: 31 Jan
   - infopic:
       title: 2026 Open House
       subtitle: STORIES
