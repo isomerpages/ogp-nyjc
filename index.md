@@ -27,7 +27,7 @@ sections:
       subtitle: Stories
       id: infopic
       description: Feb 6
-      button: Button Text
+      button: View here
       url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-3
       image: /images/260206_JC1_Orientation_Day_3_MR_JAMES_OOI_048.jpg
       alt: Image alt text
