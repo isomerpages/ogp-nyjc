@@ -23,6 +23,24 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 CCA Bazaar
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-CCA-Bazaar
+      image: /images/260211_CCA_Bazaar_YAN_HON_058.jpg
+      alt: Image alt text
+      description: 11 Feb
+  - infopic:
+      title: 2026 Total Defence Day
+      subtitle: stories
+      id: infopic
+      description: 11 Feb
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Total-Defence-Day
+      image: /images/260211_Total_Defence_Day_MR_JAMES_OOI_040.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC1 Orientation Day 4
       subtitle: STORIES
       id: infopic
@@ -39,24 +57,6 @@ sections:
       button: View here
       url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-3
       image: /images/260206_JC1_Orientation_Day_3_MR_JAMES_OOI_048.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 JC1 Orientation Day 2
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-2
-      image: /images/260205_JC1_Orientation_Day_2_031.jpg
-      alt: Image alt text
-      description: 5 Feb
-  - infopic:
-      title: 2026 JC1 Orientation Day 1
-      subtitle: stories
-      id: infopic
-      description: 4 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-1
-      image: /images/260204_JC1_Orientation_Day_1_FELICIA_108.jpg
       alt: Image alt text
   - infopic:
       title: Select Subject Combinations
