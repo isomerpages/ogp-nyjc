@@ -28,8 +28,8 @@ sections:
       id: infopic
       description: Feb 12
       button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-3
-      image: /images/260206_JC1_Orientation_Day_3_MR_JAMES_OOI_048.jpg
+      url: https://nanyangjc.smugmug.com/2026-JC1-CT-Orientation-Day-1
+      image: /images/260212_JC1_CT_Orientation_Day_1_TIFFANY_092.jpg
       alt: Image alt text
   - infopic:
       title: 2026 CCA Bazaar
