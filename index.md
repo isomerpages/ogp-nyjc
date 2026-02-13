@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC1 CT Orientation Day 1
+      subtitle: Stories
+      id: infopic
+      description: Feb 12
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-3
+      image: /images/260206_JC1_Orientation_Day_3_MR_JAMES_OOI_048.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 CCA Bazaar
       subtitle: STORIES
       id: infopic
@@ -48,15 +57,6 @@ sections:
       button: View here
       url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-4
       image: /images/260209_JC1_Orientation_Day_4_044.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 JC1 Orientation Day 3
-      subtitle: Stories
-      id: infopic
-      description: Feb 6
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC1-Orientation-Day-3
-      image: /images/260206_JC1_Orientation_Day_3_MR_JAMES_OOI_048.jpg
       alt: Image alt text
   - infopic:
       title: Select Subject Combinations
