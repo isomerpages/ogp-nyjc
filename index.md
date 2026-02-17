@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Chinese New Year Celebration
+      subtitle: stories
+      id: infopic
+      description: 16 Feb
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-CNY-Celebration
+      image: /images/260216_CNY_Celebration_MR_JAMES_OOI_113.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC1 CT Orientation Day 2
       subtitle: STORIES
       id: infopic
@@ -49,24 +58,6 @@ sections:
       image: /images/260211_CCA_Bazaar_YAN_HON_058.jpg
       alt: Image alt text
       description: 11 Feb
-  - infopic:
-      title: 2026 Total Defence Day
-      subtitle: stories
-      id: infopic
-      description: 11 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-Total-Defence-Day
-      image: /images/260211_Total_Defence_Day_MR_JAMES_OOI_040.jpg
-      alt: Image alt text
-  - infopic:
-      title: Select Subject Combinations
-      subtitle: Headlines
-      id: infopic
-      description: 4 Feb
-      button: click here
-      url: https://apps.nyjc.edu.sg/admissions/select/
-      image: /images/select subjects banner.jpeg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
