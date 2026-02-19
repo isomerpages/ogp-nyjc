@@ -372,6 +372,396 @@ of the Staff Room.</p>
 <br>Email:&nbsp;<a href="mailto:harbinder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harbinder_kaur@schools.gov.sg</a>
 </p>
 <h2>Civics Tutor</h2>
+<p><strong>JC1</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CIVICS TUTOR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2601</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Tao Jiong (Joy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tao_jiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tao_jiong@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2602</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Teck Siang Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teck_siang_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_teck_siang_alvin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2603</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Meilin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_meilin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_meilin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2604</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Sok Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_sok_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_sok_ling@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2605</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Xiu Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_xiu_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_xiu_ling@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2606</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lai Yiling Elaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lai_yiling_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lai_yiling_elaine@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2607</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Jianda Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jianda_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_jianda_alvin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2608</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Toh Su Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_su_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_su_min@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2609</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Guang Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_guang_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_guang_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2610</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Chinn Yun Adele</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chinn_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chinn_yun@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2611</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Choon Hiong Jerry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_choon_hiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_choon_hiong@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2612</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Cheng Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_cheng_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_cheng_lin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2613</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Law Winnie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_winnie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2614</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seah_xin_yi@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2615</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Hui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_hui_ling@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2616</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Farhana Bte Hajiah Najimudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farhana_hajiah_najimudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farhana_hajiah_najimudin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2617</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ooi Ming Fong James</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ooi_ming_fong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ooi_ming_fong_james@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2618</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zhuo Guanjun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhuo_guanjun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhuo_guanjun@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2619</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee-Yeong Mei Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeong_mei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_mei_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2620</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seng Boon Tat Gary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seng_boon_tat_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seng_boon_tat_gary@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2621</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Daphne Lim Bao Huan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_baohuan_daphne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_baohuan_daphne@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2622</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Leng Foong Lan Andrea
+<br>Ms Cheng Mengting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leng_foong_lan_andrea@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leng_foong_lan_andrea@schools.gov.sg</u></a>
+<a href="mailto:leng_foong_lan_andrea@schools.gov.sg%20cheng_mengting_b@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
+</a><a href="mailto:cheng_mengting_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_mengting_b@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2623</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Fu Kang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_fu_kang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_fu_kang@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2624</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Wen Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_wen_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_wen_rui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2625</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Bee Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_bee_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_bee_yan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jun Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_jun_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_jun_siang@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2627</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Siew Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_siew_lian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_siew_lian_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2628</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Elizabeth Ow Sue Hsien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ow_sue_hsien_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ow_sue_hsien_elizabeth@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2629</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leong Teng Foong Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_teng_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leong_teng_foong@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wen Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wen_xuan_l@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wen_xuan_l@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>JC2</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
