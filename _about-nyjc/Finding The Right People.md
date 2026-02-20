@@ -436,10 +436,10 @@ of the Staff Room.</p>
 <p>2604</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Sok Ling</p>
+<p>Miss Chua Xiu Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_sok_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_sok_ling@schools.gov.sg</u></a>
+<p><a href="mailto:chua_xiu_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_xiu_ling@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -448,10 +448,10 @@ of the Staff Room.</p>
 <p>2605</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chua Xiu Ling</p>
+<p>Ms Koh Sok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xiu_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_xiu_ling@schools.gov.sg</u></a>
+<p><a href="mailto:koh_sok_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_sok_ling@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
