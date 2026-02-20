@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC1 Sports and Aesthetics Day
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-JC1-Sports-and-Aesthetics-Day
+      image: /images/260220_JC1_Sports_and_Aesthetics_Day_TRACY_013.jpg
+      alt: Image alt text
+      description: 20 Feb
+  - infopic:
       title: 2026 Chinese New Year Celebration
       subtitle: stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-JC1-CT-Orientation-Day-1
       image: /images/260212_JC1_CT_Orientation_Day_1_TIFFANY_092.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 CCA Bazaar
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-CCA-Bazaar
-      image: /images/260211_CCA_Bazaar_YAN_HON_058.jpg
-      alt: Image alt text
-      description: 11 Feb
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
