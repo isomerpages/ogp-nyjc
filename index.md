@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/subjectcombi/
+          url: /headlines/2022/02/16/4972/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
