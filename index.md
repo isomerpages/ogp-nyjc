@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: Release of 2025 A Level Results
+      subtitle: HEADLINES
+      id: infopic
+      description: 23 Feb
+      button: click here
+      url: /headlines/2022/02/16/4972/
+      image: /images/2025_A_level_results.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC1 Sports and Aesthetics Day
       subtitle: STORIES
       id: infopic
