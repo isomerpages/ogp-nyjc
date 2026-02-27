@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /headlines/2022/02/16/4972/
+          url: /headlines/qa-with-the-university-admission-directors/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
+  - infopic:
+      title: University & Scholarship Application Resources
+      subtitle: Headlines
+      id: infopic
+      description: 27 Feb
+      button: click here
+      url: /headlines/qa-with-the-university-admission-directors/
+      image: /images/uni.jpg
+      alt: Image alt text
   - infopic:
       title: Release of 2025 A Level Results
       subtitle: HEADLINES
