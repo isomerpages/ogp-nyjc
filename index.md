@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Release of 2025 A Level Results
+      subtitle: Stories
+      id: infopic
+      description: 27 Feb
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-2025-A-Level-Results-Release
+      image: /images/260227_2025_A_Level_Results_Release_CLOVI_011.jpg
+      alt: Image alt text
+  - infopic:
       title: University & Scholarship Application Resources
       subtitle: Headlines
       id: infopic
@@ -66,15 +75,6 @@ sections:
       button: View here
       url: https://nanyangjc.smugmug.com/2026-JC1-CT-Orientation-Day-2
       image: /images/260213_JC1_CT_Orientation_Day_2_YAN_HON_005.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 JC1 CT Orientation Day 1
-      subtitle: Stories
-      id: infopic
-      description: Feb 12
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC1-CT-Orientation-Day-1
-      image: /images/260212_JC1_CT_Orientation_Day_1_TIFFANY_092.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
