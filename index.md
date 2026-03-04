@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC1 CT Orientation Day 2
+      subtitle: headlines
+      id: infopic
+      description: 4 Mar
+      button: click here
+      url: /student-council-election-mar-5-2025/
+      image: /images/SC election banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 EDspiration
       subtitle: HEADLINES
       id: infopic
@@ -66,15 +75,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2026-CNY-Celebration
       image: /images/260216_CNY_Celebration_MR_JAMES_OOI_113.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 JC1 CT Orientation Day 2
-      subtitle: STORIES
-      id: infopic
-      description: Feb 13
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC1-CT-Orientation-Day-2
-      image: /images/260213_JC1_CT_Orientation_Day_2_YAN_HON_005.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
