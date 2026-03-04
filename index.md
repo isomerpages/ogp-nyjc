@@ -23,7 +23,7 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
-      title: 2026 JC1 CT Orientation Day 2
+      title: 2026 Student Council Election
       subtitle: headlines
       id: infopic
       description: 4 Mar
