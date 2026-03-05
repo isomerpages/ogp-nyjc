@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 SIG Bazaar and Concert
+      subtitle: stories
+      id: infopic
+      description: 4 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-SIG-Bazaar-and-Concert
+      image: /images/260304_SIG_Bazaar_and_Concert_055.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Student Council Election
       subtitle: headlines
       id: infopic
@@ -67,15 +76,6 @@ sections:
       image: /images/260220_JC1_Sports_and_Aesthetics_Day_TRACY_013.jpg
       alt: Image alt text
       description: 20 Feb
-  - infopic:
-      title: 2026 Chinese New Year Celebration
-      subtitle: stories
-      id: infopic
-      description: 16 Feb
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-CNY-Celebration
-      image: /images/260216_CNY_Celebration_MR_JAMES_OOI_113.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
