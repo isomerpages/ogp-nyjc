@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 National Project Work Festival
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-National-Project-Work-Festival
+      image: /images/L1014939.jpg
+      alt: Image alt text
+      description: 9 Mar
+  - infopic:
       title: 2026 SIG Bazaar and Concert
       subtitle: stories
       id: infopic
@@ -67,15 +76,6 @@ sections:
       url: /headlines/qa-with-the-university-admission-directors/
       image: /images/uni.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 JC1 Sports and Aesthetics Day
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-JC1-Sports-and-Aesthetics-Day
-      image: /images/260220_JC1_Sports_and_Aesthetics_Day_TRACY_013.jpg
-      alt: Image alt text
-      description: 20 Feb
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
