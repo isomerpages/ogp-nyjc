@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Exploring Mathematical Problem Solving with the GC
+      subtitle: Stories
+      id: infopic
+      description: 11 Mar
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-Exploring-Mathematical-Problem-Solving-with-the-GC
+      image: /images/260311_GC_Workshop_022.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 National Project Work Festival
       subtitle: STORIES
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: click here
       url: /headlines/edspiration/
       image: /images/EDspiration.png
-      alt: Image alt text
-  - infopic:
-      title: 2026 Release of 2025 A Level Results
-      subtitle: Stories
-      id: infopic
-      description: 27 Feb
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-2025-A-Level-Results-Release
-      image: /images/260227_2025_A_Level_Results_Release_CLOVI_011.jpg
       alt: Image alt text
   - infopic:
       title: University & Scholarship Application Resources
