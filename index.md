@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC2 IllumiNYte
+      subtitle: stories
+      id: infopic
+      description: 12 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-JC2-IllumiNYte
+      image: /images/260312_JC2_IllumiNYte_049.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Exploring Mathematical Problem Solving with the GC
       subtitle: Stories
       id: infopic
@@ -40,15 +49,6 @@ sections:
       image: /images/L1014939.jpg
       alt: Image alt text
       description: 9 Mar
-  - infopic:
-      title: 2026 SIG Bazaar and Concert
-      subtitle: stories
-      id: infopic
-      description: 4 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-SIG-Bazaar-and-Concert
-      image: /images/260304_SIG_Bazaar_and_Concert_055.jpg
-      alt: Image alt text
   - infopic:
       title: 2026 Student Council Election
       subtitle: headlines
