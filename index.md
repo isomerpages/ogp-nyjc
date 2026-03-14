@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC1 IllumiNYte
+      subtitle: Stories
+      id: infopic
+      description: 13 Mar
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-JC1-IllumiNYte
+      image: /images/260313_JC1_IllumiNYte_DAIRUS_024.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 NYJC Sports Day
       subtitle: STORIES
       id: infopic
@@ -39,15 +48,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2026-JC2-IllumiNYte
       image: /images/260312_JC2_IllumiNYte_049.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 Exploring Mathematical Problem Solving with the GC
-      subtitle: Stories
-      id: infopic
-      description: 11 Mar
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-Exploring-Mathematical-Problem-Solving-with-the-GC
-      image: /images/260311_GC_Workshop_022.jpg
       alt: Image alt text
   - infopic:
       title: 2026 Student Council Election
