@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 NYJC Sports Day
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-NYJC-Sports-Day
+      image: /images/260313_Sports_Day_SHISI_058.jpg
+      alt: Image alt text
+      description: 13 Mar
+  - infopic:
       title: 2026 JC2 IllumiNYte
       subtitle: stories
       id: infopic
@@ -40,15 +49,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Exploring-Mathematical-Problem-Solving-with-the-GC
       image: /images/260311_GC_Workshop_022.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 National Project Work Festival
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-National-Project-Work-Festival
-      image: /images/L1014939.jpg
-      alt: Image alt text
-      description: 9 Mar
   - infopic:
       title: 2026 Student Council Election
       subtitle: headlines
