@@ -53,6 +53,6 @@ borrowing.</p>
 <p><strong>Technology and Innovation Department Members</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict_dept_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_dept_mar.jpg">
 </div>
 <p></p>
