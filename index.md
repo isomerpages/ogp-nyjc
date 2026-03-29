@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 AGC Perspectives at NYJC Seminar
+      subtitle: stories
+      id: infopic
+      description: 28 Mar
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-AGC-Perspectives-at-NYJC-Seminar
+      image: /images/260328_AGC_Seminar_KAI_NI_055.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC1 IllumiNYte
       subtitle: Stories
       id: infopic
@@ -41,24 +50,6 @@ sections:
       alt: Image alt text
       description: 13 Mar
   - infopic:
-      title: 2026 JC2 IllumiNYte
-      subtitle: stories
-      id: infopic
-      description: 12 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-JC2-IllumiNYte
-      image: /images/260312_JC2_IllumiNYte_049.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 Student Council Election
-      subtitle: headlines
-      id: infopic
-      description: 4 Mar
-      button: click here
-      url: /student-council-election-mar-5-2025/
-      image: /images/SC election banner.jpg
-      alt: Image alt text
-  - infopic:
       title: 2026 EDspiration
       subtitle: HEADLINES
       id: infopic
@@ -66,15 +57,6 @@ sections:
       button: click here
       url: /headlines/edspiration/
       image: /images/EDspiration.png
-      alt: Image alt text
-  - infopic:
-      title: University & Scholarship Application Resources
-      subtitle: Headlines
-      id: infopic
-      description: 27 Feb
-      button: click here
-      url: /headlines/qa-with-the-university-admission-directors/
-      image: /images/uni.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
