@@ -23,7 +23,7 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
-      title: 2026 JC2 Principal Dialogue
+      title: 2026 JC2 Principal's Dialogue
       subtitle: STORIES
       id: infopic
       button: View Here
