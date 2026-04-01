@@ -29,7 +29,7 @@ sections:
       description: 1 Apr
       button: View here
       url: https://nanyangjc.smugmug.com/2026-JC2-EDspiration
-      image: /images/260313_JC1_IllumiNYte_DAIRUS_024.jpg
+      image: /images/260401_JC2_EDspiration_052.jpg
       alt: Image alt text
   - infopic:
       title: 2026 JC2 Principal's Dialogue Session
