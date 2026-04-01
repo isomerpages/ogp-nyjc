@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC2 EDspiration
+      subtitle: Stories
+      id: infopic
+      description: 1 Apr
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-JC2-EDspiration
+      image: /images/260313_JC1_IllumiNYte_DAIRUS_024.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC2 Principal's Dialogue Session
       subtitle: STORIES
       id: infopic
@@ -39,15 +48,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2026-AGC-Perspectives-at-NYJC-Seminar
       image: /images/260328_AGC_Seminar_KAI_NI_055.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 JC1 IllumiNYte
-      subtitle: Stories
-      id: infopic
-      description: 13 Mar
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC1-IllumiNYte
-      image: /images/260313_JC1_IllumiNYte_DAIRUS_024.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
