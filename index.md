@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Chinese Translation Competition Workshop
+      subtitle: stories
+      id: infopic
+      description: 1 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Chinese-Translation-Competition-Workshop
+      image: /images/260401_Chinese_Translation_Workshop_008.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC2 EDspiration
       subtitle: Stories
       id: infopic
@@ -40,15 +49,6 @@ sections:
       image: /images/260331_JC2_Principal_s_Dialogue_TIFFANYS_010.jpg
       alt: Image alt text
       description: 31 Mar
-  - infopic:
-      title: 2026 AGC Perspectives at NYJC Seminar
-      subtitle: stories
-      id: infopic
-      description: 28 Mar
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-AGC-Perspectives-at-NYJC-Seminar
-      image: /images/260328_AGC_Seminar_KAI_NI_055.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
