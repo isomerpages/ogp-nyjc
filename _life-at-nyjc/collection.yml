@@ -2,7 +2,6 @@ collections:
   life-at-nyjc:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Academic Programmes/.keep
       - Academic Programmes/Subjects Offered in NYJC.md
       - Academic Programmes/Art Elective Programme (AEP).md
