@@ -86,7 +86,6 @@ to pursue it even when it becomes difficult.</p>
 <br>H2 Chemistry
 <br>H2 Mathematics
 <br>H2 Economics
-<br>H3 Chemistry
 <br>H3 Physics
 <br>
 <br>CCA/SIG:
