@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 National Secondary Schools Translation Competition
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-National-Secondary-Schools-Translation-Competition
+      image: /images/260411_National_Chinese_Translation_Competition_MYRON_023.jpg
+      alt: Image alt text
+      description: 11 Apr
+  - infopic:
       title: 2026 Chinese Translation Competition Workshop
       subtitle: stories
       id: infopic
@@ -40,15 +49,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-JC2-EDspiration
       image: /images/260401_JC2_EDspiration_052.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 JC2 Principal's Dialogue Session
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-JC2-Principals-Dialogue
-      image: /images/260331_JC2_Principal_s_Dialogue_TIFFANYS_010.jpg
-      alt: Image alt text
-      description: 31 Mar
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
