@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Infernus Cup
+      subtitle: Stories
+      id: infopic
+      description: 11 Apr
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-Infernus-Cup
+      image: /images/260411_Infernus_Cup_011.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 National Secondary Schools Translation Competition
       subtitle: STORIES
       id: infopic
@@ -39,15 +48,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2026-Chinese-Translation-Competition-Workshop
       image: /images/260401_Chinese_Translation_Workshop_008.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 JC2 EDspiration
-      subtitle: Stories
-      id: infopic
-      description: 1 Apr
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC2-EDspiration
-      image: /images/260401_JC2_EDspiration_052.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
