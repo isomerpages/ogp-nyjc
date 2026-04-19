@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Nanyang Chinese Orchestra and Guzheng Concert
+      subtitle: stories
+      id: infopic
+      description: 18 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Guzheng-and-CO-Concert
+      image: /images/260418_Guzheng_and_CO_Concert_044.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Infernus Cup
       subtitle: Stories
       id: infopic
@@ -40,15 +49,6 @@ sections:
       image: /images/260411_National_Chinese_Translation_Competition_MYRON_023.jpg
       alt: Image alt text
       description: 11 Apr
-  - infopic:
-      title: 2026 Chinese Translation Competition Workshop
-      subtitle: stories
-      id: infopic
-      description: 1 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-Chinese-Translation-Competition-Workshop
-      image: /images/260401_Chinese_Translation_Workshop_008.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
