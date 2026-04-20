@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Badminton National A Div Quarter Finals
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-Badminton-National-A-Div-Quarter-Finals
+      image: /images/260420_Badminton_NSG_040.jpg
+      alt: Image alt text
+      description: 20 Apr
+  - infopic:
       title: 2026 Nanyang Chinese Orchestra and Guzheng Concert
       subtitle: stories
       id: infopic
@@ -40,15 +49,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Infernus-Cup
       image: /images/260411_Infernus_Cup_011.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 National Secondary Schools Translation Competition
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-National-Secondary-Schools-Translation-Competition
-      image: /images/260411_National_Chinese_Translation_Competition_MYRON_023.jpg
-      alt: Image alt text
-      description: 11 Apr
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
