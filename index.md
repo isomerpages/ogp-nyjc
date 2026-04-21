@@ -23,6 +23,14 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Touch Rugby Girls A Div Championship
+      subtitle: stories
+      id: infopic
+      description: 21 Apr
+      button: Button Text
+      image: /images/260421_Touch_Rugby_A_Div_YUXIN_022.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 JC2 Lifeskills and Leadership Seminar
       subtitle: Stories
       id: infopic
