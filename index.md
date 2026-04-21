@@ -23,6 +23,23 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Touch Rugby Girls A Div Championship
+      subtitle: stories
+      id: infopic
+      description: 21 Apr
+      button: Button Text
+      image: /images/260421_Touch_Rugby_A_Div_YUXIN_022.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2026 JC2 Lifeskills and Leadership Seminar
+      subtitle: Stories
+      id: infopic
+      description: 21 Apr
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-JC2-Lifeskills-and-Leadership-Seminar
+      image: /images/260421_JC2_Lifeskills_Seminar_JOIE_063.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Badminton National A Div Quarter Finals
       subtitle: STORIES
       id: infopic
@@ -39,15 +56,6 @@ sections:
       button: view here
       url: https://nanyangjc.smugmug.com/2026-Guzheng-and-CO-Concert
       image: /images/260418_Guzheng_and_CO_Concert_044.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2026 Infernus Cup
-      subtitle: Stories
-      id: infopic
-      description: 11 Apr
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-Infernus-Cup
-      image: /images/260411_Infernus_Cup_011.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
