@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 SYF CCS and English Drama Showcase
+      subtitle: stories
+      id: infopic
+      description: 22 Apr
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-SYF-CCS-and-English-Drama-Showcase
+      image: /images/260422_SYF_Showcase_ROVIL_025.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Touch Rugby Girls A Div Championship
       subtitle: stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       image: /images/260420_Badminton_NSG_040.jpg
       alt: Image alt text
       description: 20 Apr
-  - infopic:
-      title: 2026 Nanyang Chinese Orchestra and Guzheng Concert
-      subtitle: stories
-      id: infopic
-      description: 18 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-Guzheng-and-CO-Concert
-      image: /images/260418_Guzheng_and_CO_Concert_044.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
