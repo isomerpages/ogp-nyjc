@@ -27,9 +27,10 @@ sections:
       subtitle: stories
       id: infopic
       description: 21 Apr
-      button: Button Text
+      button: View Here
       image: /images/260421_Touch_Rugby_A_Div_YUXIN_022.jpg
       alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Touch-Rugby-Girls-A-Div-Championship
   - infopic:
       title: 2026 JC2 Lifeskills and Leadership Seminar
       subtitle: Stories
