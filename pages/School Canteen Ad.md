@@ -4,13 +4,16 @@ permalink: /permalink/
 description: ""
 variant: tiptap
 ---
-<p><strong>Type of Stall:</strong> Muslim Rice/Noodle
-<br><strong>Closing Date:</strong> 31 Dec 2025</p>
+<p><strong>Type of Stall:</strong> Fusion Cuisine (Rice)
+<br><strong>Closing Date:</strong> 18 May 2026
+<br><strong>Requirements: </strong>To setup and operate a stall selling Fusion
+food preferably rice (Halal or non-Halal). We are open to proposals.</p>
 <h5>Application Procedure</h5>
 <ol>
 <li>
 <p>Download and complete the application <a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-You may also request for a hardcopy from the School’s General Office.</p>
+You may also request for a hardcopy of the Application Form from the School’s
+General Office.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
@@ -51,16 +54,19 @@ email OR to the School’s General Office.</p>
 </ul>
 <h5>How to get there?</h5>
 <p>Nearest MRT: Lorong Chuan MRT (CC14 Circle Line) - 5 min walk</p>
-<p>Bus numbers: 58, 105</p>
+<p>Bus numbers: 136, 73, 24, 22, 853 (walk about 5-7 mins)</p>
 <h5>Interested applicants must meet the following criteria:</h5>
 <ul>
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
+<p>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</p>
 </li>
 <li>
-<p>Able to provide good service and quality food with prices determined in
-consultation &nbsp;with the school.</p>
+<p>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or
+LTVP-Plus holder with Letter of Consent to work.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food/drinks at reasonable prices.
+Prices will be determined in consultation with the school.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
@@ -68,24 +74,30 @@ set by the Health Promotion &nbsp;Board (HPB) under the “Healthy Meals
 in Schools Programme (HMSP)” guidelines (see &nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
-<p>Able to maintain high standard of food safety and personal hygiene.</p>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
 </li>
 <li>
 <p>Healthy and &nbsp;fit to operate the stall.</p>
 </li>
-</ul>
-<h5>Applicants should preferably fulfill the following criteria:</h5>
-<ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
+<p>Must be in personal attendance at the stall.</p>
 </li>
 <li>
-<p>Possess catering experience or experience operating in a school environment.</p>
+<p>Preferably possess catering experience or experience operating in a school
+environment.</p>
+</li>
+</ul>
+<h5>Note to successful applicants:</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) operating the stall must attend
+and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore
+approved training providers.</p>
 </li>
 <li>
 <p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+Singapore Food Agency (SFA) to operate the stall.</p>
 </li>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
