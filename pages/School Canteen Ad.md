@@ -11,9 +11,9 @@ food preferably rice (Halal or non-Halal). We are open to proposals.</p>
 <h5>Application Procedure</h5>
 <ol>
 <li>
-<p>Download and complete the application <a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-You may also request for a hardcopy of the Application Form from the School’s
-General Office.</p>
+<p>Download and complete the application <a href="/files/Application_for_Canteen_Stall_ver2023.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>. You may
+also request for a hardcopy of the Application Form from the School’s General
+Office.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
