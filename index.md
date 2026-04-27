@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Tchoukball A Div Boys and Girls
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-Tchoukball-A-Div-Boys-and-Girls
+      image: /images/260427_Tchoukball_A_Div_066.jpg
+      alt: Image alt text
+      description: 27 Apr
+  - infopic:
       title: 2026 SYF CCS and English Drama Showcase
       subtitle: stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-JC2-Lifeskills-and-Leadership-Seminar
       image: /images/260421_JC2_Lifeskills_Seminar_JOIE_063.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 Badminton National A Div Quarter Finals
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-Badminton-National-A-Div-Quarter-Finals
-      image: /images/260420_Badminton_NSG_040.jpg
-      alt: Image alt text
-      description: 20 Apr
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
