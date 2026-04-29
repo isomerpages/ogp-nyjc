@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 JC1 Lifeskills and Leadership Seminar
+      subtitle: Stories
+      id: infopic
+      description: 29 Apr
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-JC1-Lifeskills-and-Leadership-Seminar
+      image: /images/260429_JC1_Lifeskills_and_Leadership_Seminar_RUTH_025.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Tchoukball A Div Boys and Girls
       subtitle: STORIES
       id: infopic
@@ -49,15 +58,6 @@ sections:
       image: /images/260421_Touch_Rugby_A_Div_YUXIN_022.jpg
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2026-Touch-Rugby-Girls-A-Div-Championship
-  - infopic:
-      title: 2026 JC2 Lifeskills and Leadership Seminar
-      subtitle: Stories
-      id: infopic
-      description: 21 Apr
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC2-Lifeskills-and-Leadership-Seminar
-      image: /images/260421_JC2_Lifeskills_Seminar_JOIE_063.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
