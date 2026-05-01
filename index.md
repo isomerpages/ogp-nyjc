@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Badminton Boys National A Div Finals
+      subtitle: stories
+      id: infopic
+      description: 30 Apr
+      button: View Here
+      image: /images/260430_Badminton_A_Div_Boys_Finals_YOU_JAY_013.jpg
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Badminton-A-Div-Boys-Finals
+  - infopic:
       title: 2026 JC1 Lifeskills and Leadership Seminar
       subtitle: Stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-SYF-CCS-and-English-Drama-Showcase
       image: /images/260422_SYF_Showcase_ROVIL_025.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 Touch Rugby Girls A Div Championship
-      subtitle: stories
-      id: infopic
-      description: 21 Apr
-      button: View Here
-      image: /images/260421_Touch_Rugby_A_Div_YUXIN_022.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-Touch-Rugby-Girls-A-Div-Championship
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
