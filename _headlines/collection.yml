@@ -2,6 +2,7 @@ collections:
   headlines:
     output: true
     order:
+      - Direct School Admission JC Exercise 2025 (May 6, 2025).md
       - Student Council Election (Mar 4, 2026).md
       - EDspiration 2026 (Mar 3, 2026).md
       - University and Scholarship Application Resources (Feb 27, 2026).md
