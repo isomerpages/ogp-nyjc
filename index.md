@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: 6 May
       button: Click Here
-      url: http
+      url: /direct-school-admission-jc-exercise/
       image: /images/DSA_banner.png
       alt: Image alt text
   - infopic:
