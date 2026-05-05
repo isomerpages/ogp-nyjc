@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: DSA Application 2026
+      subtitle: Headlines
+      id: infopic
+      description: 6 May
+      button: Click Here
+      url: http
+      image: /images/DSA_banner.png
+      alt: Image alt text
+  - infopic:
       title: 2026 Badminton Boys National A Div Finals
       subtitle: stories
       id: infopic
