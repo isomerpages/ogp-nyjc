@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Headlines
           description: Check out our headlines
-          url: /student-council-election-mar-5-2025/
+          url: /direct-school-admission-jc-exercise/
         - title: STORIES
           description: View our stories @smugmug
           url: https://nanyangjc.smugmug.com
@@ -22,6 +22,15 @@ sections:
           description: Student & Staff
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
+  - infopic:
+      title: DSA Application 2026
+      subtitle: Headlines
+      id: infopic
+      description: 6 May
+      button: Click Here
+      url: /direct-school-admission-jc-exercise/
+      image: /images/DSA_banner.png
+      alt: Image alt text
   - infopic:
       title: 2026 Badminton Boys National A Div Finals
       subtitle: stories
