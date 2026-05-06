@@ -260,7 +260,8 @@ All applicants will receive email detailing the video submission process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Science, Technology, Engineering and Mathematics</p>
+<p><strong>Science, Technology, Engineering and Mathematics</strong>
+</p>
 </td>
 </tr>
 <tr>
