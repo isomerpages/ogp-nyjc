@@ -95,14 +95,22 @@ for the auditions/ trials/ interviews.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should fulfil the following criteria:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate talent through
-the submission of an art portfolio</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>demonstrate talent through the submission of an art portfolio</p>
+</li>
+</ul>
 <p>Suitable candidates would be shortlisted for an interview and a diagnostic
 test. The diagnostic test includes:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creative Task (30min): Respond
-to a visual stimulus and an art-related topic</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portfolio Interview (30min):
-Present the portfolio</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Creative Task (30min): Respond to a visual stimulus and an art-related
+topic</p>
+</li>
+<li>
+<p>Portfolio Interview (30min): Present the portfolio</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -120,13 +128,19 @@ Present the portfolio</p>
 <p>Applicants should preferably be official members of the English Debate
 club. Applicants who meet the following criteria may be shortlisted for
 a selection trial and interview:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Taken part in the Singapore
-Secondary Schools Debating Championships or its equivalent (an inter-school
-debating competition).&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably held a leadership
-position in the CCA.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably have had experience
-in two different speaking roles (e.g. 1st and 3rd speaker).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Taken part in the Singapore Secondary Schools Debating Championships or
+its equivalent (an inter-school debating competition).&nbsp;</p>
+</li>
+<li>
+<p>Preferably held a leadership position in the CCA.</p>
+</li>
+<li>
+<p>Preferably have had experience in two different speaking roles (e.g. 1st
+and 3rd speaker).</p>
+</li>
+</ul>
 <p>Suitable applicants will be shortlisted for a selection trial and interview.
 &nbsp;&nbsp;</p>
 </td>
@@ -139,13 +153,20 @@ in two different speaking roles (e.g. 1st and 3rd speaker).</p>
 <td rowspan="1" colspan="1">
 <p>Applicants who meet one or all the following criteria may be shortlisted
 for an interview:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated outstanding performance
-in Higher Chinese in major school examinations (e.g. top performer or ‘A’
-grade in the Secondary 3 End-of-Year Examination)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attained a good grade in Chinese
-Literature</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achieved commendable results
-in relevant national and/or international competitions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrated outstanding performance in Higher Chinese in major school
+examinations (e.g. top performer or ‘A’ grade in the Secondary 3 End-of-Year
+Examination)</p>
+</li>
+<li>
+<p>Attained a good grade in Chinese Literature</p>
+</li>
+<li>
+<p>Achieved commendable results in relevant national and/or international
+competitions</p>
+</li>
+</ul>
 <p>Applicants are required to submit the necessary documents and statements
 via the link provided in the application form. Shortlisted candidates will
 be invited to attend an interview.</p>
@@ -188,16 +209,29 @@ in Uniformed Group CCA</p>
 <td rowspan="5" colspan="1">
 <p>Applicants who meet one or more of the following criteria may be shortlisted
 for auditions and interview.</p>
-<p>§&nbsp; Preferably at least 4 years of experience in relevant groups and/or
-participated in SYF Arts Presentation</p>
-<p>§&nbsp; Achievement in SYF Arts Presentation</p>
-<p>§&nbsp; Achievement in national and/or international music/dance competitions</p>
-<p>§&nbsp; Quality grade in a music exam for a specific instrument or in
-a dance exam</p>
-<p>§&nbsp; Key performer or leader of a school team&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preferably at least 4 years of experience in relevant groups and/or participated
+in SYF Arts Presentation</p>
+</li>
+<li>
+<p>Achievement in SYF Arts Presentation</p>
+</li>
+<li>
+<p>Achievement in national and/or international music/dance competitions</p>
+</li>
+<li>
+<p>Quality grade in a music exam for a specific instrument or in a dance
+exam</p>
+</li>
+<li>
+<p>Key performer or leader of a school team&nbsp;</p>
+</li>
+</ul>
 <p>Shortlisted students for Performing Arts CCAs would need to prepare an
-item and have their instrument(s) (if relevant) ready for the audition.</p>
-<p>For DSA through Dance, applicants will be shortlisted for auditions based
+item and have their instrument(s) (if relevant) ready for the audition.
+<br>
+<br>For DSA through Dance, applicants will be shortlisted for auditions based
 on a one-minute video recording of their performance, accompanied by music.
 All applicants will receive email detailing the video submission process.</p>
 </td>
@@ -238,14 +272,19 @@ All applicants will receive email detailing the video submission process.</p>
 that demonstrate their passion, aptitude, and readiness for advanced scientific
 research.</p>
 <p>To be considered for interview, applicants should demonstrate:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substantial hands-on research
-experience in a laboratory or research setting (e.g. structured research
-programmes, attachments with universities/research institutes, or mentorship
-under a researcher), with evidence of active contribution and independent
-thinking</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in science research
-competitions at the national and/or international level, where applicants
-have developed, presented, or defended a research project</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Substantial hands-on research experience in a laboratory or research setting
+(e.g. structured research programmes, attachments with universities/research
+institutes, or mentorship under a researcher), with evidence of active
+contribution and independent thinking</p>
+</li>
+<li>
+<p>Participation in science research competitions at the national and/or
+international level, where applicants have developed, presented, or defended
+a research project</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -256,14 +295,23 @@ have developed, presented, or defended a research project</p>
 <p>Applicants should describe three most significant involvements that would
 reflect their passion and competency in Mathematics and/or Science Olympiads.
 The involvements may include one or more of the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement(s) in related
-national and/or international competitions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Activities, courses or workshops
-that the applicant has participated in that are related to the learning
-of Mathematics and/or Science beyond the school curriculum</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement(s) in Science
-and/or Mathematics Olympiads or National Olympiads of Informatics (NOI)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitive programming knowledge</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achievement(s) in related national and/or international competitions</p>
+</li>
+<li>
+<p>Activities, courses or workshops that the applicant has participated in
+that are related to the learning of Mathematics and/or Science beyond the
+school curriculum</p>
+</li>
+<li>
+<p>Achievement(s) in Science and/or Mathematics Olympiads or National Olympiads
+of Informatics (NOI)</p>
+</li>
+<li>
+<p>Competitive programming knowledge</p>
+</li>
+</ul>
 <p>Suitable candidates would be shortlisted for an interview.</p>
 </td>
 </tr>
@@ -280,14 +328,25 @@ and/or Mathematics Olympiads or National Olympiads of Informatics (NOI)</p>
 <td rowspan="10" colspan="1">
 <p>Applicants who meet one or more of the following criteria may be shortlisted
 for trials and interview.</p>
-<p>§ &nbsp;&nbsp; National Team player; National Youth/ Age-group player</p>
-<p>§&nbsp; Representative of Singapore Schools in ASEAN Schools Games and/or
-local competitions</p>
-<p>§&nbsp; Representative of a recognised Sports Club / Sports Academy</p>
-<p>§&nbsp; Player from top 4 teams at Zonal and National Level (at least
-once in last 4 years)</p>
-<p>§&nbsp; Key player of a school team (at least once in last 4 years)</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Team player; National Youth/ Age-group player</p>
+</li>
+<li>
+<p>Representative of Singapore Schools in ASEAN Schools Games and/or local
+competitions</p>
+</li>
+<li>
+<p>Representative of a recognised Sports Club / Sports Academy</p>
+</li>
+<li>
+<p>Player from top 4 teams at Zonal and National Level (at least once in
+last 4 years)</p>
+</li>
+<li>
+<p>Key player of a school team (at least once in last 4 years)</p>
+</li>
+</ul>
 <p>Shortlisted students for Sports and Games CCAs should turn up for the
 trial in sports attire with their equipment (If relevant) and be ready
 to be tested in individual skills and/or games situation.</p>
