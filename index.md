@@ -32,6 +32,15 @@ sections:
       image: /images/DSA_banner.png
       alt: Image alt text
   - infopic:
+      title: 2026 Floorball A Div Boys and Girls
+      subtitle: stories
+      id: infopic
+      description: 5 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Floorball-Boys-and-Girls-National-A-Div-
+      image: /images/260505_Floorball_A_Div_Boys_and_Girls_052.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Badminton Boys National A Div Finals
       subtitle: stories
       id: infopic
@@ -58,15 +67,6 @@ sections:
       image: /images/260427_Tchoukball_A_Div_066.jpg
       alt: Image alt text
       description: 27 Apr
-  - infopic:
-      title: 2026 SYF CCS and English Drama Showcase
-      subtitle: stories
-      id: infopic
-      description: 22 Apr
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-SYF-CCS-and-English-Drama-Showcase
-      image: /images/260422_SYF_Showcase_ROVIL_025.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
