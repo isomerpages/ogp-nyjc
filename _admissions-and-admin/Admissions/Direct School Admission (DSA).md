@@ -24,7 +24,7 @@ application <a href="https://go.gov.sg/nyjcdsa2026" rel="noopener noreferrer nof
 only online application; hard copy of the registration form is not required.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amendment to the application (if
 any) should be submitted to the college via the college email: <a href="mailto:nyjc@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nyjc@schools.gov.sg</a> with
-the subject title ‘2025 DSA Application Amendment – name, partial NRIC/FIN’.
+the subject title ‘2026 DSA Application Amendment – name, partial NRIC/FIN’.
 Partial NRIC/FIN includes the last 3 numerical digits and alphabet of your
 NRIC/FIN (e.g. '567A' from full NRIC number of 'S1234567A').</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are applying via more than
