@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Aureus Experentia XXI
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-Aureus-Experentia-XXI
+      image: /images/260508_Band_Concert_MINDY_021.jpg
+      alt: Cover photo for Band Concert
+      description: 8 May
+  - infopic:
       title: DSA Application 2026
       subtitle: Headlines
       id: infopic
@@ -58,15 +67,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-JC1-Lifeskills-and-Leadership-Seminar
       image: /images/260429_JC1_Lifeskills_and_Leadership_Seminar_RUTH_025.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 Tchoukball A Div Boys and Girls
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-Tchoukball-A-Div-Boys-and-Girls
-      image: /images/260427_Tchoukball_A_Div_066.jpg
-      alt: Image alt text
-      description: 27 Apr
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
