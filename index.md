@@ -32,6 +32,15 @@ sections:
       alt: Cover photo for Band Concert
       description: 8 May
   - infopic:
+      title: 2026 Football A Div Boys Semi-Finals
+      subtitle: Stories
+      id: infopic
+      description: 8 May
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-Football-A-Div-Boys-Semifinals
+      image: /images/260508_Football_A_Div_Semis_RUTH_016.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA Application 2026
       subtitle: Headlines
       id: infopic
@@ -58,15 +67,6 @@ sections:
       image: /images/260430_Badminton_A_Div_Boys_Finals_YOU_JAY_013.jpg
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2026-Badminton-A-Div-Boys-Finals
-  - infopic:
-      title: 2026 JC1 Lifeskills and Leadership Seminar
-      subtitle: Stories
-      id: infopic
-      description: 29 Apr
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-JC1-Lifeskills-and-Leadership-Seminar
-      image: /images/260429_JC1_Lifeskills_and_Leadership_Seminar_RUTH_025.jpg
-      alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
