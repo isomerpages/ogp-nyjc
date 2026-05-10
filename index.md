@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Community Leadership Programme Pitching Day
+      subtitle: stories
+      id: infopic
+      description: 9 May
+      button: View Here
+      image: /images/260509_CLP_Pitching_022.jpg
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Community-Leadership-Programme-Pitching-Day
+  - infopic:
       title: 2026 Aureus Experentia XXI
       subtitle: STORIES
       id: infopic
@@ -58,15 +67,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Floorball-Boys-and-Girls-National-A-Div-
       image: /images/260505_Floorball_A_Div_Boys_and_Girls_052.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 Badminton Boys National A Div Finals
-      subtitle: stories
-      id: infopic
-      description: 30 Apr
-      button: View Here
-      image: /images/260430_Badminton_A_Div_Boys_Finals_YOU_JAY_013.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-Badminton-A-Div-Boys-Finals
   - infobar:
       title: Visit Our Facebook Page!
       description: <div class="home-video"><iframe
