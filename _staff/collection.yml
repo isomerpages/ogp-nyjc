@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - School Leaders.md
       - Academic Departments/.keep
       - Academic Departments/Economics Department.md
       - Academic Departments/English Department.md
