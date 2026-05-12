@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Table Tennis A Div Boys and Girls Quarter Finals
+      subtitle: stories
+      id: infopic
+      description: 11 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Table-Tennis-A-Div-Boys-and-Girls-Quarter-Finals
+      image: /images/260511_Table_Tennis_A_Div_Quarter_Finals_MR_JAMES_OOI_077.jpg
+      alt: Table Tennis A Div photo
+  - infopic:
       title: 2026 Community Leadership Programme Pitching Day
       subtitle: stories
       id: infopic
@@ -57,15 +66,6 @@ sections:
       button: Click Here
       url: /direct-school-admission-jc-exercise/
       image: /images/DSA_banner.png
-      alt: Image alt text
-  - infopic:
-      title: 2026 Floorball A Div Boys and Girls
-      subtitle: stories
-      id: infopic
-      description: 5 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-Floorball-Boys-and-Girls-National-A-Div-
-      image: /images/260505_Floorball_A_Div_Boys_and_Girls_052.jpg
       alt: Image alt text
   - infobar:
       title: Visit Our Facebook Page!
