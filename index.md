@@ -23,6 +23,14 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Tennis A Div Boys Finals 3rd/4th Placing
+      subtitle: Stories
+      id: infopic
+      description: 13 May
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-Tennis-A-Div-Boys-Finals-3rd4th-Placing
+      image: /images/260513_Tennis_A_Div_Boys_PEIQI_042.jpg
+  - infopic:
       title: 2026 Table Tennis A Div Boys and Girls Quarter Finals
       subtitle: stories
       id: infopic
@@ -49,15 +57,6 @@ sections:
       image: /images/260508_Band_Concert_MINDY_021.jpg
       alt: Cover photo for Band Concert
       description: 8 May
-  - infopic:
-      title: 2026 Football A Div Boys Semi-Finals
-      subtitle: Stories
-      id: infopic
-      description: 8 May
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-Football-A-Div-Boys-Semifinals
-      image: /images/260508_Football_A_Div_Semis_RUTH_016.jpg
-      alt: Image alt text
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
