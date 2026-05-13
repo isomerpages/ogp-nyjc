@@ -30,6 +30,7 @@ sections:
       button: View here
       url: https://nanyangjc.smugmug.com/2026-Tennis-A-Div-Boys-Finals-3rd4th-Placing
       image: /images/260513_Tennis_A_Div_Boys_PEIQI_042.jpg
+      alt: Photo of Tennis player
   - infopic:
       title: 2026 Table Tennis A Div Boys and Girls Quarter Finals
       subtitle: stories
