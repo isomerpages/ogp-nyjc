@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Basketball A Div Girls Quarter Finals
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-Basketball-A-Div-Girls-Quarter-Finals
+      image: /images/260514_Basketball_A_Div_Girls_SHISI_079.jpg
+      alt: Cover photo for Band Concert
+      description: 14 May
+  - infopic:
       title: 2026 Tennis A Div Boys Finals 3rd/4th Placing
       subtitle: Stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       image: /images/260509_CLP_Pitching_022.jpg
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2026-Community-Leadership-Programme-Pitching-Day
-  - infopic:
-      title: 2026 Aureus Experentia XXI
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-Aureus-Experentia-XXI
-      image: /images/260508_Band_Concert_MINDY_021.jpg
-      alt: Cover photo for Band Concert
-      description: 8 May
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
