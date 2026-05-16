@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Football A Div Boys Finals 3rd/4th Placing
+      subtitle: stories
+      id: infopic
+      description: 15 May
+      button: View Here
+      image: /images/260515_Football_A_Div_Boys_Finals_056.jpg
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Footbal-A-Div-Boys-Finals-3rd4th-placing
+  - infopic:
       title: 2026 Basketball A Div Girls Quarter Finals
       subtitle: STORIES
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Table-Tennis-A-Div-Boys-and-Girls-Quarter-Finals
       image: /images/260511_Table_Tennis_A_Div_Quarter_Finals_MR_JAMES_OOI_077.jpg
       alt: Table Tennis A Div photo
-  - infopic:
-      title: 2026 Community Leadership Programme Pitching Day
-      subtitle: stories
-      id: infopic
-      description: 9 May
-      button: View Here
-      image: /images/260509_CLP_Pitching_022.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-Community-Leadership-Programme-Pitching-Day
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
