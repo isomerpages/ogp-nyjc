@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: 16 May
       button: view here
-      url: https://nanyangjc.smugmug.com/20https://nanyangjc.smugmug.com/2026-College-Day
+      url: https://nanyangjc.smugmug.com/2026-College-Day
       image: /images/260516_College_Day_MR_JAMES_OOI_058.jpg
       alt: College Day photo
   - infopic:
