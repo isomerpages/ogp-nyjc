@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 College Day
+      subtitle: stories
+      id: infopic
+      description: 16 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/20https://nanyangjc.smugmug.com/2026-College-Day
+      image: /images/260516_College_Day_MR_JAMES_OOI_058.jpg
+      alt: College Day photo
+  - infopic:
       title: 2026 Football A Div Boys Finals 3rd/4th Placing
       subtitle: stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Tennis-A-Div-Boys-Finals-3rd4th-Placing
       image: /images/260513_Tennis_A_Div_Boys_PEIQI_042.jpg
       alt: Photo of Tennis player
-  - infopic:
-      title: 2026 Table Tennis A Div Boys and Girls Quarter Finals
-      subtitle: stories
-      id: infopic
-      description: 11 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-Table-Tennis-A-Div-Boys-and-Girls-Quarter-Finals
-      image: /images/260511_Table_Tennis_A_Div_Quarter_Finals_MR_JAMES_OOI_077.jpg
-      alt: Table Tennis A Div photo
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
