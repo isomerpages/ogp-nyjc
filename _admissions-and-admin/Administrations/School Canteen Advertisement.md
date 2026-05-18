@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Administrations
 variant: tiptap
 ---
-<p><strong>Type of Stall:</strong> Fusion Cuisine (Rice)
-<br><strong>Closing Date:</strong> 18 May 2026
-<br><strong>Requirements: </strong>To setup and operate a stall selling Fusion
-food preferably rice (Halal or non-Halal). We are open to proposals.</p>
+<p><strong>Type of Stall:</strong> Muslim Rice Stall
+<br><strong>Closing Date:</strong> 5 June 2026
+<br><strong>Requirements: </strong>To setup and operate a Muslim rice stall</p>
 <h5>Application Procedure</h5>
 <ol>
 <li>
