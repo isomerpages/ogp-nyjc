@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Choir Concert - Limelight
+      subtitle: Stories
+      id: infopic
+      description: 18 May
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-Choir-Concert-Limelight
+      image: /images/260518_Choir_Concert_YI_XUAN_044.jpg
+      alt: Photo of Choir Members
+  - infopic:
       title: 2026 College Day
       subtitle: stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       image: /images/260514_Basketball_A_Div_Girls_SHISI_079.jpg
       alt: Cover photo for Band Concert
       description: 14 May
-  - infopic:
-      title: 2026 Tennis A Div Boys Finals 3rd/4th Placing
-      subtitle: Stories
-      id: infopic
-      description: 13 May
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-Tennis-A-Div-Boys-Finals-3rd4th-Placing
-      image: /images/260513_Tennis_A_Div_Boys_PEIQI_042.jpg
-      alt: Photo of Tennis player
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
