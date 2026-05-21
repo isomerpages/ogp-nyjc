@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 NY Science Research Day
+      subtitle: stories
+      id: infopic
+      description: 20 May
+      button: View Here
+      image: /images/260520_Science_Research_Day_KAYLA_002.jpg
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-NY-Science-Research-Day
+  - infopic:
       title: 2026 Table Tennis A Div Girls Finals 3rd/4th placing
       subtitle: STORIES
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-College-Day
       image: /images/260516_College_Day_MR_JAMES_OOI_058.jpg
       alt: College Day photo
-  - infopic:
-      title: 2026 Football A Div Boys Finals 3rd/4th Placing
-      subtitle: stories
-      id: infopic
-      description: 15 May
-      button: View Here
-      image: /images/260515_Football_A_Div_Boys_Finals_056.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-Footbal-A-Div-Boys-Finals-3rd4th-placing
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
