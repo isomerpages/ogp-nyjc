@@ -23,7 +23,7 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
-      title: 2026 College Day
+      title: 2026 我们的白云岗
       subtitle: stories
       id: infopic
       description: 20 May
