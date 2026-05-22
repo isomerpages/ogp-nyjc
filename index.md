@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 College Day
+      subtitle: stories
+      id: infopic
+      description: 20 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-%E6%88%91%E4%BB%AC%E7%9A%84%E7%99%BD%E4%BA%91%E5%B2%97
+      image: /images/260520_Bai_Yun_Gang_MR_JAMES_OOI_032.jpg
+      alt: Bai Yun Gang Cover Photo
+  - infopic:
       title: 2026 NY Science Research Day
       subtitle: stories
       id: infopic
@@ -49,15 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Choir-Concert-Limelight
       image: /images/260518_Choir_Concert_YI_XUAN_044.jpg
       alt: Photo of Choir Members
-  - infopic:
-      title: 2026 College Day
-      subtitle: stories
-      id: infopic
-      description: 16 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-College-Day
-      image: /images/260516_College_Day_MR_JAMES_OOI_058.jpg
-      alt: College Day photo
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
