@@ -26,7 +26,7 @@ sections:
       title: 2026 49th Student Council Investiture
       subtitle: Stories
       id: infopic
-      description: 22 May
+      description: 21 May
       button: View here
       url: https://nanyangjc.smugmug.com/2026-49th-Student-Council-Investiture
       image: /images/260521_39th_SC_Investiture_CHEN_XI_053.jpg
