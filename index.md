@@ -32,6 +32,15 @@ sections:
       image: /images/260520_Bai_Yun_Gang_MR_JAMES_OOI_032.jpg
       alt: Bai Yun Gang Cover Photo
   - infopic:
+      title: 2026 Netball A Div Girls Semifinals
+      subtitle: Stories
+      id: infopic
+      description: 21 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Netball-A-Div-Girls-Semifinals
+      image: /images/260521_Netball_A_Div_Girls_Semifinals_MR_JAMES_OOI_081.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 NY Science Research Day
       subtitle: stories
       id: infopic
