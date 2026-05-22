@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Interact Club Installation
+      subtitle: stories
+      id: infopic
+      description: 21 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Interact-Club-Installation-Ceremony
+      image: /images/260521_Interact_Club_Installation_CARA_002.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 49th Student Council Investiture
       subtitle: Stories
       id: infopic
