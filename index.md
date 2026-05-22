@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 49th Student Council Investiture
+      subtitle: Stories
+      id: infopic
+      description: 22 May
+      button: View here
+      url: https://nanyangjc.smugmug.com/2026-49th-Student-Council-Investiture
+      image: /images/260521_39th_SC_Investiture_CHEN_XI_053.jpg
+      alt: Cover photo of SC
+  - infopic:
       title: 2026 我们的白云岗
       subtitle: stories
       id: infopic
@@ -58,15 +67,6 @@ sections:
       image: /images/260519_Table_Tennis_A_Div_Girls_Finals_CEDRIC_003.jpg
       alt: Cover photo for Table Tennis
       description: 19 May
-  - infopic:
-      title: 2026 Choir Concert - Limelight
-      subtitle: Stories
-      id: infopic
-      description: 18 May
-      button: View here
-      url: https://nanyangjc.smugmug.com/2026-Choir-Concert-Limelight
-      image: /images/260518_Choir_Concert_YI_XUAN_044.jpg
-      alt: Photo of Choir Members
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
