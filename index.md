@@ -23,13 +23,6 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
-      title: 2026 Volleybal A Div Boys and Girls Finals
-      subtitle: stories
-      id: infopic
-      description: 22 May
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: 2026 Dragon Boat A Div Boys
       subtitle: Stories
       id: infopic
