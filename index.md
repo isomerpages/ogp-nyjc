@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Dragon Boat A Div Boys
+      subtitle: Stories
+      id: infopic
+      description: 22 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Dragon-Boat-A-Div-Boys
+      image: /images/260522_Dragonboat_A_Div_MR_JAMES_OOI_022.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Interact Club Installation
       subtitle: stories
       id: infopic
