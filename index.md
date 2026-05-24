@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Drama Night
+      subtitle: stories
+      id: infopic
+      description: 22 May
+      button: View Here
+      image: /images/260522_Drama_Night_YI_XUAN_056.jpg
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Drama-Night
+  - infopic:
       title: 2026 Class Leaders Camp Day 1
       subtitle: STORIES
       id: infopic
@@ -31,15 +40,6 @@ sections:
       image: /images/260522_CLC_Day_1_JAPHETH_002.jpg
       alt: class leaders camp
       description: 22 May
-  - infopic:
-      title: 2026 NY Science Research Day
-      subtitle: stories
-      id: infopic
-      description: 20 May
-      button: View Here
-      image: /images/260520_Science_Research_Day_KAYLA_002.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-NY-Science-Research-Day
   - infopic:
       title: 2026 Volleyball A Div Boys and Girls Finals
       subtitle: Stories
