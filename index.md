@@ -23,6 +23,24 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Drama Night
+      subtitle: stories
+      id: infopic
+      description: 22 May
+      button: View Here
+      image: /images/260522_Drama_Night_YI_XUAN_056.jpg
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Drama-Night
+  - infopic:
+      title: 2026 Class Leaders Camp Day 1
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-Class-Leaders-Camp-Day-1
+      image: /images/260522_CLC_Day_1_JAPHETH_002.jpg
+      alt: class leaders camp
+      description: 22 May
+  - infopic:
       title: 2026 Volleyball A Div Boys and Girls Finals
       subtitle: Stories
       id: infopic
@@ -76,24 +94,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-%E6%88%91%E4%BB%AC%E7%9A%84%E7%99%BD%E4%BA%91%E5%B2%97
       image: /images/260520_Bai_Yun_Gang_MR_JAMES_OOI_032.jpg
       alt: Bai Yun Gang Cover Photo
-  - infopic:
-      title: 2026 NY Science Research Day
-      subtitle: stories
-      id: infopic
-      description: 20 May
-      button: View Here
-      image: /images/260520_Science_Research_Day_KAYLA_002.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-NY-Science-Research-Day
-  - infopic:
-      title: 2026 Table Tennis A Div Girls Finals 3rd/4th placing
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-Table-Tennis-A-Div-Girls-Finals-3rd4th-placing
-      image: /images/260519_Table_Tennis_A_Div_Girls_Finals_CEDRIC_003.jpg
-      alt: Cover photo for Table Tennis
-      description: 19 May
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
