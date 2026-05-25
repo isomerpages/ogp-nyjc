@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Class Leaders Camp Day 2
+      subtitle: stories
+      id: infopic
+      description: 23 May
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Class-Leaders-Camp-Day-2
+      image: /images/260523_CLC_Camp_Day_2_BAO_LAM_144.jpg
+      alt: Class Leaders Camp Cover Photo
+  - infopic:
       title: 2026 Drama Night
       subtitle: stories
       id: infopic
@@ -85,15 +94,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Netball-A-Div-Girls-Semifinals
       image: /images/260521_Netball_A_Div_Girls_Semifinals_MR_JAMES_OOI_081.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 我们的白云岗
-      subtitle: stories
-      id: infopic
-      description: 20 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-%E6%88%91%E4%BB%AC%E7%9A%84%E7%99%BD%E4%BA%91%E5%B2%97
-      image: /images/260520_Bai_Yun_Gang_MR_JAMES_OOI_032.jpg
-      alt: Bai Yun Gang Cover Photo
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
