@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 The NYght
+      subtitle: STORIES
+      id: infopic
+      button: View Here
+      url: https://nanyangjc.smugmug.com/2026-The-NYght
+      image: /images/260529_The_NYght_TIFFANYS_025.jpg
+      alt: the NYght
+      description: 29 May
+  - infopic:
       title: 2026 Floorball A Div Girls Finals
       subtitle: Stories
       id: infopic
@@ -58,15 +67,6 @@ sections:
       image: /images/260522_Drama_Night_YI_XUAN_056.jpg
       alt: Image alt text
       url: https://nanyangjc.smugmug.com/2026-Drama-Night
-  - infopic:
-      title: 2026 Class Leaders Camp Day 1
-      subtitle: STORIES
-      id: infopic
-      button: View Here
-      url: https://nanyangjc.smugmug.com/2026-Class-Leaders-Camp-Day-1
-      image: /images/260522_CLC_Day_1_JAPHETH_002.jpg
-      alt: class leaders camp
-      description: 22 May
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
