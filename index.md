@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Floorball A Div Girls Finals
+      subtitle: Stories
+      id: infopic
+      description: 28 May
+      button: view here
+      alt: Image alt text
+      url: https://nanyangjc.smugmug.com/2026-Floorball-A-Div-Girls-Finals
+      image: /images/260528_Floorball_A_Div_Girls_Finals_CHEN_XI_025.jpg
+  - infopic:
       title: 2026 Floorball A Div Boys Finals
       subtitle: Stories
       id: infopic
@@ -58,15 +67,6 @@ sections:
       image: /images/260522_CLC_Day_1_JAPHETH_002.jpg
       alt: class leaders camp
       description: 22 May
-  - infopic:
-      title: 2026 Volleyball A Div Boys and Girls Finals
-      subtitle: Stories
-      id: infopic
-      description: 22 May
-      button: view here
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-Volleyball-A-Div-Boys-and-Girls-Finals
-      image: /images/260522_Volleyball_finals_YAN_HON_022.jpg
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
