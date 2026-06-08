@@ -23,6 +23,15 @@ sections:
           url: https://app.nyjc.edu.sg/timetable/
       variant: image
   - infopic:
+      title: 2026 Social Innovation and Cultural Immersion Trip, Tokyo
+      subtitle: stories
+      id: infopic
+      description: 1 - 5 Jun
+      button: view here
+      url: https://nanyangjc.smugmug.com/2026-Social-Innovation-and-Cultural-Immersion-Trip-Tokyo
+      image: /images/260601_PW_and_CCE_Japan_Trip_007.jpg
+      alt: Class Leaders Camp Cover Photo
+  - infopic:
       title: 2026 The NYght
       subtitle: STORIES
       id: infopic
@@ -49,24 +58,6 @@ sections:
       url: https://nanyangjc.smugmug.com/2026-Floorball-A-Div-Boys-Finals
       image: /images/260528_Floorball_A_Div_Boys_Finals_SHAWN_032.jpg
       alt: Image alt text
-  - infopic:
-      title: 2026 Class Leaders Camp Day 2
-      subtitle: stories
-      id: infopic
-      description: 23 May
-      button: view here
-      url: https://nanyangjc.smugmug.com/2026-Class-Leaders-Camp-Day-2
-      image: /images/260523_CLC_Camp_Day_2_BAO_LAM_144.jpg
-      alt: Class Leaders Camp Cover Photo
-  - infopic:
-      title: 2026 Drama Night
-      subtitle: stories
-      id: infopic
-      description: 22 May
-      button: View Here
-      image: /images/260522_Drama_Night_YI_XUAN_056.jpg
-      alt: Image alt text
-      url: https://nanyangjc.smugmug.com/2026-Drama-Night
   - infopic:
       title: DSA Application 2026
       subtitle: Headlines
