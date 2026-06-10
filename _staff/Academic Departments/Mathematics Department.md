@@ -39,9 +39,9 @@ H2 Mathematics.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_dept_2026_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_dept_2026_3.jpg">
 </div>
 <p></p>

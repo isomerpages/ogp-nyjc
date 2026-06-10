@@ -73,6 +73,6 @@ or</p>
 <p><strong>Mother Tongue Languages Department Members</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother_tongue_dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_dept_2026.jpg">
 </div>
 <p></p>
